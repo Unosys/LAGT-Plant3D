@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DExternalDatabaseManagerDLG_1" Tag="[DialogBox]Plant 3D - External Database Manager" ParentType="Pane" GUIType="UIA">
+
+
+	<PushButton Name="MigrateExistingMappedPropertiesPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1001|#1" />
+	<PushButton Name="DoNotMigrateExistingPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1002|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+	<TitleBar Name="Plant3DExternalCTL" Tag="[TitleBar]$TitleBar|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

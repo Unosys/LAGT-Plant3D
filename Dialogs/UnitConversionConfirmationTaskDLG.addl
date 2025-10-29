@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.UnitConversionConfirmationTaskDLG" Tag="[DialogBox]Unit conversion confirmation|#1" ParentType="AutoCADPlant3DCatalogBuildSettingsDLG" GUIType="UIA">
+  <PushButton Name="OK" Tag="[PushButton]OK|$1|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#2" />
+  <StaticText Name="DoYouReallyWantST" Tag="[StaticText]Do you really want to do unit conversion?|$65535|#1" />
+  <TitleBar Name="UnitConversionConfirmationCTL" Tag="[TitleBar]Unit conversion confirmation|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Unit conversion confirmation|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

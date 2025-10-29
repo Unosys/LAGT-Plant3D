@@ -1,0 +1,19 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardVault1DLG" Tag="[Pane]$CreateProjectWizard" ParentType="Plant3D">
+<PushButton Name="M_btnProjDir" Tag="[PushButton]$m_btnProjDir" />
+<PushButton Name="M_btnTemplate" Tag="[PushButton]$m_btnTemplate" />
+<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonNext" Tag="[PushButton]$m_buttonNext" />
+<CheckBox Name="M_checkBoxCopySettings" Tag="[CheckBox]$m_checkBoxCopySettings" />
+<CheckBox Name="M_checkBoxVaultPrj" Tag="[CheckBox]$m_checkBoxVaultPrj" />
+<TextField Name="M_editDesc" Tag="[TextField]$m_editDesc" />
+<TextField Name="M_editName" Tag="[TextField]$m_editName" />
+<TextField Name="M_editProjDir" Tag="[TextField]$m_editProjDir" />
+<TextField Name="M_editTemplateFile" Tag="[TextField]$m_editTemplateFile" />
+<StaticText Name="M_projDescLbl" Tag="[StaticText]$m_projDescLbl" />
+<StaticText Name="M_projDirLbl" Tag="[StaticText]$m_projDirLbl" />
+<StaticText Name="M_ProjectXMLLbl" Tag="[StaticText]$m_ProjectXMLLbl" />
+<StaticText Name="M_ProjNameLbl" Tag="[StaticText]$m_ProjNameLbl" />
+ <!--//<CustomWin Name ="M_wizardSetup" Tag="$m_wizardSetup" />-->
+<GroupBox Name="PageWelcome" Tag="[GroupBox]$pageWelcome" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

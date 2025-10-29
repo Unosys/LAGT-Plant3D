@@ -1,0 +1,7 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingRecoveryDLG" Tag="[DialogBox]Drawing Recovery|#1" ParentType="Plant3D">
+	<PushButton Name="ShowDetailsPB" Tag="[Pane]Drawing Recovery|$Window|#1/[PushButton]Show details|$ExpandoButton|#1" />
+	<CheckBox Name="DoNotShowMeCK" Tag="[Pane]$Window|#1/[CheckBox]$VerificationCheckBox|#1" />
+	<PushButton Name="ClosePB" Tag="[Pane]$Window|#1/[PushButton]$CommandButton_8|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

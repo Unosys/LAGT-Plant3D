@@ -1,0 +1,24 @@
+﻿<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateCatalogTemplate2DLG" Tag="[Window]Create Catalog Template|$Window_1|#1" ParentType="AutoCADPlant3DCatalogBuilderApplicationDLG" GUIType="UIA">
+  <TitleBar Name="CreateCatalogTemplateCTL" Tag="[TitleBar]Create Catalog Template|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Catalog Template|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Catalog Template|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Catalog Template|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <StaticText Name="SpecifyTheCatalogTemplate1ST" Tag="[StaticText]Specify the Catalog Template file name:|$Label_26|#1" />
+  <StaticText Name="SpecifyTheCatalogTemplate2ST" Tag="[StaticText]Specify the Catalog Template file name:|$Label_26|#1/[StaticText]Specify the Catalog Template file name:|#1" />
+  <TextField Name="SpecifyTheCatalogTemplateTF" Tag="[TextField]Specify the Catalog Template file name:|$FileNameTB|#1" />
+  <Pane Name="PanePANE" Tag="[TextField]Specify the Catalog Template file name:|$FileNameTB|#1/[Pane]$PART_ContentHost|#1" />
+  <PushButton Name="PushButtonPB" Tag="[PushButton]**|$SelectFilePathBtn|#1" />
+  <StaticText Name="StaticTextST" Tag="[PushButton]**|$SelectFilePathBtn|#1/[StaticText]**|#1" />
+  <StaticText Name="CProgramDataAutodeskAutodeskAutoCADPlant3D1ST" Tag="[StaticText]C:*|$FilePathDirLabel|#2" />
+  <StaticText Name="CProgramDataAutodeskAutodeskAutoCADPlant3D2ST" Tag="[StaticText]C:*|$FilePathDirLabel|#2/[StaticText]C:*|#1" />
+  <StaticText Name="CatalogTemplateUnitType1ST" Tag="[StaticText]Catalog Template unit type:|$Label_27|#3" />
+  <StaticText Name="CatalogTemplateUnitType2ST" Tag="[StaticText]Catalog Template unit type:|$Label_27|#3/[StaticText]Catalog Template unit type:|#1" />
+  <RadioButton Name="CatalogTemplateUnitType1RB" Tag="[RadioButton]Catalog Template unit type:[1]|$ImperialRadio|#1" />
+  <RadioButton Name="CatalogTemplateUnitType2RB" Tag="[RadioButton]Catalog Template unit type:[2]|$MetricRadio|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$OkBtn|#2" />
+  <StaticText Name="OKST" Tag="[PushButton]OK|$OkBtn|#2/[StaticText]OK|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#3" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelBtn|#3/[StaticText]Cancel|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$HelpBtn|#4" />
+  <StaticText Name="HelpST" Tag="[PushButton]Help|$HelpBtn|#4/[StaticText]Help|#1" />
+</Window>

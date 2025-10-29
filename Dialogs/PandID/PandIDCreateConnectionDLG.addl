@@ -1,0 +1,45 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDCreateConnectionDLG" Tag="[Pane]$CreateConnectionDlg" ParentType="MainWin" GUIType="UIA">
+
+  <!--<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOk" Tag="[PushButton]$btnOk" />
+<GroupBox Name="GroupBoxPreview" Tag="[Group]$groupBoxPreview" />
+<StaticText Name="M_OPCPreviewLabel" Tag="[StaticText]$m_OPCPreviewLabel" />
+<Table Name="OPCDataGridView" Tag="[Table]$OPCDataGridView" />
+<GroupBox Name="OPCListPanel" Tag="[Group]$OPCListPanel" />
+<GroupBox Name="PreviewPanel" Tag="[Group]$previewPanel" />-->
+  <GroupBox Name="PreviewGB" Tag="[GroupBox]$groupBoxPreview|#2" />
+  <Pane Name="DrawingPreview1PANE" Tag="[GroupBox]$groupBoxPreview|#2/[Pane]$OPCListPanel|#2" />
+  <StaticText Name="TheSelectedDrawingDoesST" Tag="[GroupBox]$groupBoxPreview|#2/[Pane]$OPCListPanel|#2/[StaticText]$dwgPreviewLabel|#1" />
+  <StaticText Name="SelectOffpageConnectorToST" Tag="[GroupBox]$groupBoxPreview|#2/[StaticText]$label2|#1" />
+  <Pane Name="SelectOffpageConnectorTo1PANE" Tag="[GroupBox]$groupBoxPreview|#2/[Pane]$previewPanel|#1" />
+  <Pane Name="DrawingPreview2PANE" Tag="[GroupBox]$groupBoxPreview|#2/[Pane]$previewPanel|#1/[Pane]$4195652|#1" />
+  <Table Name="DataGridViewTBL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1" />
+  <Pane Name="HorizontalScrollBarPANE" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[Pane]$6882028|#1" />
+  <CustomWin Name="TopRowWIN" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1" />
+  <Header Name="DWGNameCTL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1/[Header]#1" />
+  <Header Name="TagCTL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1/[Header]#2" />
+  <Header Name="SizeCTL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1/[Header]#3" />
+  <Header Name="SpecCTL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1/[Header]#4" />
+  <Header Name="ConnectorNumberCTL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1/[Header]#5" />
+  <Header Name="OriginOrDestinationCTL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1/[Header]#6" />
+  <Header Name="InsulationTypeCTL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1/[Header]#7" />
+  <Header Name="InsulationThicknessCTL" Tag="[GroupBox]$groupBoxPreview|#2/[Table]$OPCDataGridView|#1/[CustomWin]#1/[Header]#8" />
+  <GroupBox Name="ProjectDrawingsGB" Tag="[GroupBox]$groupBox1|#1" />
+  <CheckBox Name="ShowAllDrawingsCK" Tag="[GroupBox]$groupBox1|#1/[CheckBox]$cbShowAllDrawings|#1" />
+  <TreeView Name="SelectDrawingToConnectTV" Tag="[GroupBox]$groupBox1|#1/[TreeView]$treePrjDwg|#1" />
+  <TreeViewItem Name="Project6TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$treePrjDwg|#1/[TreeViewItem]#1" />
+  <StaticText Name="SelectDrawingToConnectST" Tag="[GroupBox]$groupBox1|#1/[StaticText]$label1|#1" />
+  <Pane Name="SelectOffpageConnectorTo2PANE" Tag="[Pane]$splitHoriz|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]$splitHoriz|#1/[Pane]$5243650|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$splitHoriz|#1/[Pane]$5243650|#1/[Pane]$splitVert|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$splitHoriz|#1/[Pane]$5243650|#1/[Pane]$splitVert|#1/[Pane]$5572540|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$splitHoriz|#1/[Pane]$5243650|#1/[Pane]$splitVert|#1/[Pane]$4261602|#2" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$splitHoriz|#1/[Pane]$4325578|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]$splitHoriz|#1/[Pane]$4325578|#2/[PushButton]$btnOk|#1" />
+  <PushButton Name="HelpPB" Tag="[Pane]$splitHoriz|#1/[Pane]$4325578|#2/[PushButton]$btnHelp|#3" />
+  <PushButton Name="CancelPB" Tag="[Pane]$splitHoriz|#1/[Pane]$4325578|#2/[PushButton]$btnCancel|#2" />
+  <TitleBar Name="CreateConnectionCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

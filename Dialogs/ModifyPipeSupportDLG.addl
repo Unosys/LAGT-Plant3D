@@ -1,0 +1,24 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ModifyPipeSupportDLG" Tag="[DialogBox]$ModifyPipeSupportDlg" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]OK|$m_BtnOK" />
+<CustomWin Name="M_MainTableLayout" Tag="[System.Windows.Forms.TableLayoutPanel]$m_MainTableLayout" />
+<CustomWin Name="M_WorkPanel" Tag="[System.Windows.Forms.Panel]$m_WorkPanel" />
+<CustomWin Name="Preview1" Tag="[CustomWin][System.Windows.Forms.TableLayoutPanel]Preview|[System.Windows.Forms.TableLayoutPanel]$m_PropsTableLayout" />
+<CustomWin Name="Panel1" Tag="[System.Windows.Forms.Panel]$panel1" />
+<Table Name="DimensionalProperties" Tag="[Table]Dimensional Properties|$m_SupportParameters" />
+<StaticText Name="DimensionalPropertiesText" Tag="[StaticText]Dimensional Properties|$label1" />
+<CustomWin Name="Panel9" Tag="[System.Windows.Forms.Panel]$panel9" />
+<Table Name="M_PipeProperties" Tag="$m_PipeProperties" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]Vertical Scroll Bar|$VerticalScrollBar" />
+<CustomWin Name="Panel2" Tag="[System.Windows.Forms.Panel]$panel2" />
+<PushButton Name="M_BtnSelectPipe" Tag="$m_BtnSelectPipe" />
+<StaticText Name="PipePropertiesText" Tag="[StaticText]Pipe Properties|$label6" />
+<CustomWin Name="Panel8" Tag="[System.Windows.Forms.Panel]$panel8" />
+<Table Name="SupportProperties" Tag="[Table]Support Properties|$m_SupportProperties" />
+<ScrollBar Name="VerticalScrollBar1" Tag="[ScrollBar]Vertical Scroll Bar|$VerticalScrollBar" />
+<StaticText Name="SupportPropertiesText" Tag="[StaticText]Support Properties|$label7" />
+<PushButton Name="SimplePipeSupport" Tag="[PushButton]Simple Pipe Support|$m_Type" />
+<StaticText Name="PreviewText" Tag="[StaticText]Preview|$m_PreviewLabel" />
+<CustomWin Name="Preview2" Tag="[CustomWin][System.Windows.Forms.PictureBox]Preview|[System.Windows.Forms.PictureBox]$m_Preview" />
+<PushButton Name="Help" Tag="[PushButton]Help|$m_BtnHelp" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|$m_BtnCancel" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

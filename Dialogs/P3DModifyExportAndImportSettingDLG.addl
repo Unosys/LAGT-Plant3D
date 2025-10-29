@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DModifyExportAndImportSettingDLG" Tag="[Pane]$PnPNewExportImportSettingDlg" >
+
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOK" Tag="[PushButton]$m_btnOK" />
+<Table Name="M_dataGridView" Tag="[Table]$m_dataGridView" />
+<TextField Name="M_tbDesc" Tag="[TextField]$m_tbDesc" />
+<TextField Name="M_tbExternalObjName" Tag="[TextField]$m_tbExternalObjName" />
+<TextField Name="M_tbName" Tag="[TextField]$m_tbName" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+
+</Pane>

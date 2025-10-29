@@ -1,0 +1,10 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupWizardPageMSG" Tag="[DialogBox]Project Setup Wizard (Page 5 of 6)|#1" ParentType="Pane" GUIType="UIA">
+
+    <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+    <PushButton Name="NoPB" Tag="[PushButton]No|$7|#2" />
+    <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+    <StaticText Name="AreYouSureYouST" Tag="[StaticText]Are you sure you want to exit the Setup Wizard?|$65535|#1" />
+    <TitleBar Name="ProjectSetupWizardPageCTL" Tag="[TitleBar]Project Setup Wizard (Page 5 of 6)|$TitleBar|#1" />
+    <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 5 of 6)|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

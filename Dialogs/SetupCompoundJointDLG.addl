@@ -1,0 +1,4 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SetupCompoundJointDLG" Tag="[Pane]$SetupCompoundJointDLG">
+	<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+
+</Pane>

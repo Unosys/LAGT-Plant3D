@@ -1,0 +1,28 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityOpenCatDLG" Tag="[DialogBox]Open" ParentType="SpecEditorDLG">
+  <ToolBar Name="AddressSTestFilesPlant3DHadrian_Catalogs" Tag="[ToolBar]$" />
+  <PushButton Name="Cancel" Tag="[PushButton]$2" />
+  <CustomWin Name="Computer" Tag="[CustomWin]$" />
+  <CustomWin Name="Desktop" Tag="[CustomWin]$" />
+  <StaticText Name="FileName" Tag="[StaticText]$" />
+  <ComboBox Name="FileNameComboBox" Tag="[ComboBox]$" />
+  <ComboBox Name="FileNameCB" Tag="[ComboBox]File name:|$1148|#1" />
+  <TextField Name="FileNameTextField" Tag="[TextField]$" />
+  <StaticText Name="FilesOfTypeLabel" Tag="[StaticText]$" />
+  <PushButton Name="Hadrian_Catalogs" Tag="[PushButton]$" />
+  <ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$" />
+  <ScrollBar Name="HorizontalScrollBar2" Tag="[ScrollBar]$" />
+  <CustomWin Name="LocalDiskS" Tag="[CustomWin]$" />
+  <PushButton Name="Open" Tag="[PushButton]$1" />
+  <CustomWin Name="Plant3D" Tag="[CustomWin]$" />
+  <CustomWin Name="CustomWin" Tag="[CustomWin]$" />
+  <PushButton Name="PushToolItem" Tag="[PushButton]$" />
+  <PushButton Name="PushToolItem2" Tag="[PushButton]$" />
+  <PushButton Name="PushToolItem3" Tag="[PushButton]$" />
+  <PushButton Name="PushToolItem5" Tag="[PushButton]$" />
+  <PushButton Name="PushToolItem6" Tag="[PushButton]$" />
+  <CustomWin Name="TestFiles" Tag="[CustomWin]$" />
+  <ToolBar Name="ToolBar" Tag="[ToolBar]$" />
+  <ToolBar Name="ToolBar3" Tag="[ToolBar]$" />
+  <TreeView Name="Tree" Tag="[TreeView]$" />
+  <ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

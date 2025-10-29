@@ -1,0 +1,70 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddPropertyChangeAnnotationDLG" Tag="[Window]Add Property Change Annotation|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Add Property Change Annotation|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Add Property Change Annotation|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Add Property Change Annotation|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Add Property Change Annotation|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<CustomWin Name="CustomWinWIN" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1" />
+	<StaticText Name="SpecifyThePropertyChangeST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[StaticText]Specify the property change to annotate:|$TextBlock_6|#1" />
+	<StaticText Name="ClassST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[StaticText]Class:|$TextBlock_1|#3" />
+	<TreeView Name="TreeViewTV" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1" />
+	<TreeViewItem Name="PipingAndEquipmentTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1" />
+	<PushButton Name="PushButton1PB" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[PushButton]$Expander|#1" />
+	<StaticText Name="PipingAndEquipmentST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[StaticText]Piping and Equipment|#1" />
+	<TreeViewItem Name="EquipmentTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1" />
+	<PushButton Name="PushButton2PB" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[PushButton]$Expander|#1" />
+	<StaticText Name="EquipmentST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[StaticText]Equipment|#1" />
+	<TreeViewItem Name="BlowerTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Blower|#1" />
+	<StaticText Name="BlowerST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Blower|#1/[StaticText]Blower|#1" />
+	<TreeViewItem Name="CentrifugeTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Centrifuge|#2" />
+	<StaticText Name="CentrifugeST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Centrifuge|#2/[StaticText]Centrifuge|#1" />
+	<TreeViewItem Name="ColumnsTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Columns|#3" />
+	<StaticText Name="ColumnsST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Columns|#3/[StaticText]Columns|#1" />
+	<TreeViewItem Name="CompressorTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Compressor|#4" />
+	<StaticText Name="CompressorST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Compressor|#4/[StaticText]Compressor|#1" />
+	<TreeViewItem Name="ConveyorsTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Conveyors|#5" />
+	<StaticText Name="ConveyorsST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Conveyors|#5/[StaticText]Conveyors|#1" />
+	<TreeViewItem Name="CycloneTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Cyclone|#6" />
+	<StaticText Name="CycloneST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Cyclone|#6/[StaticText]Cyclone|#1" />
+	<TreeViewItem Name="DryerTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Dryer|#7" />
+	<StaticText Name="DryerST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Dryer|#7/[StaticText]Dryer|#1" />
+	<TreeViewItem Name="FilterTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Filter|#8" />
+	<StaticText Name="FilterST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Filter|#8/[StaticText]Filter|#1" />
+	<TreeViewItem Name="FurnaceTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Furnace|#9" />
+	<StaticText Name="FurnaceST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Furnace|#9/[StaticText]Furnace|#1" />
+	<TreeViewItem Name="GlobalEquipmentTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Global Equipment|#10" />
+	<StaticText Name="GlobalEquipmentST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Global Equipment|#10/[StaticText]Global Equipment|#1" />
+	<TreeViewItem Name="HeaterTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Heater|#11" />
+	<StaticText Name="HeaterST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Heater|#11/[StaticText]Heater|#1" />
+	<TreeViewItem Name="HeatExchangerTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Heat Exchanger|#12" />
+	<StaticText Name="HeatExchangerST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Heat Exchanger|#12/[StaticText]Heat Exchanger|#1" />
+	<TreeViewItem Name="MechanicalDriversTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Mechanical Drivers|#13" />
+	<StaticText Name="MechanicalDriversST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Mechanical Drivers|#13/[StaticText]Mechanical Drivers|#1" />
+	<TreeViewItem Name="MixingEquipmentTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Mixing Equipment|#14" />
+	<StaticText Name="MixingEquipmentST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Mixing Equipment|#14/[StaticText]Mixing Equipment|#1" />
+	<TreeViewItem Name="MotorTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Motor|#15" />
+	<StaticText Name="MotorST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Motor|#15/[StaticText]Motor|#1" />
+	<TreeViewItem Name="PumpTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Pump|#16" />
+	<StaticText Name="PumpST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Pump|#16/[StaticText]Pump|#1" />
+	<TreeViewItem Name="ScrubberTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Scrubber|#17" />
+	<StaticText Name="ScrubberST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Scrubber|#17/[StaticText]Scrubber|#1" />
+	<TreeViewItem Name="StrainerEquipmentTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Strainer Equipment|#18" />
+	<StaticText Name="StrainerEquipmentST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Strainer Equipment|#18/[StaticText]Strainer Equipment|#1" />
+	<TreeViewItem Name="TankTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Tank|#19" />
+	<StaticText Name="TankST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Tank|#19/[StaticText]Tank|#1" />
+	<TreeViewItem Name="VesselTVI" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Vessel|#20" />
+	<StaticText Name="VesselST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Equipment|#1/[TreeViewItem]Vessel|#20/[StaticText]Vessel|#1" />
+	<StaticText Name="AnnotationNameST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[StaticText]Annotation Name:|$TextBlock_7|#2" />
+	<TextField Name="AnnotationNameTF" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TextField]Annotation Name:|$PlantPropertyNameTextBox|#1" />
+	<Pane Name="PanePANE" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[TextField]Annotation Name:|$PlantPropertyNameTextBox|#1/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="PropertyST" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[StaticText]Property:|$TextBlock_2|#4" />
+	<ListBox Name="PropertyLB" Tag="[CustomWin]$local:IsometricPlantClassPropUserControl_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1" />
+	<PushButton Name="AddAnnotationPB" Tag="[PushButton]Add Annotation|$AddAnnotation|#1" />
+	<StaticText Name="AddAnnotationST" Tag="[PushButton]Add Annotation|$AddAnnotation|#1/[StaticText]Add Annotation|$strContent|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#2" />
+	<StaticText Name="CancelST" Tag="[PushButton]Cancel|$Cancel|#2/[StaticText]Cancel|$strContent|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

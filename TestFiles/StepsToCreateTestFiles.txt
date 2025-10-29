@@ -1,0 +1,25 @@
+To Create - CS150Flanged-<Lang>.xlss
+
+
+0. MS Excel have to be installed.
+1. Launch AutoCAD Plant 3D Spec Editor 2013 (e.g. from the desktop icon).
+2. Close the Welcome screen if it appears.
+3. Select 'File/open Spec...' from the main menu.
+4. Select 'c:\AutoCAD Plant 3D 2013 Content\CPak AME\CS150 Flanged.pspx' and click 'Open' button.
+5. Select 'File\Export to catalog Builder...' from the main menu.
+6. Select a location, give a name and click 'Save' button.
+7. Open the generated XLS/XLSX file in MS Excel and delete all TABs except the last tab named 'BLINDFLANGE'.
+8. Save and close the XLS/XLSX file and use it as sample file for next tests
+
+
+
+To create - PLANTEDITAUTODESKCONNECTIONPOINT.dwg
+
+1.SendCmd ("_PLANTPIPEADD")
+2.EnterPoint (50,50,100)
+3.EnterPoint (140,50,100)
+4.EnterCR()
+5.SendCmd ("_PLANTINSERTAUTODESKCONNECTIONPOINT")  
+6.EnterText ("_Last")
+7.EnterText ("50.0000,50.3750,110.3750")
+8.SendCmd ("_Zoom")

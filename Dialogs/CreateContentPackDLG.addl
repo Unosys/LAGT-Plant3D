@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateContentPackDLG" Tag="[DialogBox]Create Content Pack|#1" ParentType="BuildCatalogSingleDLG" GUIType="UIA">
+  <StaticText Name="FileNameST" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[StaticText]File name:|$SaveDialogLabel|#1" />
+  <ComboBox Name="FileNameCB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[ComboBox]File name:|$FileNameControlHost|#1" />
+  <StaticText Name="SaveAsTypeST" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[StaticText]Save as type:|$SaveDialogLabel|#2" />
+  <PopupList Name="SaveAsTypePL" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[PopupList]Save as type:|$FileTypeControlHost|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[PopupList]Save as type:|$FileTypeControlHost|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <ToolBar Name="ToolBar1TB" Tag="[ToolBar]#1" />
+  <PushButton Name="HideFoldersPB" Tag="[ToolBar]#1/[PushButton]Hide Folders|$Item 103|#1" />
+  <PushButton Name="Save" Tag="[PushButton]Save|$1|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#2" /> 
+  <PushButton Name="Close" Tag="[TitleBar]Create Content Pack|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

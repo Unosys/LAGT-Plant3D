@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.UserConflictDLG" Tag="[DialogBox]User Conflict" ParentType="Plant3D">
+  <Pane Name="UserConflictPANE" GUIType="UIA" Tag="[Pane]User Conflict|$Window|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]User Conflict|$Window|#1/[Pane]#1" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]User Conflict|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="CannotOpenThisVaultST" Tag="[Pane]User Conflict|$Window|#1/[StaticText]Cannot open this Vault project|$MainInstruction|#1" />
+  <StaticText Name="YouCannotOpenAST" Tag="[Pane]User Conflict|$Window|#1/[StaticText]You cannot open a project from Administrator's workspace*|$ContentText|#2" />
+  <PushButton Name="ClosePB" Tag="[Pane]User Conflict|$Window|#1/[PushButton]Close|$CommandButton_8|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

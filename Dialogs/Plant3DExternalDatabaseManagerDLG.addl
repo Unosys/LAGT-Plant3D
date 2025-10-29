@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DExternalDatabaseManagerDLG" Tag="[DialogBox]Plant 3D - External Database Manager|#1" ParentType="MainWin" GUIType="WIN32">
+	<PushButton Name="OpenProjectSetuprecommendedPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1001|#1" />
+	<PushButton Name="UseTheOldPLANTXDBMANAGERPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1002|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]$Window|#1/[PushButton]$CommandButton_2|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

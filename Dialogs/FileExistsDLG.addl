@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.FileExistsDLG" Tag="[DialogBox]File Exists" ParentType="NewDWGDLG" GUIType="UIA">
+  <PushButton Name="OverwritePB" Tag="[Pane]File Exists|$Window/[PushButton]Overwrite the existing drawing with this one|$CommandLink_1001" />
+  <PushButton Name="RenamePB" Tag="[Pane]File Exists|$Window/[PushButton]Change the name of this drawing|$CommandLink_1002" />
+  <PushButton Name="CancelPB" Tag="[Pane]File Exists|$Window/[PushButton]Cancel|$CommandButton_2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]File Exists|$TitleBar/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

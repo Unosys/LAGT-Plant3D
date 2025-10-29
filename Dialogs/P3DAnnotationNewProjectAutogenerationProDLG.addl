@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DAnnotationNewProjectAutogenerationProDLG" Tag="[Pane]$NewAutoGenDlg" >
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<StaticText Name="M_labelDesc" Tag="[StaticText]$m_labelDesc" />
+<StaticText Name="M_labelInc" Tag="[StaticText]$m_labelInc" />
+<StaticText Name="M_labelKey" Tag="[StaticText]$m_labelKey" />
+<StaticText Name="M_labelLast" Tag="[StaticText]$m_labelLast" />
+<TextField Name="M_textBoxDesc" Tag="[TextField]$m_textBoxDesc" />
+<TextField Name="M_textBoxInc" Tag="[TextField]$m_textBoxInc" />
+<TextField Name="M_textBoxKey" Tag="[TextField]$m_textBoxKey" />
+<TextField Name="M_textBoxLast" Tag="[TextField]$m_textBoxLast" />
+</Pane>

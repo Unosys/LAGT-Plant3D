@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDProjectFilesCouldnotAddDLG" Tag="[DialogBox]$frmMultilineMsgBox" ParentType="Plant3D">
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<StaticText Name="M_lbl" Tag="[StaticText]$m_lbl" />
+<TextField Name="M_txtBox" Tag="[TextField]$m_txtBox" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

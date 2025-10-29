@@ -1,0 +1,187 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupPalnt3DAnnotationDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+<!--<PushButton Name="Button_NewIsoStyle" Tag="[PushButton]$button_NewIsoStyle" />
+<CheckBox Name="CheckBox_AppendCoordinates" Tag="[CheckBox]$checkBox_AppendCoordinates" />
+<CheckBox Name="CheckBox_BOM" Tag="[CheckBox]$checkBox_BOM" />
+<CheckBox Name="CheckBox_BOM_ShowInIsoPlane" Tag="[CheckBox]$checkBox_BOM_ShowInIsoPlane" />
+<CheckBox Name="CheckBox_Cut_ShowInIsoPlane" Tag="[CheckBox]$checkBox_Cut_ShowInIsoPlane" />
+<CheckBox Name="CheckBox_CutPiece" Tag="[CheckBox]$checkBox_CutPiece" />
+<CheckBox Name="CheckBox_ShowEndConnection" Tag="[CheckBox]$checkBox_ShowEndConnection" />
+<CheckBox Name="CheckBox_Spool_ShowInIsoPlane" Tag="[CheckBox]$checkBox_Spool_ShowInIsoPlane" />
+<CheckBox Name="CheckBox_Spools" Tag="[CheckBox]$checkBox_Spools" />
+<CheckBox Name="CheckBox_Use4DigitFormat" Tag="[CheckBox]$checkBox_Use4DigitFormat" />
+<CheckBox Name="CheckBox_Valve_CV_ShowIsIsoPlane" Tag="[CheckBox]$checkBox_Valve_CV_ShowIsIsoPlane" />
+<CheckBox Name="CheckBox_Valve_NCV_ShowIsIsoPlane" Tag="[CheckBox]$checkBox_Valve_NCV_ShowIsIsoPlane" />
+<CheckBox Name="CheckBox_Weld_Field" Tag="[CheckBox]$checkBox_Weld_Field" />
+<CheckBox Name="CheckBox_Weld_Shop" Tag="[CheckBox]$checkBox_Weld_Shop" />
+<CheckBox Name="CheckBox_Weld_ShowInIsoPlane" Tag="[CheckBox]$checkBox_Weld_ShowInIsoPlane" />
+<CheckBox Name="CheckBox_Welds" Tag="[CheckBox]$checkBox_Welds" />
+<ComboBox Name="ComboBox_BOM_EnclosureType" Tag="[ComboBox]$comboBox_BOM_EnclosureType" />
+<ComboBox Name="ComboBox_BOM_LeaderLineStyles" Tag="[ComboBox]$comboBox_BOM_LeaderLineStyles" />
+<ComboBox Name="ComboBox_BOM_Numbering" Tag="[ComboBox]$comboBox_BOM_Numbering" />
+<ComboBox Name="ComboBox_ControlValvesStyle" Tag="[ComboBox]$comboBox_ControlValvesStyle" />
+<ComboBox Name="ComboBox_Cut_EnclosureType" Tag="[ComboBox]$comboBox_Cut_EnclosureType" />
+<ComboBox Name="ComboBox_Cut_LeaderLineStyles" Tag="[ComboBox]$comboBox_Cut_LeaderLineStyles" />
+<ComboBox Name="ComboBox_Cut_Numbering" Tag="[ComboBox]$comboBox_Cut_Numbering" />
+<ComboBox Name="ComboBox_Date" Tag="[ComboBox]$comboBox_Date" />
+<ComboBox Name="ComboBox_IsoStyle" Tag="[ComboBox]$comboBox_IsoStyle" />
+<ComboBox Name="ComboBox_NonControlValvesStyle" Tag="[ComboBox]$comboBox_NonControlValvesStyle" />
+<ComboBox Name="ComboBox_Spool_EnclosureType" Tag="[ComboBox]$comboBox_Spool_EnclosureType" />
+<ComboBox Name="ComboBox_Spool_LeaderLineStyles" Tag="[ComboBox]$comboBox_Spool_LeaderLineStyles" />
+<ComboBox Name="ComboBox_Spool_Numbering" Tag="[ComboBox]$comboBox_Spool_Numbering" />
+<ComboBox Name="ComboBox_Weld_EnclosureTypeField" Tag="[ComboBox]$comboBox_Weld_EnclosureTypeField" />
+<ComboBox Name="ComboBox_Weld_EnclosureTypeShop" Tag="[ComboBox]$comboBox_Weld_EnclosureTypeShop" />
+<ComboBox Name="ComboBox_Weld_LeaderLineStyle" Tag="[ComboBox]$comboBox_Weld_LeaderLineStyle" />
+<ComboBox Name="ComboBox_Weld_Numbering" Tag="[ComboBox]$comboBox_Weld_Numbering" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<GroupBox Name="GroupBox_Annotations" Tag="[GroupBox]$groupBox_Annotations" />
+<GroupBox Name="GroupBox_BOMAnnotations" Tag="[GroupBox]$groupBox_BOMAnnotations" />
+<GroupBox Name="GroupBox_CutPieceAnnotations" Tag="[GroupBox]$groupBox_CutPieceAnnotations" />
+<GroupBox Name="GroupBox_Date" Tag="[GroupBox]$groupBox_Date" />
+<GroupBox Name="GroupBox_EndConAnno" Tag="[GroupBox]$groupBox_EndConAnno" />
+<GroupBox Name="GroupBox_Invisible" Tag="[GroupBox]$groupBox_Invisible" />
+<GroupBox Name="GroupBox_SpoolAnnotations" Tag="[GroupBox]$groupBox_SpoolAnnotations" />
+<GroupBox Name="GroupBox_ValveAnnotations" Tag="[GroupBox]$groupBox_ValveAnnotations" />
+<GroupBox Name="GroupBox_WeldAnnotations" Tag="[GroupBox]$groupBox_WeldAnnotations" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+<StaticText Name="Label_BOM_B" Tag="[StaticText]$label_BOM_B" />
+<StaticText Name="Label_BOM_EnclosureType" Tag="[StaticText]$label_BOM_EnclosureType" />
+<StaticText Name="Label_BOM_F" Tag="[StaticText]$label_BOM_F" />
+<StaticText Name="Label_BOM_G" Tag="[StaticText]$label_BOM_G" />
+<StaticText Name="Label_BOM_LeaderLine" Tag="[StaticText]$label_BOM_LeaderLine" />
+<StaticText Name="Label_BOM_Numbering" Tag="[StaticText]$label_BOM_Numbering" />
+<StaticText Name="Label_ConnectionText" Tag="[StaticText]$label_ConnectionText" />
+<StaticText Name="Label_ConnectionTextPrefix" Tag="[StaticText]$label_ConnectionTextPrefix" />
+<StaticText Name="Label_CoordinatePrefixes" Tag="[StaticText]$label_CoordinatePrefixes" />
+<StaticText Name="Label_Cut_EnclosureType" Tag="[StaticText]$label_Cut_EnclosureType" />
+<StaticText Name="Label_Cut_LeaderLine" Tag="[StaticText]$label_Cut_LeaderLine" />
+<StaticText Name="Label_Cut_Numbering" Tag="[StaticText]$label_Cut_Numbering" />
+<StaticText Name="Label_FlangedPrefixes" Tag="[StaticText]$label_FlangedPrefixes" />
+<StaticText Name="Label_ShowTagNumber" Tag="[StaticText]$label_ShowTagNumber" />
+<StaticText Name="Label_Spool_EnclosureType" Tag="[StaticText]$label_Spool_EnclosureType" />
+<StaticText Name="Label_Spool_LeaderLine" Tag="[StaticText]$label_Spool_LeaderLine" />
+<StaticText Name="Label_Spool_Numbering" Tag="[StaticText]$label_Spool_Numbering" />
+<StaticText Name="Label_Valve_ControlValves" Tag="[StaticText]$label_Valve_ControlValves" />
+<StaticText Name="Label_Valves_NonControlValves" Tag="[StaticText]$label_Valves_NonControlValves" />
+<StaticText Name="Label_Weld_EnclosureTypeField" Tag="[StaticText]$label_Weld_EnclosureTypeField" />
+<StaticText Name="Label_Weld_EnclosureTypeShop" Tag="[StaticText]$label_Weld_EnclosureTypeShop" />
+<StaticText Name="Label_Weld_LeaderLine" Tag="[StaticText]$label_Weld_LeaderLine" />
+<StaticText Name="Label_Weld_Numbering" Tag="[StaticText]$label_Weld_Numbering" />
+<StaticText Name="Label_Weld_WeldsToNumber" Tag="[StaticText]$label_Weld_WeldsToNumber" />
+<StaticText Name="Label_X" Tag="[StaticText]$label_X" />
+<StaticText Name="Label_Y" Tag="[StaticText]$label_Y" />
+<StaticText Name="Label_Z" Tag="[StaticText]$label_Z" />
+<Link Name="LinkLabel_PropertyNames" Tag="[Link]$linkLabel_PropertyNames" />
+<ListBox Name="ListBox_EndConnAnno" Tag="[ListBox]$listBox_EndConnAnno" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<CustomWin Name="M_isometricLabelsUserCtrl" Tag="[CustomWin]$m_isometricLabelsUserCtrl" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<CustomWin Name="SplitContainer_Main" Tag="[CustomWin]$splitContainer_Main" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$splitContainer_Main" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel5" Tag="[GroupBox]$splitContainer_Main" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel6" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="TableLayoutPanel1" Tag="[GroupBox]$tableLayoutPanel1" />
+<TextField Name="TextBox_BOM_B" Tag="[TextField]$textBox_BOM_B" />
+<TextField Name="TextBox_BOM_F" Tag="[TextField]$textBox_BOM_F" />
+<TextField Name="TextBox_BOM_G" Tag="[TextField]$textBox_BOM_G" />
+<TextField Name="TextBox_ConnectionText" Tag="[TextField]$textBox_ConnectionText" />
+<TextField Name="TextBox_ConnectionTextPrefix" Tag="[TextField]$textBox_ConnectionTextPrefix" />
+<TextField Name="TextBox_X" Tag="[TextField]$textBox_X" />
+<TextField Name="TextBox_Y" Tag="[TextField]$textBox_Y" />
+<TextField Name="TextBox_Z" Tag="[TextField]$textBox_Z" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$listBox_EndConnAnno" />
+<PushButton Name="M_btnModifyAnn" Tag="[PushButton]$m_btnModifyAnn" />
+<PushButton Name="M_btnEditAnn" Tag="[PushButton]$m_btnEditAnn" />-->
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#2" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#3" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#4" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#5" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="ExportAndImportSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Export and Import Settings|#1" />
+  <TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Paths|#2" />
+  <TreeViewItem Name="DataManagerConfigurationTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Data Manager Configuration|#3" />
+  <TreeViewItem Name="LayerAndColorSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Layer and Color Settings|#4" />
+  <TreeViewItem Name="PipingConnectionSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Piping Connection Settings|#5" />
+  <TreeViewItem Name="PIDObjectMappingTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]P*|#6" />
+  <TreeViewItem Name="Plant3DClassDefinitionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7" />
+  <TreeViewItem Name="P3dLineGroupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7/[TreeViewItem]P3d Line Group|#1" />
+  <TreeViewItem Name="PipingAndEquipmentTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7/[TreeViewItem]Piping and Equipment|#2" />
+  <TreeViewItem Name="EquipmentTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7/[TreeViewItem]Piping and Equipment|#2/[TreeViewItem]Equipment|#1" />
+  <TreeViewItem Name="FastenersTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7/[TreeViewItem]Piping and Equipment|#2/[TreeViewItem]Fasteners|#2" />
+  <TreeViewItem Name="PipeRunComponentTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7/[TreeViewItem]Piping and Equipment|#2/[TreeViewItem]Pipe Run Component|#3" />
+  <TreeViewItem Name="SteelStructureTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7/[TreeViewItem]Steel Structure|#3" />
+  <TreeViewItem Name="SpecUpdateSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Spec Update Settings|#8" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$23595104|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1" />
+  <GroupBox Name="ClassSettingsPipingAndGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1" />
+  <GroupBox Name="OrthoAnnotationSetupGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Ortho Annotation Setup|$m_groupBoxAnn|#4" />
+  <PushButton Name="RemoveAnnotationPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Ortho Annotation Setup|$m_groupBoxAnn|#4/[PushButton]Remove Annotation*|$m_btnRemoveAnn|#3" />
+  <PopupList Name="PopupListPL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Ortho Annotation Setup|$m_groupBoxAnn|#4/[PopupList]$m_comboBoxAnn|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Ortho Annotation Setup|$m_groupBoxAnn|#4/[PopupList]$m_comboBoxAnn|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="AddAnnotationPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Ortho Annotation Setup|$m_groupBoxAnn|#4/[PushButton]Add Annotation*|$m_btnAddAnn|#1" />
+  <PushButton Name="M_btnModifyAnn" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Ortho Annotation Setup|$m_groupBoxAnn|#4/[PushButton]Edit Annotation*|$m_btnModifyAnn|#2" />
+  <PushButton Name="M_btnEditAnn" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Ortho Annotation Setup|$m_groupBoxAnn|#4/[PushButton]Edit Block*|$m_btnEditAnn|#4" />
+  <Pane Name="NoPreviewAvailablePANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Ortho Annotation Setup|$m_groupBoxAnn|#4/[Pane]No preview available|$148704202|#1" />
+  <GroupBox Name="SymbolGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Symbol|$m_GroupBoxGraphical|#1" />
+  <StaticText Name="NoPreviewAvailableST" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Symbol|$m_GroupBoxGraphical|#1/[StaticText]No preview available|$m_PreviewStatic|#1" />
+  <GroupBox Name="PropertiesGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2" />
+  <PushButton Name="RemovePB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[PushButton]Remove|$m_btnRemoveProperties|#3" />
+  <Table Name="DataGridViewTBL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1" />
+  <Pane Name="VerticalScrollBarPANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[Pane]Vertical Scroll Bar|$29755918|#1" />
+  <CustomWin Name="TopRowWIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1" />
+  <Header Name="PropertyNameCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Property Name|#1" />
+  <Header Name="PropertyDescriptionCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Property Description|#2" />
+  <Header Name="DisplayNameCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Display Name|#3" />
+  <Header Name="DefaultValueCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Default Value|#4" />
+  <Header Name="PropertyTypeCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Property Type|#5" />
+  <Header Name="AcquisitionCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Acquisition|#6" />
+  <Header Name="ReadOnlyCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Read Only|#7" />
+  <Header Name="VisibleInAreaViewCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Visible in Area View|#8" />
+  <Header Name="VisibleInObjectViewCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Visible in Object View|#9" />
+  <CustomWin Name="Row0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2" />
+  <CustomWin Name="PropertyNameRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Property Name Row 0|#1" />
+  <CustomWin Name="PropertyDescriptionRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Property Description Row 0|#2" />
+  <CustomWin Name="DisplayNameRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Display Name Row 0|#3" />
+  <CustomWin Name="DefaultValueRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Default Value Row 0|#4" />
+  <CustomWin Name="PropertyTypeRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Property Type Row 0|#5" />
+  <CustomWin Name="AcquisitionRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Acquisition Row 0|#6" />
+  <CustomWin Name="ReadOnlyRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Read Only Row 0|#7" />
+  <CustomWin Name="VisibleInAreaViewWIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Visible in Area View Row 0|#8" />
+  <CustomWin Name="VisibleInObjectViewWIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Visible in Object View Row 0|#9" />
+ 
+  <PushButton Name="EditPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[PushButton]Edit*|$m_btnEditProperties|#2" />
+  <PushButton Name="AddPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[PushButton]Add*|$m_btnAddProperty|#1" />
+  <GroupBox Name="TagFormatGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3" />
+  <PushButton Name="DeletePB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3/[PushButton]Delete|$m_btnDeleteTag|#3" />
+  <PushButton Name="ModifyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3/[PushButton]Modify*|$m_btnModifyTag|#2" />
+  <PushButton Name="NewPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3/[PushButton]New*|$m_btnNewTag|#1" />
+  <ListBox Name="ListBoxLB" Tag="[Pane]$m_splitHorz|#1/[Pane]$22809532|#1/[Pane]$m_splitVert|#1/[Pane]$383125948|#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Piping and Equipment|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3/[ListBox]$m_listBoxTag|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9638430|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$9638430|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$9638430|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$9638430|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$9638430|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

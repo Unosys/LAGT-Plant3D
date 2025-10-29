@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectConversionFailedLockDLG" Tag="[DialogBox]Project Conversion Failed" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="FailToGetAnExclusiveLock" Tag="[StaticText]Fail to get an exclusive lock for file ?ProcessPower.dcf?|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

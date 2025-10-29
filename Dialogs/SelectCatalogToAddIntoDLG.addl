@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectCatalogToAddIntoDLG" Tag="[DialogBox]Select Catalog to Add Into|#1" ParentType="BuildCatalogSingleDLG" GUIType="UIA">
+  <ComboBox Name="FileName1" Tag="[ComboBox]File name:|$1148|#1" />
+  <PopupList Name="FileNamePL" Tag="[PopupList]File name:|$1136|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]File name:|$1136|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="Open" Tag="[PushButton]Open|$1|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#2" />
+  <PushButton Name="Close" Tag="[TitleBar]Select Catalog to Add Into|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="YesPB" Tag="[DialogBox]#1/[PushButton]Yes|$6|#1" />
+	<PushButton Name="NoPB" Tag="[DialogBox]#1/[PushButton]No|$7|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,15 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateNotificationNoUpdatesFoundDLG" Tag="[Window]Spec Update Notification|$SpecUpdateNotificationWindow" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]$CancelButton|#1" />
+	<PushButton Name="PushButtonPB" Tag="[GroupBox]$SpecListViewExpander|#1/[PushButton]$HeaderSite|#1" />
+	<StaticText Name="ShowDetailsST" Tag="[StaticText]$ShowDetailsText|#3" />
+	<Image Name="Image2IMG" Tag="[Image]$BulletImage1|#2" />
+	<StaticText Name="UpdateSpecPartsToST" Tag="[StaticText]$UpdateSpecPartsOption|#4" />
+	<StaticText Name="ThePartsInYourST" Tag="[StaticText]$UpdateSpecPartsOptionContent|#5" />
+	<Image Name="Image3IMG" Tag="[Image]$BulletImage2|#3" />
+	<StaticText Name="DoNotUpdateSpecST" Tag="[StaticText]$DoNotUpdateSpecPartsOption|#6" />
+	<StaticText Name="NoChangesWillBeST" Tag="[StaticText]$DoNotUpdateSpecPartsOptionContent|#7" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

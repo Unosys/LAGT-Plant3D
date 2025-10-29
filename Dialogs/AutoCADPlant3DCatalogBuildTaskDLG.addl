@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlant3DCatalogBuildTaskDLG" Tag="[DialogBox]Autodesk AutoCAD Plant 3D Catalog Builder|#1" ParentType="AutoCADPlant3DCatalogBuilderApplicationDLG" GUIType="UIA">
+  <PushButton Name="Yes" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="No" Tag="[PushButton]No|$7|#2" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

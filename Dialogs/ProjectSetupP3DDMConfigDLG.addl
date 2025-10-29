@@ -1,0 +1,67 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupP3DDMConfigDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+<!--<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<PushButton Name="M_buttonNewView" Tag="[PushButton]$m_buttonNewView" />
+<PushButton Name="M_buttonRemoveView" Tag="[PushButton]$m_buttonRemoveView" />
+<CustomWin Name="M_dataManagerConfigUserControl" Tag="[CustomWin]$m_dataManagerConfigUserControl" />
+<CustomWin Name="M_dm3dConfigUserControl" Tag="[CustomWin]$m_dm3dConfigUserControl" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<ListBox Name="M_viewListBox" Tag="[ListBox]$m_viewListBox" />
+<GroupBox Name="M_viewsGroupBox" Tag="[GroupBox]$m_viewsGroupBox" />
+<GroupBox Name="M_viewsPanel" Tag="[GroupBox]$m_viewsPanel" />
+<CustomWin Name="SplitContainer1" Tag="[CustomWin]$splitContainer1" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$splitContainer1" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel5" Tag="[GroupBox]$splitContainer1" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel6" Tag="[GroupBox]$m_splitHorz" />-->
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#2" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#3" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#4" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#5" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="ExportAndImportSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Export and Import Settings|#1" />
+  <TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Paths|#2" />
+  <TreeViewItem Name="DataManagerConfigurationTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Data Manager Configuration|#3" />
+  <TreeViewItem Name="LayerAndColorSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Layer and Color Settings|#4" />
+  <TreeViewItem Name="PipingConnectionSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Piping Connection Settings|#5" />
+  <TreeViewItem Name="PIDObjectMappingTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]P*|#6" />
+  <TreeViewItem Name="Plant3DClassDefinitionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7" />
+  <TreeViewItem Name="SpecUpdateSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Spec Update Settings|#8" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$29951654|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1" />
+  <GroupBox Name="CustomizedViewsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[Pane]$splitContainer1|#1" />
+  <Pane Name="Pane9PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[Pane]$splitContainer1|#1/[Pane]$4722844|#1" />
+  <ListBox Name="ListBoxLB" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[Pane]$splitContainer1|#1/[Pane]$4722844|#1/[ListBox]$m_viewListBox|#1" />
+  <Pane Name="Pane10PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[Pane]$splitContainer1|#1/[Pane]$4263994|#2" />
+  <Pane Name="Pane11PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[Pane]$splitContainer1|#1/[Pane]$4263994|#2/[Pane]$m_viewsPanel|#1" />
+  <PushButton Name="DeleteViewPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[PushButton]Delete View|$m_buttonRemoveView|#2" />
+  <PushButton Name="M_buttonNewView" Tag="[Pane]$m_splitHorz|#1/[Pane]$9832638|#1/[Pane]$m_splitVert|#1/[Pane]$14945454|#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[PushButton]Create View|$m_buttonNewView|#1" />
+  <Pane Name="Pane12PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$4787818|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4787818|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4787818|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4787818|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4787818|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

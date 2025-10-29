@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingCheckerReviewDLG" Tag="[Pane]$DwgCheckerReview" ParentType="Plant3D">
+<Table Name="AnnotationDataGridView" Tag="[Table]$AnnotationDataGridView" />
+<PushButton Name="BtnCancel" Tag="[PushButton]Cancel|$btnCancel|#2" />
+<PushButton Name="BtnClose" Tag="[PushButton]$btnClose" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<CheckBox Name="IsEraseReview" Tag="[CheckBox]$isEraseReview" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label2" Tag="[StaticText]$label2" />
+<GroupBox Name="Panel1" Tag="[GroupBox]$panel1" />
+<CustomWin Name="PictureBox1" Tag="[CustomWin]$pictureBox1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

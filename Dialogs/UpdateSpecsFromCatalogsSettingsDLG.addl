@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.UpdateSpecsFromCatalogsSettingsDLG" Tag="[Window]Update Specs From Catalogs Settings|$SpecUpdateSettingWindow" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OkBtn|#3" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#4" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

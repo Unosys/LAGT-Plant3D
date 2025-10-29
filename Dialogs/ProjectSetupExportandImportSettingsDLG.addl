@@ -1,0 +1,77 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupExportandImportSettingsDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#2" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#3" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#4" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#5" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="EndConnectionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]End Connections|#1" />
+  <TreeViewItem Name="LineSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Line Settings|#2" />
+  <TreeViewItem Name="ExportAndImportSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Export and Import Settings|#3" />
+  <TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Paths|#4" />
+  <TreeViewItem Name="DataManagerConfigurationTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Data Manager Configuration|#5" />
+  <TreeViewItem Name="PIDClassDefinitionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]P*|#6" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_exportImportSettingsUserControl|#1" />
+  <GroupBox Name="ExportAndImportSettingsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_exportImportSettingsUserControl|#1/[GroupBox]Export and import settings|$groupBox1|#1" />
+  <PushButton Name="DeletePB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_exportImportSettingsUserControl|#1/[GroupBox]Export and import settings|$groupBox1|#1/[PushButton]Delete|$m_btnDelete|#3" />
+  <PushButton Name="ModifyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_exportImportSettingsUserControl|#1/[GroupBox]Export and import settings|$groupBox1|#1/[PushButton]Modify*|$m_btnModify|#2" />
+  <PushButton Name="M_btnNew" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_exportImportSettingsUserControl|#1/[GroupBox]Export and import settings|$groupBox1|#1/[PushButton]New*|$m_btnNew|#1" />
+  <ListBox Name="ListBoxLB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_exportImportSettingsUserControl|#1/[GroupBox]Export and import settings|$groupBox1|#1/[ListBox]$m_listBox|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="M_btnOk" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+  <!--<PushButton Name="Apply" Tag="[PushButton]$" />
+<CustomWin Name="Control" Tag="[CustomWin]$" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnDelete" Tag="[PushButton]$m_btnDelete" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnModify" Tag="[PushButton]$m_btnModify" />
+<PushButton Name="M_btnNew" Tag="[PushButton]$m_btnNew" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnReset" Tag="[PushButton]$m_btnReset" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$groupBox1" />
+<GroupBox Name="M_dataGridPanel" Tag="[GroupBox]$m_dataGridPanel" />
+<CustomWin Name="M_datagridRowSpinner" Tag="[CustomWin]$m_datagridRowSpinner" />
+<ScrollBar Name="M_dataGridViewHScroll" Tag="[ScrollBar]$m_dataGridViewHScroll" />
+<PushButton Name="M_firstRowBtn" Tag="[PushButton]$m_firstRowBtn" />
+<CustomWin Name="M_gridView" Tag="[CustomWin]$m_gridView" />
+<GroupBox Name="M_hScrollPanel" Tag="[GroupBox]$m_hScrollPanel" />
+<PushButton Name="M_lastRowBtn" Tag="[PushButton]$m_lastRowBtn" />
+<StaticText Name="M_lblDefinedReports" Tag="[StaticText]$m_lblDefinedReports" />
+<StaticText Name="M_lblInformation" Tag="[StaticText]$m_lblInformation" />
+<StaticText Name="M_lblReportPreview" Tag="[StaticText]$m_lblReportPreview" />
+<ListBox Name="M_listBox" Tag="[ListBox]$m_listBox" />
+<PushButton Name="M_nextRowBtn" Tag="[PushButton]$m_nextRowBtn" />
+<Table Name="M_pnIDDataGridView" Tag="[Table]$m_pnIDDataGridView" />
+<PushButton Name="M_previousRowBtn" Tag="[PushButton]$m_previousRowBtn" />
+<TextField Name="M_recordIndexTextBox" Tag="[TextField]$m_recordIndexTextBox" />
+<CustomWin Name="M_reportsUserControl" Tag="[CustomWin]$m_reportsUserControl" />
+<StaticText Name="M_rowCountLabel" Tag="[StaticText]$m_rowCountLabel" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />-->
+</Pane>

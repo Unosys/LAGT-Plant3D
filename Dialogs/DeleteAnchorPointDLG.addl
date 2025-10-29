@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DeleteAnchorPointDLG" Tag="[DialogBox]Delete Anchor Point|#1" ParentType="Pane" GUIType="UIA">
+
+
+	
+	<Image Name="MainInstructionIconIMG" Tag="[Pane]Delete Anchor Point|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+	<StaticText Name="WouldYouLikeToST" Tag="[Pane]Delete Anchor Point|$Window|#1/[StaticText]Would you like to delete the selected anchor point?|$MainInstruction|#1" />
+	<StaticText Name="DeletingTheSelectedAnchorST" Tag="[Pane]Delete Anchor Point|$Window|#1/[StaticText]Deleting the selected anchor point will remove it from the list, and the specified piping component will no longer be dimensioned based on it*|$ContentText|#2" />
+	<PushButton Name="DeleteTheAnchorPointPB" Tag="[Pane]Delete Anchor Point|$Window|#1/[PushButton]Delete the anchor point|$CommandLink_0|#1" />
+	<PushButton Name="DoNotDeleteThePB" Tag="[Pane]Delete Anchor Point|$Window|#1/[PushButton]Do not delete the anchor point|$CommandLink_1|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]Delete Anchor Point|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+	<TitleBar Name="DeleteAnchorPointCTL" Tag="[TitleBar]Delete Anchor Point|$TitleBar|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Delete Anchor Point|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

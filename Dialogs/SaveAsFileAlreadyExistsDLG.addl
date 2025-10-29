@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveAsFileAlreadyExistsDLG" Tag="[DialogBox]Save As" ParentType="Plant3D">
+<PushButton Name="Yes" Tag="[PushButton]Yes|#1|$6" />
+<PushButton Name="No" Tag="[PushButton]No|#2|$7" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]#1|[Icon]$20" />
+<StaticText Name="FileEImagesXtraReportTempl" Tag="[StaticText]File E:\images\xtraReportTemplate1.pdf already exists.??Do you want to replace it?|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

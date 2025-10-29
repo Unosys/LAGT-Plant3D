@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateSpecFromExistingSpecDLG1" Tag="[Window]Create Spec From Existing Spec|$NewFileWindow" ParentType="MainWin" GUIType="UIA">
+
+  
+	<PushButton Name="ClosePB" Tag="[TitleBar]Create Spec From Existing Spec|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="CreatePB" Tag="[PushButton]Create|$CreateButton|#3" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#4" />
+	<TextField Name="SourceSpecNameTF" Tag="[TextField]$ExistingFileTextBox|#1" />
+	<PushButton Name="PushButton1PB" Tag="[PushButton]$ExistingFileBrowseButton|#1" />
+	<PushButton Name="PushButton2PB" Tag="[PushButton]$NewFileBrowseButton|#2" />
+	<TextField Name="NewSpecNameTF" Tag="[TextField]$NewFileTextBox|#2" />
+	<TextField Name="SpecDescriptionTF" Tag="[TextField]$DescTextBox|#3" />
+
+	<ComboBox Name="FileNameCB" Tag="[DialogBox]Open|#1/[ComboBox]File name:|$1148|#1" />
+	<PushButton Name="OpenPB" Tag="[DialogBox]Open|#1/[PushButton]Open|$1|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

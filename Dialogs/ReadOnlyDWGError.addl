@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReadOnlyDWGError" Tag="[DialogBox]AutoCAD Alert|#1" ParentType="ProjManUndocked" GUIType="WIN32">
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="No" Tag="[PushButton]No|$7|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

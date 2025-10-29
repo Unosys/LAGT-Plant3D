@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ModifyEndcodeDLG" Tag="[Pane]Modify Endcode|$AddAndModifyEndcodeDlg" >
+  <PushButton Name="BtnCancel" Tag="[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="BtnOK" Tag="[PushButton]OK|$btnOK|#1" />
+  <TextField Name="EndcodeNameTF" Tag="[TextField]Endcode name:|$txtboxEndcode|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Modify Endcode|$TitleBar|#1/[CustomWin]System Menu Bar|$AddAndModifyEndcodeDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Modify Endcode|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

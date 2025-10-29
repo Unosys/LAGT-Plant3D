@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CheckInSettingsDLG" Tag="[Pane]Settings|$frmVaultCheckinSettings|#1" >
+
+
+	<PopupList Name="PopupListPL" Tag="[GroupBox]$groupBoxVisualAttachment|#1/[PopupList]$comboViz|#1" />
+	<PushButton Name="OpenPB" Tag="[GroupBox]$groupBoxVisualAttachment|#1/[PopupList]$comboViz|#1/[PushButton]Open|#1" />
+	<CheckBox Name="CreateVisualizationAttachmentCK" Tag="[GroupBox]$groupBoxVisualAttachment|#1/[CheckBox]Create visualization attachment|$chkboxVisualAttachment|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$btnOk|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Settings|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

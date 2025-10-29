@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupWizardFinishDLG" Tag="[DialogBox]$CreateProjectWizard" ParentType="Plant3D">
+<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonFinish" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Finish|$m_buttonFinish|#2" />
+<CheckBox Name="M_checkboxLaunchSetupDlg" Tag="[CheckBox]$m_checkboxLaunchSetupDlg" />
+<StaticText Name="M_finishPageLbl" Tag="[StaticText]$m_finishPageLbl" />
+<CustomWin Name="M_wizardSetup" Tag="[CustomWin]$m_wizardSetup" />
+<GroupBox Name="PageFinish" Tag="[GroupBox]$pageFinish" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

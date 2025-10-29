@@ -1,0 +1,237 @@
+[
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": false,
+        "ClassName": "dlg_attachexternalreference_ref",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-7252B789-D47E-4ECF-920A-4CA982469733"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "dlg_project_setup_iso_table_setup_settings_tab",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-6919B15F-1A0F-41A2-BACB-01398BF23661"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "db_proj_setup_proj_details",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-6EE92209-81FF-4223-BE93-2B7E6D976609"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "dlg_iso_projectannotations",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-2644752F-42CD-4A6F-9A02-FAF45C185091"
+            },
+			{
+                "GUIDNo": "GUID-6E190085-6501-4175-9D23-E070A9C8E56F"
+            },
+			{
+                "GUIDNo": "GUID-F0E4FD2E-B415-4232-A760-4D4551AFD6E7"
+            },
+			{
+                "GUIDNo": "GUID-A28F5023-F241-446C-98C7-978AD8966B4E"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "dlg_Map_Property_Values_Plant3D",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-8502915B-4291-4BE7-8EDD-246916105D33"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "ProjectSetupOrthoTitleBlockAndDisplay",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-99E95A25-404F-4A3D-B086-7911B4D2B480"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "dlg_Select_Block_Drawing",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-F9D696F1-BAC6-45AF-9AEF-77425FDAA3F0"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "dlg_Project_Manager",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-C6F84AFE-336F-4C9F-9834-80388D8DCB42"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "DB_Proj_Setup_Shared_Plant_Content",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-ED2BCFEA-073C-4B38-A38F-F41AA73BEF23"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "Del_Paths_Tree_Node",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-A7060C37-0A75-4210-AA53-875C51A15E38"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "Collaboration_Share_Project_Icon",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-EDE7D235-4D62-4F84-A36D-CEB9C369FBEC"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "Attach_Icon",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-FACAD706-C5AF-4E07-BE93-490C083F18F8"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "Check_In_Icon",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-A1F5DACD-DE82-4333-8418-1CA27D91C565"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "ill_Vault_Ribbon",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-055C09A5-FC64-4428-8D68-174E6472E1AA"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "Collaboration_Options_db",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-D57CF7E2-79AD-49B8-A370-88114DDA70AE"
+            }
+        ]
+
+    },
+	{
+        "FeatureType": "ART",
+        "ISNewChanged": false,
+        "IsActif": true,
+        "ClassName": "CollaborationTab",
+        "Release": "FY17",
+        "IsSemiAutomated": false,
+        "Options": [
+            {
+                "GUIDNo": "GUID-D3BCCB67-2C66-4F9C-83D6-4E4597AD7954"
+            }
+        ]
+
+    }
+    
+
+]

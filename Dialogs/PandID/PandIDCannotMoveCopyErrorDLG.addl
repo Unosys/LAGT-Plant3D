@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDCannotMoveCopyErrorDLG" Tag="[DialogBox]Error" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="CannotMoveCopyAProject" Tag="[StaticText]Cannot Move?Copy a project which is not coverted to SQL server. Please convert it first.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,12 @@
+
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.NewDWGDLG" Tag="[Pane]New DWG|$frmNewDWG_Revised" ParentType="ProjManUndocked" GUIType="UIA">
+  <PushButton Name="BtnOK" Tag="[Pane]$m_panel_buttons/[PushButton]OK|$btnOK" />
+  <PushButton Name="BtnHelp" Tag="[Pane]$m_panel_buttons/[PushButton]Help|$btnHelp" />
+  <PushButton Name="BtnCancel" Tag="[Pane]$m_panel_buttons/[PushButton]Cancel|$btnCancel" />
+  <TextField Name="M_textBoxAuthor" Tag="[GroupBox]Drawing properties|$m_gb_drawing_properties/[TextField]Author:|$m_textBoxAuthor" />
+  <TextField Name="M_tb_filename" Tag="[GroupBox]Drawing name|$m_gb_drawing_name/[Pane]$m_panel_filename/[TextField]File name: |$m_tb_filename" />
+  <PushButton Name="M_dwtBrowseButton" Tag="[GroupBox]Project properties|$m_gb_project_properties/[PushButton]**|$m_dwtBrowseButton" />
+  <TextField Name="TbDWGTemplate" Tag="[GroupBox]Project properties|$m_gb_project_properties/[TextField]DWG template:|$tbDWGTemplate" />
+  <TextField Name="TbFolderPath" Tag="[GroupBox]Project properties|$m_gb_project_properties/[TextField]Folder path: |$tbFolderPath" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]New DWG|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.NewReportConfigurationDLG" Tag="[Pane]New Report Configuration|$NewReportForm|#2" ParentType="ReportCreatorDLG" GUIType="UIA">
+  <PushButton Name="M_cancelBtn" Tag="[PushButton]Cancel|$m_cancelBtn|#2" />
+  <Pane Name="M_mainTableLayoutPanel" Tag="[Pane]$m_mainTableLayoutPanel|#1" />
+  <RadioButton Name="M_blankReportRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[RadioButton]Choose report type:[1]|$m_blankReportRadioBtn|#1" />
+  <RadioButton Name="M_templateReportRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[RadioButton]Choose report type:[2]|$m_templateReportRadioBtn|#2" />
+  <PopupList Name="M_repConfigCmbBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PopupList]Choose report type:|$m_repConfigCmbBox|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PopupList]Choose report type:|$m_repConfigCmbBox|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="M_chooseReportTypeLbl" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Choose report type:|$m_chooseReportTypeLbl|#1" />
+  <PushButton Name="M_okBtn" Tag="[PushButton]OK|$m_okBtn|#1" />
+  <TitleBar Name="NewReportConfigurationCTL" Tag="[TitleBar]New Report Configuration|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]New Report Configuration|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

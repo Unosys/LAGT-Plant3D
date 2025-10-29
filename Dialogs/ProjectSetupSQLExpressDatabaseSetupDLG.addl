@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupSQLExpressDatabaseSetupDLG" Tag="[DialogBox]$EditProjectSettingsDlg" ParentType="Plant3D">
+<TreeView Name="M_treeView" Tag="[TreeView]#1|$m_treeView" />
+<StaticText Name="DatabaseSetup" Tag="[StaticText]Database Setup|#1|$m_groupbox" />
+<StaticText Name="TheDatabaseSelectionForAP1" Tag="[StaticText]The database selection for a project is specified in the Project Setup Wizard at the time of project creation. Settings displa*|#1|$m_label_notes" />
+<RadioButton Name="TheDatabaseSelectionForAP2" Tag="[RadioButton]The database selection for a project is specified in the Project Setup Wizard at the time of project creation. Settings displa*|#1|$m_radioButton_sqlite" />
+<StaticText Name="ServerNameText" Tag="[StaticText]Server name:|#2|$m_label_servername" />
+<TextField Name="ServerName" Tag="[TextField]Server name:|#1|$m_textBox_serverName" />
+<StaticText Name="DatabaseNameText" Tag="[StaticText]Database name:|#3|$m_label_databaseName" />
+<TextField Name="DatabaseName" Tag="[TextField]Database name:|#2|$m_textBox_DatabasePrefix" />
+<StaticText Name="AuthenticationText" Tag="[StaticText]Authentication:|#4|$m_label_Authentication" />
+<TextField Name="Authentication" Tag="[TextField]Authentication:|#3|$m_textBox_Authentication" />
+<StaticText Name="AlreadyHaveAProjectThatYo" Tag="[StaticText]Already have a project that you'd like to convert from a local database to a server database?|#5|$m_label_Already" />
+<PushButton Name="Help" Tag="[PushButton]Help|#4|$m_btnHelp" />
+<PushButton Name="CancelPB" Tag="[PushButton]Cancel|#3|$m_btnCancel" />
+<PushButton Name="OK" Tag="[PushButton]OK|#2|$m_btnOk" />
+<PushButton Name="Apply" Tag="[PushButton]Apply|#1|$m_btnSave" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

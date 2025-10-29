@@ -1,0 +1,9 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.JobProcessor_FirstSettings" Tag="[Pane]$SetUserDialog" ParentType="Desktop">
+  <TextField Name="UserNameTF" Tag="[Pane]$tableLayoutPanel1/[TextField]$mUserNameTb" />
+  <TextField Name="ServerTF" Tag="[Pane]$tableLayoutPanel1/[TextField]$mServerTb" />
+  <PushButton Name="OKPB" Tag="[PushButton]$mOkBtn" />
+  
+</Pane>
+
+
+

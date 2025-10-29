@@ -1,0 +1,9 @@
+2020-10-06 19:13:20.6110|ERROR: Exporting into: C:\Work\Dexpi_interface\02 AutoCAD PID Configurations\ISO 10628-V2018\PID DWG\DEXPI_C01.dwg
+
+2020-10-06 19:13:21.3734|ERROR: Could not evaluate connections for LineSegment row ID == 1204, start pt: (397.499889047553,310,0); end pt: (310.093811332981,310,0)
+
+2020-10-06 19:13:21.5390|ERROR: Failed to find only one node without connected segments.
+
+2020-10-06 19:13:21.5859|ERROR: Error has occured during searching for the elements with direct connection Row ID == 1114. Error:
+
+

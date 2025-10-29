@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.MigrationCancelTaskDLG" Tag="[DialogBox]Cancel">
+  <PushButton Name="ExitPB" Tag="[Pane]Cancel|$Window/[PushButton]Exit|$CommandLink_1001" />
+  <PushButton Name="ResumePB" Tag="[Pane]Cancel|$Window/[PushButton]Resume|$CommandLink_1002" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Cancel|$TitleBar/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

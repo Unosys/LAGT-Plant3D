@@ -1,0 +1,6 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveChangesMSG" Tag="[DialogBox]AutoCAD" ParentType="MainWin" GUIType="WIN32">
+  >
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

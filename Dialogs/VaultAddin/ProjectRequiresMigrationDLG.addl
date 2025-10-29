@@ -1,0 +1,25 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectRequiresMigrationDLG" Tag="[DialogBox]ProjectRequiresMigrationDLG" ParentType="PROJECTMANAGERDLG">
+<CustomWin Name="M_ServerMigrationWizard" Tag="[CustomWin][Autodesk.ProcessPower.PnPProjectSetup.GenericWizard]$m_ServerMigrationWizard|[Autodesk.ProcessPower.PnPProjectSetup.GenericWizard]#1" IsNestedClass="True">
+	<CustomWin Name="M_ServerMigrationWizardPage1" Tag="[CustomWin][Autodesk.ProcessPower.PnPProjectSetup.GenericWizardPage]$m_ServerMigrationWizardPage1|[Autodesk.ProcessPower.PnPProjectSetup.GenericWizardPage]#1" IsNestedClass="True">
+		<StaticText Name="ClickTheNextButtonToLearn1" Tag="[StaticText]$m_Page1ContentText|Click the Next button to learn more about migrating the project and begin the migration process, or cancel if you do not want *|#2" />
+		<StaticText Name="TheProjectProject2013_2Was" Tag="[StaticText]$m_Page1MainInstruction|The project Project2013_2 was created in AutoCAD Plant 3D 2013, and must be migrated to work in AutoCAD Plant 3D 2014.|#1" />
+		<CustomWin Name="ClickTheNextButtonToLearn2" Tag="[CustomWin][System.Windows.Forms.PictureBox]$pictureBox1|[System.Windows.Forms.PictureBox]Click the Next button to learn more about migrating the project and begin the migration process, or cancel if you do not want *|[System.Windows.Forms.PictureBox]#1" />
+	</CustomWin>
+	<CustomWin Name="M_ServerMigrationWizardPage2" Tag="[CustomWin][Autodesk.ProcessPower.PnPProjectSetup.GenericWizardPage]$m_ServerMigrationWizardPage2|[Autodesk.ProcessPower.PnPProjectSetup.GenericWizardPage]#1" IsNestedClass="True">
+		<PushButton Name="BeginProjectMigration" Tag="[PushButton]$m_BeginMigrationBtn|Begin Project Migration|#1" />
+		<StaticText Name="AfterWeMigrateTheProjectW" Tag="[StaticText]$label10|After we migrate the project we do a final synchronization and the migration is complete!|#10" />
+		<StaticText Name="MigrateAndUpdateText" Tag="[StaticText]$label9|Migrate and update|#8" />
+		<StaticText Name="N3Text" Tag="[StaticText]$label8|3.|#9" />
+		<StaticText Name="BeforeWeMigrateTheProject" Tag="[StaticText]$label7|Before we migrate the project we will ensure the project is up to date and will start off with a project synchronization.|#7" />
+		<StaticText Name="ThatSyncingFeelingText" Tag="[StaticText]$label6|That syncing feeling|#5" />
+		<StaticText Name="N2Text" Tag="[StaticText]$label5|2.|#6" />
+		<StaticText Name="AllDrawingsNeedToBeChecke" Tag="[StaticText]$label4|All drawings need to be checked in, and you will need exclusive project access in order to have a smooth migration.|#4" />
+		<StaticText Name="CheckCheckText" Tag="[StaticText]$label3|Check? Check|#2" />
+		<StaticText Name="N1Text" Tag="[StaticText]$label2|1.|#3" />
+		<StaticText Name="BecauseThisIsAVaultBased" Tag="[StaticText]$label1|Because this is a Vault based Plant 3D Project, there are a few additional things you should know about the migration|#1" />
+	</CustomWin>
+	<PushButton Name="Cancel" Tag="[PushButton]$m_buttonCancel|Cancel|#3" />
+	<PushButton Name="Next" Tag="[PushButton]$m_buttonNext|Next &gt;&gt;|#2" />
+	<PushButton Name="Back" Tag="[PushButton]$m_buttonBack|&lt;&lt; Back|#1" />
+</CustomWin>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

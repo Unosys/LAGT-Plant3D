@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardWarningDLG" Tag="[DialogBox]Project Setup Wizard (Page ? of ?)" ParentType="DataManagerDLG">
+<PushButton Name="Yes" Tag="[PushButton]#1|$6" />
+<PushButton Name="No" Tag="[PushButton]#2|$7" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]#1|[Icon]$20" />
+<StaticText Name="AreYouSureYouWantToExit" Tag="[StaticText]#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

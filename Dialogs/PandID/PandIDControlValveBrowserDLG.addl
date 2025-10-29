@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDControlValveBrowserDLG" Tag="[Pane]ControlValveBrowserDLG" ParentType="Plant3D">
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOk" Tag="[PushButton]$btnOk" />
+<GroupBox Name="GroupBoxActuator" Tag="[Group]$groupBoxActuator" />
+<GroupBox Name="GroupBoxBody" Tag="[Group]$groupBoxBody" />
+  <ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$treeViewActuator" />
+<GroupBox Name="TableLayoutPanel" Tag="[Group]$tableLayoutPanel" />
+<TreeView Name="TreeViewActuator" Tag="[TreeView]$treeViewActuator" />
+<TreeView Name="TreeViewBody" Tag="[TreeView]$treeViewBody" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$treeViewActuator" />
+<ScrollBar Name="VerticalScrollBar2" Tag="[ScrollBar]$treeViewBody" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

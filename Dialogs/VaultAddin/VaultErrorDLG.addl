@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VaultErrorDLG" Tag="[DialogBox]Error" ParentType="Pane">
+<PushButton Name="OK" Tag="[PushButton]$2|#1" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]$20|[Icon]#1" />
+<StaticText Name="TheCUsersAdministratorDoc" Tag="[StaticText]$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

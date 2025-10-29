@@ -1,0 +1,34 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectHandrailShapeDLG" Tag="[DialogBox]Select Handrail Shape" ParentType="MainWin">
+  <StaticText Name="ShapeStandardST" Tag="[StaticText]Shape standard:|$1566|#1" />
+  <PopupList Name="PopupListPL" Tag="[PopupList]$1003|#1" />
+  <StaticText Name="ShapeTypeST" Tag="[StaticText]Shape type:|$1567|#4" />
+  <TextField Name="TextField1TF" Tag="[TextField]$1001|#1" />
+  <PushButton Name="Button1PB" Tag="[PushButton]Button1|$2556|#1" />
+  <StaticText Name="ShapeSizeST" Tag="[StaticText]Shape size:|$1568|#3" />
+  <ListBox Name="ShapeType1LB" Tag="[ListBox]Shape type:[1]|$1039|#2" />
+  <TextField Name="ShapeTypeTF" Tag="[TextField]Shape type:|$1000|#2" />
+  <PushButton Name="Button2PB" Tag="[PushButton]Button2|$2557|#2" />
+  <GroupBox Name="GroupBoxGB" Tag="[GroupBox]$1468|#1" />
+  <StaticText Name="AngleST" Tag="[StaticText]Angle:|$1572|#6" />
+  <PushButton Name="nine0RotatePB" Tag="[PushButton]-90 rotate|$1031|#3" />
+  <CheckBox Name="FlipAboutYAxisCK" Tag="[CheckBox]Flip about Y axis|$1070|#1" />
+  <CheckBox Name="AlignYAxisWithCK" Tag="[CheckBox]Align Y axis with Z UCS|$1071|#2" />
+  <StaticText Name="HorizontalST" Tag="[StaticText]Horizontal:|$1574|#7" />
+  <TextField Name="TextField2TF" Tag="[TextField]$1036|#3" />
+  <StaticText Name="VerticalST" Tag="[StaticText]Vertical:|$1575|#10" />
+  <TextField Name="VerticalTF" Tag="[TextField]Vertical:|$1040|#4" />
+  <StaticText Name="MaterialStandardST" Tag="[StaticText]Material standard:|$1469|#5" />
+  <PopupList Name="MaterialStandardPL" Tag="[PopupList]Material standard:|$1403|#2" />
+  <StaticText Name="MaterialCodeST" Tag="[StaticText]Material code:|$1471|#9" />
+  <PopupList Name="MaterialCodePL" Tag="[PopupList]Material code:|$1004|#3" />
+  <PushButton Name="Select" Tag="[PushButton]Select|$1037|#5" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$1038|#6" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$1030|#7" />
+  <StaticText Name="PreviewST" Tag="[StaticText]Preview|$1573|#2" />
+  <StaticText Name="StaticText1ST" Tag="[StaticText]$2571|#8" />
+  <StaticText Name="StaticText2ST" Tag="[StaticText]$2572|#11" />
+  <PushButton Name="MatchPropertiesPB" Tag="[PushButton]Match Properties|$1053|#4" />
+  <ListBox Name="ShapeType2LB" Tag="[ListBox]Shape type:[2]|$1034|#1" />
+  <ComboBox Name="AngleCB" Tag="[ComboBox]Angle:|$1404|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardChartDLG" Tag="[Pane]$DesignerFormBase" ParentType="ReportDesignerApplicationDLG">
+
+  
+	<PushButton Name="ClosePB" Tag="[TitleBar]Chart Designer|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<CustomizedPagelist Name="PageListPG" Tag="[Pane]pnlOptions|$pnlOptions|#7/[PageList]$tcOptionsProperties|#1" />
+	<Pane Name="OptionsPANE" Tag="[Pane]pnlOptions|$pnlOptions|#7/[PageList]$tcOptionsProperties|#1/[Pane]$tbpOptions|#1" />
+	<Pane Name="Pane5PANE" Tag="[Pane]pnlOptions|$pnlOptions|#7/[PageList]$tcOptionsProperties|#1/[Pane]Options|$tbpOptions|#1/[Pane]$ucOptionsControl|#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]$hitTestTransparentPanelControl|#8/[PushButton]Cancel|$sbCancel|#2" />
+	<Pane Name="NbWizard" Tag="[Pane]$pnlBase/[Pane]$grWizardPanel/[Pane]$panelNavigation|#1/[Pane]$nbWizard|#1" />
+	<Pane Name="PanelNavigation" Tag="[Pane]$pnlBase/[Pane]$grWizardPanel/[Pane]$panelNavigation|#1" />
+	<CustomWin Name="DataFiltersWIN" Tag="[Pane]pnlOptions|$pnlOptions|#6/[PageList]$tcOptionsProperties|#1/[Pane]Properties|$tbpProperties|#1/[Pane]$ucPropertyGrid|#1/[Table]$propertyGrid|#1/[CustomWin]Data Panel|#2/[CustomWin]#1/[CustomWin]Data Filters|#40" />
+</Pane>

@@ -1,0 +1,44 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataLinkPropertiesDLG" Tag="[DialogBox]Data Link Properties" ParentType="Window" GUIType="UIA">
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$1|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+	
+	<!--<PageList Name="PageListPG" Tag="[PageList]$12320|#1" />-->-->
+	<Window Name="ProviderWIN" Tag="[PageList]$12320|#1/[Window]Provider|#1" />
+	<!--<DialogBox Name="ProviderDLG" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1" />
+	<StaticText Name="SelectTheDataYouST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[StaticText]Select the data you want to connect to:|$65535|#1" />
+	<ListView Name="SelectTheDataYouLV" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1" />
+	<Header Name="HeaderCTL" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[Header]Header|$Header|#1" />
+	<CustomWin Name="OLEDBProvidersWIN" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[Header]Header|$Header|#1/[CustomWin]OLE DB Provider(s)|$HeaderItem 0|#1" />
+	<ScrollBar Name="HorizontalScrollBarSB" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ScrollBar]Horizontal Scroll Bar|$Horizontal ScrollBar|#1" />
+	<ListViewItem Name="ConnectivityServiceProviderLVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Connectivity Service Provider|#1" />
+	<StaticText Name="ConnectivityServiceProviderST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Connectivity Service Provider|#1/[StaticText]Connectivity Service Provider|#1" />
+	<ListViewItem Name="MicrosoftOffice120AccessLVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft Office 12*|#2" />
+	<StaticText Name="MicrosoftOffice120AccessST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft Office 12*|#2/[StaticText]Microsoft Office 12*|#1" />
+	<ListViewItem Name="MicrosoftOffice160AccessLVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft Office 16*|#3" />
+	<StaticText Name="MicrosoftOffice160AccessST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft Office 16*|#3/[StaticText]Microsoft Office 16*|#1" />
+	<ListViewItem Name="MicrosoftOLEDBProvider1LVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft OLE DB Provider for ODBC Drivers|#4" />
+	<StaticText Name="MicrosoftOLEDBProvider1ST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft OLE DB Provider for ODBC Drivers|#4/[StaticText]Microsoft OLE DB Provider for ODBC Drivers|#1" />
+	<ListViewItem Name="MicrosoftOLEDBProvider2LVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft OLE DB Provider for Search|#5" />
+	<StaticText Name="MicrosoftOLEDBProvider2ST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft OLE DB Provider for Search|#5/[StaticText]Microsoft OLE DB Provider for Search|#1" />
+	<ListViewItem Name="MicrosoftOLEDBProvider3LVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft OLE DB Provider for SQL Server|#6" />
+	<StaticText Name="MicrosoftOLEDBProvider3ST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft OLE DB Provider for SQL Server|#6/[StaticText]Microsoft OLE DB Provider for SQL Server|#1" />
+	<ListViewItem Name="MicrosoftOLEDBSimpleLVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft OLE DB Simple Provider|#7" />
+	<StaticText Name="MicrosoftOLEDBSimpleST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]Microsoft OLE DB Simple Provider|#7/[StaticText]Microsoft OLE DB Simple Provider|#1" />
+	<ListViewItem Name="MSDataShapeLVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]MSDataShape|#8" />
+	<StaticText Name="MSDataShapeST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]MSDataShape|#8/[StaticText]MSDataShape|#1" />
+	<ListViewItem Name="OLEDBProviderForLVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]OLE DB Provider for Microsoft Directory Services|#9" />
+	<StaticText Name="OLEDBProviderForST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]OLE DB Provider for Microsoft Directory Services|#9/[StaticText]OLE DB Provider for Microsoft Directory Services|#1" />
+	<ListViewItem Name="SQLServerNativeClientLVI" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]SQL Server Native Client 10*|#10" />
+	<StaticText Name="SQLServerNativeClientST" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[ListView]Select the data you want to connect to:|$1000|#1/[ListViewItem]SQL Server Native Client 10*|#10/[StaticText]SQL Server Native Client 10*|#1" />
+	<PushButton Name="NextPB" Tag="[PageList]$12320|#1/[Window]Provider|#1/[DialogBox]Provider|#1/[PushButton]Next &gt;&gt;|$233|#1" />
+	<Window Name="ConnectionWIN" Tag="[PageList]$12320|#1/[Window]Connection|#2" />
+	<Window Name="AdvancedWIN" Tag="[PageList]$12320|#1/[Window]Advanced|#3" />
+	<Window Name="AllWIN" Tag="[PageList]$12320|#1/[Window]All|#4" />
+	<TitleBar Name="DataLinkPropertiesCTL" Tag="[TitleBar]Data Link Properties|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Data Link Properties|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Data Link Properties|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />-->
+	<PushButton Name="ClosePB" Tag="[TitleBar]Data Link Properties|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

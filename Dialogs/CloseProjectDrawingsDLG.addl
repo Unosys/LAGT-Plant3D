@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CloseProjectDrawingsDLG" Tag="[DialogBox]Close Project Drawings" ParentType="CustomWin">
+  <PushButton Name="OKPB" Tag="[Pane]Close Project Drawings|$Window|#1/[PushButton]OK|$CommandButton_1|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]Close Project Drawings|$Window|#1/[PushButton]Cancel|$CommandButton_2|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

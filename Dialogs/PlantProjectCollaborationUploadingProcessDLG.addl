@@ -1,0 +1,15 @@
+﻿<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectCollaborationUploadingProcessDLG" Tag="[Window]Plant Project Collaboration|$Window_1" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="PlantProjectCollaborationCTL" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[CustomWin]$UserControl_1|#1" />
+  <Image Name="ImageIMG" Tag="[CustomWin]$UserControl_1|#1/[Image]$Image_1|#1" />
+  <StaticText Name="UploadingProjectToTheST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Uploading project to the cloud*|$TextBlock_1|#1" />
+  <PushButton Name="WhyNotReadUpPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Why not read up on working with BIM 360 Team projects while you wait?|$Button_LearnMore|#1" />
+  <StaticText Name="WhyNotReadUpST" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Why not read up on working with BIM 360 Team projects while you wait?|$Button_LearnMore|#1/[StaticText]Why not read up on working with BIM 360 Team projects while you wait?|#1" />
+  <StaticText Name="UploadingFilesToBIMST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Uploading files to BIM 360 Team project*|$TextBlock_2|#2" />
+  <CustomWin Name="CustomWin2WIN" Tag="[CustomWin]$UserControl_1|#1/[CustomWin]$ProgressBar_1|#1" />
+  <StaticText Name="NozzleListxmlST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]NozzleList*|$TextBlock_3|#3" />
+
+</Window>

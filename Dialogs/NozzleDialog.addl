@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.NozzleDialog" Tag="[Window]$NozzleDialog_1" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="Close1PB" Tag="[PushButton]Close|$Button_1|#2" />
+	
+	<StaticText Name="ChangeTypeST" Tag="[PageList]$tabControl1|#1/[Window]Change Type|$tabItem1|#1/[StaticText]Change Type|#1" />
+	<StaticText Name="ChangeLocationST" Tag="[PageList]$tabControl1|#1/[Window]Change Location|$tabItem2|#2/[StaticText]Change Location|#1" />
+	<ComboBox Name="NozzleLocationCB" Tag="[PageList]$tabControl1|#1/[Window]Change Location|$tabItem2|#2/[ComboBox]Nozzle Location:|$ComboBox_1|#1" />
+
+	<PushButton Name="ClosePB" Tag="[PushButton]Close|$m_btnClose" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

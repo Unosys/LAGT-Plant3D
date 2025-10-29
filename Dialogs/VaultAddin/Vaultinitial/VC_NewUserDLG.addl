@@ -1,0 +1,23 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_NewUserDLG" Tag="[Pane]$UserProfileForm" ParentType="VC_UserAndGroupManagementDLG">
+
+
+  <PushButton Name="CancelPB" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_dialogButtonPanel/[PushButton]$m_cancelButton" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_dialogButtonPanel/[PushButton]$m_okButton" />
+
+  <PushButton Name="GroupsPB" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_rolesVaultsPanel/[PushButton]$m_groupsButton" />
+  <PushButton Name="VaultsPB" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_rolesVaultsPanel/[PushButton]$m_vaultsButton" />
+  <PushButton Name="RolesPB" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_rolesVaultsPanel/[PushButton]$m_rolesButton" />
+  <PushButton Name="AccountsPB" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_rolesVaultsPanel/[PushButton]$m_authByButton" />
+
+
+  <!--<TextField Name="EmailAliasTF" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_nameEmailPanel/[TextField]$m_emailTextEdit" />-->
+	<TextField Name="EmailAliasTF" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_nameEmailPanel/[TextField]$m_emailTextEdit" />
+	<!--<TextField Name="DisplayNameTF" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_nameEmailPanel/[TextField]$m_loginNameTextEdit" />-->
+	<TextField Name="DisplayNameTF" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_nameEmailPanel/[TextField]$m_loginNameTextEdit" />
+	<!--<TextField Name="FirstNameTF" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_attributesTableLayoutPanel/[Pane]$m_attributesPanel/[Pane]#1/[TextField]$m_profAttrValTextBox" />-->
+	<TextField Name="FirstNameTF" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_attributesTableLayoutPanel/[Pane]$m_attributesPanel/[Pane]#1/[TextField]$m_profAttrValTextBox" />
+	<!--<TextField Name="LastNameTF" Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_attributesTableLayoutPanel/[Pane]$m_attributesPanel/[Pane]#2/[TextField]$m_profAttrValTextBox" />-->
+	<TextField Name="LastNameTF"  Tag="[Pane]$m_userProfileTableLayoutPanel/[Pane]$m_attributesTableLayoutPanel/[Pane]$m_attributesPanel/[Pane]#2/[TextField]$m_profAttrValTextBox" />
+
+
+</Pane>

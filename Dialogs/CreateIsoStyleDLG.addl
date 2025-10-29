@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateIsoStyleDLG" Tag="[Pane]Create Iso Style|$CreateNewIsoType" ParentType="IsometricDWGSettingsIsoStyleSetupDLG" GUIType="UIA">
+  <RadioButton Name="NewStyleName1RB" Tag="[RadioButton]New style name:[1]|$radioButton_CopyStyle|#1" />
+  <RadioButton Name="NewStyleName2RB" Tag="[RadioButton]New style name:[2]|$radioButton_CreateNewStyle|#2" />
+  <CheckBox Name="SpoolFormatCK" Tag="[CheckBox]Spool format|$checkBox_SpoolFormat|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$button_Help" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$button_Cancel" />
+  <PushButton Name="CreatePB" Tag="[PushButton]Create|$button_Create" />
+  <PopupList Name="SelectAnExistingStylePL" Tag="[PopupList]Select an existing style:|$comboBox_IsoType|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]Select an existing style:|$comboBox_IsoType|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="SelectAnExistingStyleST" Tag="[StaticText]Select an existing style:|$label_ExistingType|#2" />
+  <TextField Name="NewStyleNameTF" Tag="[TextField]$textBox_WSName|#1" />
+  <StaticText Name="NewStyleNameST" Tag="[StaticText]$label_NewName|#1" />
+  <TitleBar Name="CreateIsoStyleCTL" Tag="[TitleBar]Create Iso Style|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Iso Style|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateNewIsoType|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Iso Style|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateNewIsoType|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Iso Style|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

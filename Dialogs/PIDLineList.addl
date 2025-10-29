@@ -1,0 +1,21 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDLineList" Tag="[Pane]$ControlAxSourcingSite" ParentType="CustomWin" GUIType="UIA">
+
+
+	
+	<Pane Name="Pane3PANE" Tag="[Pane]$splitContainer1|#3/[Pane]#1/[Pane]#1" />
+		<TreeView Name="TreeViewTV" Tag="[Pane]$splitContainer1|#3/[Pane]#2/[Pane]$m_ElementHost|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[TreeView]$LineListTree|#1" />
+	<TreeViewItem Name="Node1TVI" Tag="[Pane]$splitContainer1|#3/[Pane]#2/[Pane]$m_ElementHost|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[TreeView]$LineListTree|#1/[TreeViewItem]#1" />
+	<PushButton Name="PushButton1PB" Tag="[Pane]$splitContainer1|#3/[Pane]#2/[Pane]$m_ElementHost|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[TreeView]$LineListTree|#1/[TreeViewItem]#1/[PushButton]$Expander|#1" />
+	<StaticText Name="one038ST" Tag="[Pane]$splitContainer1|#3/[Pane]#2/[Pane]$m_ElementHost|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[TreeView]$LineListTree|#1/[TreeViewItem]#1/[StaticText]1038|$GroupText|#1" />
+	<TreeViewItem Name="Node2TVI" Tag="[Pane]$splitContainer1|#3/[Pane]#2/[Pane]$m_ElementHost|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[TreeView]$LineListTree|#1/[TreeViewItem]#2" />
+	<PushButton Name="PushButton2PB" Tag="[Pane]$splitContainer1|#3/[Pane]#2/[Pane]$m_ElementHost|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[TreeView]$LineListTree|#1/[TreeViewItem]#2/[PushButton]$Expander|#1" />
+	<StaticText Name="one039ST" Tag="[Pane]$splitContainer1|#3/[Pane]#2/[Pane]$m_ElementHost|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[TreeView]$LineListTree|#1/[TreeViewItem]#2/[StaticText]1039|$GroupText|#1" />
+
+	<PopupList Name="PopupListPL" Tag="[PopupList]$m_cmbDwgTitles|#1" />
+	<PushButton Name="OpenPB" Tag="[PopupList]$m_cmbDwgTitles|#1/[PushButton]Open|#1" />
+
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

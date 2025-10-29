@@ -1,0 +1,15 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProgressDLG" Tag="[Pane]Progress|$ProgressForm" ParentType="Desktop" GUIType="UIA">
+  <Pane Name="AutodeskAutoCADPlantReportPANE" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1/[Pane]$m_mainTableLayoutPanel|#1" />
+  <Pane Name="TheFileCTestFilepdfAlready1PANE" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1/[Pane]$m_mainTableLayoutPanel|#1/[Pane]The file &quot;C:*[1]|$m_iconPicBox|#1" />
+  <Pane Name="TheFileCTestFilepdfAlready2PANE" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1/[Pane]$m_mainTableLayoutPanel|#1/[Pane]The file &quot;C:*[2]|$m_buttonsTableLayoutPanel|#2" />
+  <PushButton Name="NoPB" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1/[Pane]$m_mainTableLayoutPanel|#1/[Pane]The file &quot;C:*[2]|$m_buttonsTableLayoutPanel|#2/[PushButton]No|$m_noBtn|#2" />
+  <PushButton Name="YesPB" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1/[Pane]$m_mainTableLayoutPanel|#1/[Pane]The file &quot;C:*[2]|$m_buttonsTableLayoutPanel|#2/[PushButton]Yes|$m_yesBtn|#1" />
+  <StaticText Name="TheFileCTestFilepdfAlreadyST" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1/[Pane]$m_mainTableLayoutPanel|#1/[StaticText]The file &quot;C:*|$m_msgLbl|#1" />
+  <TitleBar Name="AutodeskAutoCADPlantReportCTL" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1/[TitleBar]Autodesk AutoCAD Plant Report Creator|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#1/[TitleBar]Autodesk AutoCAD Plant Report Creator|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_cancelBtn|#1" />
+  <StaticText Name="ProcessingReport1OfST" Tag="[StaticText]Processing report 1 of 1|$m_statusLbl|#1" />
+  <CustomWin Name="ProcessingReport1OfWIN" Tag="[CustomWin]Processing report 1 of 1|$m_progressBar|#1" />
+  <TitleBar Name="ProgressCTL" Tag="[TitleBar]Progress|$TitleBar|#1" />
+</Pane>

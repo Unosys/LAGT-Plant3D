@@ -1,0 +1,23 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PickPCFFileDLG" Tag="[DialogBox]Pick PCF File|#1" ParentType="CreateIsoFromPCFDLG">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="CreateNewFolderAlt5" Tag="[PushButton]$" />
+<PushButton Name="DeleteDel" Tag="[PushButton]$" />
+<StaticText Name="FileName" Tag="[StaticText]$" />
+<ComboBox Name="FileNameComboBox" Tag="[ComboBox]$" />
+<TextField Name="FileNameTextField" Tag="[TextField]$" />
+<StaticText Name="FilesOfType" Tag="[StaticText]$" />
+<ComboBox Name="FilesOfTypeComboBox" Tag="[ComboBox]$" />
+<Header Name="Header" Tag="[Header]$" />
+<ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$" />
+<ListView Name="ListView" Tag="[ListView]$" />
+<ListBox Name="LookIn" Tag="[ListBox]$" />
+<ComboBox Name="LookInComboBox" Tag="[ComboBox]$" />
+<StaticText Name="LookInLabel" Tag="[StaticText]$" />
+<PushButton Name="Open" Tag="[PushButton]$1" />
+<PushButton Name="PreviousFolderAlt1" Tag="[PushButton]$" />
+<PushButton Name="SearchTheWebAlt3" Tag="[PushButton]$" />
+<CustomWin Name="SHELLDLL_DefView" Tag="[CustomWin]$SHELLDLL_DefView" />
+<PushButton Name="Tools" Tag="[PushButton]$" />
+<PushButton Name="UpOneLevelAlt2" Tag="[PushButton]$" />
+<PushButton Name="Views" Tag="[PushButton]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

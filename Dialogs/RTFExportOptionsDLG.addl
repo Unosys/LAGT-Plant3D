@@ -1,0 +1,27 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.RTFExportOptionsDLG" Tag="[Pane]RTF Export Options|$LinesForm|#1" GUIType="UIA">
+  <Pane Name="PnlButtonsPANE" Tag="[Pane]pnlButtons|$pnlButtons|#2" />
+  <!--<PushButton Name="BtnCancel" Tag="[Pane]pnlButtons|$pnlButtons|#2/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="BtnOK" Tag="[Pane]pnlButtons|$pnlButtons|#2/[PushButton]OK|$btnOK|#1" />-->
+  
+   <PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]OK|$btnOK|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]$4915790|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$4915790|#1/[Pane]$3015274|#1" />
+  <StaticText Name="ExportModeST" Tag="[Pane]$4915790|#1/[Pane]$3015274|#1/[StaticText]Export mode:|$4915704|#1" />
+  <PopupList Name="ExportModePL" Tag="[Pane]$4915790|#1/[Pane]$3015274|#1/[PopupList]Export mode:|$3475010|#1" />
+  <StaticText Name="SingleFilePagebypageST" Tag="[Pane]$4915790|#1/[Pane]$3015274|#1/[PopupList]Export mode:|$3475010|#1/[StaticText]Single file page-by-page|#1" />
+  <PushButton Name="OpenPB" Tag="[Pane]$4915790|#1/[Pane]$3015274|#1/[PopupList]Export mode:|$3475010|#1/[PushButton]Open|#1" />
+  <ListBox Name="SingleFilePagebypageLB" Tag="[Pane]$4915790|#1/[Pane]$3015274|#1/[PopupList]Export mode:|$3475010|#1/[ListBox]Single file page-by-page|#1" />
+  <ListBoxItem Name="SingleFileLBI" Tag="[Pane]$4915790|#1/[Pane]$3015274|#1/[PopupList]Export mode:|$3475010|#1/[ListBox]Single file page-by-page|#1/[ListBoxItem]Single file|#2" />
+  <ListBoxItem Name="SingleFilePagebypageLBI" Tag="[Pane]$4915790|#1/[Pane]$3015274|#1/[PopupList]Export mode:|$3475010|#1/[ListBox]Single file page-by-page|#1/[ListBoxItem]Single file page-by-page|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$4915790|#1/[Pane]$4522738|#2" />
+  <StaticText Name="PageRangeST" Tag="[Pane]$4915790|#1/[Pane]$4522738|#2/[StaticText]Page range:|$5375746|#1" />
+  <ComboBox Name="PageRangeCB" Tag="[Pane]$4915790|#1/[Pane]$4522738|#2/[ComboBox]Page range:|$4785134|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$4915790|#1/[Pane]$2688220|#3" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$4915790|#1/[Pane]$5702322|#4" />
+  <CheckBox Name="ExportWatermarksCK" Tag="[Pane]$4915790|#1/[Pane]$5702322|#4/[CheckBox]Export watermarks|$4916016|#1" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$4915790|#1/[Pane]$2360060|#5" />
+  <StaticText Name="StaticTextST" Tag="[Pane]$4915790|#1/[Pane]$2360060|#5/[StaticText]$3343646|#1" />
+  <TitleBar Name="RTFExportOptionsCTL" Tag="[TitleBar]RTF Export Options|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]RTF Export Options|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

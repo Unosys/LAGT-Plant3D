@@ -1,0 +1,56 @@
+<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectPublishOptionsDLG" Tag="[DialogBox]Project Publish Options|#1" ParentType="DialogBox" GUIType="WIN32">
+
+  --><!--<CustomWin Name="Icon1" Tag="[CustomWin][Icon]#1|[Icon]$4790" />
+<StaticText Name="CurrentUserNsarchText" Tag="[StaticText]Current user: nsarch|#1|$4791" />
+<CustomWin Name="CurrentUserNsarch" Tag="[CustomWin][ATL:5C4ED990]Current user: nsarch|[ATL:5C4ED990]#1|[ATL:5C4ED990]$4653" />
+<ListBox Name="ListBox1" Tag="[ListBox]#1|$239" />
+<PushButton Name="PushButton1" Tag="[PushButton]#1|$244" />
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$1" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|#2|$2" />
+<PushButton Name="Help" Tag="[PushButton]Help|#3|$9" />--><!--
+  <Image Name="ImageIMG" Tag="[Image]$4790|#1" />
+  <StaticText Name="CurrentUserTestingST" Tag="[StaticText]Current user: Testing|$4791|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[CustomWin]$4653|#1" />
+  <ListBox Name="ListBoxLB" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$706977376|#1" />
+  <CustomWin Name="CustomWin3WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$700987520|#2" />
+  <CustomWin Name="CustomWin4WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$711305840|#3" />
+  <CustomWin Name="CustomWin5WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$1229422992|#4" />
+  <CustomWin Name="CustomWin6WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$1229423968|#5" />
+  <CustomWin Name="CustomWin7WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$1229424944|#6" />
+  <CustomWin Name="CustomWin8WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$1229425920|#7" />
+  <CustomWin Name="CustomWin9WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$1229426896|#8" />
+  <CustomWin Name="CustomWin10WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$1228967624|#9" />
+  <CustomWin Name="CustomWin11WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$1229427872|#10" />
+  <CustomWin Name="CustomWin12WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$1229428848|#11" />
+  <PushButton Name="PushButtonPB" Tag="[CustomWin]$4653|#1/[PushButton]$244|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$1|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$9|#3" />
+  <PushButton Name="PushButton1PB" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$646787776|#4/[PushButton]$1039|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>-->
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectPublishOptionsDLG" Tag="[DialogBox]Project Publish Options|#1" ParentType="DialogBox" GUIType="WIN32">
+  <Image Name="ImageIMG" Tag="[Image]$4790|#1" />
+  <StaticText Name="CurrentUserAdministratorST" Tag="[StaticText]Current user: Administrator|$4791|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[CustomWin]$4653|#1" />
+  <ListBox Name="ListBoxLB" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1937067696|#1" />
+  <CustomWin Name="CustomWin3WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1937064768|#2" />
+  <CustomWin Name="CustomWin4WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1937063792|#3" />
+  <CustomWin Name="CustomWin5WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]#4" />
+  <PushButton Name="PushButton1PB" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1937074528|#4/[PushButton]$1039|#1" />
+  <PopupList Name="PopupListPL" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1937074528|#4/[PopupList]$1002|#1" />
+  <CustomWin Name="CustomWin6WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1786816720|#5" />
+  <CustomWin Name="CustomWin7WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1786811840|#6" />
+  <CustomWin Name="CustomWin8WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1786809888|#7" />
+  <CustomWin Name="CustomWin9WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1786807936|#8" />
+  <CustomWin Name="CustomWin10WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1949622840|#9" />
+  <CustomWin Name="CustomWin11WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1786822576|#10" />
+  <CustomWin Name="CustomWin12WIN" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$-1786818672|#11" />
+  <PushButton Name="PushButton2PB" Tag="[CustomWin]$4653|#1/[PushButton]$244" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$1|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$9|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

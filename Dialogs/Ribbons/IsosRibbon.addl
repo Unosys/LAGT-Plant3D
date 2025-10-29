@@ -1,0 +1,9 @@
+﻿<RibbonDialogClassP3D Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsosRibbon" Tag="[CustomWin]Ribbon|$59419/[CustomWin]Ribbon|$16719/[CustomWin]Ribbon|$7/[Pane]#1" ParentType="Plant3D" GUIType="UIA">
+  
+  <CustomWin Name="ExportPanel" Tag="[CustomWin]$PNP.ID_TabIsometrics_PanelBarScrollViewer/[CustomWin]Export|$ID_PanelPCFExport" IsNestedClass="True">
+    <PushButton Name="PCFExportPB" Tag="[CustomWin]$ID_PP_PCFEXPORT_RibbonItemControl/[PushButton]$ID_PP_PCFEXPORT" />
+  </CustomWin>
+
+
+
+</RibbonDialogClassP3D>

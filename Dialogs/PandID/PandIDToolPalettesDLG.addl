@@ -1,0 +1,6 @@
+<CustomWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDToolPalettesDLG" Tag="[CustomWin]Tool Palettes|#6" ParentType="Plant3D" GUIType="WIN32">
+  <CustomWin Name="ToolPalettes1WIN" Tag="[CustomWin]Tool Palettes|$59423|#1" />
+  <CustomWin Name="ToolPalettes2WIN" Tag="[CustomWin]Tool Palettes|$59423|#1/[CustomWin]Tool Palettes|$16718|#1" />
+  <CustomWin Name="ValvesWIN" Tag="[CustomWin]Tool Palettes|$59423|#1/[CustomWin]Tool Palettes|$16718|#1/[CustomWin]Valves|$5|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]Tool Palettes|$59423|#1/[CustomWin]Tool Palettes|$16718|#1/[CustomWin]Valves|$5|#1/[CustomWin]$65535|#1" />
+</CustomWin>

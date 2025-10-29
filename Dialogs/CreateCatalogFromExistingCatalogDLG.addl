@@ -1,0 +1,27 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateCatalogFromExistingCatalogDLG" Tag="[Window]Create Catalog From Existing Catalog|$Window_1|" ParentType="MainWin">
+  <TitleBar Name="CreateCatalogFromExistingCTL" Tag="[TitleBar]Create Catalog From Existing Catalog|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Catalog From Existing Catalog|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Catalog From Existing Catalog|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Catalog From Existing Catalog|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="CreatePB" Tag="[PushButton]Create|$CreateButton|#3" />
+  <StaticText Name="CreateST" Tag="[PushButton]Create|$CreateButton|#3/[StaticText]Create|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#4" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelButton|#4/[StaticText]Cancel|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$HelpButton|#5" />
+  <StaticText Name="HelpST" Tag="[PushButton]Help|$HelpButton|#5/[StaticText]Help|#1" />
+  <StaticText Name="SourceCatalogNameST" Tag="[StaticText]Source Catalog name:|$ExistingFileText|#1" />
+  <StaticText Name="SourceCatalognameST" Tag="[StaticText]Source Catalog name:|$ExistingFileText|#1/[StaticText]Source Catalog _name:|#1" />
+  <TextField Name="SourceCatalogNameTF" Tag="[TextField]Source Catalog name:|$ExistingFileTextBox|#1" />
+  <Pane Name="Pane1PANE" Tag="[TextField]Source Catalog name:|$ExistingFileTextBox|#1/[Pane]$PART_ContentHost|#1" />
+  <PushButton Name="PushButton1PB" Tag="[PushButton]**[1]|$ExistingFileBrowseButton|#1" />
+  <StaticText Name="StaticText1ST" Tag="[PushButton]**[1]|$ExistingFileBrowseButton|#1/[StaticText]**|#1" />
+  <StaticText Name="CAutoCADPlant3D20161ST" Tag="[StaticText]C:*[1]|$ExistingFilePathText|#2" />
+  <StaticText Name="NewCatalogNameST" Tag="[StaticText]New Catalog name:|$NewFileText|#3" />
+  <StaticText Name="NewCatalognameST" Tag="[StaticText]New Catalog name:|$NewFileText|#3/[StaticText]New Catalog _name:|#1" />
+  <TextField Name="NewCatalogNameTF" Tag="[TextField]New Catalog name:|$NewFileTextBox|#2" />
+  <Pane Name="Pane2PANE" Tag="[TextField]New Catalog name:|$NewFileTextBox|#2/[Pane]$PART_ContentHost|#1" />
+  <PushButton Name="PushButton2PB" Tag="[PushButton]**[2]|$NewFileBrowseButton|#2" />
+  <StaticText Name="StaticText2ST" Tag="[PushButton]**[2]|$NewFileBrowseButton|#2/[StaticText]**|#1" />
+  <StaticText Name="CAutoCADPlant3D20162ST" Tag="[StaticText]C:*[2]|$NewFilePathText|#4" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

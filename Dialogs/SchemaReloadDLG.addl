@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SchemaReloadDLG" Tag="[DialogBox]Schema reload" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]#1|$2" />
+<StaticText Name="SchemaReloadedSuccessfullyTe" Tag="[StaticText]#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

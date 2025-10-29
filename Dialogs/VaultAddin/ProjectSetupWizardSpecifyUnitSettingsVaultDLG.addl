@@ -1,0 +1,36 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardSpecifyUnitSettingsVaultDLG" Tag="[Pane]$CreateProjectWizard" ParentType="Plant3D">
+<!--<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonNext" Tag="[PushButton]$m_buttonNext" />
+<StaticText Name="M_imperailLbl" Tag="[StaticText]$m_imperailLbl" />
+<RadioButton Name="M_imperialRadioBtn" Tag="[RadioButton]$m_imperialRadioBtn" />
+<RadioButton Name="M_inchRadioBtn" Tag="[RadioButton]$m_inchRadioBtn" />
+<StaticText Name="M_metricLbl" Tag="[StaticText]$m_metricLbl" />
+<RadioButton Name="M_metricRadioBtn" Tag="[RadioButton]$m_metricRadioBtn" />
+<GroupBox Name="M_mixedUnitsPnl" Tag="[GroupBox]$m_mixedUnitsPnl" />
+<RadioButton Name="M_mmRadioBtn" Tag="[RadioButton]$m_mmRadioBtn" />
+<StaticText Name="M_nomialDiaUnitslbl" Tag="[StaticText]$m_nomialDiaUnitslbl" />
+<StaticText Name="M_unitsTitleLbl" Tag="[StaticText]$m_unitsTitleLbl" />-->
+ <!--//<CustomWin Name ="M_wizardSetup" Tag="$m_wizardSetup" />-->
+<GroupBox Name="PageUnitSettings" Tag="[GroupBox]$pageUnitSettings" />
+  <Pane Name="PanePANE" Tag="[Pane]$m_wizardSetup|#1" />
+  <Pane Name="SpecifyTheDirectoryWherePANE" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1" />
+  <Pane Name="MostUnitsbasedPropertiesArePANE" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[Pane]Most units-based properties are reported in millimeters*|$m_mixedUnitsPnl|#1" />
+  <StaticText Name="ReportNominalDiametersOfST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[Pane]Most units-based properties are reported in millimeters*|$m_mixedUnitsPnl|#1/[StaticText]Report nominal diameters of imperial content in:|$m_nomialDiaUnitslbl|#1" />
+  <RadioButton Name="ReportNominalDiametersOf1RB" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[Pane]Most units-based properties are reported in millimeters*|$m_mixedUnitsPnl|#1/[RadioButton]Report nominal diameters of imperial content in:[1]|$m_inchRadioBtn|#2" />
+  <RadioButton Name="ReportNominalDiametersOf2RB" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[Pane]Most units-based properties are reported in millimeters*|$m_mixedUnitsPnl|#1/[RadioButton]Report nominal diameters of imperial content in:[2]|$m_mmRadioBtn|#1" />
+  <StaticText Name="MostUnitsbasedPropertiesAreST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[StaticText]Most units-based properties are reported in millimeters*|$m_metricLbl|#3" />
+  <RadioButton Name="SpecifyTheBaseUnit1RB" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[RadioButton]Specify the base unit for project drawings:[1]|$m_metricRadioBtn|#2" />
+  <StaticText Name="AllUnitsbasedPropertiesAreST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[StaticText]All units-based properties are reported in inches*|$m_imperailLbl|#2" />
+  <RadioButton Name="SpecifyTheBaseUnit2RB" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[RadioButton]Specify the base unit for project drawings:[2]|$m_imperialRadioBtn|#1" />
+  <StaticText Name="SpecifyTheBaseUnitST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[StaticText]Specify the base unit for project drawings:|$m_unitsTitleLbl|#1" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Next;|$m_buttonNext|#2" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Cancel|$m_buttonCancel|#3" />
+  <PushButton Name="BackPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]&lt;&lt; Back|$m_buttonBack|#1" />
+  <TitleBar Name="ProjectSetupWizardPageCTL" Tag="[TitleBar]Project Setup Wizard (Page 2 of 6)|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup Wizard (Page 2 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup Wizard (Page 2 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 2 of 6)|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

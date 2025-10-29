@@ -1,0 +1,37 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ToolBoxDLG" Tag = "[Pane]$XRToolBoxUserControl" ParentType="Pane">
+
+	<MenuItem Name="ItemMI" Tag="[ToolBar]#1/[MenuItem]#1" />
+	
+	<Pane Name="TablePanel1PANE" Tag="[Pane]tablePanel1|$tablePanel1|#1" />
+	<Pane Name="SidePanel1PANE" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]sidePanel1|$sidePanel1|#1" />
+	<Pane Name="HostButtonPANE" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]sidePanel1|$sidePanel1|#1/[Pane]hostButton|$hostButton|#1" />
+	<PushButton Name="PushButtonPB" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]sidePanel1|$sidePanel1|#1/[Pane]hostButton|$hostButton|#1/[PushButton]$53478400|#1" />
+	<Pane Name="HostContentPANE" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2" />
+	<Pane Name="ToolboxPANE" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1" />
+	<ListBoxItem Name="StandardControlsLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Standard Controls|#1" />
+	<ListBoxItem Name="PointerLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Pointer|#2" />
+	<ListBoxItem Name="LabelLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Label|#3" />
+	<ListBoxItem Name="CheckBoxLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Check Box|#4" />
+	<ListBoxItem Name="RichTextLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Rich Text|#5" />
+	<ListBoxItem Name="PictureBoxLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Picture Box|#6" />
+	<ListBoxItem Name="PanelLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Panel|#7" />
+	<ListBoxItem Name="TableLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Table|#8" />
+	<ListBoxItem Name="CharacterCombLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Character Comb|#9" />
+	<ListBoxItem Name="LineLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Line|#10" />
+	<ListBoxItem Name="ShapeLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Shape|#11" />
+	<ListBoxItem Name="BarcodeLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Barcode|#12" />
+	<ListBoxItem Name="ChartLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Chart|#13" />
+	<ListBoxItem Name="CrossTabLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Cross Tab|#14" />
+	<ListBoxItem Name="GaugeLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Gauge|#15" />
+	<ListBoxItem Name="SparklineLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Sparkline|#16" />
+	<ListBoxItem Name="SubReportLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Sub-Report|#17" />
+	<ListBoxItem Name="PDFContentLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]PDF Content|#18" />
+	<ListBoxItem Name="PDFSignatureLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]PDF Signature|#19" />
+	<ListBoxItem Name="TableOfContentsLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Table of Contents|#20" />
+	<ListBoxItem Name="PageInfoLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Page Info|#21" />
+	<ListBoxItem Name="PageBreakLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Page Break|#22" />
+	<ListBoxItem Name="CrossbandLineLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Cross-band Line|#23" />
+	<ListBoxItem Name="CrossbandBoxLBI" Tag="[Pane]tablePanel1|$tablePanel1|#1/[Pane]hostContent|$hostContent|#2/[Pane]Toolbox|$56887688|#1/[ListBoxItem]Cross-band Box|#24" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

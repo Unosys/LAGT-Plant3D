@@ -1,0 +1,39 @@
+<Pane  Class="Autodesk.GUIHarness.Plant3D.Dialogs.LogInDLG" Tag="[Pane]$LoginDialog" ParentType="MainWin" GUIType="UIA">
+
+
+	<Pane Name="Pane1PANE" Tag="[Pane]#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]$tableLayoutPanel" />
+	<Pane Name="Pane3PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$autoLoginCheckbox|#11" />
+	<Pane Name="UserNamePANE" Tag="[Pane]$tableLayoutPanel/[Pane]User Name:|$userNameLabel|#3" />
+	<Pane Name="PasswordPANE" Tag="[Pane]$tableLayoutPanel/[Pane]Password:|$passwordLabel|#5" />
+	<Pane Name="ServerPANE" Tag="[Pane]$tableLayoutPanel/[Pane]Server:|$serverLabel|#7" />
+	<Pane Name="VaultPANE" Tag="[Pane]$tableLayoutPanel/[Pane]Vault:|$databaseLabel|#9" />
+	<Pane Name="Pane4PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$userNameTextBox|#4" />
+	<TextField Name="UserNameTF" Tag="[Pane]$tableLayoutPanel/[Pane]$userNameTextBox|#4/[TextField]#1" />
+	<Pane Name="Pane5PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$passwordTextBox|#6" />
+	<TextField Name="TextField2TF" Tag="[Pane]$tableLayoutPanel/[Pane]$passwordTextBox|#6/[TextField]#1" />
+	<Pane Name="Pane6PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$serverComboBox|#8" />
+	<TextField Name="TextField3TF" Tag="[Pane]$tableLayoutPanel/[Pane]$serverComboBox|#8/[TextField]#1" />
+	<Pane Name="Pane7PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$panel1" />
+	<Pane Name="Pane8PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$panel1/[Pane]$tableLayoutPanel2|#1" />
+	<Pane Name="Pane9PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$panel1/[Pane]$tableLayoutPanel2|#1/[Pane]$expandCollapseButton|#3" />
+	<Pane Name="OKPANE" Tag="[Pane]$tableLayoutPanel/[Pane]$panel1/[Pane]$tableLayoutPanel2|#1/[Pane]$okButton|#1" />
+	<Pane Name="CancelPANE" Tag="[Pane]$tableLayoutPanel/[Pane]$panel1/[Pane]$tableLayoutPanel2|#1/[Pane]Cancel|$cancelButton|#2" />
+	<Pane Name="Pane10PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$databasePanel" />
+	<Pane Name="Pane11PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$databasePanel/[Pane]$tableLayoutPanel1|#1" />
+	<Pane Name="Pane12PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$databasePanel/[Pane]$tableLayoutPanel1|#1/[Pane]$databaseCombobox|#1" />
+	<TextField Name="TextField4TF" Tag="[Pane]$tableLayoutPanel/[Pane]$databasePanel/[Pane]$tableLayoutPanel1|#1/[Pane]$databaseCombobox|#1/[TextField]$7079138|#1" />
+	<Pane Name="Pane13PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$databasePanel/[Pane]$tableLayoutPanel1|#1/[Pane]**|$selectDatabaseButton|#2" />
+	<Pane Name="Pane14PANE" Tag="[Pane]$tableLayoutPanel/[Pane]$loginTypeComboBox|#2" />
+	<Pane Name="AuthenticationPANE" Tag="[Pane]$tableLayoutPanel/[Pane]Authentication:|$loginTypeLabel|#1" />
+	<Pane Name="Pane15PANE" Tag="[Pane]$panel2|#2" />
+	<Pane Name="Pane16PANE" Tag="[Pane]$panel2|#2/[Pane]$pictureBox1|#1" />
+	<Pane Name="StatusStrip1PANE" Tag="[Pane]statusStrip1|$statusStrip1|#4" />
+	<TitleBar Name="LogInCTL" Tag="[TitleBar]Log In|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Log In|$TitleBar|#1/[CustomWin]System Menu Bar|$LoginDialog|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Log In|$TitleBar|#1/[CustomWin]System Menu Bar|$LoginDialog|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Log In|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+
+</Pane >

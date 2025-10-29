@@ -1,0 +1,63 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ImageExportOptionsDLG" Tag="[Pane]Image Export Options|$LinesForm|#1" GUIType="UIA">
+  <Pane Name="PnlButtonsPANE" Tag="[Pane]pnlButtons|$pnlButtons|#2" />
+  <!--<PushButton Name="BtnCancel" Tag="[Pane]pnlButtons|$pnlButtons|#2/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="BtnOK" Tag="[Pane]pnlButtons|$pnlButtons|#2/[PushButton]OK|$btnOK|#1" />-->
+  <PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]OK|$btnOK|#1" />
+
+  <Pane Name="Pane1PANE" Tag="[Pane]$5637166|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1" />
+  <StaticText Name="ImageFormatST" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[StaticText]Image format:|$4785084|#1" />
+  <PopupList Name="ImageFormatPL" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1" />
+  <StaticText Name="PNGST" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[StaticText]PNG|#1" />
+  <PushButton Name="Open1PB" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[PushButton]Open|#1" />
+  <ListBox Name="PNGLB" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[ListBox]PNG|#1" />
+  <ListBoxItem Name="BMPLBI" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[ListBox]PNG|#1/[ListBoxItem]BMP|#1" />
+  <ListBoxItem Name="EMFLBI" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[ListBox]PNG|#1/[ListBoxItem]EMF|#6" />
+  <ListBoxItem Name="WMFLBI" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[ListBox]PNG|#1/[ListBoxItem]WMF|#5" />
+  <ListBoxItem Name="GIFLBI" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[ListBox]PNG|#1/[ListBoxItem]GIF|#4" />
+  <ListBoxItem Name="JPEGLBI" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[ListBox]PNG|#1/[ListBoxItem]JPEG|#3" />
+  <ListBoxItem Name="PNGLBI" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[ListBox]PNG|#1/[ListBoxItem]PNG|#2" />
+  <ListBoxItem Name="TIFFLBI" Tag="[Pane]$5637166|#1/[Pane]$2360862|#1/[PopupList]Image format:|$3474984|#1/[ListBox]PNG|#1/[ListBoxItem]TIFF|#7" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$5637166|#1/[Pane]$5636622|#2" />
+  <StaticText Name="ResolutiondpiST" Tag="[Pane]$5637166|#1/[Pane]$5636622|#2/[StaticText]Resolution (dpi):|$6751622|#1" />
+  <TextField Name="ResolutiondpiTF" Tag="[Pane]$5637166|#1/[Pane]$5636622|#2/[TextField]Resolution (dpi):|$4850742|#1" />
+  <TextField Name="TextField1TF" Tag="[Pane]$5637166|#1/[Pane]$5636622|#2/[TextField]Resolution (dpi):|$4850742|#1/[TextField]$5046776|#1" />
+  <TextField Name="TextField2TF" Tag="[Pane]$5637166|#1/[Pane]$5636622|#2/[TextField]Resolution (dpi):|$4850742|#1/[TextField]#2" />
+  <CustomWin Name="Spinner1WIN" Tag="[Pane]$5637166|#1/[Pane]$5636622|#2/[TextField]Resolution (dpi):|$4850742|#1/[CustomWin]Spinner|#1" />
+  <PushButton Name="Up1PB" Tag="[Pane]$5637166|#1/[Pane]$5636622|#2/[TextField]Resolution (dpi):|$4850742|#1/[CustomWin]Spinner|#1/[PushButton]Up|#1" />
+  <PushButton Name="Down1PB" Tag="[Pane]$5637166|#1/[Pane]$5636622|#2/[TextField]Resolution (dpi):|$4850742|#1/[CustomWin]Spinner|#1/[PushButton]Down|#2" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$5637166|#1/[Pane]$4654462|#3" />
+  <StaticText Name="StaticText1ST" Tag="[Pane]$5637166|#1/[Pane]$4654462|#3/[StaticText]$6227170|#1" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4" />
+  <StaticText Name="ExportModeST" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4/[StaticText]Export mode:|$5046862|#1" />
+  <PopupList Name="ExportModePL" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4/[PopupList]Export mode:|$5506818|#1" />
+  <StaticText Name="SingleFileST" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4/[PopupList]Export mode:|$5506818|#1/[StaticText]Single file|#1" />
+  <PushButton Name="Open2PB" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4/[PopupList]Export mode:|$5506818|#1/[PushButton]Open|#1" />
+  <ListBox Name="SingleFileLB" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4/[PopupList]Export mode:|$5506818|#1/[ListBox]Single file|#1" />
+  <ListBoxItem Name="SingleFileLBI" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4/[PopupList]Export mode:|$5506818|#1/[ListBox]Single file|#1/[ListBoxItem]Single file|#1" />
+  <ListBoxItem Name="SingleFilePagebypageLBI" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4/[PopupList]Export mode:|$5506818|#1/[ListBox]Single file|#1/[ListBoxItem]Single file page-by-page|#2" />
+  <ListBoxItem Name="DifferentFilesLBI" Tag="[Pane]$5637166|#1/[Pane]$3802508|#4/[PopupList]Export mode:|$5506818|#1/[ListBox]Single file|#1/[ListBoxItem]Different files|#3" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$5637166|#1/[Pane]$3606082|#5" />
+  <StaticText Name="PageRangeST" Tag="[Pane]$5637166|#1/[Pane]$3606082|#5/[StaticText]Page range:|$2426648|#1" />
+  <PopupList Name="PageRangePL" Tag="[Pane]$5637166|#1/[Pane]$3606082|#5/[PopupList]Page range:|$3146346|#1" />
+  <StaticText Name="StaticText2ST" Tag="[Pane]$5637166|#1/[Pane]$3606082|#5/[PopupList]Page range:|$3146346|#1/[StaticText]#1" />
+  <ListBox Name="ListBoxLB" Tag="[Pane]$5637166|#1/[Pane]$3606082|#5/[PopupList]Page range:|$3146346|#1/[ListBox]#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$5637166|#1/[Pane]$4130116|#6" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$5637166|#1/[Pane]$4653810|#7" />
+  <StaticText Name="PageBorderColorST" Tag="[Pane]$5637166|#1/[Pane]$4653810|#7/[StaticText]Page border color:|$4785314|#1" />
+  <TextField Name="PageBorderColorTF" Tag="[Pane]$5637166|#1/[Pane]$4653810|#7/[TextField]Page border color:|$4916206|#1" />
+  <StaticText Name="BlackST" Tag="[Pane]$5637166|#1/[Pane]$4653810|#7/[TextField]Page border color:|$4916206|#1/[StaticText]Black|#1" />
+  <PushButton Name="BlackPB" Tag="[Pane]$5637166|#1/[Pane]$4653810|#7/[TextField]Page border color:|$4916206|#1/[PushButton]Black|#1" />
+  <Pane Name="Pane9PANE" Tag="[Pane]$5637166|#1/[Pane]$2819292|#8" />
+  <StaticText Name="PageBorderWidthST" Tag="[Pane]$5637166|#1/[Pane]$2819292|#8/[StaticText]Page border width:|$4326222|#1" />
+  <TextField Name="PageBorderWidthTF" Tag="[Pane]$5637166|#1/[Pane]$2819292|#8/[TextField]Page border width:|$5047088|#1" />
+  <StaticText Name="oneST" Tag="[Pane]$5637166|#1/[Pane]$2819292|#8/[TextField]Page border width:|$5047088|#1/[StaticText]1|#1" />
+  <CustomWin Name="Spinner2WIN" Tag="[Pane]$5637166|#1/[Pane]$2819292|#8/[TextField]Page border width:|$5047088|#1/[CustomWin]Spinner|#1" />
+  <PushButton Name="Up2PB" Tag="[Pane]$5637166|#1/[Pane]$2819292|#8/[TextField]Page border width:|$5047088|#1/[CustomWin]Spinner|#1/[PushButton]Up|#1" />
+  <PushButton Name="Down2PB" Tag="[Pane]$5637166|#1/[Pane]$2819292|#8/[TextField]Page border width:|$5047088|#1/[CustomWin]Spinner|#1/[PushButton]Down|#2" />
+  <Pane Name="Pane10PANE" Tag="[Pane]$5637166|#1/[Pane]$5833394|#9" />
+  <StaticText Name="StaticText3ST" Tag="[Pane]$5637166|#1/[Pane]$5833394|#9/[StaticText]$3474718|#1" />
+  <TitleBar Name="ImageExportOptionsCTL" Tag="[TitleBar]Image Export Options|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Image Export Options|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDEditPIDObjectSBlockDLG" Tag="[DialogBox]EditPIDObjectSBlockDLG" ParentType="Plant3D">
+<PushButton Name="PushButton1" Tag="[PushButton]$" />
+<PushButton Name="PushButton2" Tag="[PushButton]$" />
+<TextField Name="TextField1" Tag="[TextField]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

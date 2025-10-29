@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDExportDataManagerDLG" Tag="[Pane]$PnPExportDataDlg" >
+<PushButton Name="Help" Tag="[PushButton]#4|$m_buttonHelp" />
+<PushButton Name="Cancel" Tag="[PushButton]#3|$m_buttonCancel" />
+<PushButton Name="OK" Tag="[PushButton]#2|$m_buttonOK" />
+<PushButton Name="Browse" Tag="[PushButton]#1|$m_buttonBrowse" />
+<TextField Name="EnterFileNameAndLocationF1" Tag="[TextField]#1|$m_textBoxFile" />
+<StaticText Name="EnterFileNameAndLocationF2" Tag="[StaticText]#2|$m_labelFile" />
+<StaticText Name="IncludeChildNodes" Tag="[StaticText]#1|$m_groupBoxNodes" />
+<RadioButton Name="M_radioChildNodes" Tag="[RadioButton]#1|$m_radioChildNodes" />
+<PopupList Name="SelectExportSettings" Tag="[PopupList]#1|$m_comboBoxSettings" />
+<StaticText Name="SelectExportSettingsText" Tag="[StaticText]#1|$m_labelSettings" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

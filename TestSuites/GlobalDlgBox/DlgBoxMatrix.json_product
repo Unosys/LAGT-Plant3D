@@ -1,0 +1,8243 @@
+[
+  {
+    "DlgName": "P3DOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NozzleDialog",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NozzleDialogTop",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NozzleDialogBottom",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NozzleDialogRadial",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NozzleDialogLine",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NozzleDialogNozzle",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDSelectProjectDWGDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DSelectProjectDWGDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectEquipmentTemplatesDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectSpecSheetsDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectOrthoOutputDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDSelectTemplateFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DSelectTemplateFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DOrthoGenerationDLG1",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DOrthoGenerationDLG_Successfully",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDQuickSelectDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DataLinkPropertiesDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPipeLineGroupDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSignalLineGroupDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DMapExternalPropertiesDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDMapExternalPropertiesDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DataLinkPropertiesDLG_PandID",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DataLinkPropertiesDLG_P3D",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DExternalDatabaseManagerDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecifyLineNumbersDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecifySizesDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecifyPropertyDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecifyDoubleLinePipingDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecPropertyEditorDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "SpecEditor",
+    "Children": []
+  },
+  {
+    "DlgName": "CatalogPropertyEditorDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "SpecEditor",
+    "Children": []
+  },
+  {
+    "DlgName": "UpdateSpecsFromCatalogsSettingsDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "SpecEditor",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupP3DSpecUpdateSettingsDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoDWGSettingsTableSetupDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoDWGTableSetupDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsEquipmentBOMDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsNozzleListDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsSteelBOMDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsSpoolListDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupTableLayoutDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupTableLayoutEquipmentBOMDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupTableLayoutNozzleListDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupTableLayoutSteelBOMDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupTableLayoutSpoolListDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Piping_Group_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Piping_Sort_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Equitment_Group_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Equitment_Sort_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Nozzle_Group_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Nozzle_Sort_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Steel_Group_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Steel_Sort_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Spool_Group_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_Spool_Sort_Add",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectLongDescriptionStyle_Piping",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectLongDescriptionStyle_Equipment",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectLongDescriptionStyle_Nozzle",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectLongDescriptionStyle_Steel",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsPipingBrowseDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsEquipmentBrowseDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsNozzleBrowseDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupSettingsSteelBrowseDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupTableLayoutPopupListDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableSetupTableLayoutPressureClassDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableComponents_Piping",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableComponents_Equipment",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoTableComponents_Steel",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_TableLayout_Piping_AddColumn",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_TableLayout_Equitment_AddColumn",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_TableLayout_Nozzle_AddColumn",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_TableLayout_Steel_AddColumn",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectClassProperty_TableLayout_Spool_AddColumn",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ImportDataDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DExcelImportDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PrivacySettingsDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupProjectDetailsDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AdvancedIsoCreationOptionsDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CalculatedPropertiesManager",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsIsoStyleSetupAddPropertyDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DCalculatedPropertiesDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupIsoThemesDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupIsoThemesOverrideDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupIsoThemesBranchPipingDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsoStyleEditorDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsoStyleEditorOpenDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsoStyleEditorSaveAsDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsoStyleEditorSave",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsoStyleEditorSaveDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DIsoStyleEditorDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsDimensionsDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsDimensionsSettingsDefaultDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsDimensionsSettingsGasketDimensioningDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsDimensionsLocatingSupportDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DeleteAnchorPointDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PipingComponentSelectionDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PipingComponentSelectionAddExclusionDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PipingComponentSelectionAddDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PipingComponentSelectionAddAnchorNameDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DeleteCustomizedViewDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExternalDatabaseReferenceManager",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareOpenDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenfromVaultErrorDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompare",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DProjectCompareDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareSpecSheetsDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareOrthoCubeLibraryDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareIsometricsBlocksDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareIsometricsIsoStylesDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareIsometricsSupportFilesDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectComparePipingLayerColorSettingsDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectComparePIDClassesDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectComparePIDBlocksDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareProgramDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareBrowserDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupOrthoStyleDefaultSettingsDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DataSourceWizardDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddNewParameterDLG",
+    "Release": "2021",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CalculatedFieldCollectionEditorDLG",
+    "Release": "2021",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportDesignerPropertiesDLG",
+    "Release": "2021",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FilterStringEditorDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "LayerPropertiesManagerDLG",
+    "Release": "2021",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoGenerationSettingsDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AnnotationCollectionEditorDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDLineListDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PipeSpecViewerDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveViewDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConfirmDeletionDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SetMatchesDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "WelcomeWindow",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DataCollectionAndUseDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectBackupDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectFolderDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectBackupFinishDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupGeneralSettingsPathsDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupSharedPlantContentDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPipeSpecsInPIDDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDInteroperabilityDeleteRowDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EndConnectionMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NewSpecDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectFilesToCopyToProjectDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RemovePipeSpecFromProjectDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RenamePipeSpecDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateAvailableDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenProjectFromA360DLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DProjectDrawingsContainExternalReferencesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPipeBendSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPulledPipeBendDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDPainterChooseAPropertyListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DeletePIDPainterStyleDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPIDPainterSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDPainterBlockIssuesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NewPIDPainterStyleToSaveDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsGeneralIsoSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentWarningDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentPlatformDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentFlatHeadDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentStiffeningRingDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentSkirtDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentLugDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentBodyFlangeDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PCFINSelectFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PCFINListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PCFINSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PCFINCompleteDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DSelectClassPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsAdvancedDefaultsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsTitleBlockandDisplayDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AdvanceSteelXMLExportDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExportAdvanceSteelXMLDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateIsometricStyleDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateIsometricStyleSpoolDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsAnnotationsDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsAnnotationsSettingsDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsAnnotationsTableIDDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsAnnotationsConnectionsDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsAnnotationsPipingDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsAnnotationsPropertyChangesDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddComponentGroupDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddPropertyConnections",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddPropertyPiping",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddPipingAnnotationDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddPipingAnnotationAddDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DeleteAnnotationDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddPropertyPropertyChanges",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddPropertyChangeAnnotationDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupIsoDefaultSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsoSaveChangesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsIsoStyleSetupMDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsIsoStyleSetupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateIsoStyleDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsoTypeAlreadyExistsErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantCreateReportDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExportResultsNewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoGenerationSettingsDLG",
+    "Release": "2021",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateConnectionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupTitleBlockandDisplayDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DrawingCheckerDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DrawingCheckerReviewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OrthoCreationinProcessDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportValidationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "COGValidationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddBoltStandardDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BoltLengthMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecAndCatalogMigrationRequireTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecEditorDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "SpecEditor",
+    "Children": []
+  },
+  {
+    "DlgName": "AddNotesToGroupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlantDSpecEditorxBranchEditortabDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "SpecEditor",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlantDSpecEditorxCatalogEditortabDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "SpecEditor",
+    "Children": []
+  },
+  {
+    "DlgName": "ResolveExcelImportChangesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "AutoCADPlantDSpecEditorxBranchEditortabDLG": null,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlantDSpecEditorxSpecEditortabDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoPLANTToDMappingClassMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PleaseenterauniquenameDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PleaseenteravalidnameDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BatchAssignLongDescriptionStylesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BranchTableEditorBranchSizeUnavailableDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BranchTableSetupDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CADWorxToPlantDMappingClassMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConvertAutoPLANTSpecsAndCatalogsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectSpecsandCatalogsDLG2",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityBrowseForFolderDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConvertCADWorxSpecsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CADWorxDataTableFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectSpecsAndCatalogsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConvertCSVFilesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateCatalogFromExistingCatalogDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateNewComponentDLG1",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReminderConnectionPortCountshouldbefilledwithcorrectvalueDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReminderPleaseremembertoaddpartsizeDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReminderPleaseremembertoselectonegraphicDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateSpecDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityInvalidNameDLG1",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilitySaveAsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateSpecFromExistingSpecDLG1",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecFromExistingInvalidName",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityInvalidExistingFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityInvalidNameDLG2",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityMissingExistingFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateSpecFromExistingSpecDLG2",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CsvToPlantDMappingClassMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DuplicatePartfamilyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditLongDescriptionStyleDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ImportFailedTheExcelFileisnotexportedCatalogDataFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "MigrateSpecsAndCatalogsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ModifyCatalogPropertiesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PrintPreviewapplicationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReminderLongDescriptionfilledwithcorrectvalueDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsCatalogBuilderExcelformatDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectBranchConnectionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectBranchListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectSpecsAndCatalogsToMigrateDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecAlreadyOpenAspecwiththisnameisalreadyopenDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecAndCatalogMigrationCompleteDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecAndCatalogMigrationRequired1DLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecAndCatalogMigrationRequired2DLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecandCatalogsConversionCompleteDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecandCatalogsEditorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecConversionReportDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecEditorBatchAssignlongDescriptionStylesCompletedDLG1",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecEditorBatchAssignlongDescriptionStylesCompletedDLG2",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecEditorEditValveOperatorsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenDWGDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectBlockDefinitionDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "MessageBoxNoValueSelectedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecEditorValveOperatorShapeBrowserDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecEditorImportFailedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecEditorLayoutAndSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecEditorLongDescriptionStyleDeletionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateNotificationCatalogpartshavechangedDLG1",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateNotificationCatalogpartshavechangedDLG2",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateNotificationNoUpdatesFoundDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateSynchronizationCompleteNotupdatedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateSynchronizationCompleteUpdatedSpecsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityEditpartsPartListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityEditpartsManagePropertiesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityExportDataDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityExportToDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityExportDataDLG2",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityImportFailedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityImportFailedTheExcelnotexportedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityImportFromDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityInvalidFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityInvalidPathDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityOpenSpecDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityPartnameDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilitySaveAsNewStyleDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilitySaveChangesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityWelcometoDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SupportingContentUnavailableDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ValveOperatorMappingDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ValveOperatorMappingWarningDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityCatalogImportDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUtilityOpenCatDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AdvancedDefaultSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlant3DCatalogBuildSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IdenticalUnitsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "TemplateUnitConversionwasDoneTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "UnitConversionConfirmationTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlant3DCatalogBuilderApplicationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlant3DCatalogBuilderPartFamiliesDetailsNoGraphicsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlant3DCatalogBuildTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BlockInsideThisDWG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CatalogBuilderSaveAsExcelFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CustomScriptPathisinvalidDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NoneBlockInsideThisDWGDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DCatalogBuilderSelectScriptFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RemovePartFamilyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveCatalogTemplateAsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectDWGFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectPreviewFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlant3DCatalogBuilderApplicationParametricGraphicsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BuildCatalogSingleDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateContentPackDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsNewCatalogDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectCatalogToAddIntoDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CatalogBuilderEditLongDescriptionStyleDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CatalogBuilderPartFamiliesExistTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateCatalogTemplateDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DCatalogBuilderDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectCatalogTemplateToEditDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectExcelFilesToBuildCatDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportCreatorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CSVExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExportResultsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "HTMLExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DOCXExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ImageExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "MHTExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NewReportConfigurationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PDFExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PasswordSecurityDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SignatureOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PreviewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PreviewSearchDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PageSetupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PrintDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CustomizationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CustomizeResetDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NewToolbarDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NewCustomToolbarDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RenameCustomToolbarDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExportDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenPreviewDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PreviewFindDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PreviewInvalidXMLDataErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsCSVDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsHTMLDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsImageDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsMHTDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsNativeFormatDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsPDFDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsRTFDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsTextDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsXLSDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsXLSXDocumentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "WatermarkDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectPictureDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "XLSXExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportConfigurationDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BrowseForFolderDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenReportCreatorProjectDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "QueryConfigurationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "QueryResultDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportConfigurationModifiedSaveChangesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportCreatorConfirmDeleteDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportDesignerInvalidXMLDataErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportLayoutModifiedSaveChangesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ValidationErrorsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "VariablesDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportCreatorSelectDrawingErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RTFExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BrowseForReportFilesFolderDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "TextExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "XLSExportOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RCBrowseForOutputDirFolderDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BrowseForFolderReportConfigurationDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BarCodeTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ChartTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ChartWizardChartDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CheckBoxTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CrossTabTasksDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PivotGridTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PropertyEditorFieldsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConfirmationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConnectionStringEditorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DataFilterCollectionEditorAddDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DataFilterCollectionEditorDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FieldListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExpressionEditorDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FormatStringEditorGeneralStandardTypesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FormatStringEditorStandardTypesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SummaryEditorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FormattingRulesEditorDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FormattingRulesSheetEditorDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FormattingRulesSheetEditorAddDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "GroupFieldCollectionEditorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "GroupFieldCollectionEditorAddDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "GroupandSortDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportTaskDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "LabelTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "LineTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenAppearanceLayoutDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenImageDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenRTFDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenReportStyleSheetFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PageInfoTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PalettesEditorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PictureBoxTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PivotGridFieldListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PropertyEditorAppearancesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PropertyEditorLayoutGridPreviewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PropertyEditorLayoutLoadXMLFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PropertyEditorPrintingSettingsOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PropertyEditorShowFieldListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PropertyGridDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportEditorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RestoreLayoutDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RichTextTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAppearanceLayoutDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "StylesEditorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveAsReportStyleSheetFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveLayoutDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SeriesCollectionEditorPointsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SeriesViewTypesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ShapeTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SubreportTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "TableCellTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ToolBoxDLG",
+    "Release": "2021",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ZipCodeTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ModifyJointDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SetMatchingValuesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ModifySharedContentFolderDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BrowseForSharedContentFolderDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ModifySharedContentFolderTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PathNameErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NewAutomationSchemeDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DeleteSchemeWarningMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAddPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddCalculatedPropertyDLG",
+    "Release": "2023",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DSelectDataSourceDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DConvertToEquipmentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DFieldDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DLineGroupDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DModifyEquipmentDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DPipandEquipmentDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DProjectSetupLayerColorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DSelectionListPropertyDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAddRowDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DSteelDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagFormatSetupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagDefineExpressionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagSelectDrawingAutogenerationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagNewDrawingAutogenerationProDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagSelectClassPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagSelectDrawingPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagSelectProjectPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagSelectProjectAutogenerationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DTagNewProjectAutogenerationProDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDObjectMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDObjectMappingPipeLineGroupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDObjectMappingEngineeringItemsDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDObjectMappingEngineeringItemsEquipmentDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDObjectMappingSignalLineGroupDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDObjectMappingNonEngineeringItemsDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectPlant3DClassMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConfirmDeleteMappingMSG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DuplicateMappingMSG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateIsoFromPCFDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PickPCFFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExportPCFDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SavePCFToDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DConnJointDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DDMCreateViewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DNewExportImportSettingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DMapPropertyValuesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DPipingErrorDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupIsometricDWGSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupP3DDMConfigDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupP3DExportImportDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPIDLineDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DModifyExportAndImportSettingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DeleteSettingMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDLineSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPlant3DClassDefinationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPlant3DDWG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectsetupPipeconnectionsettingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RailingSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RenameClassDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SDNFExportDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectHandrailShapeDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectIsometricDrawingTemplateFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectKickPlateShapeDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectKneerailShapeDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectOrthographicDrawingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectPCFFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectPostShapeDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "UnrecognizedCharactersInLengthDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectProductionIsoOutputDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateQuickIsoDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectQuickIsoDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SetQuickIsoOptionsDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricCreationResultsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "StairSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectStairShapeDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectStairStepDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SetupCompoundJointDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SetupConnectionComponentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SizeMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateResultsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "TrimToPlaneDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateGridDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateIsogenMessageDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreatePlateGrateDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditGridDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateProductionIsoDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DataManagerConfigurationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DrawingAlreadyExistsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditFootingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditLadderDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "LadderSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FootingSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditMemberDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditRailingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditSlopeDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditStairDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsLivePreviewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsometricDWGSettingsSlopesandSkewsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ManageEndcodesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddEndcodeDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ModifyEndcodeDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ImportInventorComponentDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAssignAnnotationFormatDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAnnotationDefineExpressionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAnnotationNewProjectAutogenerationProDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAnnotationSelectDrawingAutogenerationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAnnotationNewDrawingAutogenerationProDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAnnotationSelectClassPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAnnotationSelectDrawingPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAnnotationSelectProjectPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DAnnotationSelectProjectAutogenerationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DCreateEquipmentDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectATemplateDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SaveTemplateToDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentLegDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentSaddleDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantFittingAddDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "InsertTitleBlockAttributesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "MapTitleBlockAttributesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectLDTFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "TableSetupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectLongDescriptionStyleFileDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "IsoThemesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectReferenceModelsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DShapeBrowserDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantCustomPartsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OverrideValveOperatorDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DDWFOutputSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectReportSelectionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupLayerAndColorSettingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectDataSourceDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectQuickIsoOutputDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ViewPortsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CustomPartsBuilderDimensionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EquipmentCongruentNozzlePortsTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExportDataManagerDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FileExistsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "InsertTitleBlockAttributes_RequiredExelDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "MemberSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "DrawingDoesNotBelongToTheCurrentProject",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "NetworkPathNotFoundP3DDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddJointDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AddPipeSupportDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AutoCADPlant3DMigrationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateAnAdjacentViewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RenameDWG2DLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OptimizeProjectDatabaseDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ChartWizardChartTitlesTextDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "LoadViewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantNoProjectOpenDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPlant3DConnectionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SpecUpdateCheckDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RenameOrthoViewDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDActuatorBrowserDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddSymbolsSelectSymbolsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAssignTagDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDTagAlreadyAssignedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDTagErrorMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDConnectionSucceededDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDControlValveBrowserDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDConvertToPIDObjectDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDCreateConnectionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDataManagerDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAutoCADPIDDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDrawingPropertiesPDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDExportDataManagerDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDExportReportDataDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDImportFromDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DAuditProjectDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DAuditProjectDLG_Successfully",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DAuditProjectDLG_Piping",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ValidationCompleteDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPandIDValidationSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectPublishOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPIDPublishOutputSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectReportSelectionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectDrawingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDEditAnnotationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDEditPIDObjectSBlockDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDFieldDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDLineGroupTagAlreadyExistsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNewDWGDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddRowDUPNameErrorMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAutoCADPIDFileOpenForEditingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDEntryRequiredDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNewExportandImportSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDMapPropertyValuesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDOptimizeProjectDatabaseTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPIDDWFOutputSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPMUConvertProjectToSQLExpressDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDConnectionFailedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNoAvailableProjectPartsErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPMUConnectionSucceededDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPMUSQLServerInstanceErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectConversionFailedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectConversionFailedLockDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPMUCopyProjectDatabaseDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDCannotMoveCopyErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPMUMoveProjectDatabaseDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectMaintenanceUtilityDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDOpenPnPProjectMaintenanceDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPMUProjectFilesOpenDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectConversionFailedFileExistsErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectConversionSuccessDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectCopyFailedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectCopyFailedLockDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectCopySuccessDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectMoveFailedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectMoveFailedLockDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectMoveSuccessDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectXMLFileErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPROJECTMANAGERDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAutoCADPIDMigration2009DLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAutoCADPIDMigrationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDMigrationCancelTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDCloseProjectDrawingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDataManagerConfigurationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDrawingAutogenPropertiesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDrawingAutogenPropertiesErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDuplicateFileNameDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectFolderPropertiesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectMigrationCannotContinueDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupDMConfigurationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupDrawingPropertiesDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupEndConnectionDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupExportandImportSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupLineSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupPandIDClassDefinitionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupPandIDClassDefinitionISADLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddSymbolsEditSymbolSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDClassDefinitionOrSymbolNameRequiredDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectPIDClassDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDStyleAlreadyExistsInDrawingErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupPathsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupPathsErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupProjectDetailsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectRelatedFilesDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddCategoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddCategoryErrorMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDInvalidNameDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectDataSourceDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSymbolListPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddRowDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddRowErrorMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDConfirmDeleteDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDCopyOfEquipmentListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDCreateClassDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDuplicateDefinitionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDCreateToolDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDModifyReportLineListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNewEndConnectionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDuplicateNameMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNoBlockSpecifiedMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNoNameSpecifiedMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectBlockDrawingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectBlockPandIDDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectBlockErrorMSG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNewReportCopyOfControlValveListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDReplacePandIDDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectClassPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectionListPropertyDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddRowSelectionListDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDAddSelectionListDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DDeleteSharedListDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConfirmDeleteSelectionListDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExportDataDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ExportToDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ImportData",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DImportSelectionListDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReplaceExistingFilesDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectReportsDirectoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSchemaReloadDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDStandardsCentrifugalBlowerDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDStyleCanTBeDeletedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDTagFormatCanTBeDeletedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDTagFormatSetupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDefineExpressionDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectDrawingAutogenerationPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNewDrawingAutogenerationProDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNewProjectAutogenerationPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectProjectAutogenerationPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectClassPropertyClassDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectDrawingPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectProjectPropertyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDTagFormatSetupErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupProjectReportsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectsPIDDWGDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDRemoveDrawingDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDRenameDWGDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDRenameFileFormatDWG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectDrawingsToCopyToProDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDWorkHistoryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectStatusManagerDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDNewStatusDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupSQLAuthDatabaseSetupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupSQLExpressDatabaseSetupDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupSQLiteDatabaseSetupDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupWizardDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDInvalidDirectoryLocationTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupWizardFinishDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupWizardSpecifyDatabaseSettingsDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupWizardSpecifyPIDSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupWizardSpecifyPlant3DDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDProjectSetupWizardSpecifyUnitSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDDatabaseNamePrefixErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDLoginFailedErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPasswordErrorP3DDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSQLServerInstanceErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDUserNameErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPSWSpecifyPIDSettingsMetricDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPublishPandIDDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDPublishSaveSheetListTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSegmentDataDiffersTaskDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSelectFilePIDDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDSymbolSettingsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDTestConnectionFailedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDValidateConfigDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDValidationSummaryDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PropertiesPallete",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PortProperties",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDOverrideValveOperatorDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDInsertingItemsFromToolPaleDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReadOnlyDrawingErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReadOnlyDWGError",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FileIsReadOnlyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDFileIsReadOnlyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDFileSetToReadOnlyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "FileSetToReadOnlyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDReadOnlyDrawingErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenBackgroundImageDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "P3DMapExternalPropertiesDLG_AddDataStore",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PandIDMapExternalPropertiesDLG_AddDataStore",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DExternalDatabaseManagerDLG_1",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DExternalDatabaseManagerDLG_2",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectCompareMiscDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectComparePipingClassesDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPipeSpecObjectMappingDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPipeSpecObjectMappingDLG_Valves",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPipeSpecObjectMappingDLG_Fittings",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupPipeSpecObjectMappingDLG_Specialty",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportCreatorFileOverwriteDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportWizardDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportDesignerApplicationDLG",
+    "Release": "2021",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportLayoutWizardDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportWizardSelectFieldsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectImageFileDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReportCreatorWarningDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RCFConvertToRCFXMSG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PIDLineList",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "EditBlockDefinitionDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "LinetypeManagerDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ViewisUptoDateDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DOrthoGenerationDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RenameFolderDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "RenameFolderWarningDLG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DUpdatePIDISAContentMSG",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CrossbandBoxTasksDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": false,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CollaborationOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CollaborationForPlant3DDLG",
+    "Release": "2022",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationLoginDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenCollaborationProject",
+    "Release": "2021",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CreateIsogenInformationDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectPipeSupport",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenCollaborationProjectDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationGetStartedDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationChooseTeamDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationCannotFindTeamDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectFileToUploadDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "AttachExternalReferencesForCollaborationDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "CollaborationCheckInDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "CollaborationCheckOutDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantUndoCheckOutDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "UndoCheckOutProjectDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "UndoCheckOut",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "YouhavePipeSpecsCheckedOutDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSettingsCheckOut",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupforCollaboration",
+    "Release": "2025",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "ShareProjectDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "ShareProjectErrorDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationUploadingProcessDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "ConversionInProcessDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationUploadedSuccessfullyDLG",
+    "Release": "2024",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DExcelImportDLG_Collaboration",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DExcelImportDLG_Collaboration1",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DAuditProjectDLG_Collaboration",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "Plant3DOrthoGenerationDLG_Collaboration",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectBackupDLG_Collaboration",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "Collaboration",
+    "Children": []
+  }
+]

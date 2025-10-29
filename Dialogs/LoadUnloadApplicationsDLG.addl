@@ -1,0 +1,39 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LoadUnloadApplicationsDLG" Tag="[DialogBox]Load*" ParentType="MainWin" GUIType="WIN32">
+
+	<StaticText Name="LookInST" Tag="[StaticText]Look in:|$1091|#1" />
+	<PopupList Name="LookInPL" Tag="[PopupList]Look in:|$1137|#1" />
+	<ToolBar Name="ToolBarTB" GUIType="UIA" Tag="[ToolBar]$1088|#1" />
+	<PushButton Name="GoToLastFolderPB" Tag="[ToolBar]$1088|#1/[PushButton]Go To Last Folder Visited|$Item 40971|#1" />
+	<PushButton Name="UpOneLevelPB" Tag="[ToolBar]$1088|#1/[PushButton]Up One Level|$Item 40961|#2" />
+	<PushButton Name="CreateNewFolderPB" Tag="[ToolBar]$1088|#1/[PushButton]Create New Folder|$Item 40962|#3" />
+	<PushButton Name="ViewMenuPB" Tag="[ToolBar]$1088|#1/[PushButton]View Menu|$Item 40970|#4" />
+	<CustomWin Name="CustomWinWIN" Tag="[CustomWin]$1121|#1" />
+	<ListView Name="ListView1LV" Tag="[CustomWin]$1121|#1/[ListView]$1|#1" />
+	<Header Name="Header1CTL" GUIType="UIA" Tag="[CustomWin]$1121|#1/[ListView]$1|#1/[Header]Header|$Header|#1" />
+	<CustomWin Name="NameWIN" Tag="[CustomWin]$1121|#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 0|#1" />
+	<CustomWin Name="DateModifiedWIN" Tag="[CustomWin]$1121|#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Date modified|$HeaderItem 1|#2" />
+	<StaticText Name="FileNameST" Tag="[StaticText]File name:|$1090|#2" />
+	<ComboBox Name="FileNameCB" Tag="[ComboBox]$1148" />
+	<StaticText Name="FilesOfTypeST" Tag="[StaticText]Files of type:|$1089|#3" />
+	<PopupList Name="FilesOfTypePL" Tag="[PopupList]Files of type:|$1136|#2" />
+	<PushButton Name="LoadPB" Tag="[PushButton]Load|$1|#1" />
+	<DialogBox Name="DialogBoxDLG" Tag="[DialogBox]#1" />
+	<ListView Name="ListView2LV" Tag="[DialogBox]#1/[ListView]$1015|#1" />
+	<Header Name="Header2CTL" GUIType="UIA" Tag="[DialogBox]#1/[ListView]$1015|#1/[Header]Header|$Header|#1" />
+	<CustomWin Name="FileWIN" Tag="[DialogBox]#1/[ListView]$1015|#1/[Header]Header|$Header|#1/[CustomWin]File|$HeaderItem 0|#1" />
+	<CustomWin Name="PathWIN" Tag="[DialogBox]#1/[ListView]$1015|#1/[Header]Header|$Header|#1/[CustomWin]Path|$HeaderItem 1|#2" />
+	<StaticText Name="StaticText1ST" Tag="[DialogBox]#1/[StaticText]$1119|#1" />
+	<PageList Name="Tab1PG" Tag="[DialogBox]#1/[PageList]Tab1|$1021|#1" />
+	<CheckBox Name="AddToHistoryCK" Tag="[DialogBox]#1/[CheckBox]Add to History|$1023|#1" />
+	<PushButton Name="UnloadPB" Tag="[DialogBox]#1/[PushButton]Unload|$1008|#4" />
+	<GroupBox Name="StartupSuiteGB" Tag="[DialogBox]#1/[GroupBox]Startup Suite|$1002|#1" />
+	<StaticText Name="StaticText2ST" Tag="[DialogBox]#1/[StaticText]$1011|#2" />
+	<PushButton Name="ContentsPB" Tag="[DialogBox]#1/[PushButton]Contents*|$1004|#5" />
+	<StaticText Name="StaticText3ST" Tag="[DialogBox]#1/[StaticText]$1014|#3" />
+	<PushButton Name="ClosePB" Tag="[DialogBox]#1/[PushButton]Close|$1009|#6" />
+	<PushButton Name="HelpPB" Tag="[DialogBox]#1/[PushButton]Help|$1010|#7" />
+	<PushButton Name="SearchTheWebPB" Tag="[DialogBox]#1/[PushButton]Search the Web|$1024|#1" />
+	<PushButton Name="LookInFavoritesPB" Tag="[DialogBox]#1/[PushButton]Look in Favorites|$1025|#2" />
+	<PushButton Name="AddToFavoritesPB" Tag="[DialogBox]#1/[PushButton]Add to Favorites|$1027|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

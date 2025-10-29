@@ -1,0 +1,3 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDPreviewDLG" Tag="[DialogBox]PreviewDLG" ParentType="Plant3D">
+<GroupBox Name="BottomPanel" Tag="[GroupBox]$bottomPanel" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectSizeAndSpecDLG" Tag="[DialogBox]SelectSizeAndSpecDLG" ParentType="DataManagerDLG">
+<PushButton Name="EditSizeMappings" Tag="[PushButton]Edit size mappings|$Btn_EditSizeMappings" />
+<ListBox Name="Size" Tag="[ListBox]Size:|$m_listBoxSize" />
+<ListBox Name="Spec" Tag="[ListBox]Spec:|$m_listBoxSpec" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|$Btn_Cancel" />
+<PushButton Name="Help" Tag="[PushButton]Help|$Btn_Help" />
+<PushButton Name="Select" Tag="[PushButton]Select|$Btn_Select" />
+<StaticText Name="SizeText" Tag="[StaticText]Size:|$label3" />
+<StaticText Name="SpecText" Tag="[StaticText]Spec:|$label2" />
+<StaticText Name="TheSizeOrSpecPropertiesOf" Tag="[StaticText]The Size or Spec properties of P&amp;ID class Primary Line Segment ?-?-?-? does not match what is available in this project*|$m_labelInfo" />
+<CustomWin Name="WarningIcon" Tag="[System.Windows.Forms.PictureBox]$WarningIcon" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

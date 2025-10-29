@@ -1,0 +1,14 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PalettesEditorDLG" Tag="[Pane]*/$PaletteEditorForm" >
+<CustomWin Name="BtnAddColor" Tag="[CustomWin]$btnAddColor" />
+<CustomWin Name="BtnAddPalette" Tag="[CustomWin]$btnAddPalette" />
+<CustomWin Name="BtnClearColor" Tag="[CustomWin]$btnClearColor" />
+<CustomWin Name="BtnClose" Tag="[CustomWin]$btnClose" />
+<CustomWin Name="BtnCopyPalette" Tag="[CustomWin]$btnCopyPalette" />
+<CustomWin Name="BtnRemoveColor" Tag="[CustomWin]$btnRemoveColor" />
+<CustomWin Name="BtnRemovePalette" Tag="[CustomWin]$btnRemovePalette" />
+<CustomWin Name="DevExpressXtraEditorsVScrollBar" Tag="[CustomWin]$lbPalettes" />
+<CustomWin Name="LabelControl1" Tag="[CustomWin]$labelControl1" />
+<CustomWin Name="LbPaletteColors" Tag="[CustomWin]$lbPaletteColors" />
+<CustomWin Name="LbPalettes" Tag="[CustomWin]$lbPalettes" />
+<CustomWin Name="TbPaletteName" Tag="[CustomWin]$tbPaletteName" />
+</Pane>

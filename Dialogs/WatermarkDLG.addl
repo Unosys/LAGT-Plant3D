@@ -1,0 +1,68 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.WatermarkDLG" Tag="[Pane]Watermark|$WatermarkEditorForm" ParentType="PreviewDLG" GUIType="UIA">
+	<Pane Name="Pane1PANE" Tag="[Pane]#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]$rootPanel|#2" />
+	<Pane Name="ClickTheAddButtonPANE" Tag="[Pane]$rootPanel|#2/[Pane]Click the “Add” button to create a watermark|$separatorPanel|#3" />
+	<Pane Name="Pane3PANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2" />
+	<Pane Name="Pane4PANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]$myPrintControl1Container|#3" />
+	<Pane Name="Pane5PANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]$myPrintControl1Container|#3/[Pane]$myPrintControl1|#1" />
+	<Pane Name="ViewPANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]$myPrintControl1Container|#3/[Pane]$myPrintControl1|#1/[Pane]View|$DocumentViewer|#1" />
+	<!--<PageList Name="PageListPG" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1" />-->
+	<Pane Name="TextSettingsPANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]$xtraTpTextSettings|#1" />
+	<Pane Name="Pane6PANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1" />
+	<Pane Name="PositionPANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[Pane]Position:|$textPositionPanel|#2" />
+	<RadioButton Name="RadioButton1RB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[Pane]Position:|$textPositionPanel|#2/[RadioButton]$textPositionInfrontEdit|#1" />
+	<RadioButton Name="RadioButton2RB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[Pane]Position:|$textPositionPanel|#2/[RadioButton]$textPositionBehindEdit|#2" />
+	<Pane Name="Pane7PANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[Pane]$textStylePanel|#1" />
+	<CheckBox Name="BoldCK" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[Pane]$textStylePanel|#1/[CheckBox]Bold|$chbBold|#1" />
+	<CheckBox Name="ItalicCK" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[Pane]$textStylePanel|#1/[CheckBox]Italic|$chbItalic|#2" />
+	<StaticText Name="TextST" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[StaticText]Text:|$lbText|#1" />
+	<StaticText Name="DirectionST" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[StaticText]Direction:|$lbLayout|#2" />
+	<StaticText Name="FontST" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[StaticText]Font:|$lbFont|#4" />
+	<TextField Name="ColorTF" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[TextField]Color:|$ceWatermarkColor|#1" />
+	<PushButton Name="Open1PB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[TextField]Color:|$ceWatermarkColor|#1/[PushButton]Open|#1" />
+	<CustomWin Name="ColorWIN" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[TextField]Color:|$ceWatermarkColor|#1/[CustomWin]C*|#1" />
+	<PopupList Name="FontPL" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Font:|$cmbWatermarkFont|#3" />
+	<PushButton Name="Open2PB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Font:|$cmbWatermarkFont|#3/[PushButton]Open|#1" />
+	<CustomWin Name="FontWIN" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Font:|$cmbWatermarkFont|#3/[CustomWin]*Font:*|#1" />
+	<PopupList Name="SizePL" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Size:|$cmbWatermarkFontSize|#4" />
+	<PushButton Name="Open3PB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Size:|$cmbWatermarkFontSize|#4/[PushButton]Open|#1" />
+	<CustomWin Name="SizeWIN" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Size:|$cmbWatermarkFontSize|#4/[CustomWin]*Size:*|#1" />
+	<PopupList Name="DirectionPL" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Direction:|$lkpTextDirection|#2" />
+	<PushButton Name="Open4PB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Direction:|$lkpTextDirection|#2/[PushButton]Open|#1" />
+	<CustomWin Name="DirectionWIN" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Direction:|$lkpTextDirection|#2/[CustomWin]*Direction:*|#1" />
+	<PopupList Name="TextPL" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Text:|$cmbWatermarkText|#1" />
+	<PopupList Name="PopupListPL" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[PopupList]Text:|$cmbWatermarkText|#1/[PopupList]#1" />
+	<StaticText Name="ColorST" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[StaticText]Color:|$lbFontColor|#3" />
+	<StaticText Name="SizeST" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[StaticText]Size:|$lbFontSize|#5" />
+	<Scale Name="Transparency0255SC" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[Scale]Transparency (0-255):|$trBarTextTransparency|#1" />
+	<TextField Name="Transparency0255TF" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[TextField]Transparency (0-255):|$teTransparentValue|#2" />
+	<CustomWin Name="Transparency0255WIN" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[TextField]Transparency (0-255):|$teTransparentValue|#2/[CustomWin]*Transparency (0-255):*|#1" />
+	<StaticText Name="Transparency0255ST" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[StaticText]Transparency (0-255):|$lbTextTransparency|#7" />
+	<StaticText Name="PositionST" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Text Settings|$xtraTpTextSettings|#1/[Pane]$tpTextSettings|#1/[StaticText]Position:|$labelTextPosition|#6" />
+	<Window Name="TextSettingsWIN" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Window]Text Settings|#2" />
+	<Window Name="PictureSettingsWIN" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Window]#1" />
+	<Pane Name="IdPANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Id|$grpBoxWatermarkId|#1" />
+	<TextField Name="TextField1TF" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Id|$grpBoxWatermarkId|#1/[TextField]$teId|#1" />
+	<TextField Name="TextField2TF" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Id|$grpBoxWatermarkId|#1/[TextField]$teId|#1/[TextField]#1" />
+	<Pane Name="PageRangePANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Page range|$grpBoxPageRange|#2" />
+	<Pane Name="Pane8PANE" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Page range|$grpBoxPageRange|#2/[Pane]$tblBoxPageRange|#1" />
+	<TextField Name="TextField3TF" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Page range|$grpBoxPageRange|#2/[Pane]$tblBoxPageRange|#1/[TextField]$tePageRange|#1" />
+	<TextField Name="TextField4TF" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Page range|$grpBoxPageRange|#2/[Pane]$tblBoxPageRange|#1/[TextField]$tePageRange|#1/[TextField]#1" />
+	<RadioButton Name="RadioButton3RB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Page range|$grpBoxPageRange|#2/[Pane]$tblBoxPageRange|#1/[RadioButton]$rbAll|#1" />
+	<RadioButton Name="RadioButton4RB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Page range|$grpBoxPageRange|#2/[Pane]$tblBoxPageRange|#1/[RadioButton]$rbPages|#2" />
+	<StaticText Name="EnterPageNumbersAndorST" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[Pane]Page range|$grpBoxPageRange|#2/[Pane]$tblBoxPageRange|#1/[StaticText]Enter page numbers and*|$lbPageRange|#1" />
+	<PushButton Name="OKPB" Tag="[Pane]$rootPanel|#2/[PushButton]OK|$btnOK|#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]$rootPanel|#2/[PushButton]Cancel|$btnCancel|#2" />
+	<Pane Name="EnterPageNumbersAndorPANE" Tag="[Pane]$rootPanel|#2/[Pane]Enter page numbers and*|$watermarkListPanel|#1" />
+	<PushButton Name="PushButton1PB" Tag="[Pane]$rootPanel|#2/[Pane]$watermarkListPanel|#1/[PushButton]$btnAddWatermark|#3" />
+	<Pane Name="Pane9PANE" Tag="[Pane]$rootPanel|#2/[Pane]Enter page numbers and*|$watermarkListPanel|#1/[Pane]$watermarkListContainer|#1" />
+	<ListBox Name="ListBoxLB" Tag="[Pane]$rootPanel|#2/[Pane]Enter page numbers and*|$watermarkListPanel|#1/[Pane]$watermarkListContainer|#1/[ListBox]$watermarkList|#1" />
+	<ListBoxItem Name="Watermark1LBI" Tag="[Pane]$rootPanel|#2/[Pane]Enter page numbers and*|$watermarkListPanel|#1/[Pane]$watermarkListContainer|#1/[ListBox]$watermarkList|#1/[ListBoxItem]Watermark1|#1" />
+	<PushButton Name="PushButton2PB" Tag="[Pane]$rootPanel|#2/[Pane]Enter page numbers and*|$watermarkListPanel|#1/[PushButton]$btnDown|#2" />
+	<PushButton Name="PushButton3PB" Tag="[Pane]$rootPanel|#2/[Pane]Enter page numbers and*|$watermarkListPanel|#1/[PushButton]$btnUp|#1" />
+	<TitleBar Name="WatermarksCTL" Tag="[TitleBar]Watermarks|$TitleBar|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Watermarks|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<PushButton Name="BrowsePB" Tag="[Pane]$rootPanel|#2/[Pane]$editorsGroup|#2/[PageList]$tabControl|#1/[Pane]Picture Settings|$xtraTpPictureSettings|#1/[Pane]$tpPictureSettings|#1/[PushButton]Browse*|$btnSelectPicture|#1" />
+
+</Pane>

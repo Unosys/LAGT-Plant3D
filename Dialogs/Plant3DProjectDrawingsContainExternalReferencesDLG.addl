@@ -1,0 +1,13 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DProjectDrawingsContainExternalReferencesDLG" Tag="[DialogBox]Plant 3D Project - Drawing(s) Contain External References" ParentType="CustomWin" GUIType="WIN32">
+  <Pane Name="Plant3DProjectPANE" GUIType="UIA" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[Pane]#2" />
+  <Pane Name="Pane3PANE" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[Pane]#3" />
+  <Pane Name="Pane4PANE" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[Pane]#4" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[Image]MainInstructionIcon|$MainIcon" />
+  <StaticText Name="TheDrawingsYouAreST" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[StaticText]The drawing(s) you are adding contain external references that must either be added to the current project or removed*|$MainInstruction" />
+  <PushButton Name="AddExternalReferencesToPB" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[PushButton]Add external references to the project|$CommandLink_1001" />
+  <PushButton Name="CopyExternalReferencesToPB" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[PushButton]Copy external references to the project|$CommandLink_1002" />
+  <PushButton Name="RemoveExternalReferencesPB" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[PushButton]Remove external references|$CommandLink_1003" />
+  <PushButton Name="Cancel" Tag="[Pane]Plant 3D Project - Drawing(s) Contain External References|$Window/[PushButton]Cancel|$CommandButton_2" />  
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,30 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardDiagramGeneralDLG" Tag="[Pane]$WizardFormBase" ParentType="ReportDesignerApplicationDLG">
+  <GroupBox Name="ChartDiagramControl" Tag="[GroupBox]$ChartDiagramControl" />
+  <GroupBox Name="ChartPanel" Tag="[GroupBox]$chartPanel" />
+  <GroupBox Name="ChartPanelControl1" Tag="[GroupBox]$groupControl1" />
+  <GroupBox Name="ChartPanelControl12" Tag="[GroupBox]$marginsControl" />
+  <GroupBox Name="ChartPanelControl13" Tag="[GroupBox]$grWizardParentControl" />
+  <GroupBox Name="ChartPanelControl2" Tag="[GroupBox]$chartPanelControl2" />
+  <GroupBox Name="ChartPanelControl3" Tag="[GroupBox]$chartPanelControl3" />
+  <GroupBox Name="ChartPanelControl4" Tag="[GroupBox]$groupControl1" />
+  <GroupBox Name="ChartPanelControl42" Tag="[GroupBox]$marginsControl" />
+  <GroupBox Name="ChartPanelControl5" Tag="[GroupBox]$chartPanelControl5" />
+  <GroupBox Name="ChartPanelControl7" Tag="[GroupBox]$chartPanelControl7" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox" Tag="[TextField]$txtPaneDistance" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox2" Tag="[TextField]$txtTop" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox3" Tag="[TextField]$txtRight" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox4" Tag="[TextField]$txtLeft" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox5" Tag="[TextField]$txtBottom" />
+  <GroupBox Name="GrWizardPanel" Tag="[GroupBox]$grWizardPanel" />
+  <GroupBox Name="MarginsControl" Tag="[GroupBox]$marginsControl" />
+  <GroupBox Name="PanelControl4" Tag="[GroupBox]$panelControl4" />
+  <GroupBox Name="PanelControl6" Tag="[GroupBox]$panelControl6" />
+  <GroupBox Name="PanelNavigation" Tag="[GroupBox]$panelNavigation" />
+  <GroupBox Name="PnlHintOffset" Tag="[GroupBox]$pnlHintOffset" />
+  <GroupBox Name="PnlParent" Tag="[GroupBox]$pnlParent" />
+  <GroupBox Name="PnlThickness" Tag="[GroupBox]$groupControl1" />
+  <GroupBox Name="PnlThickness2" Tag="[GroupBox]$marginsControl" />
+  <GroupBox Name="SepRotated" Tag="[GroupBox]$sepRotated" />
+  <GroupBox Name="WorkPanel" Tag="[GroupBox]$workPanel" />
+  <GroupBox Name="XYDiagramControl" Tag="[GroupBox]$XYDiagramControl" />
+</Pane>

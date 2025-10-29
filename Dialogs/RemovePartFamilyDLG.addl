@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RemovePartFamilyDLG" Tag="[DialogBox]Remove Part Family|#1" ParentType="AutoCADPlant3DCatalogBuilderApplicationDLG" GUIType="UIA">
+  <PushButton Name="Yes" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="No" Tag="[PushButton]No|$7|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Remove Part Family|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

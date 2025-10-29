@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectDataMergedDLG" Tag="[DialogBox]$DwgOffLineEditsNotification" ParentType="Plant3D">
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOk" Tag="[PushButton]$btnOk" />
+<Link Name="LblViewLink" Tag="[Link]$lblViewLink" />
+<StaticText Name="M_LblContent" Tag="[StaticText]$m_LblContent" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

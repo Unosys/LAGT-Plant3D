@@ -1,0 +1,8 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.FilterStringEditorDLG" Tag="[Pane]FilterString Editor|$ReportFilterStringEditorForm" ParentType="Pane" GUIType="UIA">
+
+	<PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Cancel|$btnCancel|#2" />
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]FilterString Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

@@ -1,0 +1,7 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.EndConnectionMappingDLG" Tag="[Pane]$EndConnectionMappingDlg" >
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#3" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOK|#1" />
+  
+</Pane>

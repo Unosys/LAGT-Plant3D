@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecAndCatalogMigrationCompleteDLG" Tag="[Window]Spec and Catalog Migration Complete|$TaskDialog_Enhanced" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<!--<TitleBar Name="SpecAndCatalogMigrationCTL" Tag="[TitleBar]Spec and Catalog Migration Complete|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Spec and Catalog Migration Complete|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Spec and Catalog Migration Complete|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />-->
+  <PushButton Name="ClosePB" Tag="[TitleBar]Spec and Catalog Migration Complete|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <!--<StaticText Name="SpecsAndCatalogsHaveST" Tag="[StaticText]Specs and Catalogs have been successfully migrated to*|$HeaderTextBlock|#2" />
+  <StaticText Name="StaticText1ST" Tag="[StaticText]$MessageTexBlock|#3" />
+  <Image Name="Image1IMG" Tag="[Image]#1" />
+  <StaticText Name="OpenTheMigratedFilesST" Tag="[StaticText]Open the migrated files folder in Windows Explorer|#4" />
+  <StaticText Name="CAutoCADPlant3D2016ST" Tag="[StaticText]C:*|#5" />
+  <Image Name="Image2IMG" Tag="[Image]#2" />
+  <StaticText Name="ReturnToTheSpecST" Tag="[StaticText]Return to the Spec Editor|#6" />
+  <StaticText Name="StaticText2ST" Tag="[StaticText]#1" />-->
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

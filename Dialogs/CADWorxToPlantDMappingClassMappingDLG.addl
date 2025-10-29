@@ -1,0 +1,14 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CADWorxToPlantDMappingClassMappingDLG" Tag="[Window]CADWorx to Plant 3D Mapping|$SpecMigration_EditMapping" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]CADWorx to Plant 3D Mapping|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#2" />
+	<!--<PageList Name="PageListPG" Tag="[PageList]$MainTabControl|#1" />-->
+	<Window Name="ClassMappingWIN" Tag="[PageList]$MainTabControl|#1/[Window]$ClassMappings|#1" />
+	<StaticText Name="ClassMappingST" Tag="[PageList]$MainTabControl|#1/[Window]$ClassMappings|#1/[StaticText]Class Mapping|#1" />
+	<Window Name="GeometryMappingWIN" Tag="[PageList]$MainTabControl|#1/[Window]$GeomMappings|#2" />
+	<StaticText Name="GeometryMappingST" Tag="[PageList]$MainTabControl|#1/[Window]$GeomMappings|#2/[StaticText]#1" />
+	<Window Name="PropertyTranslationWIN" Tag="[PageList]$MainTabControl|#1/[Window]$UtilityMappings|#3" />
+	<StaticText Name="PropertyTranslationST" Tag="[PageList]$MainTabControl|#1/[Window]$UtilityMappings|#3/[StaticText]#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

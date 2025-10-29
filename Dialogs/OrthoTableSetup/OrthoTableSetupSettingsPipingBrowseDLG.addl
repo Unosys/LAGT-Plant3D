@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoTableSetupSettingsPipingBrowseDLG" Tag="[Window]Ortho Table Setup|$Window_BOMSetup" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_Cancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$Button_OK|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PipingComponentSelectionAddDLG" Tag="[Window]$Window_1" ParentType="MainWin" GUIType="UIA">
+
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#4" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

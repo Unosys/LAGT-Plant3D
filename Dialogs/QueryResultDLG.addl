@@ -1,0 +1,29 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.QueryResultDLG" Tag="[Pane]Query result|$QueryDataForm" ParentType="QueryConfigurationDLG" GUIType="UIA">
+  <Pane Name="PanePANE" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1" />
+  <ToolBar Name="M_bindingNavigator" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[ToolBar]bindingNavigator1|$394548|#1" />
+  <TextField Name="TextFieldTF" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[ToolBar]bindingNavigator1|$394548|#1/[TextField]$328914|#1" />
+  <PushButton Name="M_bindingNavigatorMoveFirstItem" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[ToolBar]bindingNavigator1|$394548|#1/[PushButton]Move first|#1" />
+  <PushButton Name="M_bindingNavigatorMovePreviousItem" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[ToolBar]bindingNavigator1|$394548|#1/[PushButton]Move previous|#2" />
+  <CustomWin Name="CustomWinWIN" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[ToolBar]bindingNavigator1|$394548|#1/[CustomWin]#1" />
+  <Table Name="M_dataGridView" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1" />
+  <Pane Name="HorizontalScrollBar" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[Pane]Horizontal Scroll Bar|$197932|#1" />
+  <CustomWin Name="TopRowWIN" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1" />
+  <Header Name="TopLeftHeaderCellCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Top Left Header Cell|#1" />
+  <Header Name="PnPIDCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]PnPID|#2" />
+  <Header Name="PnPDrawingGuidCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]PnPDrawingGuid|#3" />
+  <Header Name="PnPParentGuidCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]PnPParentGuid|#4" />
+  <Header Name="PnPTypeCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]PnPType|#5" />
+  <Header Name="PnPTimestampGuidCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]PnPTimestampGuid|#6" />
+  <Header Name="PnIDCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]PnID|#7" />
+  <Header Name="DwgNameCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Dwg Name|#8" />
+  <Header Name="TitleCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Title|#9" />
+  <Header Name="PathCTL" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Path|#10" />
+  <PushButton Name="M_closeBtn" Tag="[PushButton]Close|$m_closeBtn|" />
+  <TitleBar Name="QueryResultCTL" Tag="[TitleBar]Query result|$TitleBar|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Query result|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Query result|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="Close2PB" Tag="[TitleBar]Query result|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+  <RadioButton Name="RadioButton2RB" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Pane]$m_queryTypePanel|#1/[RadioButton]$m_drawingsRadioBtn|#2" />
+  <PushButton Name="TestQueryResultPB" Tag="[Pane]$m_mainDBufferedTableLayoutPanel|#1/[Pane]$m_mainDBufferedSplitContainer|#2/[Pane]$17367614|#2/[Pane]$m_secDBufferedSplitContainer|#1/[Pane]$15599658|#2/[Pane]$tableLayoutPanel1|#1/[PushButton]Test query result|$m_executeQueryBtn|#1" />
+   
+</Pane>

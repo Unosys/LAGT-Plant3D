@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PreviewInvalidXMLDataErrorDLG" Tag="[DialogBox]Open"  ParentType="OpenPreviewDocumentDLG" GUIType="UIA">
+  <Pane Name="OpenPANE" Tag="[Pane]Open|$Window|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]Open|$Window|#1/[Pane]#1" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Open|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="PRNXprnxFileNotFoundST" Tag="[Pane]Open|$Window|#1/[StaticText]PRNX*|$ContentText|#1" />
+  <PushButton Name="OKPB" Tag="[Pane]Open|$Window|#1/[PushButton]OK|$CommandButton_1|#1" />
+  <TitleBar Name="OpenCTL" Tag="[TitleBar]Open|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Open|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectProductionIsoOutputDirectoryDLG" Tag="[DialogBox]Select Production Iso Output Directory" ParentType="IsometricDWGSettingsIsoStyleSetupDLG">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="Open" Tag="[PushButton]$1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,8 @@
+<Pane  Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExpressionEditorDLG" Tag="[Pane]Expression Editor|$ReportExpressionCollectionEditorForm" ParentType="Pane" GUIType="UIA">
+
+
+
+	<PushButton Name="CancelPB" Tag="[Pane]tablePanel1|$tablePanel1|#1/[PushButton]Cancel|$btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[Pane]tablePanel1|$tablePanel1|#1/[PushButton]OK|$btnOK|#1" />
+
+</Pane >

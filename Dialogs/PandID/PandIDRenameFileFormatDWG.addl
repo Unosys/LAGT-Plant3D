@@ -1,0 +1,14 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDRenameFileFormatDWG" Tag="[DialogBox]RenameFileFormatDWG" ParentType="CustomWin">
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnOK" Tag="[PushButton]$btnOK" />
+<StaticText Name="LblFileName" Tag="[StaticText]$lblFileName" />
+<CheckBox Name="M_cb_override" Tag="[CheckBox]$m_cb_override" />
+<GroupBox Name="M_gb_drawing_name" Tag="[GroupBox]$m_gb_drawing_name" />
+<StaticText Name="M_lb_name" Tag="[StaticText]$m_lb_name" />
+<GroupBox Name="M_panel_buttons" Tag="[GroupBox]$m_panel_buttons" />
+<GroupBox Name="M_panel_filename" Tag="[GroupBox]$m_panel_filename" />
+<GroupBox Name="M_panel_property_names" Tag="[GroupBox]$m_panel_property_names" />
+<TextField Name="M_tb_filename" Tag="[TextField]$m_tb_filename" />
+<TextField Name="M_tb_property_value" Tag="[TextField]$m_tb_property_value" />
+<StaticText Name="M_warnTextLabel" Tag="[StaticText]$m_warnTextLabel" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilitySaveAsNewStyleDLG"  Tag="[Window]Save As New Style|$TextInputDialog" ParentType="Window" GUIType="UIA">
+  <TitleBar Name="SaveAsNewStyleCTL" Tag="[TitleBar]Save As New Style|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Save As New Style|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Save As New Style|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Save As New Style|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="CreatePB" Tag="[PushButton]Create|$SaveButton|#1" />
+  <StaticText Name="CreateST" Tag="[PushButton]Create|$SaveButton|#1/[StaticText]Create|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#2" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelButton|#2/[StaticText]Cancel|#1" />
+  <StaticText Name="StyleName1ST" Tag="[StaticText]Style name: |$TextBoxLabel|#1" />
+  <StaticText Name="StyleName2ST" Tag="[StaticText]Style name: |$TextBoxLabel|#1/[StaticText]Style name: |#1" />
+  <TextField Name="StyleNameTF" Tag="[TextField]Style name: |$TextInputTextBox|#1" />
+  <Pane Name="PanePANE" Tag="[TextField]Style name: |$TextInputTextBox|#1/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="StaticTextST" Tag="[StaticText]$TextInputEchoText|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

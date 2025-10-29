@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateSynchronizationCompleteUpdatedSpecsDLG"  Tag="[Window]Spec Update - Synchronization Complete|$SynchronizationCompleteWindow" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="CloseButton" Tag="[PushButton]$CloseButton" />
+<StaticText Name="SSpecSynchronizationCompleteHe" Tag="[StaticText]$sSpecSynchronizationCompleteHeader" />
+<StaticText Name="UpdatedSpecOption" Tag="[StaticText]$UpdatedSpecOption" />
+<StaticText Name="TextBlock" Tag="[StaticText]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

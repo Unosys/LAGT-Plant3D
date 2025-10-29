@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VaultLogOutDLG" Tag="[Pane]$LogoutDialog" ParentType="Plant3D">
+  <Pane Name="PanePANE" Tag="[Pane]$tableLayoutPanel1|#1" />
+  <StaticText Name="StaticTextST" Tag="[Pane]$tableLayoutPanel1|#1/[StaticText]$m_image|#1" />
+  <StaticText Name="AdministratorHasSuccessfullyLoggedST" Tag="[Pane]$tableLayoutPanel1|#1/[StaticText]Administrator has successfully logged out of the Vault*|$m_informationLabel|#2" />
+  <Pane Name="AdministratorHasSuccessfullyLoggedPANE" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]Administrator has successfully logged out of the Vault*|$tableLayoutPanel2|#1" />
+  <PushButton Name="LogInPB" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]Administrator has successfully logged out of the Vault*|$tableLayoutPanel2|#1/[PushButton]Log In*|$okButton|#1" />
+  <PushButton Name="ClosePB" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]Administrator has successfully logged out of the Vault*|$tableLayoutPanel2|#1/[PushButton]Close|$cancelButton|#2" />
+  <TitleBar Name="LogOutCTL" Tag="[TitleBar]Log Out|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Log Out|$TitleBar|#1/[CustomWin]System Menu Bar|$LogoutDialog|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Log Out|$TitleBar|#1/[CustomWin]System Menu Bar|$LogoutDialog|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="Close2PB" Tag="[TitleBar]Log Out|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

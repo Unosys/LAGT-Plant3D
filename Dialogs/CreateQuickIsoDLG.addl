@@ -1,0 +1,29 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateQuickIsoDLG" Tag="[Pane]Create Quick Iso|$QuickIsoCreate|#1" ParentType="Plant3D" GUIType="UIA">
+  <PushButton Name="Button_Help" Tag="[PushButton]Help|$button_Help|#3" />
+  <PushButton Name="Button_Cancel" Tag="[PushButton]Cancel|$button_Cancel|#2" />
+  <PushButton Name="Button_Create" Tag="[PushButton]Create|$button_Create|#1" />
+  <GroupBox Name="GroupBoxOutputSettings" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2" />
+  <StaticText Name="SaveIsosToST" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[StaticText]Save Isos to:|$label2|#2" />
+  <StaticText Name="IsoStyleST" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[StaticText]Iso Style:|$m_isoTypeLabel|#1" />
+  <StaticText Name="RevisionNumberST" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[StaticText]Revision number:|$label_RevisionNumber|#3" />
+  <TextField Name="TextBox_RevisionNumber" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[TextField]Revision number:|$textBox_RevisionNumber|#2" />
+  <CheckBox Name="CheckBox_OverwriteExisting" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[CheckBox]Overwrite if existing|$checkBox_OverwriteExisting|#2" />
+  <PopupList Name="ComboBox_IsoType" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[PopupList]Iso Style:|$comboBox_IsoType|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[PopupList]Iso Style:|$comboBox_IsoType|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <TextField Name="TextBox_OutputDirectory" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[TextField]Save Isos to:|$textBox_OutputDirectory|#1" />
+  <PushButton Name="Button_Options" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[PushButton]Advanced*|$button_Options|#2" />
+  <CheckBox Name="CheckBox_CreateRollupDWF" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[CheckBox]Create DWF|$checkBox_CreateRollupDWF|#1" />
+  <PushButton Name="Button_OutputDirectory" Tag="[GroupBox]Output Settings|$groupBoxOutputSettings|#2/[PushButton]**|$button_OutputDirectory|#1" />
+  <GroupBox Name="GroupBox_SelectedLines" Tag="[GroupBox]Selection to Iso|$groupBox_SelectedLines|#1" />
+  <PushButton Name="Button_Reselect" Tag="[GroupBox]Selection to Iso|$groupBox_SelectedLines|#1/[PushButton]Reselect*|$button_Reselect|#1" />
+  <StaticText Name="WindowedSelectionSetST" Tag="[GroupBox]Selection to Iso|$groupBox_SelectedLines|#1/[StaticText]Windowed selection set|$label_SelectedLines|#1" />
+  <TitleBar Name="CreateQuickIsoCTL" Tag="[TitleBar]Create Quick Iso|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Quick Iso|$TitleBar|#1/[CustomWin]System Menu Bar|$QuickIsoCreate|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Quick Iso|$TitleBar|#1/[CustomWin]System Menu Bar|$QuickIsoCreate|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Quick Iso|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <ListBox Name="LineNumbersLB" Tag="[GroupBox]$groupBox_DisplayLines|#1/[ListBox]$checkedListBox_Lines|#1" />
+  <ListBoxItem Name="one02LBI" Tag="[GroupBox]$groupBox_DisplayLines|#1/[ListBox]$checkedListBox_Lines|#1/[ListBoxItem]102|#1" />
+  <ListBoxItem Name="one04LBI" Tag="[GroupBox]$groupBox_DisplayLines|#1/[ListBox]$checkedListBox_Lines|#1/[ListBoxItem]104?|#2" />
+  <ListBoxItem Name="one05LBI" Tag="[GroupBox]$groupBox_DisplayLines|#1/[ListBox]$checkedListBox_Lines|#1/[ListBoxItem]105?|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

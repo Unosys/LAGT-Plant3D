@@ -1,0 +1,9 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_AddVaultsDLG" Tag="[Pane]$UserVaultsDialog" ParentType="VC_NewUserDLG">
+ 
+	<PushButton Name="M_cancelButton" Tag="[PushButton]$m_cancelButton" />
+	<PushButton Name="OKPB" Tag="[PushButton]$m_okButton" />
+	<CheckBox Name="VaultCK" Tag="[ListBox]$m_vaultCheckedListBoxControl/[CheckBox]Vault" />
+	<CheckBox Name="SelectUnselectAllCK" Tag="[CheckBox]$m_selectAllCheckBox" />
+
+
+</Pane>

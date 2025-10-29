@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReviseDLG" Tag="[Pane]$frmVaultRevise" ParentType="PROJECTMANAGERDLG">
+
+  <TextField Name="M_TxtBoxComments" Tag="[TextField]Enter Comments:|$m_TxtBoxComments|#1" />
+  <StaticText Name="EnterCommentsST" Tag="[StaticText]Enter Comments:|$m_LblEnterComments|#2" />
+  <GroupBox Name="SelectNewRevisionGB" Tag="[GroupBox]Select New Revision|$m_GroupBoxSelectRevision|#1" />
+  <RadioButton Name="RadioButton1RB" Tag="[GroupBox]Select New Revision|$m_GroupBoxSelectRevision|#1/[RadioButton]$m_RadioBtnTeritiary|#3" />
+  <RadioButton Name="RadioButton2RB" Tag="[GroupBox]Select New Revision|$m_GroupBoxSelectRevision|#1/[RadioButton]$m_RadioBtnSecondary|#2" />
+  <RadioButton Name="M_RadioBtnPrimary" Tag="[GroupBox]Select New Revision|$m_GroupBoxSelectRevision|#1/[RadioButton]$m_RadioBtnPrimary|#1" />
+  <StaticText Name="CurrentRevisionAStandardST" Tag="[StaticText]Current revision: A (Standard Alphabetic Format)|$m_LblCurrentRevision|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_BtnCancel|#2" />
+  <PushButton Name="OK" Tag="[PushButton]OK|$m_BtnOK|#1" />
+  <TitleBar Name="ReviseAcaddwgCTL" Tag="[TitleBar]Revise - acad*|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Revise - acad*|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultRevise|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Revise - acad*|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultRevise|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Revise - acad*|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

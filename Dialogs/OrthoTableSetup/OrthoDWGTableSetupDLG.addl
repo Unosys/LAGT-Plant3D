@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoDWGTableSetupDLG" Tag="[Window]Ortho Table Setup|$Window_BOMSetup" ParentType="MainWin" GUIType="UIA">
+
+	<!--<PageList Name="PageListPG" Tag="[PageList]$TabControl_Table|#1" />-->
+	<Window Name="SettingsWIN" Tag="[PageList]$TabControl_Table|#1/[Window]Settings|$TabItem_Settings|#2" />
+	<StaticText Name="SettingsST" Tag="[PageList]$TabControl_Table|#1/[Window]Settings|$TabItem_Settings|#2/[StaticText]Settings|#1" />
+
+	<Window Name="TableLayoutWIN" Tag="[PageList]$TabControl_Table|#1/[Window]Table Layout|$TabItem_TableLayout|#1" />
+	<StaticText Name="TableLayoutST" Tag="[PageList]$TabControl_Table|#1/[Window]Table Layout|$TabItem_TableLayout|#1/[StaticText]Table Layout|#1" />
+	<CustomWin Name="CustomWinWIN" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_Settings|#2/[CustomWin]$UserControl_BOMSetupSetting|#1" />
+	<PushButton Name="Add1PB" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_Settings|#2/[CustomWin]$UserControl_BOMSetupSetting|#1/[PushButton]Add|$Button_GroupByAdd|#1" />
+	<PushButton Name="Remove1PB" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_Settings|#2/[CustomWin]$UserControl_BOMSetupSetting|#1/[PushButton]Remove|$Button_GroupByRemove|#2" />	
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_Cancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$Button_OK|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

@@ -1,0 +1,32 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupEndConnectionDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+  
+	<TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Paths|#4" />
+	<TreeView Name="M_treeView" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1" />
+
+	<!--<TreeViewItem Name="DataManagerConfigurationTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Data Manager Configuration|#5" />
+  <TreeViewItem Name="PIDClassDefinitionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]P*|#6" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1" />
+  <GroupBox Name="EndConnectionsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1" />
+  <GroupBox Name="GroupBoxGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1/[GroupBox]$m_groupBox2|#1" />
+  <PushButton Name="RemoveBlockPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1/[GroupBox]$m_groupBox2|#1/[PushButton]Remove Block*|$m_btnRemoveBlock|#3" />
+  <PushButton Name="EditBlockPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1/[GroupBox]$m_groupBox2|#1/[PushButton]Edit Block*|$m_btnEditBlock|#2" />
+  <PopupList Name="PopupListPL" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1/[GroupBox]$m_groupBox2|#1/[PopupList]$m_comboBox|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1/[GroupBox]$m_groupBox2|#1/[PopupList]$m_comboBox|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <Pane Name="NoPreviewAvailablePANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1/[GroupBox]$m_groupBox2|#1/[Pane]No preview available|$3870950|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />-->
+  <PushButton Name="M_btnAddBlock" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1/[GroupBox]$m_groupBox2|#1/[PushButton]Add Block*|$m_btnAddBlock|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="M_btnOk" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]OK|$m_btnOk|#2" />
+
+
+</Pane>

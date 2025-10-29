@@ -1,0 +1,39 @@
+﻿<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.PipeFittingDLG" Tag="[Window]$Window_1|#1" ParentType="Plant3D" GUIType="UIA">
+  <StaticText Name="SizeST" Tag="[StaticText]Size = |$TextBlock_9|#1" />
+  <StaticText Name="one0ST" Tag="[StaticText]10&quot;|$SizeTextBlock|#2" />
+  <StaticText Name="SpecST" Tag="[StaticText]Spec = |$TextBlock_2|#3" />
+  <StaticText Name="SS600ST" Tag="[StaticText]SS600|$SpecTextBlock|#4" />
+  <StaticText Name="EndTypeST" Tag="[StaticText]End Type = |$TextBlock_3|#5" />
+  <StaticText Name="AllST" Tag="[StaticText]All|$EndTypeTextBlock|#6" />
+  <StaticText Name="ChangeST" Tag="[StaticText]Change|$TextBlock_4|#7" />
+  <PushButton Name="PushButton1PB" Tag="[PushButton]$Button_2|#1" />
+  <Image Name="Image1IMG" Tag="[PushButton]$Button_2|#1/[Image]$Image_4|#1" />
+  <StaticText Name="ValvesST" Tag="[PushButton]$Button_2|#1/[StaticText]Valves|$TextBlock_10|#1" />
+  <PushButton Name="PushButton2PB" Tag="[PushButton]$Button_3|#2" />
+  <Image Name="Image2IMG" Tag="[PushButton]$Button_3|#2/[Image]$Image_5|#1" />
+  <StaticText Name="FittingsST" Tag="[PushButton]$Button_3|#2/[StaticText]Fittings|$TextBlock_11|#1" />
+  <PushButton Name="PushButton3PB" Tag="[PushButton]$Button_4|#3" />
+  <Image Name="Image3IMG" Tag="[PushButton]$Button_4|#3/[Image]$Image_6|#1" />
+  <StaticText Name="FlangesST" Tag="[PushButton]$Button_4|#3/[StaticText]Flanges|$TextBlock_12|#1" />
+  <PushButton Name="PushButton4PB" Tag="[PushButton]$Button_5|#4" />
+  <Image Name="Image4IMG" Tag="[PushButton]$Button_5|#4/[Image]$Image_7|#1" />
+  <StaticText Name="OletsST" Tag="[PushButton]$Button_5|#4/[StaticText]Olets|$TextBlock_13|#1" />
+  <PushButton Name="PushButton5PB" Tag="[PushButton]$Button_6|#5" />
+  <Image Name="Image5IMG" Tag="[PushButton]$Button_6|#5/[Image]$Image_8|#1" />
+  <StaticText Name="MiscST" Tag="[PushButton]$Button_6|#5/[StaticText]Misc|$TextBlock_14|#1" />
+  <StaticText Name="ClassTypesST" Tag="[StaticText]Class Types: |$TextBlock_8|#8" />
+  <PopupList Name="ClassTypesPL" Tag="[PopupList]Class Types: |$ComboBox1|#1" />
+  <StaticText Name="AvailablePipingComponents1ST" Tag="[StaticText]Available Piping Components:|$Label_6|#9" />
+  <StaticText Name="AvailablePipingComponents2ST" Tag="[StaticText]Available Piping Components:|$Label_6|#9/[StaticText]Available Piping Components:|#1" />
+  <ListBox Name="AvailablePipingComponentsLB" Tag="[ListBox]Available Piping Components:|$PartsListBox|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerPnP3dSpecUIPartDesc1LBI" Tag="[ListBox]Available Piping Components:|$PartsListBox|#1/[ListBoxItem]Autodesk*[1]|#1" />
+  <Image Name="Image6IMG" Tag="[ListBox]Available Piping Components:|$PartsListBox|#1/[ListBoxItem]Autodesk*[1]|#1/[Image]#1" />
+  <StaticText Name="one0BallValveLong1ST" Tag="[ListBox]Available Piping Components:|$PartsListBox|#1/[ListBoxItem]Autodesk*[1]|#1/[StaticText]   10&quot;   Ball Valve, Long Pattern, 600 LB, BW, ASME B16*|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerPnP3dSpecUIPartDesc2LBI" Tag="[ListBox]Available Piping Components:|$PartsListBox|#1/[ListBoxItem]Autodesk*[2]|#2" />
+  <Image Name="Image7IMG" Tag="[ListBox]Available Piping Components:|$PartsListBox|#1/[ListBoxItem]Autodesk*[2]|#2/[Image]#1" />
+  <StaticText Name="one0BallValveLong2ST" Tag="[ListBox]Available Piping Components:|$PartsListBox|#1/[ListBoxItem]Autodesk*[2]|#2/[StaticText]   10&quot;   Ball Valve, Long Pattern, 600 LB, RF, ASME B16*|#1" />
+  <PushButton Name="PlacePB" Tag="[PushButton]Place|$Button_7|#6" />
+  <StaticText Name="PlaceST" Tag="[PushButton]Place|$Button_7|#6/[StaticText]Place|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_8|#7" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$Button_8|#7/[StaticText]Cancel|#1" />
+</Window>

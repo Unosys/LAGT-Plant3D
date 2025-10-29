@@ -1,0 +1,20 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.GetCheckOutDLG" Tag="[Pane]$frmVaultGetCheckOut" GUIType="UIA">
+  <PushButton Name="zeroPB" Tag="[PushButton]0|$m_btnComments|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOK|#2" />
+  <CheckBox Name="GetLatestRelatedCK" Tag="[GroupBox]0|$groupBox1|#1/[CheckBox]Get Latest Related|$m_chkBoxGetLatest|#1" />
+  <PopupList Name="PopupListPL" Tag="[GroupBox]0|$groupBox1|#1/[PopupList]$m_cmbBoxRevisions|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[GroupBox]0|$groupBox1|#1/[PopupList]$m_cmbBoxRevisions|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <ListView Name="ListViewLV" Tag="[GroupBox]0|$groupBox1|#1/[ListView]$m_ListView|#1" />
+  <Header Name="HeaderCTL" Tag="[GroupBox]0|$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1" />
+  <ListViewItem Name="ListViewItem1LVI" Tag="[GroupBox]0|$groupBox1|#1/[ListView]$m_ListView|#1/[ListViewItem]#1" />
+  <ListViewItem Name="ListViewItem2LVI" Tag="[GroupBox]0|$groupBox1|#1/[ListView]$m_ListView|#1/[ListViewItem]#2" />
+  <ListViewItem Name="ListViewItem3LVI" Tag="[GroupBox]0|$groupBox1|#1/[ListView]$m_ListView|#1/[ListViewItem]#3" />
+  <ListViewItem Name="ListViewItem4LVI" Tag="[GroupBox]0|$groupBox1|#1/[ListView]$m_ListView|#1/[ListViewItem]#4" />
+  <CustomWin Name="VaultPathWIN" Tag="[GroupBox]0|$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1/[CustomWin]Vault Path|$HeaderItem 3|#4" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Get *|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultGetCheckOut|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Get *|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Get *|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Get *|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

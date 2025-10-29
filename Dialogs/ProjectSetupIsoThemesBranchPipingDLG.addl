@@ -1,0 +1,22 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupIsoThemesBranchPipingDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg|#1" ParentType="MainWin" GUIType="UIA">
+
+	
+	<ListBox Name="BranchPipingThemesLB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert/[Pane]*/[Pane]*/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl/[Window]#3/[CustomWin]$UserControl_1/[ListBox]$ThemeListView" />
+
+	
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$2491740|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+	<PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$2491740|#2/[PushButton]OK|$m_btnOk|#2" />
+	<PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$2491740|#2/[PushButton]Apply|$m_btnSave|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+	<PushButton Name="EnablePB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl|#1/[Window]#3/[CustomWin]$UserControl_1|#1/[CustomWin]#3/[PushButton]$CollapsiblePanel_Button|#1" />
+	<PushButton Name="PipingDetailsPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl|#1/[Window]#3/[CustomWin]$UserControl_1|#1/[CustomWin]#4/[PushButton]$CollapsiblePanel_Button|#1" />
+	<PushButton Name="StartsWithPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl|#1/[Window]#3/[CustomWin]$UserControl_1|#1/[CustomWin]#5/[PushButton]$CollapsiblePanel_Button|#1" />
+	<PushButton Name="EndsWithPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl|#1/[Window]#3/[CustomWin]$UserControl_1|#1/[CustomWin]#6/[PushButton]$CollapsiblePanel_Button|#1" />
+	<PushButton Name="Contains9PB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl|#1/[Window]#3/[CustomWin]$UserControl_1|#1/[CustomWin]#7/[PushButton]$CollapsiblePanel_Button|#1" />
+	<PushButton Name="DoesNotContainPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl|#1/[Window]#3/[CustomWin]$UserControl_1|#1/[CustomWin]#8/[PushButton]$CollapsiblePanel_Button|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

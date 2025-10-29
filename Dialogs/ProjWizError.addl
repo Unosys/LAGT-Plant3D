@@ -1,0 +1,5 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjWizError" Tag="[DialogBox]Error" ParentType="ProjectSetupWizardDLG" GUIType="UIA">
+  <PushButton Name="OK" Tag="[PushButton]OK|$2" />
+  <StaticText Name="DuplicateProjectNamesAreST" Tag="[StaticText]Duplicate project names are not allowed in the specified project directory*|$65535" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Error|$TitleBar/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

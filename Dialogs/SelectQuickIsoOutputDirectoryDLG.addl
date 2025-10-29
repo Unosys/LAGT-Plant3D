@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectQuickIsoOutputDirectoryDLG" Tag="[DialogBox]Select Quick Iso Output Directory" ParentType="IsometricDWGSettingsIsoStyleSetupDLG" GUIType="UIA">
+  <PushButton Name="Open" Tag="[PushButton]Open|$1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Quick Iso Output Directory|$TitleBar/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

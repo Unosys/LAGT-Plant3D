@@ -1,0 +1,124 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DProjectSetupLayerColorDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="MainWin" GUIType="UIA">
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#2" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#3" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#4" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#5" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="ExportAndImportSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Export and Import Settings|#1" />
+  <TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Paths|#2" />
+  <TreeViewItem Name="DataManagerConfigurationTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Data Manager Configuration|#3" />
+  <TreeViewItem Name="LayerAndColorSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Layer and Color Settings|#4" />
+  <TreeViewItem Name="PipingConnectionSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Piping Connection Settings|#5" />
+  <TreeViewItem Name="PIDObjectMappingTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]P*|#6" />
+  <TreeViewItem Name="Plant3DClassDefinitionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7" />
+  <TreeViewItem Name="SpecUpdateSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Spec Update Settings|#8" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396904|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1" />
+  <GroupBox Name="AutomatedLayerAndColorGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1" />
+  <GroupBox Name="PipeSupportSettingsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Pipe Support Settings|$groupBox2|#2" />
+  <StaticText Name="AddSuffixToCreateST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Pipe Support Settings|$groupBox2|#2/[StaticText]Add suffix to create layer:|$m_PipeSupportsLayerSuffixLbl|#3" />
+  <StaticText Name="AddPrefixToCreateST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Pipe Support Settings|$groupBox2|#2/[StaticText]Add prefix to create layer:|$m_PipeSupportsLayerPrefixLbl|#2" />
+  <TextField Name="AddSuffixToCreateTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Pipe Support Settings|$groupBox2|#2/[TextField]Add suffix to create layer:|$m_PipeSupportsLayerSuffix|#2" />
+  <TextField Name="AddPrefixToCreateTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Pipe Support Settings|$groupBox2|#2/[TextField]Add prefix to create layer:|$m_PipeSupportsLayerPrefix|#1" />
+  <PopupList Name="AssignLayerBy1PL" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Pipe Support Settings|$groupBox2|#2/[PopupList]Assign layer by:|$m_PipeSupportsLayerOptions|#1" />
+  <PushButton Name="DropDownButton1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Pipe Support Settings|$groupBox2|#2/[PopupList]Assign layer by:|$m_PipeSupportsLayerOptions|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="AssignLayerBy1ST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Pipe Support Settings|$groupBox2|#2/[StaticText]Assign layer by:|$label1|#1" />
+  <GroupBox Name="PipingSettingsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1" />
+  <StaticText Name="ColorSettingsST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[StaticText]Color settings:|$m_lblColorSettings|#3" />
+  <PopupList Name="AssignColorByPL" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[PopupList]Assign color by:|$m_cb_color|#2" />
+  <PushButton Name="DropDownButton2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[PopupList]Assign color by:|$m_cb_color|#2/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PopupList Name="AssignLayerBy2PL" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[PopupList]Assign layer by:|$m_cb_layer|#1" />
+  <PushButton Name="DropDownButton3PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[PopupList]Assign layer by:|$m_cb_layer|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="AssignColorByST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[StaticText]Assign color by:|$m_lblColorBy|#2" />
+  <Table Name="DataGridViewTBL" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1" />
+  <Pane Name="VerticalScrollBarPANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[Pane]Vertical Scroll Bar|$20840472|#1" />
+  <CustomWin Name="TopRowWIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1" />
+  <Header Name="NominalDiameterCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Nominal Diameter|#1" />
+  <Header Name="ColorCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]Color|#2" />
+  <CustomWin Name="Row0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2" />
+  <CustomWin Name="NominalDiameterRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Nominal Diameter Row 0|#1" />
+  <CustomWin Name="ColorRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Color Row 0|#2" />
+
+  <CustomWin Name="Row3WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 3|#5" />
+  <CustomWin Name="NominalDiameterRow3WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 3|#5/[CustomWin]Nominal Diameter Row 3|#1" />
+  <CustomWin Name="ColorRow3WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 3|#5/[CustomWin]Color Row 3|#2" />
+  <CustomWin Name="Row4WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 4|#6" />
+  <CustomWin Name="NominalDiameterRow4WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 4|#6/[CustomWin]Nominal Diameter Row 4|#1" />
+  <CustomWin Name="ColorRow4WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 4|#6/[CustomWin]Color Row 4|#2" />
+
+  <CustomWin Name="Row7WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 7|#9" />
+  <CustomWin Name="NominalDiameterRow7WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 7|#9/[CustomWin]Nominal Diameter Row 7|#1" />
+  <CustomWin Name="ColorRow7WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 7|#9/[CustomWin]Color Row 7|#2" />
+  <CustomWin Name="Row8WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 8|#10" />
+  <CustomWin Name="NominalDiameterRow8WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 8|#10/[CustomWin]Nominal Diameter Row 8|#1" />
+  <CustomWin Name="ColorRow8WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 8|#10/[CustomWin]Color Row 8|#2" />
+ 
+  <StaticText Name="AssignLayerBy2ST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[GroupBox]Piping settings|$groupBox1|#1/[StaticText]Assign layer by:|$m_lblLayerBy|#1" />
+  <StaticText Name="DefaultST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[StaticText]Default|$m_curSchemeName|#1" />
+  <ListView Name="AutomationSchemesLV" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[ListView]Automation schemes:|$lv_schemes|#1" />
+  <ListViewItem Name="DefaultLVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[ListView]Automation schemes:|$lv_schemes|#1/[ListViewItem]Default|#1" />
+  <TextField Name="TextFieldTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[ListView]Automation schemes:|$lv_schemes|#1/[ListViewItem]Default|#1/[TextField]#1" />
+  <StaticText Name="AutomationSchemesST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[StaticText]Automation schemes:|$lb_schemes|#3" />
+  <PushButton Name="SetCurrentPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[PushButton]Set current|$m_bt_setCurrent|#1" />
+  <PushButton Name="DeletePB" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[PushButton]Delete|$m_bt_delete|#3" />
+  <PushButton Name="M_bt_new" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[PushButton]New*|$m_bt_new|#2" />
+  <StaticText Name="CurrentAutomationSchemeST" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[StaticText]Current automation scheme:|$m_lb_currentScheme|#2" />
+  <CheckBox Name="AutomateLayerAndColorCK" Tag="[Pane]$m_splitHorz|#1/[Pane]$396912|#1/[Pane]$m_splitVert|#1/[Pane]$396864|#2/[Pane]$m_layerColorAssignmentUserCtrl|#1/[GroupBox]Automated layer and color assignment|$m_groupBoxLayerColor|#1/[CheckBox]Automate layer and color assignments when creating objects|$m_checkBoxAuto|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$13371848|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$13371848|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$13371848|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$13371848|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$13371848|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+  <!--<ScrollBar Name="Default" Tag="[ScrollBar]$m_dataGridView" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<GroupBox Name="GroupBox2" Tag="[GroupBox]$groupBox2" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Lb_schemes" Tag="[StaticText]$lb_schemes" />
+<ListView Name="Lv_schemes" Tag="[ListView]$lv_schemes" />
+<PushButton Name="M_bt_delete" Tag="[PushButton]$m_bt_delete" />
+<PushButton Name="M_bt_new" Tag="[PushButton]$m_bt_new" />
+<PushButton Name="M_bt_setCurrent" Tag="[PushButton]$m_bt_setCurrent" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<ComboBox Name="M_cb_color" Tag="[ComboBox]$m_cb_color" />
+<ComboBox Name="M_cb_layer" Tag="[ComboBox]$m_cb_layer" />
+<CheckBox Name="M_checkBoxAuto" Tag="[CheckBox]$m_checkBoxAuto" />
+<StaticText Name="M_curSchemeName" Tag="[StaticText]$m_curSchemeName" />
+<Table Name="M_dataGridView" Tag="[Table]$m_dataGridView" />
+<GroupBox Name="M_groupBoxLayerColor" Tag="[GroupBox]$m_groupBoxLayerColor" />
+<CustomWin Name="M_layerColorAssignmentUserCtrl" Tag="[CustomWin]$m_layerColorAssignmentUserCtrl" />
+<StaticText Name="M_lb_currentScheme" Tag="[StaticText]$m_lb_currentScheme" />
+<StaticText Name="M_lblColorBy" Tag="[StaticText]$m_lblColorBy" />
+<StaticText Name="M_lblColorSettings" Tag="[StaticText]$m_lblColorSettings" />
+<StaticText Name="M_lblLayerBy" Tag="[StaticText]$m_lblLayerBy" />
+<ComboBox Name="M_PipeSupportsLayerOptions" Tag="[ComboBox]$m_PipeSupportsLayerOptions" />
+<TextField Name="M_PipeSupportsLayerPrefix" Tag="[TextField]$m_PipeSupportsLayerPrefix" />
+<StaticText Name="M_PipeSupportsLayerPrefixLbl" Tag="[StaticText]$m_PipeSupportsLayerPrefixLbl" />
+<TextField Name="M_PipeSupportsLayerSuffix" Tag="[TextField]$m_PipeSupportsLayerSuffix" />
+<StaticText Name="M_PipeSupportsLayerSuffixLbl" Tag="[StaticText]$m_PipeSupportsLayerSuffixLbl" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />-->
+</Pane>

@@ -1,0 +1,23 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDWorkHistoryDLG" Tag="[DialogBox]WorkHistoryDLG" ParentType="CustomWin">
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOK" Tag="[PushButton]$btnOK" />
+<ComboBox Name="CboStatus" Tag="[ComboBox]$cboStatus" />
+<PopupList Name="StatusPL" Tag="[GroupBox]Work history|$gpWorkHistory|#1/[PopupList]Status:|$cboStatus|#1" />
+<GroupBox Name="GpDetails" Tag="[GroupBox]$gpDetails" />
+<GroupBox Name="GpWorkHistory" Tag="[GroupBox]$gpWorkHistory" />
+<StaticText Name="LblBeginEdit" Tag="[StaticText]$lblBeginEdit" />
+<StaticText Name="LblBeginEdit1" Tag="[StaticText]$lblBeginEdit1" />
+<StaticText Name="LblEndEdit" Tag="[StaticText]$lblEndEdit" />
+<StaticText Name="LblEndEdit1" Tag="[StaticText]$lblEndEdit1" />
+<StaticText Name="LblFile" Tag="[StaticText]$lblFile" />
+<StaticText Name="LblFile1" Tag="[StaticText]$lblFile1" />
+<StaticText Name="LblNotes" Tag="[StaticText]$lblNotes" />
+<StaticText Name="LblProject" Tag="[StaticText]$lblProject" />
+<StaticText Name="LblProject1" Tag="[StaticText]$lblProject1" />
+<StaticText Name="LblStatus" Tag="[StaticText]$lblStatus" />
+<StaticText Name="LblUser" Tag="[StaticText]$lblUser" />
+<StaticText Name="LblUser1" Tag="[StaticText]$lblUser1" />
+<TextField Name="TbNotes" Tag="[TextField]$tbNotes" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$tbNotes" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

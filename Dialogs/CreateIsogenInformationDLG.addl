@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateIsogenInformationDLG" Tag="[Pane]$IsoInformationDlg" ParentType="Plant3D">
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<PushButton Name="M_bt_Cancel" Tag="[PushButton]$m_bt_Cancel" />
+<PushButton Name="M_bt_help" Tag="[PushButton]$m_bt_help" />
+<PushButton Name="M_bt_OK" Tag="[PushButton]$m_bt_OK" />
+<ComboBox Name="M_cb_itemType" Tag="[ComboBox]$m_cb_itemType" />
+<StaticText Name="M_lb_preview" Tag="[StaticText]$m_lb_preview" />
+<CustomWin Name="M_pb_preview" Tag="[CustomWin]$m_pb_preview" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectedSpecCannotbeUsedDLG" Tag="[DialogBox]Selected Spec Cannot be Used" ParentType="Plant3D">
+<CustomWin Name="DirectUIHWND1" Tag="[DirectUIHWND]$0" IsNestedClass="True">
+	<CustomWin Name="CtrlNotifySink1" Tag="[CtrlNotifySink]$0" IsNestedClass="True">
+		<PushButton Name="Ok" Tag="$0" />
+	</CustomWin>
+</CustomWin>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

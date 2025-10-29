@@ -1,0 +1,11 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BlockChangesNotSavedDLG2" Tag="[DialogBox]#1" ParentType="Plant3D" GUIType="WIN32">
+  <Pane Name="BlockChangesNotPANE" GUIType="UIA" Tag="[Pane]Block - Changes Not Saved|$Window" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Block - Changes Not Saved|$Window/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Block - Changes Not Saved|$Window/[Pane]#2" />
+  <Pane Name="Pane3PANE" Tag="[Pane]Block - Changes Not Saved|$Window/[Pane]#3" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Block - Changes Not Saved|$Window/[Image]MainInstructionIcon|$MainIcon" />
+  <StaticText Name="TheChangesYouMadeST" Tag="[Pane]Block - Changes Not Saved|$Window/[StaticText]The changes you made have not been saved*|$MainInstruction" />
+  <PushButton Name="SaveTheChangesToPB" Tag="[Pane]Block - Changes Not Saved|$Window/[PushButton]Save the changes to Title Block|$CommandLink_1001" />
+  <PushButton Name="DiscardTheChangesAndPB" Tag="[Pane]Block - Changes Not Saved|$Window/[PushButton]Discard the changes and close the Block Editor|$CommandLink_1002" />
+  <PushButton Name="CancelPB" Tag="[Pane]Block - Changes Not Saved|$Window/[PushButton]Cancel|$CommandButton_2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

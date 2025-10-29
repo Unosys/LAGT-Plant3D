@@ -1,0 +1,4 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateAvailableDLG" Tag="[DialogBox]Spec Update Available|#1" ParentType="Plant3D">
+  <PushButton Name="UpdatePipeSpecsRecommendedPB" Tag="[Pane]Spec Update Available|$Window|#1/[PushButton]Update pipe specs (Recommended)|$CommandLink_1001|#1" />
+  <PushButton Name="AskMeLaterPB" Tag="[Pane]Spec Update Available|$Window|#1/[PushButton]Ask me later|$CommandLink_1002|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

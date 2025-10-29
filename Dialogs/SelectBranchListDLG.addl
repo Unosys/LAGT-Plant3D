@@ -1,0 +1,11 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectBranchListDLG" Tag="[Window]Select Branch List|$MultiBranchSelWindow" >
+  	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#4" />
+
+	<CheckBox Name="UseBranchRow3CK" Tag="[Pane]$wfi:WindowsFormsHost_1|#1/[ListView]#1/[CustomWin]#5/[CheckBox]#1" />
+	<CheckBox Name="UseBranchRow4CK" Tag="[Pane]$wfi:WindowsFormsHost_1|#1/[ListView]#1/[CustomWin]#6/[CheckBox]#1" />
+	<CheckBox Name="UseBranchRow5CK" Tag="[Pane]$wfi:WindowsFormsHost_1|#1/[ListView]#1/[CustomWin]#7/[CheckBox]#1" />
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OKButton|#3" />
+
+
+</Window>

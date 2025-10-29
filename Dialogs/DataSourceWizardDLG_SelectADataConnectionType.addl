@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataSourceWizardDLG_SelectADataConnectionType" Tag="[Pane]Data Source Wizard|$WizardView" ParentType="Pane" GUIType="UIA">
+
+
+	<TextField Name="TextField1TF" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[TextField]$searchControl1|#1" />
+	<TextField Name="TextField2TF" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[TextField]$searchControl1|#1/[TextField]#1" />
+	<ListBox Name="ListBox1LB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1" />
+	<Pane Name="Pane5PANE" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[Pane]$724202|#1" />
+	<ScrollBar Name="VerticalSB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ScrollBar]Vertical|$265874|#1" />
+	<ListBox Name="ListBox2LB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1" />
+
+	<ListBoxItem Name="ItemLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Entity Framework|#1" />
+	<Pane Name="LayoutGroupContentPANE" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[Pane]layoutGroupContent|#1" />
+	<PushButton Name="PushButtonPB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[PushButton]$buttonPrevious|#1" />
+	<PushButton Name="NextPB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[PushButton]Next|$buttonNext|#2" />
+	<PushButton Name="FinishPB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[PushButton]Finish|$buttonFinish|#3" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Data Source Wizard|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

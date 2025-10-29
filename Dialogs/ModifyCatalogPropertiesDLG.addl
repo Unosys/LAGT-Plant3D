@@ -1,0 +1,25 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ModifyCatalogPropertiesDLG" Tag="[Window]Modify Catalog Properties|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="OkButton" Tag="[PushButton]$OK_Button" />
+<PushButton Name="CancelButton" Tag="[PushButton]$Cancel_Button" />
+<PushButton Name="ApplyButton" Tag="[PushButton]$Apply_Button" />
+<PushButton Name="HelpButton" Tag="[PushButton]$Help_Button" />
+<CustomWin Name="MEditProperties" Tag="[CustomWin]$m_EditProperties" />
+<StaticText Name="AddedPropertiesText" Tag="[StaticText]$AddedPropertiesText" />
+<PushButton Name="AddButton" Tag="[PushButton]$Add_Button" />
+<PushButton Name="RemoveButton" Tag="[PushButton]$Remove_Button" />
+<ListBox Name="AddedPropertiesLb" Tag="[ListBox]$AddedProperties_LB" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$GroupBox_1" />
+<StaticText Name="DisplayNameLabel" Tag="[StaticText]$DisplayNameLabel" />
+<TextField Name="DisplayNameTb" Tag="[TextField]$DisplayName_TB" />
+<StaticText Name="DefaultValueLabel" Tag="[StaticText]$DefaultValueLabel" />
+<TextField Name="DefaultValueTb" Tag="[TextField]$DefaultValue_TB" />
+<StaticText Name="AddPropertyToLabel" Tag="[StaticText]$AddPropertyToLabel" />
+<PopupList Name="AddPropertyToCb" Tag="[PopupList]$AddPropertyTo_CB" />
+<StaticText Name="FieldNameLabel" Tag="[StaticText]$FieldNameLabel" />
+<TextField Name="FieldNameTb" Tag="[TextField]$FieldName_TB" />
+<StaticText Name="FieldTypeLabel" Tag="[StaticText]$FieldTypeLabel" />
+<PopupList Name="FieldTypeCb" Tag="[PopupList]$FieldType_CB" />
+<StaticText Name="FieldSizeLabel" Tag="[StaticText]$FieldSizeLabel" />
+<TextField Name="FieldSizeTb" Tag="[TextField]$FieldSize_TB" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

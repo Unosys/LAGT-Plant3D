@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityPartnameDLG" Tag="[Window]Part Preview|$PreviewImageDialog" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="ClosePB" Tag="[PushButton]$Close" />
+<Image Name="CatalogPartSizeImage" Tag="[Image]$CatalogPartSizeImage" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

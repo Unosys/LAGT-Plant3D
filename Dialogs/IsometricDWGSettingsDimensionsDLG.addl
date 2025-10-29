@@ -1,0 +1,44 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsometricDWGSettingsDimensionsDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="Plant3D" GUIType="UIA">
+
+
+	<Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]$2622924|#2" />
+	<Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1" />
+	<Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1" />
+	<CustomWin Name="CustomWin1WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1" />
+	<CustomWin Name="CustomWin2WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1" />
+	<PopupList Name="PopupListPL" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PopupList]$ComboBox_1|#1" />
+	<CustomWin Name="CustomWin3WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[CustomWin]$local:IsometricInfoButton_1|#1" />
+	<PushButton Name="PushButton1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[CustomWin]$local:IsometricInfoButton_1|#1/[PushButton]$Button_1|#1" />
+	<PopupList Name="ThemePL" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PopupList]Theme:|$ComboBox_2|#2" />
+	<StaticText Name="ThemeST" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[StaticText]Theme:|$TextBlock_1|#1" />
+	<StaticText Name="Dimensions1ST" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[StaticText]Dimensions|$TextBlock_2|#2" />
+	<PushButton Name="PushButton2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PushButton]$XMLEditor_button|#1" />
+	<Image Name="Image1IMG" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PushButton]$XMLEditor_button|#1/[Image]$Image_2|#1" />
+	<PushButton Name="PushButton3PB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PushButton]$addStyle_button|#2" />
+	<Image Name="Image2IMG" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PushButton]$addStyle_button|#2/[Image]$Image_1|#1" />
+	<!--<PageList Name="PageListPG" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1" />-->
+	<Window Name="Setting" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#1" />
+	<StaticText Name="SettingsST" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#1/[StaticText]Settings|$tabtext" />
+	<CustomWin Name="CustomWin4WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#1/[CustomWin]$UserControl_1|#1" />
+	<StaticText Name="GeneralSettingsST" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#1/[CustomWin]$UserControl_1|#1/[StaticText]General Settings:|$TextBlock_2|#1" />
+	<Pane Name="Pane14PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#1/[CustomWin]$UserControl_1|#1/[TextField]Stacking:|$Stacking_textBox|#2/[Pane]$PART_ContentHost|#1" />
+	<Window Name="EndtoEnd" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#2" />
+	<StaticText Name="EndToEndOverallST" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#2/[StaticText]End to End (Overall)|$tabtext" />
+	<Window Name="String" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#3" />
+	<StaticText Name="StringST" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#3/[StaticText]String|$tabtext" />
+	<Window Name="Locating" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#4" />
+	<StaticText Name="LocatingST" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#4/[StaticText]Locating|$tabtext" />
+	<Pane Name="Pane15PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$3412262|#2" />
+	<PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3412262|#2/[PushButton]Help|$m_btnHelp|#4" />
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3412262|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+	<PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3412262|#2/[PushButton]OK|$m_btnOk|#2" />
+	<PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3412262|#2/[PushButton]Apply|$m_btnSave|#1" />
+	<TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="Add2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]*/[Pane]*/[Pane]*/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl/[Window]#2/[CustomWin]$UserControl_1|#1/[PushButton]$AddNewAnchor_Exclusion" />
+	<PushButton Name="Add1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]*/[Pane]*/[Pane]*/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl/[Window]#2/[CustomWin]$UserControl_1|#1/[PushButton]$AddNewAnchor" />
+	<PushButton Name="DeleteAnchorPointPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$9573186|#1/[Pane]$m_splitVert|#1/[Pane]$2233028|#2/[Pane]$1249300|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricDimensionTabCtrl|#1/[Window]#2/[CustomWin]$UserControl_1|#1/[PushButton]$DeleteAnchorPoint|#1" />
+	
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

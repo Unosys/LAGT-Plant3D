@@ -1,0 +1,36 @@
+<ProductTestSuite.CommonFiles.AdDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VM_GlobalSettingsDLG" Tag="[Pane]Global Settings|$AdminToolForm" ParentType="VaultPro" GUIType="UIA">
+	<PushButton Name="ClosePB" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]$tableLayoutPanel2|#2/[PushButton]Close|$m_closeButton|#1" />
+
+	<!--<PageList Name="PageListPG" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1" />-->
+	
+	<!--Security-->
+	<!--<PushButton Name="ManageRolesPB" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Security/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$rolesAndPermissionsControl1/[PushButton]$m_rolesButton" />-->
+	<!--<PushButton Name="ManageUsersPB" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Security/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$userManagementControl1/[PushButton]$m_userButton" />
+	<PushButton Name="ManageGroupsPB" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Security/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$groupManagementControl1/[PushButton]$m_groupButton" />-->
+	<!--<PushButton Name="ManageAccessPB" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Security/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$userManagementControl1/[PushButton]$m_userButton" />-->
+	<!--<PushButton Name="ConfigurePB" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Security/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$adminBackgroundColorControl1/[PushButton]$m_configureButton" />-->
+	<PushButton Name="ConfigurePB_BackgroundColor" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$adminBackgroundColorControl1/[PushButton]$m_configureButton" />
+
+	<PushButton Name="ManageAccessPB" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]$adminToolTabControl1|#1/[PageList]$tabControl1|#1/[Pane]Security|$2951024|#1/[Pane]$UserManagementAdminPage|#1/[Pane]$userManagementControl1|#1/[PushButton]Manage Access*|$m_userButton|#1" />
+
+	<PushButton Name="ManageRolesPB" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$rolesAndPermissionsControl1/[PushButton]$m_rolesButton" />
+	<CheckBox Name="EnforcePasswordPolicyCK" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$userManagementControl1/[CheckBox]$m_passwordPolicyCheckBox" />
+	<PushButton Name="ConfigurePB_Password" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Security/[Pane]$UserManagementAdminPage/[Pane]$userManagementControl1/[PushButton]$m_configureButton" />
+	
+	<!--Change Orders-->
+	<!--<PushButton Name="DefinePB" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Change Orders/[Pane]Change Orders/[Pane]$ChangeOrderGlobalAdminPage/[Pane]$routingDefinitionControl/[PushButton]$m_defineButton" />-->
+	<PushButton Name="DefinePB" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Change Orders/[Pane]$ChangeOrderGlobalAdminPage/[Pane]$routingDefinitionControl/[PushButton]$m_defineButton" />
+
+	<!--Integrations-->
+	<!--<CheckBox Name="EnableJobServerCK" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Integrations/[Pane]Integrations/[Pane]$IntegrationsAdminPage/[Pane]$JobQueueOptionsControl/[CheckBox]$m_jobQueueForUpdateViewOption" />-->
+	<!--<PushButton Name="ConfigurePB_Job" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Integrations/[Pane]Integrations/[Pane]$IntegrationsAdminPage/[Pane]$JobQueueOptionsControl/[PushButton]$m_configButton" />-->
+	<!--<PushButton Name="ConfigurePB_SharePoint" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Window]Integrations/[Pane]Integrations/[Pane]$IntegrationsAdminPage/[Pane]$SharePointFolderControl/[PushButton]$m_configButton" />-->
+	<CheckBox Name="EnableJobServerCK" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Integrations/[Pane]$IntegrationsAdminPage/[Pane]$JobQueueOptionsControl/[CheckBox]$m_jobQueueForUpdateViewOption" />
+	<PushButton Name="ConfigurePB_Job" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Integrations/[Pane]$IntegrationsAdminPage/[Pane]$JobQueueOptionsControl/[PushButton]$m_configButton" />
+	<PushButton Name="ConfigurePB_JobFail" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Integrations/[Pane]$IntegrationsAdminPage/[Pane]$JobQueueOptionsControl/[PushButton]$m_configFailedButton" />
+	<CheckBox Name="EnableJobRetryCK" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1/[Pane]Integrations/[Pane]$IntegrationsAdminPage/[Pane]$JobQueueOptionsControl/[CheckBox]$m_setRetryAutoForFailedJobOption" />
+
+
+
+
+</ProductTestSuite.CommonFiles.AdDialogBox>

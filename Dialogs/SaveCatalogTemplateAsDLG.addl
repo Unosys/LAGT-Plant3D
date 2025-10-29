@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveCatalogTemplateAsDLG" Tag="[DialogBox]Save Catalog Template As|#1" ParentType="AutoCADPlant3DCatalogBuilderApplicationDLG" GUIType="UIA">
+  <PushButton Name="SavePB" Tag="[PushButton]Save|$1|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Save Catalog Template As|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

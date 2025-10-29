@@ -1,0 +1,36 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PCFINListDLG" Tag="[Window]PCF To Pipe|$Window_1|#1" ParentType="Plant3D" GUIType="UIA">
+  <TitleBar Name="PCFToPipeCTL" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <StaticText Name="PCFFiles1ST" Tag="[StaticText]PCF Files|$Label_1|#1" />
+  <StaticText Name="PCFFiles2ST" Tag="[StaticText]PCF Files|$Label_1|#1/[StaticText]PCF Files|#1" />
+  <StaticText Name="Status1ST" Tag="[StaticText]Status|$Label_2|#2" />
+  <StaticText Name="Status2ST" Tag="[StaticText]Status|$Label_2|#2/[StaticText]Status|#1" />
+  <PushButton Name="PipeSettingsPB" Tag="[PushButton]$SettingBtn|#1" />
+  <Image Name="Image1IMG" Tag="[PushButton]$SettingBtn|#1/[Image]$Image_1|#1" />
+  <PushButton Name="PushButton2PB" Tag="[PushButton]$AddFileBtn|#2" />
+  <Image Name="Image2IMG" Tag="[PushButton]$AddFileBtn|#2/[Image]$Image_2|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]$ScrollViewer_1|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1" />
+  <Image Name="Image3IMG" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[Image]$DeleteImage|#1" />
+  <StaticText Name="one001ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[StaticText]1001|$FileNameTB|#1" />
+  <StaticText Name="Ok1ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[StaticText]ok|$StatusLabel|#2" />
+  <StaticText Name="Ok2ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[StaticText]ok|$StatusLabel|#2/[StaticText]ok|#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2" />
+  <Image Name="Image4IMG" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[Image]$DeleteImage|#1" />
+  <StaticText Name="one002ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[StaticText]1002|$FileNameTB|#1" />
+  <StaticText Name="Ok3ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[StaticText]ok|$StatusLabel|#2" />
+  <StaticText Name="Ok4ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[StaticText]ok|$StatusLabel|#2/[StaticText]ok|#1" />
+  <CustomWin Name="CustomWin3WIN" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3" />
+  <Image Name="Image5IMG" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[Image]$DeleteImage|#1" />
+  <StaticText Name="one003ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[StaticText]1003|$FileNameTB|#1" />
+  <StaticText Name="CannotCreateModel1ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[StaticText]cannot create model|$StatusLabel|#2" />
+  <StaticText Name="CannotCreateModel2ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[StaticText]cannot create model|$StatusLabel|#2/[StaticText]cannot create model|#1" />
+  <PushButton Name="CreatePipingPB" Tag="[PushButton]Create Piping|$CreatPipingBtn|#3" />
+  <StaticText Name="CreatePipingST" Tag="[PushButton]Create Piping|$CreatPipingBtn|#3/[StaticText]Create Piping|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#4" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelBtn|#4/[StaticText]Cancel|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$HelpBtn|#5" />
+  <StaticText Name="HelpST" Tag="[PushButton]Help|$HelpBtn|#5/[StaticText]Help|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

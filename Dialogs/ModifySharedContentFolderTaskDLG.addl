@@ -1,0 +1,12 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.ModifySharedContentFolderTaskDLG" Tag="[Window]Modify Shared Content Folder|$TaskDialog_Enhanced|#1" ParentType="ModifySharedContentFolderDLG">
+<PushButton Name="CloseButton" Tag="[PushButton]$CloseButton" />
+<StaticText Name="CopyContentToNewLocation" Tag="[StaticText]$" />
+<StaticText Name="DontChangeContentFolderLocation" Tag="[StaticText]$" />
+<StaticText Name="HeaderTextBlock" Tag="[StaticText]$HeaderTextBlock" />
+<Image Name="Image" Tag="[Image]$" />
+<Image Name="Image3" Tag="[Image]$" />
+<Image Name="Image4" Tag="[Image]$" />
+<StaticText Name="MessageTexBlock" Tag="[StaticText]$MessageTexBlock" />
+<StaticText Name="SpecifyAnotherLocation" Tag="[StaticText]$" />
+<Image Name="WarningImage" Tag="[Image]$WarningImage" />
+</Window>

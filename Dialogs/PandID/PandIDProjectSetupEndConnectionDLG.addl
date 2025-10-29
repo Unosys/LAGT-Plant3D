@@ -1,0 +1,25 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupEndConnectionDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="Plant3D">
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz/[Pane]#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#1" />
+  <TreeView Name="M_treeView" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#1/[TreeView]$m_treeView" />
+  <GroupBox Name="AutodeskProcessPowerPnPProjectSetupGSPreviewCtrl" Tag="[GroupBox]$m_groupBox2" />
+  <PushButton Name="M_btnAddBlock" Tag="[Pane]$m_splitHorz|#1/[Pane]$17764422|#1/[Pane]$m_splitVert|#1/[Pane]$1575054|#2/[Pane]$m_endConnectorUserCtrl|#1/[GroupBox]End connections|$m_groupbox|#1/[GroupBox]$m_groupBox2|#1/[PushButton]Add Block*|$m_btnAddBlock|#1" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+  <PushButton Name="M_btnEditBlock" Tag="[PushButton]$m_btnEditBlock" />
+  <PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+  <PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+  <PushButton Name="M_btnRemoveBlock" Tag="[PushButton]$m_btnRemoveBlock" />
+  <PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+  <ComboBox Name="M_comboBox" Tag="[ComboBox]$m_comboBox" />
+  <CustomWin Name="M_endConnectorUserCtrl" Tag="[CustomWin]$m_endConnectorUserCtrl" />
+  <GroupBox Name="M_groupbox" Tag="[GroupBox]$m_groupbox" />
+  <GroupBox Name="M_groupBox2" Tag="[GroupBox]$m_groupBox2" />
+  <CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+  <CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+  <GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+  <GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+  <GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+  <GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

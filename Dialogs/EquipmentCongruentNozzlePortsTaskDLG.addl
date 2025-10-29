@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.EquipmentCongruentNozzlePortsTaskDLG" Tag="[DialogBox]Equipment - Congruent Nozzle Ports" ParentType="Plant3D" GUIType="WIN32">
+  <PushButton Name="ShowDetailsPB" Tag="[Pane]Equipment - Congruent Nozzle Ports|$Window/[PushButton]Show details|$ExpandoButton" />
+  <CheckBox Name="DoNotShowThisCK" Tag="[Pane]Equipment - Congruent Nozzle Ports|$Window/[CheckBox]Do not show this message again|$VerificationCheckBox" />
+  <PushButton Name="ClosePB" Tag="[Pane]Equipment - Congruent Nozzle Ports|$Window/[PushButton]Close|$CommandButton_8" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

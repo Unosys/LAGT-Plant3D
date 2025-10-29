@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LoginRequiredDLG" Tag="[DialogBox]Login Required" ParentType="MainWin">
+  <Pane Name="LoginRequiredPANE" GUIType="UIA" Tag="[Pane]Login Required|$Window|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]Login Required|$Window|#1/[Pane]#1" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Login Required|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="ThisActionCannotBeST" Tag="[Pane]Login Required|$Window|#1/[StaticText]This action cannot be completed|$MainInstruction|#1" />
+  <StaticText Name="InOrderToCarryST" Tag="[Pane]Login Required|$Window|#1/[StaticText]In order to carry out project-specific actions, you must be logged into Vault*|$ContentText|#2" />
+  <PushButton Name="OK" Tag="[Pane]Login Required|$Window|#1/[PushButton]OK|$CommandButton_1|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

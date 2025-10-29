@@ -1,0 +1,19 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DSelectionListPropertyDLG" Tag="[Window]$PickListDlg" ParentType="ProjectSetupPlant3DDWG">
+
+	<!--<PushButton Name="M_btnAddList" Tag="[PushButton]$m_btnAddList" />
+<PushButton Name="M_btnAddRow" Tag="[PushButton]$m_btnAddRow" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnDeleteList" Tag="[PushButton]$m_btnDeleteList" />
+<PushButton Name="M_btnDeleteRow" Tag="[PushButton]$m_btnDeleteRow" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<Table Name="M_dataGridView" Tag="[Table]$m_dataGridView" />
+<StaticText Name="M_labelName" Tag="[StaticText]$m_labelName" />
+<ListBox Name="M_listBox" Tag="[ListBox]$m_listBox" />
+<TextField Name="M_textBoxName" Tag="[TextField]$m_textBoxName" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$m_listBox" />-->
+	<PushButton Name="AddRowPB" Tag="[PushButton]Add Row*|$AddRowBtn|#3" />
+	<PushButton Name="DeleteRowPB" Tag="[PushButton]Delete Row|$DeleteRowBtn|#4" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OKBtn|#7" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#8" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

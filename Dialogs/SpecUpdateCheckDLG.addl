@@ -1,0 +1,6 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateCheckDLG" Tag="[Pane]$SpecUpdateSettingDlg" ParentType="MainWin" GUIType="UIA">
+
+
+<PushButton Name="M_btnClose" Tag="[PushButton]$m_btnClose" />
+<PopupList Name="M_comboBoxHoursPL" Tag="[GroupBox]$groupBox1|#1/[PopupList]$m_comboBoxHours" />
+</Pane>

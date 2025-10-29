@@ -1,0 +1,4 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecAlreadyExistsErrorDLG" Tag="[DialogBox]Error|#1" ParentType="ProjManUndocked" GUIType="WIN32">
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="CUsersAdministratorDesktopNewFolderSpecUpdateAvailableSpecpspxAlreadyExistsST" Tag="[StaticText]'C:*|$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

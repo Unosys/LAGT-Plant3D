@@ -1,0 +1,54 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.XLSXExportOptionsDLG" Tag="[Pane]XLSX Export Options|$LinesForm" ParentType="PreviewDLG" GUIType="UIA">
+  <!--<PushButton Name="BtnCancel" Tag="[Pane]pnlButtons|$pnlButtons/[PushButton]Cancel|$btnCancel" />
+  <PushButton Name="BtnOK" Tag="[Pane]pnlButtons|$pnlButtons/[PushButton]OK|$btnOK" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]XLSX Export Options|$TitleBar/[PushButton]Close|$Close" />-->
+
+  <!--<PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]OK|$btnOK|#1" />-->
+  <PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]OK|$btnOK|#1" />
+
+  <Pane Name="PnlButtonsPANE" Tag="[Pane]pnlButtons|$pnlButtons|#2" />
+  <PushButton Name="BtnCancel" Tag="[Pane]pnlButtons|$pnlButtons/[PushButton]Cancel|$btnCancel" />
+  <PushButton Name="BtnOK" Tag="[Pane]pnlButtons|$pnlButtons/[PushButton]OK|$btnOK" />
+  <Pane Name="Pane1PANE" Tag="[Pane]$7999496|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1" />
+  <StaticText Name="ExportModeST" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1/[StaticText]Export mode:|$7081622|#1" />
+  <PopupList Name="ExportModePL" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1/[PopupList]Export mode:|$6623562|#1" />
+  <StaticText Name="SingleFileST" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1/[PopupList]Export mode:|$6623562|#1/[StaticText]Single file|#1" />
+  <PushButton Name="Open1PB" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1/[PopupList]Export mode:|$6623562|#1/[PushButton]Open|#1" />
+  <ListBox Name="ListBox1LB" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1/[PopupList]Export mode:|$6623562|#1/[ListBox]#1" />
+  <ListBoxItem Name="SingleFileLBI" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1/[PopupList]Export mode:|$6623562|#1/[ListBox]#1/[ListBoxItem]Single file|#3" />
+  <ListBoxItem Name="SingleFilePagebypageLBI" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1/[PopupList]Export mode:|$6623562|#1/[ListBox]#1/[ListBoxItem]Single file page-by-page|#2" />
+  <ListBoxItem Name="DifferentFilesLBI" Tag="[Pane]$7999496|#1/[Pane]$39193722|#1/[PopupList]Export mode:|$6623562|#1/[ListBox]#1/[ListBoxItem]Different files|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$7999496|#1/[Pane]$6884912|#2" />
+  <StaticText Name="PageRangeST" Tag="[Pane]$7999496|#1/[Pane]$6884912|#2/[StaticText]Page range:|$7540946|#1" />
+  <PopupList Name="PageRangePL" Tag="[Pane]$7999496|#1/[Pane]$6884912|#2/[PopupList]Page range:|$26477584|#1" />
+  <StaticText Name="StaticText1ST" Tag="[Pane]$7999496|#1/[Pane]$6884912|#2/[PopupList]Page range:|$26477584|#1/[StaticText]#1" />
+  <ListBox Name="ListBox2LB" Tag="[Pane]$7999496|#1/[Pane]$6884912|#2/[PopupList]Page range:|$26477584|#1/[ListBox]#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$7999496|#1/[Pane]$6426996|#3" />
+  <StaticText Name="StaticText2ST" Tag="[Pane]$7999496|#1/[Pane]$6426996|#3/[StaticText]$7212624|#1" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$7999496|#1/[Pane]$20318778|#4" />
+  <StaticText Name="SheetNameST" Tag="[Pane]$7999496|#1/[Pane]$20318778|#4/[StaticText]Sheet name:|$24185704|#1" />
+  <ComboBox Name="SheetNameCB" Tag="[Pane]$7999496|#1/[Pane]$20318778|#4/[ComboBox]Sheet name:|$30213832|#1" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$7999496|#1/[Pane]$8524276|#5" />
+  <StaticText Name="TextExportModeST" Tag="[Pane]$7999496|#1/[Pane]$8524276|#5/[StaticText]Text export mode:|$9441292|#1" />
+  <PopupList Name="TextExportModePL" Tag="[Pane]$7999496|#1/[Pane]$8524276|#5/[PopupList]Text export mode:|$7082340|#1" />
+  <StaticText Name="ValueST" Tag="[Pane]$7999496|#1/[Pane]$8524276|#5/[PopupList]Text export mode:|$7082340|#1/[StaticText]Value|#1" />
+  <PushButton Name="Open2PB" Tag="[Pane]$7999496|#1/[Pane]$8524276|#5/[PopupList]Text export mode:|$7082340|#1/[PushButton]Open|#1" />
+  <ListBox Name="ListBox3LB" Tag="[Pane]$7999496|#1/[Pane]$8524276|#5/[PopupList]Text export mode:|$7082340|#1/[ListBox]#1" />
+  <ListBoxItem Name="ValueLBI" Tag="[Pane]$7999496|#1/[Pane]$8524276|#5/[PopupList]Text export mode:|$7082340|#1/[ListBox]#1/[ListBoxItem]Value|#2" />
+  <ListBoxItem Name="TextLBI" Tag="[Pane]$7999496|#1/[Pane]$8524276|#5/[PopupList]Text export mode:|$7082340|#1/[ListBox]#1/[ListBoxItem]Text|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$7999496|#1/[Pane]$34277804|#6" />
+  <CheckBox Name="ShowGridLinesCK" Tag="[Pane]$7999496|#1/[Pane]$34277804|#6/[CheckBox]Show grid lines|$53677630|#1" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$7999496|#1/[Pane]$7802674|#7" />
+  <CheckBox Name="ExportHyperlinksCK" Tag="[Pane]$7999496|#1/[Pane]$7802674|#7/[CheckBox]Export hyperlinks|$9440798|#1" />
+  <Pane Name="Pane9PANE" Tag="[Pane]$7999496|#1/[Pane]$6360620|#8" />
+  <CheckBox Name="RawDataModeCK" Tag="[Pane]$7999496|#1/[Pane]$6360620|#8/[CheckBox]Raw data mode|$6754494|#1" />
+  <Pane Name="Pane10PANE" Tag="[Pane]$7999496|#1/[Pane]$10226542|#9" />
+  <StaticText Name="StaticText3ST" Tag="[Pane]$7999496|#1/[Pane]$10226542|#9/[StaticText]$37752054|#1" />
+  <TitleBar Name="XLSXExportOptionsCTL" Tag="[TitleBar]XLSX Export Options|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]XLSX Export Options|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Pane>

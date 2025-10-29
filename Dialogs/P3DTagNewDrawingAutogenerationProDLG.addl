@@ -1,0 +1,8 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DTagNewDrawingAutogenerationProDLG" Tag="[Pane]$AddItemDlg" >
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<StaticText Name="M_DescriptionLabel" Tag="[StaticText]$m_DescriptionLabel" />
+<StaticText Name="M_NameLabel" Tag="[StaticText]$m_NameLabel" />
+<TextField Name="M_textBoxDesc" Tag="[TextField]$m_textBoxDesc" />
+<TextField Name="M_textBoxName" Tag="[TextField]$m_textBoxName" />
+</Pane>

@@ -1,0 +1,25 @@
+<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPIDMigrationDLG" Tag="[DialogBox]$frmDrawingMigration" ParentType="Plant3D">
+<PushButton Name="BtnBrowse" Tag="[PushButton]$btnBrowse" />
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnMigrate" Tag="[PushButton]$btnMigrate" />
+<CheckBox Name="ChkboxBackup" Tag="[CheckBox]$chkboxBackup" />
+<CustomWin Name="FrmMigrationInfo" Tag="[CustomWin]$frmMigrationInfo" />
+<StaticText Name="LblHeader" Tag="[StaticText]$frmMigrationInfo" />
+<StaticText Name="LblHeader2" Tag="[StaticText]$pnlHeader" />
+<StaticText Name="LblMsg01" Tag="[StaticText]$lblMsg01" />
+<StaticText Name="LblMsg02" Tag="[StaticText]$lblMsg02" />
+<StaticText Name="LblMsg03" Tag="[StaticText]$lblMsg03" />
+<Link Name="LinkLabel0" Tag="[Link]$linkLabel0" />
+<GroupBox Name="PnlButtons" Tag="[GroupBox]$pnlButtons" />
+<GroupBox Name="PnlHeader" Tag="[GroupBox]$pnlHeader" />
+<GroupBox Name="PnlInfos" Tag="[GroupBox]$pnlInfos" />
+<TextField Name="TxtboxDwgPath" Tag="[TextField]$txtboxDwgPath" />
+<Link Name="WhatIsUpdatedDuringMigration" Tag="[Link]$frmMigrationInfo" />
+<Link Name="WhatOccursDuringDrawingMigration" Tag="[Link]$frmMigrationInfo" />
+<Link Name="WhyDidTheMigrationFail" Tag="[Link]$frmMigrationInfo" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>-->
+
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPIDMigrationDLG" Tag="[Pane]|$frmDrawingMigration1|#1" ParentType="ProjManUndocked" GUIType="UIA">
+  <CheckBox Name="ChkboxBackup" Tag="[CheckBox]$chkboxBackup" />
+  <PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+</Pane>

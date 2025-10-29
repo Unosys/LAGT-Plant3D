@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecEditorLayoutAndSettingsDLG" Tag="[Window]Spec Editor Layout and Settings|$LayoutAndSettingsWindow" ParentType="MainWin" GUIType="UIA">
+	<PushButton Name="Cancel" Tag="[PushButton]Cancel|$Cancel|#2" />
+
+	<PushButton Name="EditLongDescriptionStylesPB" Tag="[GroupBox]Spec sheet settings|$GroupBox_1|#1/[GroupBox]Long descriptions|$LDGroupBox|#1/[PushButton]Edit long description styles*|$LDStylesButton|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

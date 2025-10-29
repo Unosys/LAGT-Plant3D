@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSelectDataSourceDLG" Tag="[DialogBox]$SelectDataSource" ParentType="Pane">
+<PushButton Name="M_cancelBtn" Tag="[PushButton]$m_cancelBtn" />
+<PushButton Name="M_helpBtn" Tag="[PushButton]$m_helpBtn" />
+<StaticText Name="M_objectCategoryLabel" Tag="[StaticText]$m_objectCategoryLabel" />
+<TreeView Name="M_objectDefinitionTreeView" Tag="[TreeView]$m_objectDefinitionTreeView" />
+<StaticText Name="M_objectPropertyLabel" Tag="[StaticText]$m_objectPropertyLabel" />
+<ListBox Name="M_objectPropertyListBox" Tag="[ListBox]$m_objectPropertyListBox" />
+<GroupBox Name="M_objectTabPage" Tag="[GroupBox]$m_objectTabPage" />
+<PushButton Name="M_OKBtn" Tag="[PushButton]$m_OKBtn" />
+	<CustomizedPagelist Name="PageListPG" Tag="[PageList]$m_propertyTabs" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$splitContainer1" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$splitContainer1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PSWSpecifyPIDSettingsMetricDLG" Tag="[DialogBox]Project Setup Wizard (Page 3 of 6)" ParentType="Plant3D">
+<CustomWin Name="M_wizardSetup" Tag="[CustomWin][Autodesk.ProcessPower.PnPProjectSetup.GenericWizard]$m_wizardSetup|[Autodesk.ProcessPower.PnPProjectSetup.GenericWizard]@(319,225)" />
+<CustomWin Name="PagePIDSettings" Tag="[CustomWin][Autodesk.ProcessPower.PnPProjectSetup.GenericWizardPage]$pagePIDSettings|[Autodesk.ProcessPower.PnPProjectSetup.GenericWizardPage]@(319,201)" />
+<ListBox Name="SelectTheStandardForPIDT1" Tag="[ListBox]Select the standard for P&amp;ID tool Palette content:|$m_listboxTemplate|@(263,216)" />
+<StaticText Name="SelectTheStandardForPIDT2" Tag="[StaticText]Select the standard for P&amp;ID tool Palette content:|$m_PIDStandardsLbl|@(141,161)" />
+<PushButton Name="M_btnPIDDwgDir" Tag="[PushButton]$m_btnPIDDwgDir|@(556,117)" />
+<TextField Name="SpecifyTheDirectoryWhereP1" Tag="[TextField]Specify the directory where P&amp;ID drawings are stored:|$m_editPIDDwgDir|@(261,116)" />
+<StaticText Name="SpecifyTheDirectoryWhereP2" Tag="[StaticText]Specify the directory where P&amp;ID drawings are stored:|$m_PIDDwgsDirLbl|@(150,98)" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|$m_buttonCancel|@(591,425)" />
+<PushButton Name="Next" Tag="[PushButton]Next &gt;&gt;|$m_buttonNext|@(507,425)" />
+<PushButton Name="Back" Tag="[PushButton]&lt;&lt; Back|$m_buttonBack|@(431,425)" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

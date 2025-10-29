@@ -1,0 +1,21 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutodeskConnectionPointEditorDLG" Tag="[Pane]Autodesk Connection Point Editor|$AttributeEditor" ParentType="MainWin" GUIType="UIA">
+  <Pane Name="PanePANE" Tag="[Pane]$LayerOut|#1" />
+  <Table Name="DataGridViewTBL" Tag="[Pane]$LayerOut|#1/[Table]DataGridView|$_myDataGridView|#1" />
+  <CustomWin Name="TopRowWIN" Tag="[Pane]$LayerOut|#1/[Table]DataGridView|$_myDataGridView|#1/[CustomWin]Top Row|#1" />
+  <Header Name="PropertyNameCTL" Tag="[Pane]$LayerOut|#1/[Table]DataGridView|$_myDataGridView|#1/[CustomWin]Top Row|#1/[Header]Property Name|#1" />
+  <Header Name="ValueCTL" Tag="[Pane]$LayerOut|#1/[Table]DataGridView|$_myDataGridView|#1/[CustomWin]Top Row|#1/[Header]Value|#2" />
+  <CustomWin Name="Row0WIN" Tag="[Pane]$LayerOut|#1/[Table]DataGridView|$_myDataGridView|#1/[CustomWin]Row 0|#2" />
+  <CustomWin Name="PropertyNameRow0WIN" Tag="[Pane]$LayerOut|#1/[Table]DataGridView|$_myDataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Property Name Row 0|#1" />
+  <CustomWin Name="ValueRow0WIN" Tag="[Pane]$LayerOut|#1/[Table]DataGridView|$_myDataGridView|#1/[CustomWin]Row 0|#2/[CustomWin]Value Row 0|#2" />
+  <StaticText Name="ConnectionPointPropertiesST" Tag="[Pane]$LayerOut|#1/[StaticText]Connection Point Properties:|$label1|#1" />
+  <Pane Name="ConnectionPointPropertiesPANE" Tag="[Pane]$LayerOut|#1/[Pane]Connection Point Properties:|$panel1|#1" />
+  <StaticText Name="AdvancedST" Tag="[Pane]$LayerOut|#1/[Pane]Connection Point Properties:|$panel1|#1/[StaticText]Advanced|$label2|#1" />
+  <PushButton Name="AdvancedPB" Tag="[Pane]$LayerOut|#1/[Pane]Connection Point Properties:|$panel1|#1/[PushButton]Advanced|$AdvancedBtn|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$buttonHelp|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$buttonCancel|#3" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$buttonOK|#2" />
+  <TitleBar Name="AutodeskConnectionPointEditorCTL" Tag="[TitleBar]Autodesk Connection Point Editor|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Autodesk Connection Point Editor|$TitleBar|#1/[CustomWin]System Menu Bar|$AttributeEditor|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Autodesk Connection Point Editor|$TitleBar|#1/[CustomWin]System Menu Bar|$AttributeEditor|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Autodesk Connection Point Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

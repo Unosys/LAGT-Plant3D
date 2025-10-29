@@ -1,0 +1,10 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataFilterCollectionEditorAddDLG" Tag="[Pane]$DataFilterCollectionForm" ParentType="ChartWizardChartDLG">
+<CustomWin Name="BtnAdd" Tag="[CustomWin]$btnAdd" />
+<CustomWin Name="BtnClose" Tag="[CustomWin]$btnClose" />
+<CustomWin Name="BtnRemove" Tag="[CustomWin]$btnRemove" />
+<CustomWin Name="LbFilters" Tag="[CustomWin]$lbFilters" />
+<CustomWin Name="LblSplitter" Tag="[CustomWin]$lblSplitter" />
+<CustomWin Name="PropertyGrid" Tag="[CustomWin]$propertyGrid" />
+<CustomWin Name="PropertyGridView" Tag="[CustomWin]$propertyGrid" />
+<CustomWin Name="RgConjunction" Tag="[CustomWin]$rgConjunction" />
+</Pane>

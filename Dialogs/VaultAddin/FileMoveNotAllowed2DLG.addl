@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.FileMoveNotAllowed2DLG" Tag="[DialogBox]File move not allowed" ParentType="Plant3D">
+<PushButton Name="OKPB" Tag="[PushButton]$2|OK|#1" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]$20|[Icon]#1" />
+<StaticText Name="ThisActionCannotBeComplete" Tag="[StaticText]$65535|This action cannot be completed because ' a' already exists in the destination folder .|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

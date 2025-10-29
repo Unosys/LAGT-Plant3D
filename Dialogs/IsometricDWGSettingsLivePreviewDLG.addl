@@ -1,0 +1,83 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsometricDWGSettingsLivePreviewDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+<!--<PushButton Name="BtnBrowse" Tag="[PushButton]$btnBrowse" />
+<PushButton Name="BtnNext" Tag="[PushButton]$btnNext" />
+<PushButton Name="BtnPrevious" Tag="[PushButton]$btnPrevious" />
+<PushButton Name="Button_NewIsoStyle" Tag="[PushButton]$button_NewIsoStyle" />
+<ComboBox Name="CmbboxIsoStyle" Tag="[ComboBox]$cmbboxIsoStyle" />
+<GroupBox Name="GrpboxPreview" Tag="[GroupBox]$grpboxPreview" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+<StaticText Name="LabelAnim" Tag="[StaticText]$labelAnim" />
+<StaticText Name="LabelPCF" Tag="[StaticText]$labelPCF" />
+<StaticText Name="LblIndex" Tag="[StaticText]$lblIndex" />
+<Link Name="LinkLabel" Tag="[Link]$linkLabel" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<CustomWin Name="M_isometricSetupPreviewUserCtrl" Tag="[CustomWin]$m_isometricSetupPreviewUserCtrl" />
+<StaticText Name="M_isoPreview" Tag="[StaticText]$m_isoPreview" />
+<StaticText Name="M_isoStyle" Tag="[StaticText]$m_isoStyle" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<GroupBox Name="PanelIndex" Tag="[GroupBox]$panelIndex" />
+<GroupBox Name="PanelIso" Tag="[GroupBox]$panelIso" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />
+<TextField Name="TxtboxPCF" Tag="[TextField]$txtboxPCF" />-->
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#2" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#3" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#4" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#5" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="IsoStyleSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Iso Style Setup|#1" />
+  <TreeViewItem Name="DefaultSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Default Settings|#2" />
+  <TreeViewItem Name="AnnotationsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Annotations|#3" />
+  <TreeViewItem Name="DimensionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Dimensions|#4" />
+  <TreeViewItem Name="ThemesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Themes|#5" />
+  <TreeViewItem Name="SlopedAndOffsetPipingTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Sloped and Offset Piping|#6" />
+  <TreeViewItem Name="TitleBlockAndDisplayTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Title Block and Display|#7" />
+  <TreeViewItem Name="LivePreviewTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Live Preview|#8" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$75369368|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1" />
+  <Pane Name="IsoPreviewPANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1" />
+  <CheckBox Name="SpoolFormatCK" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[CheckBox]Spool format|$checkBox_SpoolFormat|#1" />
+  <PushButton Name="PushButtonPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[PushButton]+|$button_NewIsoStyle|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[Pane]$panelIso|#1" />
+  <Pane Name="CancelPANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[Pane]$panelIso|#1/[Pane]Cancel|$6819184|#1" />
+  <StaticText Name="GeneratingIsoPreviewST" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[Pane]$panelIso|#1/[StaticText]Generating Iso Preview*|$labelAnim|#1" />
+  <Link Name="CancelLINK" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[Pane]$panelIso|#1/[Link]Cancel|$linkLabel|#1" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[Pane]$panelIndex|#2" />
+  <StaticText Name="Sheet1Of1ST" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[Pane]$panelIndex|#2/[StaticText]Sheet 1 of 1|$lblIndex|#1" />
+  <PushButton Name="Sheet1Of11PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[Pane]$panelIndex|#2/[PushButton]Sheet 1 of 1[1]|$btnNext|#2" />
+  <PushButton Name="Sheet1Of12PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[Pane]$panelIndex|#2/[PushButton]Sheet 1 of 1[2]|$btnPrevious|#1" />
+  <StaticText Name="SpecifyAPCFFileST" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[StaticText]Specify a PCF file for preview:|$labelPCF|#1" />
+  <TextField Name="SpecifyAPCFFileTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[TextField]Specify a PCF file for preview:|$txtboxPCF|#1" />
+  <PopupList Name="PopupListPL" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[PopupList]$cmbboxIsoStyle|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[PopupList]$cmbboxIsoStyle|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <!--<PushButton Name="BtnBrowse" Tag="[Pane]$m_splitHorz|#1/[Pane]$5771230|#1/[Pane]$m_splitVert|#1/[Pane]$5575092|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[PushButton]Browse*|$btnBrowse|#2" />-->
+  <PushButton Name="BtnBrowse" Tag="[Pane]$m_splitHorz|#1/[Pane]$24839872|#1/[Pane]$m_splitVert|#1/[Pane]$18548496|#2/[Pane]$m_isometricSetupPreviewUserCtrl|#1/[Pane]Iso Preview|$panel_Preview|#1/[PushButton]Browse*|$btnBrowse" />
+
+  <Pane Name="Pane9PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$6033662|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$6033662|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$6033662|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$6033662|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$6033662|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

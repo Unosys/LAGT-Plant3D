@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDFileIsReadOnlyDLG" Tag="[DialogBox]FileIsReadOnlyDLG" ParentType="CustomWin">
+<PushButton Name="OK" Tag="$2" />
+<CustomWin Name="Icon1" Tag="[Icon]$20" />
+<StaticText Name="TheFileYouAreAttemptingTo" Tag="$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

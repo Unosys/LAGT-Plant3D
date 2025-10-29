@@ -1,0 +1,14 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupPipeSpecObjectMappingDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg|#1" ParentType="Plant3D" GUIType="UIA">
+
+	<Pane Name="ObjectMappingPANE" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pipeSpecObjectMappingUserCtrl|#1/[GroupBox]$m_groupBoxSpecMapping|#1/[PageList]$m_tabControlSpecObjects|#2/[Pane]Object Mapping|$m_tabPageSpecObjects|#1" />
+
+	<Link Name="LookupList" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pipeSpecObjectMappingUserCtrl|#1/[GroupBox]$m_groupBoxSpecMapping|#1/[PageList]$m_tabControlSpecObjects|#2/[Pane]$m_tabPageSpecProperties|#1/[Pane]$m_panelProperties|#1/[ListView]$m_dataGridViewProperties|#1/[CustomWin]#5/[Link]#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#2/[PushButton]Cancel|$m_btnCancel|#3" />
+
+
+	<Window Name="Window1WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pipeSpecObjectMappingUserCtrl|#1/[GroupBox]$m_groupBoxSpecMapping|#1/[PageList]$m_tabControlPnIdObjects|#1/[Window]$m_tabPageLines|#1" />
+	<Window Name="Window2WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pipeSpecObjectMappingUserCtrl|#1/[GroupBox]$m_groupBoxSpecMapping|#1/[PageList]$m_tabControlPnIdObjects|#1/[Window]$m_tabPageValves|#2" />
+	<Window Name="Window3WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pipeSpecObjectMappingUserCtrl|#1/[GroupBox]$m_groupBoxSpecMapping|#1/[PageList]$m_tabControlPnIdObjects|#1/[Window]$m_tabPageFittings|#3" />
+	<Window Name="Window4WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pipeSpecObjectMappingUserCtrl|#1/[GroupBox]$m_groupBoxSpecMapping|#1/[PageList]$m_tabControlPnIdObjects|#1/[Window]$m_tabPageSpecialty|#4" />
+
+</Pane>

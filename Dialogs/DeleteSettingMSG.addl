@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DeleteSettingMSG" Tag="[DialogBox]Delete Setting">
+
+
+
+	<PushButton Name="YesPB" Tag="[Pane]Delete Setting|$Window|#1/[PushButton]Yes|$CommandButton_6|#1" />
+	<PushButton Name="NoPB" Tag="[Pane]Delete Setting|$Window|#1/[PushButton]No|$CommandButton_7|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

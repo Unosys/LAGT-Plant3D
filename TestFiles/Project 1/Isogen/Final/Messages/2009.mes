@@ -1,0 +1,28 @@
+
+ Personal ISOGEN : VERSION 6.3.0 (Full)
+
+*** IDFGEN VERSION 7.3.0 (Build 12) ***
+Reading File: ISOGEN.PCF
+
+Processing PIPELINE-REFERENCE: 2009
+ALL COMPONENTS CONNECTED.
+ISOGEN VERSION 9.3.0 (Build 17]
+          **** ISODAT ****
+ START OF DRAWING 2009         
+
+ERROR DETECTED IN PIPE /2009         
+********************************************************************************
+WARNING:
+Message Indentifier:            ISOGEN:1111
+Message Text:                   COMPONENT(S) WITH NO WEIGHT FOUND
+********************************************************************************
+ OUTPUT STAGE OF DRAWING 2009         
+
+         **** ISOPLOT ****
+ DRG   1  SHAPED        	   	   
+
+ THE FOLLOWING DRAWINGS ARE IN PLOTFILE  C:\Users\petrjk\Documents\Project 1\Isogen\Final\Drawings\2009.DWG
+ DRG   1  SIMULATE      	   	   
+          DRG.   1   /2009                                              
+ DRG.  1 ISOMET ARRAYS SET, CHRS     0 FROM 20000 TEXT     0 FROM  1000
+                            DIMN     2 FROM   400 SKEW     0 FROM    50

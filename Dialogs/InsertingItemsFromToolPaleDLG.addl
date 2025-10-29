@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.InsertingItemsFromToolPaleDLG" Tag="[DialogBox]$DragandDropInfoDlg" ParentType="Plant3D">
+<CheckBox Name="CheckBox1" Tag="[CheckBox]$checkBox1" />
+<PushButton Name="CloseButton" Tag="[PushButton]$closeButton" />
+<StaticText Name="LabelInfo" Tag="[StaticText]$labelInfo" />
+<StaticText Name="LabelItem" Tag="[StaticText]$labelItem" />
+<GroupBox Name="Panel1" Tag="[GroupBox]$panel1" />
+<CustomWin Name="PictureBox1" Tag="[CustomWin]$pictureBox1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

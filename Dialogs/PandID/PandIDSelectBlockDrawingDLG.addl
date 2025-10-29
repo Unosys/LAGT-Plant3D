@@ -1,0 +1,92 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSelectBlockDrawingDLG" Tag="[DialogBox]Select Block Drawing" ParentType="Pane">
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]#1" />
+  <ListView Name="ListViewLV" Tag="[CustomWin]#1/[ListView]$1|#1" />
+  <Header Name="HeaderCTL" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="NameWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 0|#1" />
+  <ScrollBar Name="HorizontalScrollBarSB" Tag="[CustomWin]#1/[ListView]$1|#1/[ScrollBar]Horizontal Scroll Bar|$Horizontal ScrollBar|#1" />
+  <ListViewItem Name="NetworkPathLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]NetworkPath|#1" />
+  <TextField Name="TextField1TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]NetworkPath|#1/[TextField]#1" />
+  <ListViewItem Name="Project1HadrianLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]Project1-Hadrian|#2" />
+  <TextField Name="TextField2TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]Project1-Hadrian|#2/[TextField]#1" />
+  <ListViewItem Name="oneA11001dwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]1-A1-1001*|#3" />
+  <TextField Name="TextField3TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]1-A1-1001*|#3/[TextField]#1" />
+  <ListViewItem Name="oneA11002dwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]1-A1-1002*|#4" />
+  <TextField Name="TextField4TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]1-A1-1002*|#4/[TextField]#1" />
+  <ListViewItem Name="ConnectorPointdwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]ConnectorPoint*|#5" />
+  <TextField Name="TextField5TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]ConnectorPoint*|#5/[TextField]#1" />
+  <ListViewItem Name="DrawingCheckerdwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]DrawingChecker*|#6" />
+  <TextField Name="TextField6TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]DrawingChecker*|#6/[TextField]#1" />
+  <ListViewItem Name="EditAnnotationdwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]EditAnnotation*|#7" />
+  <TextField Name="TextField7TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]EditAnnotation*|#7/[TextField]#1" />
+  <ListViewItem Name="OffPageConectordwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]OffPageConector*|#8" />
+  <TextField Name="TextField8TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]OffPageConector*|#8/[TextField]#1" />
+  <ListViewItem Name="OffPageConector1dwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]OffPageConector1*|#9" />
+  <TextField Name="TextField9TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]OffPageConector1*|#9/[TextField]#1" />
+  <ListViewItem Name="OrthoViewPortdwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]OrthoViewPort*|#10" />
+  <TextField Name="TextField10TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]OrthoViewPort*|#10/[TextField]#1" />
+  <ListViewItem Name="PID2008dwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID_2008*|#11" />
+  <TextField Name="TextField11TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID_2008*|#11/[TextField]#1" />
+  <ListViewItem Name="PID2009dwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID_2009*|#12" />
+  <TextField Name="TextField12TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID_2009*|#12/[TextField]#1" />
+  <ListViewItem Name="PIDEditBlockDwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PIDEditBlock*|#13" />
+  <TextField Name="TextField13TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PIDEditBlock*|#13/[TextField]#1" />
+  <ListViewItem Name="ProjSymbolStyledwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]projSymbolStyle*|#14" />
+  <TextField Name="TextField14TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]projSymbolStyle*|#14/[TextField]#1" />
+  <ListViewItem Name="SampleDrawingdwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]SampleDrawing*|#15" />
+  <TextField Name="TextField15TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]SampleDrawing*|#15/[TextField]#1" />
+  <ListViewItem Name="TagEquipmentdwgLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]TagEquipment*|#16" />
+  <TextField Name="TextField16TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]TagEquipment*|#16/[TextField]#1" />
+  <StaticText Name="FileNameST" Tag="[StaticText]File name:|$13008|#2" />
+  <ComboBox Name="FileNameCB" Tag="[ComboBox]File name:|$13006|#1" />
+  <StaticText Name="FilesOfTypeST" Tag="[StaticText]Files of type:|$13009|#3" />
+  <PopupList Name="FilesOfTypePL" Tag="[PopupList]Files of type:|$13002|#2" />
+  <PushButton Name="DropDownButton1PB" Tag="[PopupList]Files of type:|$13002|#2/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="PreviousFolderAlt1PB" Tag="[PushButton]Previous folder(Alt+1)|$13011|#1" />
+  <PushButton Name="UpOneLevelAlt2PB" Tag="[PushButton]Up one level (Alt+2)|$13003|#2" />
+  <PushButton Name="SearchTheWebAlt3PB" Tag="[PushButton]Search the Web (Alt+3)|$13004|#3" />
+  <PushButton Name="DeleteDelPB" Tag="[PushButton]Delete (Del)|$13014|#4" />
+  <PushButton Name="CreateNewFolderAlt5PB" Tag="[PushButton]Create New Folder (Alt+5)|$13013|#5" />
+  <PushButton Name="ViewsPB" Tag="[PushButton]Views|$13012|#6" />
+  <PushButton Name="ToolsPB" Tag="[PushButton]Tools|$13005|#7" />
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$1|#9" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#10" />
+  <ListBox Name="LookInLB" Tag="[ListBox]Look in:|$13000|#1" />
+  <ListBoxItem Name="HistoryLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]History|#1" />
+  <ListBoxItem Name="DocumentsLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Documents|#2" />
+  <ListBoxItem Name="FavoritesLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Favorites|#3" />
+  <ListBoxItem Name="DesktopLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Desktop|#4" />
+  <StaticText Name="LookInST" Tag="[StaticText]Look in:|$13007|#1" />
+  <PopupList Name="LookInPL" Tag="[PopupList]Look in:|$13001|#1" />
+  <PushButton Name="DropDownButton2PB" Tag="[PopupList]Look in:|$13001|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <GroupBox Name="PreviewGB" Tag="[GroupBox]Preview|$13100|#1" />
+  <PushButton Name="PreviewPB" Tag="[PushButton]Preview|$13101|#8" />
+  <TitleBar Name="SelectBlockDrawingCTL" Tag="[TitleBar]Select Block Drawing|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Select Block Drawing|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Select Block Drawing|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Block Drawing|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+  <!--<ListBox Name="LookIn1" Tag="[ListBox]#1|$13000" />
+<StaticText Name="LookInText" Tag="[StaticText]#1|$13007" />
+<PopupList Name="LookIn2" Tag="[PopupList]#1|$13001" />
+<ListView Name="ListView1" Tag="[ListView]#1|$1" />
+<Header Name="Header1" Tag="[Header]#1|$0" />
+<PushButton Name="Name" Tag="#1" />
+<PushButton Name="Size" Tag="#2" />
+<PushButton Name="Type" Tag="#3" />
+<PushButton Name="DateModified" Tag="#4" />
+<StaticText Name="FileNameText" Tag="[StaticText]#3|$13008" />
+<ComboBox Name="FileNameCB" Tag="[ComboBox]#1|$13006" />
+<StaticText Name="FilesOfTypeText" Tag="[StaticText]#4|$13009" />
+<PopupList Name="FilesOfType" Tag="[PopupList]#2|$13002" />
+<PushButton Name="PreviousFolderAlt1" Tag="[PushButton]#1|$13011" />
+<PushButton Name="UpOneLevelAlt2" Tag="[PushButton]#2|$13003" />
+<PushButton Name="SearchTheWebAlt3" Tag="[PushButton]#3|$13004" />
+<PushButton Name="DeleteDel" Tag="[PushButton]#4|$13014" />
+<PushButton Name="CreateNewFolderAlt5" Tag="[PushButton]#5|$13013" />
+<PushButton Name="Views" Tag="[PushButton]#6|$13012" />
+<PushButton Name="Tools" Tag="[PushButton]#7|$13005" />
+<PushButton Name="OpenPB" Tag="[PushButton]#9|$1" />
+<PushButton Name="Cancel" Tag="[PushButton]#10|$2" />
+<StaticText Name="PreviewText" Tag="[StaticText]#2|$13100" />
+<PushButton Name="Preview" Tag="[PushButton]#8|$13101" />-->
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

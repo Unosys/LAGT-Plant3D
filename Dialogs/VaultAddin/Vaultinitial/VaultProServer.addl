@@ -1,0 +1,10 @@
+﻿<MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.VaultProServer" Tag="[MainWin]Autodesk Data Management Server Console *|$ExplorerForm" ParentType="Desktop" GUIType="UIA">
+
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_MainContainer/[Pane]#1/[Pane]$m_navBarControl/[Pane]$m_navBar/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[TreeView]#1" />
+
+
+  <ScrollBar Name="HorizontalScrollBarSB" Tag="[Pane]$m_mainPanelContainer/[Pane]$m_navPanel/[Pane]$m_navBarControl/[Pane]$m_navBar/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[TreeView]#1/[ScrollBar]$Horizontal ScrollBar|#1" />
+  
+  
+
+</MainWin>

@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDObjectMappingDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+ <TreeView Name="M_treeClasses" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]$groupBox1|#1/[TreeView]$m_treeClasses|#1" />
+	<PushButton Name="AddPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]$groupBox1|#1/[Pane]$m_panelMapping|#1/[PushButton]Add*|$Btn_AddNewMapping|#1" />
+
+	<PushButton Name="DeletePB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]$groupBox1|#1/[Pane]$m_panelMapping|#1/[PushButton]Delete|$Btn_Delete|#3" />
+	<PushButton Name="EditPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]$groupBox1|#1/[Pane]$m_panelMapping|#1/[PushButton]Edit*|$Btn_Edit|#2" />
+	<ListBox Name="NoImageLB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]$groupBox1|#1/[Pane]$m_panelMapping|#1/[ListBox]$m_listBox3DClassMappings|#1" />
+	<ListBoxItem Name="P3dLineGroupLBI" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]$groupBox1|#1/[Pane]$m_panelMapping|#1/[ListBox]$m_listBox3DClassMappings|#1/[ListBoxItem]P3d Line Group|#1" />
+	<ListBoxItem Name="EquipmentLBI" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]$groupBox1|#1/[Pane]$m_panelMapping|#1/[ListBox]$m_listBox3DClassMappings|#1/[ListBoxItem]Equipment|#2" />
+	<TreeViewItem Name="PipeLineGroupdeuTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]P*|$groupBox1|#1/[TreeView]P*|$m_treeClasses|#1/[TreeViewItem]#2" />
+
+	<TreeViewItem Name="PipeLineGroupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]P*|$groupBox1|#1/[TreeView]P*|$m_treeClasses|#1/[TreeViewItem]Pipe Line Group|#3" />
+	<TreeViewItem Name="SignalLineGroupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pnidObjectMapping|#1/[GroupBox]P*|$groupBox1|#1/[TreeView]P*|$m_treeClasses|#1/[TreeViewItem]Signal Line Group|#4" />
+
+
+</Pane>

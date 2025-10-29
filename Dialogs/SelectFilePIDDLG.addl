@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectFilePIDDLG" Tag="[DialogBox]Select File" ParentType="Plant3D" GUIType="WIN32">
+  <ListView Name="ListView1" Tag="[CustomWin]#1/[ListView]$1" />
+  <ComboBox Name="FileName" Tag="[ComboBox]File name:|$13006" />
+  <PopupList Name="FilesOfTypePL" Tag="[PopupList]Files of type:|$13002" />
+  <PushButton Name="PreviousFolderAlt1" Tag="[PushButton]Previous folder(Alt+1)|$13011" />
+  <PushButton Name="UpOneLevelAlt2" Tag="[PushButton]Up one level (Alt+2)|$13003" />
+  <PushButton Name="SearchTheWebAlt3" Tag="[PushButton]Search the Web (Alt+3)|$13004" />
+  <PushButton Name="DeleteDel" Tag="[PushButton]Delete (Del)|$13014" />
+  <PushButton Name="CreateNewFolderAlt5" Tag="[PushButton]Create New Folder (Alt+5)|$13013" />
+  <PushButton Name="Views" Tag="[PushButton]Views|$13012" />
+  <PushButton Name="Tools" Tag="[PushButton]Tools|$13005" />
+  <PushButton Name="Open" Tag="[PushButton]Open|$1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+  <CheckBox Name="SelectInitialView" Tag="[CheckBox]Select Initial View|$13103" />
+  <ListBox Name="LookIn1" Tag="[ListBox]Look in:|$13000" />
+  <PopupList Name="LookIn2" Tag="[PopupList]Look in:|$13001" />
+  <PushButton Name="Preview" Tag="[PushButton]$13101" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

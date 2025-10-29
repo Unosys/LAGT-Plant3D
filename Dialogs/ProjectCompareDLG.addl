@@ -1,0 +1,16 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectCompareDLG" Tag="[Window]Project Compare|$Window_1" ParentType="MainWin" GUIType="UIA">
+	<TitleBar Name="ProjectCompareCTL" Tag="[TitleBar]Project Compare|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Compare|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Project Compare|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="Close1PB" Tag="[TitleBar]Project Compare|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<StaticText Name="CompareTheCurrentProjectST" Tag="[StaticText]Compare the Current Project*|$TextBlock_1|#1" />
+	<Image Name="ImageIMG" Tag="[Image]$Image_1|#1" />
+	<StaticText Name="ViewDifferencesOrSeeST" Tag="[StaticText]View differences or see what is missing from your current project*|$TextBlock_2|#2" />
+	<PushButton Name="Close2PB" Tag="[PushButton]Close|$CloseButton|#1" />
+	<StaticText Name="CloseST" Tag="[PushButton]Close|$CloseButton|#1/[StaticText]Close|#1" />
+	<PopupList Name="LearnHowToCreatePL" Tag="[PopupList]$OpenProjectComboBox" />
+	<PushButton Name="ChooseAProjectToPB" Tag="[PushButton]Choose a Project to Compare|$OpenLocalDefaultButton|#2" />
+	<StaticText Name="ChooseAProjectToST" Tag="[PushButton]Choose a Project to Compare|$OpenLocalDefaultButton|#2/[StaticText]Choose a Project to Compare|#1" />
+	<StaticText Name="LearnHowToCreateST" Tag="[StaticText]Learn how to create a project backup before you start*|$TextBlock_3|#3" />
+	<Link Name="LearnHowToCreateLINK" Tag="[StaticText]Learn how to create a project backup before you start*|$TextBlock_3|#3/[Link]Learn how to create a project backup before you start*|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateNotificationCatalogpartshavechangedDLG2" Tag="[Window]Spec Update Notification|$SpecUpdateNotificationWindow" ParentType="MainWin" GUIType="UIA">
+   <PushButton Name="ClosePB" Tag="[TitleBar]Spec Update Notification|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#1" />
+ 
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

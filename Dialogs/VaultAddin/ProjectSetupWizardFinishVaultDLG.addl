@@ -1,0 +1,24 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardFinishVaultDLG" Tag="[Pane]$CreateProjectWizard" ParentType="Plant3D">
+<!--<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonFinish" Tag="[PushButton]$m_buttonFinish" />
+<CheckBox Name="M_checkboxLaunchSetupDlg" Tag="[CheckBox]$m_checkboxLaunchSetupDlg" />
+<StaticText Name="M_finishPageLbl" Tag="[StaticText]$m_finishPageLbl" />
+//<CustomWin Name ="M_wizardSetup" Tag="$m_wizardSetup" />
+<GroupBox Name="PageFinish" Tag="[GroupBox]$pageFinish" />-->
+
+
+  <Pane Name="PanePANE" Tag="[Pane]$m_wizardSetup|#1" />
+  <Pane Name="NoteAllSymbolsWillPANE" Tag="[Pane]$m_wizardSetup|#1/[Pane]Note: All symbols will be drawn in inches*|$pageFinish|#1" />
+  <CheckBox Name="EditAdditionalProjectSettingsCK" Tag="[Pane]$m_wizardSetup|#1/[Pane]Note: All symbols will be drawn in inches*|$pageFinish|#1/[CheckBox]Edit additional project settings after creating project|$m_checkboxLaunchSetupDlg|#1" />
+  <StaticText Name="TheWizardHasCollectedST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Note: All symbols will be drawn in inches*|$pageFinish|#1/[StaticText]The wizard has collected enough information to create your project*|$m_finishPageLbl|#1" />
+  <PushButton Name="M_buttonFinish" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Finish|$m_buttonFinish|#2" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Cancel|$m_buttonCancel|#3" />
+  <PushButton Name="BackPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]&lt;&lt; Back|$m_buttonBack|#1" />
+  <TitleBar Name="ProjectSetupWizardPageCTL" Tag="[TitleBar]Project Setup Wizard (Page 6 of 6)|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup Wizard (Page 6 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup Wizard (Page 6 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 6 of 6)|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

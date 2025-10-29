@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.TableSetupDLG" Tag="[Pane]Table Setup|$IsoTBTableSetupDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <!--<PageList Name="PageListPG" Tag="[PageList]$m_tabControl|#1" />-->
+ <Pane Name="TableLayoutPANE" Tag="[PageList]$m_tabControl|#1/[Pane]$m_tabTableLayout|#1" />	
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOK|#1" />
+	    <PushButton Name="M_selectIdsFileBtn" Tag="[PageList]$m_tabControl|#1/[Pane]Settings|$m_tabTableSettings|#1/[GroupBox]$m_BOMSettingsGroup|#1/[GroupBox]Descriptions|$m_BOMDescriptionGroupBox|#3/[PushButton]$m_selectIdsFileBtn|#1" />
+<CheckBox Name="UseCustomDescriptionCK" Tag="[PageList]$m_tabControl|#1/[Pane]Settings|$m_tabTableSettings|#1/[GroupBox]$m_BOMSettingsGroup|#1/[GroupBox]Descriptions|$m_BOMDescriptionGroupBox|#3/[CheckBox]$m_customCheckBox|#1" />
+  <CheckBox Name="CreateSeparateFabricationAndCK" Tag="[PageList]$m_tabControl|#1/[Pane]Settings|$m_tabTableSettings|#1/[GroupBox]$m_BOMSettingsGroup|#1/[CheckBox]$m_createFabErecCheckBox|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

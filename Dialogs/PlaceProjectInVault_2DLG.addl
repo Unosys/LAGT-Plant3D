@@ -1,0 +1,7 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlaceProjectInVault_2DLG" Tag="[DialogBox]Place Project in Vault" ParentType="Pane" GUIType="UIA">
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="TheSelectedWorkspaceFolderST" Tag="[StaticText]The selected workspace folder should be on your computer local drive*|$65535|#1" />
+  <TitleBar Name="PlaceProjectInVaultCTL" Tag="[TitleBar]Place Project in Vault|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Place Project in Vault|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

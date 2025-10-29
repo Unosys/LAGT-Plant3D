@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectReportSelectionDLG" Tag="*/[Pane]$SheetSelectionDlg" >
+
+  <PushButton Name="M_buttonBrowse" Tag="[PushButton]$m_buttonBrowse" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonHelp" Tag="[PushButton]$m_buttonHelp" />
+<PushButton Name="M_buttonOK" Tag="[PushButton]$m_buttonOK" />
+<ComboBox Name="M_comboBoxSettings" Tag="[ComboBox]$m_comboBoxSettings" />
+<StaticText Name="M_labelFile" Tag="[StaticText]$m_labelFile" />
+<StaticText Name="M_labelSettings" Tag="[StaticText]$m_labelSettings" />
+<TextField Name="M_textBoxFile" Tag="[TextField]$m_textBoxFile" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

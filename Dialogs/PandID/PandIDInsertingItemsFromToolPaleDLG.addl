@@ -1,0 +1,14 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDInsertingItemsFromToolPaleDLG"  Tag="[Pane]Inserting items from tool palette |$DragandDropInfoDlg|#1" ParentType="MainWin" GUIType="UIA">
+
+  <Pane Name="PanePANE" Tag="[Pane]$panel1|#1" />
+  <StaticText Name="oneInAPIDST" Tag="[Pane]$panel1|#1/[StaticText]1*|$labelItem|#2" />
+  <StaticText Name="TheBestWayToST" Tag="[Pane]$panel1|#1/[StaticText]The best way to get a component or line from the tool palette to the drawing is to click the tool on the tool palette, and then click to place it in the drawing*|$labelInfo|#1" />
+  <Pane Name="TheBestWayToPANE" Tag="[Pane]$panel1|#1/[Pane]The best way to get a component or line from the tool palette to the drawing is to click the tool on the tool palette, and then click to place it in the drawing*|$pictureBox1|#1" />
+  <CheckBox Name="DontShowMeThisCK" Tag="[CheckBox]Don't show me this again|$checkBox1|#1" />
+  <PushButton Name="Close1PB" Tag="[PushButton]Close|$closeButton|#1" />
+  <TitleBar Name="InsertingItemsFromToolCTL" Tag="[TitleBar]Inserting items from tool palette |$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Inserting items from tool palette |$TitleBar|#1/[CustomWin]System Menu Bar|$DragandDropInfoDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Inserting items from tool palette |$TitleBar|#1/[CustomWin]System Menu Bar|$DragandDropInfoDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="Close2PB" Tag="[TitleBar]Inserting items from tool palette |$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

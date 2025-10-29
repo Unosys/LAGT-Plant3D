@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SetMatchesDLG"  Tag="[Pane]Set Matches|$SetPropertyMatchesDlg" ParentType="Pane" GUIType="UIA">
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$btnOK|#1" />
+  <TextField Name="SelectEndToMatchTF" Tag="[TextField]Select end to match:|$txtboxValue|#1" />
+  <RadioButton Name="SelectEndToMatch1RB" Tag="[RadioButton]Select end to match:|$rdobtnSetValue|#4" />
+  <RadioButton Name="SelectEndToMatch2RB" Tag="[RadioButton]Select end to match:|$rdobtnEnd2|#3" />
+  <RadioButton Name="SelectEndToMatch3RB" Tag="[RadioButton]Select end to match:|$rdobtnEnd1|#2" />
+  <RadioButton Name="SelectEndToMatch4RB" Tag="[RadioButton]Select end to match:|$rdobtnBoth|#1" />
+  <StaticText Name="SelectEndToMatchST" Tag="[StaticText]Select end to match:|$label1|#1" />
+  <TitleBar Name="SetMatchesCTL" Tag="[TitleBar]Set Matches|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Set Matches|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

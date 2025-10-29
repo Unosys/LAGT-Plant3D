@@ -1,0 +1,75 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsometricDWGSettingsIsoStyleSetupAddPropertyDLG" Tag="[Pane]Add Property" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<TitleBar Name="AddPropertyCTL" Tag="[TitleBar]Add Property|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Add Property|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Add Property|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<!--<PageList Name="PageListPG" Tag="[PageList]$AddPropertyTabControl|#1" />-->
+	<Window Name="Plant3DWIN" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1" />
+	<StaticText Name="Plant3DST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[StaticText]Plant 3D|#1" />
+	<StaticText Name="ClassST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[StaticText]Class:|$TextBlock_1|#2" />
+	<TreeView Name="TreeViewTV" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[TreeView]$ClassTreeView|#1" />
+	<TreeViewItem Name="P3dLineGroupTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]P3d Line Group|#1" />
+	<StaticText Name="P3dLineGroupST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]P3d Line Group|#1/[StaticText]P3d Line Group|#1" />
+	<StaticText Name="PropertyST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[StaticText]Property:|$TextBlock_2|#3" />
+	<ListBox Name="PropertyLB" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1" />
+	<ListBoxItem Name="AcquisitionPropertiesLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]AcquisitionProperties|#1" />
+	<CheckBox Name="CheckBox1CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]AcquisitionProperties|#1/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="AcquisitionPropertiesST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]AcquisitionProperties|#1/[StaticText]AcquisitionProperties|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="CenterOfGravityXLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity X|#2" />
+	<CheckBox Name="CheckBox2CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity X|#2/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CenterOfGravityXST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity X|#2/[StaticText]Center of Gravity X|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="CenterOfGravityYLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Y|#3" />
+	<CheckBox Name="CheckBox3CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Y|#3/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CenterOfGravityYST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Y|#3/[StaticText]Center of Gravity Y|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="CenterOfGravityZLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Z|#4" />
+	<CheckBox Name="CheckBox4CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Z|#4/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CenterOfGravityZST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Z|#4/[StaticText]Center of Gravity Z|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="CommentLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Comment|#5" />
+	<CheckBox Name="CheckBox5CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Comment|#5/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CommentST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Comment|#5/[StaticText]Comment|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="DescriptionLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Description|#6" />
+	<CheckBox Name="CheckBox6CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Description|#6/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="DescriptionST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Description|#6/[StaticText]Description|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="InsulationSpecLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Spec|#7" />
+	<CheckBox Name="CheckBox7CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Spec|#7/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="InsulationSpecST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Spec|#7/[StaticText]Insulation Spec|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="InsulationThicknessLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Thickness|#8" />
+	<CheckBox Name="CheckBox8CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Thickness|#8/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="InsulationThicknessST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Thickness|#8/[StaticText]Insulation Thickness|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="InsulationTypeLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Type|#9" />
+	<CheckBox Name="CheckBox9CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Type|#9/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="InsulationTypeST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Insulation Type|#9/[StaticText]Insulation Type|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="LineNumberTagLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Line Number Tag|#10" />
+	<CheckBox Name="CheckBox10CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Line Number Tag|#10/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="LineNumberTagST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Line Number Tag|#10/[StaticText]Line Number Tag|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="LockChangeAtLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Lock Change At|#11" />
+	<CheckBox Name="CheckBox11CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Lock Change At|#11/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="LockChangeAtST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Lock Change At|#11/[StaticText]Lock Change At|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="LockChangeByLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Lock Change By|#12" />
+	<CheckBox Name="CheckBox12CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Lock Change By|#12/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="LockChangeByST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Lock Change By|#12/[StaticText]Lock Change By|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="LockedLineStatusLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Locked Line Status|#13" />
+	<CheckBox Name="CheckBox13CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Locked Line Status|#13/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="LockedLineStatusST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Locked Line Status|#13/[StaticText]Locked Line Status|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="NominalSizeLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Nominal Size|#14" />
+	<CheckBox Name="CheckBox14CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Nominal Size|#14/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="NominalSizeST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Nominal Size|#14/[StaticText]Nominal Size|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="NominalSpecLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Nominal Spec|#15" />
+	<CheckBox Name="CheckBox15CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Nominal Spec|#15/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="NominalSpecST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Nominal Spec|#15/[StaticText]Nominal Spec|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="NumberLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Number|#16" />
+	<CheckBox Name="CheckBox16CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Number|#16/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="NumberST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$Plant3DTabItem|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Number|#16/[StaticText]Number|$PropertyNameTextBlock|#1" />
+	<Window Name="PCFWIN" Tag="[PageList]$AddPropertyTabControl|#1/[Window]PCF|$PCFTabItem|#2" />
+	<StaticText Name="PCFST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]PCF|$PCFTabItem|#2/[StaticText]PCF|#1" />
+	<PushButton Name="AddPropertyPB" Tag="[PushButton]Add Property|$AddPropertyBtn|#1" />
+	<StaticText Name="AddPropertyST" Tag="[PushButton]Add Property|$AddPropertyBtn|#1/[StaticText]Add Property|$strContent|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+	<StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelBtn|#2/[StaticText]Cancel|$strContent|#1" />
+
+</Pane>

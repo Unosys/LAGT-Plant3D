@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecandCatalogsEditorDLG" Tag="[DialogBox]Specs and Catalogs Editor" ParentType="SpecEditorDLG">
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7|#2" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

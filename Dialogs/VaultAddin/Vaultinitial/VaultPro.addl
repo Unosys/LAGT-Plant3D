@@ -1,0 +1,11 @@
+﻿<Plant3DMainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.VaultPro" Tag="[MainWin]Autodesk Vault Professional*|$ExplorerForm" ParentType="Desktop" GUIType="UIA">
+
+  <Pane Name="PropertiesPANE" Tag="[Pane]Properties" />
+  <Pane Name="SharedViewsPANE" Tag="[Pane]Shared Views" />
+  
+  
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_MainContainer/[Pane]#1/[Pane]$m_navBarControl/[Pane]$m_navBar/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[TreeView]#1" />
+
+  <PushButton Name="AboutAutodeskVaultProfessionalPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]About Autodesk Vault Professional" />
+  
+</Plant3DMainWin>

@@ -1,0 +1,14 @@
+﻿<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.RenamePipeSpecDLG" Tag="[Window]Rename Pipe Spec|$Window_1|#1" ParentType="Plant3D" GUIType="UIA">
+  <TitleBar Name="RenamePipeSpecCTL" Tag="[TitleBar]Rename Pipe Spec|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Rename Pipe Spec|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Rename Pipe Spec|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Rename Pipe Spec|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#2" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelButton|#2/[StaticText]Cancel|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$OKButton|#1" />
+  <StaticText Name="OKST" Tag="[PushButton]OK|$OKButton|#1/[StaticText]OK|#1" />
+  <StaticText Name="PipeSpecFileNameST" Tag="[StaticText]Pipe Spec file name:|$TextBlock_3|#1" />
+  <TextField Name="PipeSpecFileNameTF" Tag="[TextField]Pipe Spec file name:|$NewSpecNameTextBox|#1" />
+  <Pane Name="PanePANE" Tag="[TextField]Pipe Spec file name:|$NewSpecNameTextBox|#1/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="RenamingWillCauseAllST" Tag="[StaticText]Renaming will cause all piping references to this spec to be broken*|$TextBlock_2|#2" />
+</Window>

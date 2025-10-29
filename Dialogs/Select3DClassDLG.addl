@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Select3DClassDLG" Tag="[DialogBox]$Select3DPipingClassDlg" ParentType="Plant3D">
+<PushButton Name="Btn_Cancel" Tag="[PushButton]$Btn_Cancel" />
+<PushButton Name="Btn_Help" Tag="[PushButton]$Btn_Help" />
+<PushButton Name="Btn_Select" Tag="[PushButton]$Btn_Select" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<ComboBox Name="M_cmbClassNames" Tag="[ComboBox]$m_cmbClassNames" />
+<StaticText Name="M_labelInfo" Tag="[StaticText]$m_labelInfo" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

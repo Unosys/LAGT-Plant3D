@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSelectReportsDirectoryDLG" Tag="[DialogBox]Select Reports Directory" ParentType="Pane">
+  <PushButton Name="PreviousFolderAlt1PB" Tag="[PushButton]Previous folder(Alt+1)|$13011|#1" />
+  <PushButton Name="UpOneLevelAlt2PB" Tag="[PushButton]Up one level (Alt+2)|$13003|#2" />
+  <PushButton Name="SearchTheWebAlt3PB" Tag="[PushButton]Search the Web (Alt+3)|$13004|#3" />
+  <PushButton Name="DeleteDelPB" Tag="[PushButton]Delete (Del)|$13014|#4" />
+  <PushButton Name="CreateNewFolderAlt5PB" Tag="[PushButton]Create New Folder (Alt+5)|$13013|#5" />
+  <PushButton Name="ViewsPB" Tag="[PushButton]Views|$13012|#6" />
+  <PushButton Name="ToolsPB" Tag="[PushButton]Tools|$13005|#7" />
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$1|#8" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#9" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Reports Directory|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

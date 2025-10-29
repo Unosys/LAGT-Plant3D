@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardFinishDLG" Tag="[Pane]Project Setup Wizard (Page 6 of 6)|$CreateProjectWizard" ParentType="Plant3D" GUIType="UIA">
+  <CheckBox Name="M_checkboxLaunchSetupDlg" Tag="[Pane]$m_wizardSetup/[Pane]Note: All symbols will be drawn in inches*|$pageFinish/[CheckBox]Edit additional project settings after creating project|$m_checkboxLaunchSetupDlg" />
+  <PushButton Name="M_buttonFinish" Tag="[Pane]$m_wizardSetup/[PushButton]Finish|$m_buttonFinish" />
+  <PushButton Name="M_buttonCancel" Tag="[Pane]$m_wizardSetup/[PushButton]Cancel|$m_buttonCancel" />
+  <PushButton Name="M_buttonBack" Tag="[Pane]$m_wizardSetup/[PushButton]&lt;&lt; Back|$m_buttonBack" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 6 of 6)|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

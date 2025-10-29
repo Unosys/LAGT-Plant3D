@@ -1,0 +1,8 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ShareProjectDLG" Tag="[DialogBox]Share project" ParentType="Window" GUIType="UIA">
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7|#2" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="OneOrMoreProjectST" Tag="[StaticText]One or more project drawings are still open*|$65535|#1" />
+  <TitleBar Name="ShareProjectCTL" Tag="[TitleBar]Share project|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Share project|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

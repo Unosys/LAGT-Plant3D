@@ -1,0 +1,25 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateSpecDLG" Tag="[Window]Create Spec|$NewFileWindow" ParentType="MainWin" GUIType="UIA">
+
+
+ 
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar/[PushButton]$Close" />
+  <PushButton Name="CreatePB" Tag="[PushButton]$CreateButton" />
+  <PushButton Name="CancelPB" Tag="[PushButton]$CancelButton" />
+  <TextField Name="NewSpecNameTF" Tag="[TextField]$NewFileTextBox" />
+  <PushButton Name="PushButtonPB" Tag="[PushButton]$NewFileBrowseButton" />
+  <TextField Name="SpecDescriptionTF" Tag="[TextField]$DescTextBox" />
+  <PopupList Name="LoadCatalogPL" Tag="[PopupList]$LoadCatalogComboBox" />
+
+
+  <ComboBox Name="FileNameCB" Tag="[DialogBox]Save As|#1/[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[ComboBox]File name:|$FileNameControlHost|#1" />
+  <PushButton Name="SavePB" Tag="[DialogBox]Save As|#1/[PushButton]Save|$1|#1" />
+
+  <DialogBox Name="SaveAsDLG" Tag="[DialogBox]Save As|#1" />
+  <DialogBox Name="ConfirmSaveAsDLG" Tag="[DialogBox]Save As|#1/[DialogBox]Confirm Save As|#1" />
+  <Pane Name="ConfirmSaveAsPANE" Tag="[DialogBox]Save As|#1/[DialogBox]Confirm Save As|#1/[Pane]Confirm Save As|$Window|#1" />
+  <Image Name="MainInstructionIconIMG" Tag="[DialogBox]Save As|#1/[DialogBox]Confirm Save As|#1/[Pane]Confirm Save As|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="CS150FlangedpspxAlreadyExistsST" Tag="[DialogBox]Save As|#1/[DialogBox]Confirm Save As|#1/[Pane]Confirm Save As|$Window|#1/[StaticText]CS150 Flanged*|$ContentText|#1" />
+  <PushButton Name="YesPB" Tag="[DialogBox]Save As|#1/[DialogBox]Confirm Save As|#1/[Pane]Confirm Save As|$Window|#1/[PushButton]Yes|$CommandButton_6|#1" />
+  <PushButton Name="NoPB" Tag="[DialogBox]Save As|#1/[DialogBox]Confirm Save As|#1/[Pane]Confirm Save As|$Window|#1/[PushButton]No|$CommandButton_7|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

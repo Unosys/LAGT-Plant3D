@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDRemoveDrawingDLG" Tag="[DialogBox]Remove Drawing* From Project" ParentType="CustomWin">
+
+  <StaticText Name="TheSelectedDrawingAndST" Tag="[Pane]$Window|#1/[StaticText]$MainInstruction|#1" />
+  <PushButton Name="RemoveTheDrawingFromPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_0|#1" />
+  <PushButton Name="DoNotRemoveThePB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

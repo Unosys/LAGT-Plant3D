@@ -1,0 +1,11 @@
+<Window  Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoTableSetupSettingsSteelBOMDLG" Tag="[Window]Ortho Table Setup|$Window_BOMSetup" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<PushButton Name="Add1PB" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_Settings|#2/[CustomWin]$UserControl_BOMSetupSetting|#1/[PushButton]$Button_GroupByAdd" />
+	<PushButton Name="Add2PB" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_Settings|#2/[CustomWin]$UserControl_BOMSetupSetting|#1/[PushButton]$Button_SortByAdd" />
+
+	<PushButton Name="BrowsePB" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_Settings|#2/[CustomWin]$UserControl_BOMSetupSetting|#1/[PushButton]$Button_BrowseCustomDescription" />
+	<PopupList Name="DescriptionsPL" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_Settings|#2/[CustomWin]$UserControl_BOMSetupSetting|#1/[PopupList]$ComboBox_Descriptions" />
+
+</Window>

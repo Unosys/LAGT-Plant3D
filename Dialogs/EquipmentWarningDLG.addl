@@ -1,0 +1,11 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.EquipmentWarningDLG" Tag="[DialogBox]Warning" ParentType="P3DCreateEquipmentDLG" GUIType="UIA">
+  <Pane Name="WarningPANE" Tag="[Pane]Warning|$Window" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Warning|$Window/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Warning|$Window/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Warning|$Window/[Image]MainInstructionIcon|$MainIcon" />
+  <StaticText Name="RemovingThisShapeWillST" Tag="[Pane]Warning|$Window/[StaticText]Removing this shape will also remove the connected trim*|$MainInstruction" />
+  <PushButton Name="RemoveShapeAndTrimPB" Tag="[Pane]Warning|$Window/[PushButton]Remove Shape and Trim*|$CommandLink_1001" />
+  <PushButton Name="DoNotRemovePB" Tag="[Pane]Warning|$Window/[PushButton]Do Not Remove*|$CommandLink_1002" />
+  <TitleBar Name="WarningCTL" Tag="[TitleBar]Warning|$TitleBar" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Warning|$TitleBar/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

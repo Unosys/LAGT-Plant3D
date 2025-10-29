@@ -1,0 +1,18 @@
+1. Go to folder: C:\LAGT\Plant3D\TestFiles\Plant Collaboration config
+2. Copy "PnpCloudConfig.json" to "C:\Program Files\Autodesk\AutoCAD {Release}\PLNT3D" folder and replace the original "PnpCloudConfig.json"
+	e.g. for FY26 release the path is : C:\Program Files\Autodesk\AutoCAD 2026\PLNT3D
+
+Login product with 
+User1
+locvend2_3@npisimulation.com
+PasswordL2
+
+User2
+locvend2_12@npisimulation.com
+PasswordL2 
+
+Delete project use this link:
+https://docs.b360.autodesk.com/projects/d23e01e1-d265-4674-bdcb-2d3434571286/folders/urn:adsk.wipprod:fs.folder:co.yTaF2oI2R_25LerduoYARA/detail
+
+PlantDesign_AUS:
+https://acc.aus.autodesk.com

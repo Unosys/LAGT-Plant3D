@@ -1,0 +1,11 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DDWFOutputSettingsDLG" Tag="[Pane]$DWFOutputSettingsDlg" >
+
+  <PushButton Name="RestoreToDefaultPB" Tag="[PushButton]Restore to Default|$restoreToDefaultButton|#1" />
+  <PushButton Name="CancelBtn" Tag="[PushButton]Cancel|$cancelBtn|#3" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$okBtn|#2" />
+
+	<CustomizedPagelist Name="PageListPG" Tag="[PageList]$propTabControl|#1" />
+	<CheckBox Name="ShowClassesWithItemsCK" Tag="[PageList]$propTabControl|#1/[Window]#1/[Pane]$objPropPage|#1/[Pane]$objPropSettingsCtrl|#1/[CheckBox]$showItemsOnlyCheckBox|#1" />
+
+	
+</Pane>

@@ -1,0 +1,37 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityOpenSpecDLG" Tag="[DialogBox]Open" ParentType="SpecEditorDLG">
+<CustomWin Name="DUIViewWndClassName1" Tag="[DUIViewWndClassName]$0" />
+<CustomWin Name="DirectUIHWND1" Tag="[DirectUIHWND]$0" />
+<CustomWin Name="CtrlNotifySink1" Tag="[CtrlNotifySink]$0[1]" />
+<CustomWin Name="NamespaceTreeControl" Tag="[NamespaceTreeControl]$0" />
+<TreeView Name="TreeView1" Tag="$100" />
+<CustomWin Name="CtrlNotifySink2" Tag="[CtrlNotifySink]$0[2]" />
+<ScrollBar Name="ScrollBar11" Tag="$0" />
+<StaticText Name="FileNameText" Tag="$1090" />
+<ComboBox Name="FileName1" Tag="$1148" />
+<StaticText Name="FilesOfTypeText" Tag="$1089" />
+<PopupList Name="FileName" Tag="$1136" />
+<PushButton Name="Open" Tag="Open|$1" />
+<PushButton Name="Cancel" Tag="$2" />
+<ScrollBar Name="ScrollBar1" Tag="$-1" />
+<CustomWin Name="WorkerW1" Tag="[WorkerW]$0" />
+<CustomWin Name="ReBarWindow321" Tag="[ReBarWindow32]$40965" />
+<CustomWin Name="TravelBand1" Tag="[TravelBand]$0" />
+<ToolBar Name="ToolBar1" Tag="$0" />
+<PushButton Name="PushButton11" Tag="$256" />
+<PushButton Name="PushButton2" Tag="$257" />
+<PushButton Name="PushButton3" Tag="$258" />
+<CustomWin Name="AddressBandRoot1" Tag="[Address Band Root]$41477" />
+<CustomWin Name="Msctls_progress321" Tag="[msctls_progress32]$0" />
+<CustomWin Name="BreadcrumbParent1" Tag="[Breadcrumb Parent]$0" />
+<ToolBar Name="ToolBar11" Tag="$1001" />
+<PushButton Name="Desktop" Tag="$1280" />
+<PushButton Name="AutoCADPlant3D2012Content" Tag="$1283" />
+<PushButton Name="CPakAME" Tag="$1284" />
+<ToolBar Name="ToolBar21" Tag="$0" />
+<PushButton Name="PushButton1" Tag="$202" />
+<PushButton Name="PushButton22" Tag="$102" />
+<CustomWin Name="UniversalSearchBand1" Tag="[UniversalSearchBand]$0" />
+<CustomWin Name="SearchBox1" Tag="[Search Box]$0" />
+<CustomWin Name="SearchEditBoxWrapperClass1" Tag="[SearchEditBoxWrapperClass]$0" />
+<CustomWin Name="DirectUIHWND11" Tag="[DirectUIHWND]$0" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

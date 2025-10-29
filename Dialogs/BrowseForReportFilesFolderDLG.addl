@@ -1,0 +1,20 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BrowseForReportFilesFolderDLG" Tag="[DialogBox]Browse For Folder|#1" ParentType="SettingsDLG" GUIType="UIA">
+  <StaticText Name="SelectReportFilesFolderST" Tag="[StaticText]Select report files folder*|$14146|#1" />
+  <Pane Name="SelectReportFilesFolderPANE" Tag="[Pane]Select report files folder*|#1" />
+  <TreeView Name="SelectReportFilesFolderTV" Tag="[Pane]Select report files folder*|#1/[TreeView]Select report files folder*|$100|#1" />
+  <TreeViewItem Name="DesktopTVI" Tag="[Pane]Select report files folder*|#1/[TreeView]Select report files folder*|$100|#1/[TreeViewItem]Desktop|#1" />
+  <TreeViewItem Name="LibrariesTVI" Tag="[Pane]Select report files folder*|#1/[TreeView]Select report files folder*|$100|#1/[TreeViewItem]Desktop|#1/[TreeViewItem]Libraries|#1" />
+  <TreeViewItem Name="AdministratorTVI" Tag="[Pane]Select report files folder*|#1/[TreeView]Select report files folder*|$100|#1/[TreeViewItem]Desktop|#1/[TreeViewItem]Administrator|#2" />
+  <TreeViewItem Name="ComputerTVI" Tag="[Pane]Select report files folder*|#1/[TreeView]Select report files folder*|$100|#1/[TreeViewItem]Desktop|#1/[TreeViewItem]Computer|#3" />
+  <TreeViewItem Name="NetworkTVI" Tag="[Pane]Select report files folder*|#1/[TreeView]Select report files folder*|$100|#1/[TreeViewItem]Desktop|#1/[TreeViewItem]Network|#4" />
+  <TreeViewItem Name="ControlPanelTVI" Tag="[Pane]Select report files folder*|#1/[TreeView]Select report files folder*|$100|#1/[TreeViewItem]Desktop|#1/[TreeViewItem]Control Panel|#5" />
+  <TreeViewItem Name="RecycleBinTVI" Tag="[Pane]Select report files folder*|#1/[TreeView]Select report files folder*|$100|#1/[TreeViewItem]Desktop|#1/[TreeViewItem]Recycle Bin|#6" />
+  <PushButton Name="MakeNewFolderPB" Tag="[PushButton]Make New Folder|$14150|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$1|#2" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#3" />
+  <Pane Name="PanePANE" Tag="[Pane]$14151|#2" />
+  <TitleBar Name="BrowseForFolderCTL" Tag="[TitleBar]Browse For Folder|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Browse For Folder|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

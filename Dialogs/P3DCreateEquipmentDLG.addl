@@ -1,0 +1,62 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DCreateEquipmentDLG" Tag="[Pane]Create Equipment|$EquBaseDlg" ParentType="Plant3D" GUIType="UIA">
+  <Menu Name="DropDownMNU" Tag="[Menu]DropDown|#1" />
+  <MenuItem Name="StiffeningRingMI" Tag="[Menu]DropDown|#1/[MenuItem]Stiffening Ring|#1" />
+  <MenuItem Name="SkirtMI" Tag="[Menu]DropDown|#1/[MenuItem]Skirt|#2" />
+  <MenuItem Name="PlatformMI" Tag="[Menu]DropDown|#1/[MenuItem]Platform|#3" />
+  <MenuItem Name="LugMI" Tag="[Menu]DropDown|#1/[MenuItem]Lug|#4" />
+  <MenuItem Name="BodyFlangeMI" Tag="[Menu]DropDown|#1/[MenuItem]Body Flange|#5" />
+
+	<Pane Name="Pane1PANE" Tag="[Pane]$m_MainTableLayout|#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1" />
+	<PushButton Name="VesselVerticalVesselPB" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PushButton]Vessel - Vertical Vessel|$m_TypeSel|#1" />
+	<!--<PageList Name="PageListPG" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1" />-->
+	<Pane Name="EquipmentPANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]$m_TabEquipment" />
+
+	<Pane Name="Pane3PANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1" />
+	<Pane Name="Pane4PANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2" />
+	<PushButton Name="AddTrimPB" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[PushButton]     Add Trim|$m_EquPrimitiveAccessory|#4" />
+	<StaticText Name="ShapesST" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[StaticText] Shapes|$label5|#1" />
+	<PushButton Name="Shapes1PB" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[PushButton]Shapes|$m_EquPrimitiveDown|#2" />
+	<PushButton Name="Shapes2PB" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[PushButton]Shapes|$m_EquPrimitiveUp|#1" />
+	<PushButton Name="RemovePB" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[PushButton]      Remove|$m_EquPrimitiveRemove|#5" />
+	<PushButton Name="AddShapePB" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[PushButton]  Add Shape|$m_EquPrimitiveAdd|#3" />
+	<ListBox Name="ShapesLB" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[ListBox] Shapes|$m_EquPrimitiveList|#1" />
+	<ListBoxItem Name="TorisphericHead1LBI" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[ListBox] Shapes|$m_EquPrimitiveList|#1/[ListBoxItem]Torispheric Head|#1" />
+	<ListBoxItem Name="CylinderLBI" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[ListBox] Shapes|$m_EquPrimitiveList|#1/[ListBoxItem]Cylinder|#2" />
+	<ListBoxItem Name="TorisphericHead2LBI" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[ListBox] Shapes|$m_EquPrimitiveList|#1/[ListBoxItem]Torispheric Head|#3" />
+	<Pane Name="Pane5PANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1" />
+
+	
+  <Window Name="EquipmentWIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1" />
+  <Table Name="DataGridView1TBL" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[Table]DataGridView|$m_EquPartProperties|#1" />
+  <CustomWin Name="Row01WIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[Table]DataGridView|$m_EquPartProperties|#1/[CustomWin]Row 0|#1" />
+  <CustomWin Name="Row02WIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[Table]DataGridView|$m_EquPartProperties|#1/[CustomWin]Row 0|#1/[CustomWin] Row 0[1]|#1" />
+  <CustomWin Name="Row03WIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[Table]DataGridView|$m_EquPartProperties|#1/[CustomWin]Row 0|#1/[CustomWin] Row 0[2]|#2" />
+  <CustomWin Name="Row11WIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[Table]DataGridView|$m_EquPartProperties|#1/[CustomWin]Row 1|#2" />
+  <CustomWin Name="Row12WIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[Table]DataGridView|$m_EquPartProperties|#1/[CustomWin]Row 1|#2/[CustomWin] Row 1[1]|#1" />
+  <CustomWin Name="Row13WIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[Table]DataGridView|$m_EquPartProperties|#1/[CustomWin]Row 1|#2/[CustomWin] Row 1[2]|#2" />
+  <CustomWin Name="Row2WIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[Table]DataGridView|$m_EquPartProperties|#1/[CustomWin]Row 2|#3"/>
+  <StaticText Name="GeneralST" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPartPropertiesPanel|#1/[StaticText] General|$label6|#1" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquParametersPanel|#3" />
+  <Table Name="DataGridView2TBL" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquParametersPanel|#3/[Table]DataGridView|$m_EquParameters|#1" />
+  <Window Name="PropertiesWIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Properties|#2" />
+  <Pane Name="DataPANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[Pane]Data|$m_Preview|#1" />
+  
+  <PushButton Name="TemplatesPB" Tag="[PushButton]Templates|$m_BtnSnapshot" />
+  <PushButton Name="M_BtnCreCreate" Tag="[PushButton]Create|$m_BtnCreCreate" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_BtnCreCancel" />
+  <TitleBar Name="CreateEquipmentCTL" Tag="[TitleBar]$TitleBar" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Equipment|$TitleBar|#1/[CustomWin]System Menu Bar|$EquBaseDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Equipment|$TitleBar|#1/[CustomWin]System Menu Bar|$EquBaseDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Equipment|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<Pane Name="PropertiesPANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]$m_TabData|#1" />
+
+	<CustomWin Name="Row04WIN" Tag="[Pane]$m_MainTableLayout/[Pane]$m_WorkPanel/[PageList]$m_Tabs/[Window]Equipment/[Pane]Equipment|$m_TabEquipment/[Pane]$m_EquTableLayout/[Pane]$m_EquParametersPanel/[Table]DataGridView|$m_EquParameters/[CustomWin]Row 0" />
+  <CustomWin Name="NameRow0WIN" Tag="[Pane]$m_MainTableLayout/[Pane]$m_WorkPanel/[PageList]$m_Tabs/[Window]Equipment/[Pane]Equipment|$m_TabEquipment/[Pane]$m_EquTableLayout/[Pane]$m_EquParametersPanel/[Table]DataGridView|$m_EquParameters/[CustomWin]Row 0/[CustomWin]Name Row 0" />
+  <CustomWin Name="ValueRow0WIN" Tag="[Pane]$m_MainTableLayout/[Pane]$m_WorkPanel/[PageList]$m_Tabs/[Window]Equipment/[Pane]Equipment|$m_TabEquipment/[Pane]$m_EquTableLayout/[Pane]$m_EquParametersPanel/[Table]DataGridView|$m_EquParameters/[CustomWin]Row 0/[CustomWin]Value Row 0" />
+  <StaticText Name="DimensionsST" Tag="[Pane]$m_MainTableLayout/[Pane]$m_WorkPanel/[PageList]$m_Tabs/[Window]Equipment/[Pane]Equipment|$m_TabEquipment/[Pane]$m_EquTableLayout/[Pane]$m_EquParametersPanel/[StaticText] Dimensions|$label7" />
+  <Pane Name="EditingControlPANE" Tag="[Pane]$m_MainTableLayout/[Pane]$m_WorkPanel/[PageList]$m_Tabs/[Window]Equipment/[Pane]Equipment|$m_TabEquipment/[Pane]$m_EquTableLayout/[Pane]$m_EquParametersPanel/[Table]DataGridView|$m_EquParameters/[Pane]Editing Panel|$3605522/[Pane]Editing Control|$1508434" />
+  <TextField Name="TextFieldTF" Tag="[Pane]$m_MainTableLayout/[Pane]$m_WorkPanel/[PageList]$m_Tabs/[Window]Equipment/[Pane]Equipment|$m_TabEquipment/[Pane]$m_EquTableLayout/[Pane]$m_EquParametersPanel/[Table]DataGridView|$m_EquParameters/[Pane]Editing Panel|$3605522/[Pane]Editing Control|$1508434/[TextField]$1573968" />
+  <PushButton Name="DimEditPB" Tag="[Pane]$m_MainTableLayout/[Pane]$m_WorkPanel/[PageList]$m_Tabs/[Window]Equipment/[Pane]Equipment|$m_TabEquipment/[Pane]$m_EquTableLayout/[Pane]$m_EquParametersPanel/[Table]DataGridView|$m_EquParameters/[Pane]Editing Panel|$3605522/[Pane]Editing Control|$1508434/[PushButton]$787588" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

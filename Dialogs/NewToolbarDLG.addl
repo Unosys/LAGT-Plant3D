@@ -1,0 +1,11 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.NewToolbarDLG" Tag="[Pane]New Toolbar" ParentType="Pane" GUIType="UIA">
+	<Pane Name="PanePANE" Tag="[Pane]$pnlNBDlg|#1" />
+	<StaticText Name="ToolbarNameST" Tag="[Pane]$pnlNBDlg|#1/[StaticText]Toolbar Name:|$lbNBDlgCaption|#1" />
+	<TextField Name="ToolbarNameTF" Tag="[Pane]$pnlNBDlg|#1/[TextField]Toolbar Name:|$tbNBDlgName|#1" />
+	<TextField Name="TextField1TF" Tag="[Pane]$pnlNBDlg|#1/[TextField]Toolbar Name:|$tbNBDlgName|#1/[TextField]$792616|#2" />
+	<TextField Name="TextField2TF" Tag="[Pane]$pnlNBDlg|#1/[TextField]Toolbar Name:|$tbNBDlgName|#1/[TextField]#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]$pnlNBDlg|#1/[PushButton]Cancel|$btNBDlgCancel|#2" />
+	<PushButton Name="OKPB" Tag="[Pane]$pnlNBDlg|#1/[PushButton]OK|$btNBDlgOk|#1" />
+	<TitleBar Name="NewToolbarCTL" Tag="[TitleBar]New Toolbar|$TitleBar|#1" />
+
+</Pane>

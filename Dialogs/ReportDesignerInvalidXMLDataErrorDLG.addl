@@ -1,0 +1,3 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportDesignerInvalidXMLDataErrorDLG" Tag="[DialogBox]Report Designer Invalid XML Data Error" ParentType="Plant3D">
+<CustomWin Name="OK" Tag="[CustomWin]$DevExpress.XtraEditors.SimpleButton" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveAsPDFDocumentDLG" Tag="[DialogBox]Save As" ParentType="PreviewDLG" GUIType="UIA">
+    <TreeView Name="Tree" Tag="[Pane]#2/[Pane]Explorer Pane|$main/[Pane]Control Host|$ProperTreeHost/[TreeView]Namespace Tree Control|$100" />
+    <ComboBox Name="TextField" Tag="[Pane]#2/[Pane]Explorer Pane|$main/[Pane]Details Pane|$BackgroundClear/[ComboBox]File name:|$FileNameControlHost" />
+    <PopupList Name="SaveAsTypePL" Tag="[Pane]#2/[Pane]Explorer Pane|$main/[Pane]Details Pane|$BackgroundClear/[PopupList]Save as type:|$FileTypeControlHost" />
+    <PushButton Name="Save" Tag="[PushButton]Save|$1" />
+    <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+    <PushButton Name="ClosePB" Tag="[TitleBar]Save As|$TitleBar/[PushButton]Close|$Close" />
+  </Autodesk.GUIHarness.AutoCAD.AcDialogBox>

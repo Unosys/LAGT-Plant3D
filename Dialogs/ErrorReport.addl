@@ -1,0 +1,21 @@
+<MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.ErrorReport" Tag = "[MainWin] AutoCAD Error Report" ParentType="Desktop" GUIType="WIN32">
+
+    <StaticText Name="EmailAddressST" Tag="[StaticText]Email Address:|$1016|#9" />
+    <TextField Name="EmailAddressTF" Tag="[TextField]Email Address:|$1017|#1" />
+    <StaticText Name="DetailsST" Tag="[StaticText]Details|$1010|#12" />
+    <TextField Name="ProvidingAStepbystepDescriptionTF" Tag="[TextField]Providing a step-by-step description of what you were doing when the problem occurred will help us resolve the issue:|$1012|#2" />
+    <PushButton Name="ViewReportDetailsPB" Tag="[PushButton]View Report Details|$1031|#1" />
+    <PushButton Name="SendReportPB" Tag="[PushButton]Send Report|$1|#2" />
+    <StaticText Name="LearnMoreAboutHowST" Tag="[StaticText]Learn more about how error reports are used|$1038|#4" />
+    <StaticText Name="ReadPrivacyPolicyST" Tag="[StaticText]Read Privacy Policy|$1029|#11" />
+    <StaticText Name="ExampleDescriptionST" Tag="[StaticText]Example description|$1048|#14" />
+    <StaticText Name="StaticTextST" Tag="[StaticText]$1032|#1" />
+    <StaticText Name="ASoftwareProblemHasST" Tag="[StaticText]A software problem has caused AutoCAD Mechanical to close unexpectedly*|$1001|#2" />
+    <StaticText Name="WeApologizeForTheST" Tag="[StaticText]We apologize for the inconvenience*|$1024|#3" />
+    <StaticText Name="ProvidingAStepbystepDescriptionST" Tag="[StaticText]Providing a step-by-step description of what you were doing when the problem occurred will help us resolve the issue:|$1044|#13" />
+    <StaticText Name="QuicklyChecksForAST" Tag="[StaticText]Quickly checks for a solution to the problem*|$1045|#6" />
+    <StaticText Name="DetailsYouProvideBelowST" Tag="[StaticText]Details you provide below may help us analyze and resolve the issue*|$1046|#7" />
+    <StaticText Name="IfYouIncludeYourST" Tag="[StaticText]If you include your email address, Autodesk may notify you when a solution becomes available or contact you regarding your error report*|$1047|#8" />
+    <StaticText Name="BenefitsST" Tag="[StaticText]Benefits|$1009|#5" />
+    <StaticText Name="NoteDataGatheredWillST" Tag="[StaticText]Note: Data gathered will be used in accordance with the Autodesk Privacy Policy*|$-1|#10" />
+  </MainWin>

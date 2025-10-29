@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsoStyleEditorSaveDLG" Tag="[Window]Iso Style Editor|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+  <TitleBar Name="IsoStyleEditorCTL" Tag="[TitleBar]Iso Style Editor|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Iso Style Editor|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Iso Style Editor|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Iso Style Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CloseButton|#1" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CloseButton|#1/[StaticText]Cancel|#1" />
+  <Image Name="Image1IMG" Tag="[Image]$WarningImage|#1" />
+  <StaticText Name="YouHaveUnsavedChangesST" Tag="[StaticText]You have unsaved changes in this document*|$HeaderTextBlock|#1" />
+  <StaticText Name="WhatDoYouWantST" Tag="[StaticText]What do you want to do?|$MessageTexBlock|#2" />
+  <Image Name="Image2IMG" Tag="[Image]#2" />
+  <StaticText Name="SaveMyChangesST" Tag="[StaticText]#3" />
+  <Image Name="Image3IMG" Tag="[Image]#3" />
+  <StaticText Name="DoNotSaveMyST" Tag="[StaticText]#4" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

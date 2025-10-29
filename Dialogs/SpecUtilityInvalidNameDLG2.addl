@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityInvalidNameDLG2" Tag="[DialogBox]Invalid Name" ParentType="CreateSpecFromExistingSpecDLG1">
+<StaticText Name="Label" Tag="[StaticText]$" />
+<PushButton Name="OK" Tag="[PushButton]$2" />
+<StaticText Name="PleaseEnteraValidName" Tag="[StaticText]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

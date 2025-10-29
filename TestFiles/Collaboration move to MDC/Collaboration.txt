@@ -1,0 +1,183 @@
+collaboration related move to MDC dut to login style change.
+[
+{
+    "DlgName": "PlantProjectCollaborationUploadingProcessDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ConversionInProcessDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationUploadingErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationUploadedSuccessfullyDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantUndoCheckOutDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "YouhavePipeSpecsCheckedOutDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CollaborationCheckOutDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CollaborationCheckInDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AttachExternalReferencesForCollaborationDLG",
+    "Release": "2019",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationChooseTeamDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ShareProjectErrorDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ShareProjectDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationGetStartedDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectFileToUploadDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CollaborationOptionsDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenCollaborationProject2DLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenCollaborationProjectDLG",
+    "Release": "2020",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantProjectCollaborationCannotFindTeamDLG",
+    "Release": "2017",
+    "Feature": "",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  }
+]

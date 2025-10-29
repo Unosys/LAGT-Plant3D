@@ -1,0 +1,130 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsometricDWGSettingsSlopesandSkewsDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+<!--<PushButton Name="Button_NewIsoStyle" Tag="[PushButton]$button_NewIsoStyle" />
+<CheckBox Name="CheckBox_DisplaySkewAngle" Tag="[CheckBox]$checkBox_DisplaySkewAngle" />
+<ComboBox Name="ComboBox_HatchPercentage" Tag="[ComboBox]$comboBox_HatchPercentage" />
+<TextField Name="ComboBox_HatchPercentageTextField" Tag="[TextField]$comboBox_HatchPercentage" />
+<ComboBox Name="ComboBox_IsoStyle" Tag="[ComboBox]$comboBox_IsoStyle" />
+<ComboBox Name="ComboBox_ShowFallsAs" Tag="[ComboBox]$comboBox_ShowFallsAs" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<GroupBox Name="GroupBox2" Tag="[GroupBox]$groupBox2" />
+<GroupBox Name="GroupBox_Falls" Tag="[GroupBox]$groupBox_Falls" />
+<GroupBox Name="GroupBox_Skews" Tag="[GroupBox]$groupBox_Skews" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+<StaticText Name="Label_2DHorizontalSkew" Tag="[StaticText]$label_2DHorizontalSkew" />
+<StaticText Name="Label_3DSkew" Tag="[StaticText]$label_3DSkew" />
+<StaticText Name="Label_Horizontal" Tag="[StaticText]$label_Horizontal" />
+<StaticText Name="Label_IsoStyle" Tag="[StaticText]$label_IsoStyle" />
+<StaticText Name="Label_Percentage" Tag="[StaticText]$label_Percentage" />
+<StaticText Name="Label_Show_2D_Skews_As" Tag="[StaticText]$label_Show_2D_Skews_As" />
+<StaticText Name="Label_Show_FALL_Up" Tag="[StaticText]$label_Show_FALL_Up" />
+<StaticText Name="Label_Show_Falls_As" Tag="[StaticText]$label_Show_Falls_As" />
+<StaticText Name="Label_unit" Tag="[StaticText]$label_unit" />
+<StaticText Name="Label_Vertical" Tag="[StaticText]$label_Vertical" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<CustomWin Name="M_isometricSlopedDimensionsUserCtrl" Tag="[CustomWin]$m_isometricSlopedDimensionsUserCtrl" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<UpDown Name="UpDown_ShowAsFallUpTo" Tag="[UpDown]$UpDown_ShowAsFallUpTo" />
+<CustomWin Name="UpDown_ShowAsFallUpToControl" Tag="[CustomWin]$UpDown_ShowAsFallUpTo" />
+<GroupBox Name="Panel_2DHorizontalSkews" Tag="[GroupBox]$panel_2DHorizontalSkews" />
+<GroupBox Name="Panel_2DSkews" Tag="[GroupBox]$panel_2DSkews" />
+<GroupBox Name="Panel_3DSkews" Tag="[GroupBox]$panel_3DSkews" />
+<CustomWin Name="PictureBox_2DHorizontalSkew" Tag="[CustomWin]$pictureBox_2DHorizontalSkew" />
+<CustomWin Name="PictureBox_2DSkew" Tag="[CustomWin]$pictureBox_2DSkew" />
+<CustomWin Name="PictureBox_3DSkew" Tag="[CustomWin]$pictureBox_3DSkew" />
+<RadioButton Name="RadioButton_2DTriangleWithFall" Tag="[RadioButton]$radioButton_2DTriangleWithFall" />
+<RadioButton Name="RadioButton_3DBox2D" Tag="[RadioButton]$radioButton_3DBox2D" />
+<RadioButton Name="RadioButton_3DBox3D" Tag="[RadioButton]$radioButton_3DBox3D" />
+<RadioButton Name="RadioButton_SkewBox" Tag="[RadioButton]$radioButton_SkewBox" />
+<RadioButton Name="RadioButton_SkewTriangleWithAlternate" Tag="[RadioButton]$radioButton_SkewTriangleWithAlternate" />
+<RadioButton Name="RadioButton_SkewTriangleWithNormal" Tag="[RadioButton]$radioButton_SkewTriangleWithNormal" />
+<RadioButton Name="RadioButton_TwoSkewTriangles2D" Tag="[RadioButton]$radioButton_TwoSkewTriangles2D" />
+<RadioButton Name="RadioButton_TwoSkewTriangles3D" Tag="[RadioButton]$radioButton_TwoSkewTriangles3D" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />
+<TextField Name="TextBox_Horizontal" Tag="[TextField]$textBox_Horizontal" />
+<TextField Name="TextBox_Vertical" Tag="[TextField]$textBox_Vertical" />-->
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#2" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#3" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#4" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#5" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="IsoStyleSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Iso Style Setup|#1" />
+  <TreeViewItem Name="DefaultSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Default Settings|#2" />
+  <TreeViewItem Name="AnnotationsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Annotations|#3" />
+  <TreeViewItem Name="DimensionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Dimensions|#4" />
+  <TreeViewItem Name="ThemesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Themes|#5" />
+  <TreeViewItem Name="SlopedAndOffsetPipingTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Sloped and Offset Piping|#6" />
+  <TreeViewItem Name="TitleBlockAndDisplayTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Title Block and Display|#7" />
+  <TreeViewItem Name="LivePreviewTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4/[TreeViewItem]Live Preview|#8" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$23530852|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1" />
+  <Pane Name="SlopedAndOffsetPipingPANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1" />
+  <CheckBox Name="SpoolFormatCK" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[CheckBox]Spool format|$checkBox_SpoolFormat|#1" />
+  <PushButton Name="PushButtonPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[PushButton]+|$button_NewIsoStyle|#1" />
+  <PopupList Name="PopupListPL" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[PopupList]$comboBox_IsoStyle|#1" />
+  <PushButton Name="DropDownButton1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[PopupList]$comboBox_IsoStyle|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <GroupBox Name="OffsetPipingAnnotationOptionsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset piping annotation options|$groupBox2|#2" />
+  <TextField Name="VerticalTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset piping annotation options|$groupBox2|#2/[TextField]Vertical:|$textBox_Vertical|#2" />
+  <TextField Name="HorizontalTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset piping annotation options|$groupBox2|#2/[TextField]Horizontal:|$textBox_Horizontal|#1" />
+  <StaticText Name="VerticalST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset piping annotation options|$groupBox2|#2/[StaticText]Vertical:|$label_Vertical|#3" />
+  <StaticText Name="HorizontalST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset piping annotation options|$groupBox2|#2/[StaticText]Horizontal:|$label_Horizontal|#2" />
+  <CheckBox Name="DisplayOffsetAngleAnnotationCK" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset piping annotation options|$groupBox2|#2/[CheckBox]Display offset angle annotation |$checkBox_DisplaySkewAngle|#1" />
+  <ComboBox Name="PercentageOfTriangleToCB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset piping annotation options|$groupBox2|#2/[ComboBox]Percentage of triangle to hatch:|$comboBox_HatchPercentage|#1" />
+  <StaticText Name="PercentageOfTriangleToST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset piping annotation options|$groupBox2|#2/[StaticText]Percentage of triangle to hatch:|$label_Percentage|#1" />
+  <GroupBox Name="OffsetPipingGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3" />
+  <StaticText Name="ShowRolledOffsets3DST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[StaticText]Show rolled offsets (3D skews) as:|$label_3DSkew|#3" />
+  <Pane Name="ShowRolledOffsets3D1PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show rolled offsets (3D skews) as:[1]|$pictureBox_3DSkew|#6" />
+  <StaticText Name="SlopedPipeWithAST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[StaticText]Sloped pipe with a 2D horizontal offset as:|$label_2DHorizontalSkew|#2" />
+  <Pane Name="SlopedPipeWithA1PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Sloped pipe with a 2D horizontal offset as:[1]|$pictureBox_2DHorizontalSkew|#4" />
+  <Pane Name="ShowRolledOffsets3D2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show rolled offsets (3D skews) as:[2]|$pictureBox_2DSkew|#2" />
+  <StaticText Name="Show2DVerticalhorizontalOffsetsST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[StaticText]Show 2D vertical*|$label_Show_2D_Skews_As|#1" />
+  <Pane Name="SlopedPipeWithA2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Sloped pipe with a 2D horizontal offset as:[2]|$panel_2DHorizontalSkews|#3" />
+  <RadioButton Name="RadioButton1RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Sloped pipe with a 2D horizontal offset as:[2]|$panel_2DHorizontalSkews|#3/[RadioButton]$radioButton_3DBox2D|#2" />
+  <RadioButton Name="RadioButton2RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Sloped pipe with a 2D horizontal offset as:[2]|$panel_2DHorizontalSkews|#3/[RadioButton]$radioButton_2DTriangleWithFall|#1" />
+  <RadioButton Name="RadioButton3RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Sloped pipe with a 2D horizontal offset as:[2]|$panel_2DHorizontalSkews|#3/[RadioButton]$radioButton_TwoSkewTriangles2D|#3" />
+  <Pane Name="Show2DVerticalhorizontalOffsetsPANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show 2D vertical*|$panel_2DSkews|#1" />
+  <RadioButton Name="RadioButton4RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show 2D vertical*|$panel_2DSkews|#1/[RadioButton]$radioButton_SkewBox|#1" />
+  <RadioButton Name="RadioButton5RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show 2D vertical*|$panel_2DSkews|#1/[RadioButton]$radioButton_SkewTriangleWithNormal|#2" />
+  <RadioButton Name="RadioButton6RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show 2D vertical*|$panel_2DSkews|#1/[RadioButton]$radioButton_SkewTriangleWithAlternate|#3" />
+  <Pane Name="ShowRolledOffsets3D3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show rolled offsets (3D skews) as:[3]|$panel_3DSkews|#5" />
+  <RadioButton Name="RadioButton7RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show rolled offsets (3D skews) as:[3]|$panel_3DSkews|#5/[RadioButton]$radioButton_3DBox3D|#1" />
+  <RadioButton Name="RadioButton8RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Offset Piping|$groupBox_Skews|#3/[Pane]Show rolled offsets (3D skews) as:[3]|$panel_3DSkews|#5/[RadioButton]$radioButton_TwoSkewTriangles3D|#2" />
+  <GroupBox Name="SlopedPipingGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1" />
+  <StaticText Name="DegreesST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[StaticText]degrees|$label_unit|#3" />
+  <CustomWin Name="ShowAsFallUp1WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[CustomWin]Show as fall up to:|$numericUpDown_ShowAsFallUpTo|#1" />
+  <CustomWin Name="SpinnerWIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[CustomWin]Show as fall up to:|$numericUpDown_ShowAsFallUpTo|#1/[CustomWin]Spinner|$41947072|#2" />
+  <PushButton Name="ForwardPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[CustomWin]Show as fall up to:|$numericUpDown_ShowAsFallUpTo|#1/[CustomWin]Spinner|$41947072|#2/[PushButton]Forward|$SmallIncrement|#1" />
+  <PushButton Name="BackwardPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[CustomWin]Show as fall up to:|$numericUpDown_ShowAsFallUpTo|#1/[CustomWin]Spinner|$41947072|#2/[PushButton]Backward|$SmallDecrement|#2" />
+  <CustomWin Name="ShowAsFallUp2WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[CustomWin]Show as fall up to:|$numericUpDown_ShowAsFallUpTo|#1/[CustomWin]Show as fall up to:|$numericUpDown_ShowAsFallUpTo|#1" />
+  <StaticText Name="ShowAsFallUpST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[StaticText]Show as fall up to:|$label_Show_FALL_Up|#2" />
+  <PopupList Name="ShowFallsAsPL" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[PopupList]Show Falls as:|$comboBox_ShowFallsAs|#1" />
+  <PushButton Name="DropDownButton2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[PopupList]Show Falls as:|$comboBox_ShowFallsAs|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="ShowFallsAsST" Tag="[Pane]$m_splitHorz|#1/[Pane]$8917246|#1/[Pane]$m_splitVert|#1/[Pane]$28510192|#2/[Pane]$m_isometricSlopedDimensionsUserCtrl|#1/[Pane]Sloped and Offset Piping|$panel_SlopedDimensions|#1/[GroupBox]Sloped piping|$groupBox_Falls|#1/[StaticText]Show Falls as:|$label_Show_Falls_As|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$11931180|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$11931180|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$11931180|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$11931180|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$11931180|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

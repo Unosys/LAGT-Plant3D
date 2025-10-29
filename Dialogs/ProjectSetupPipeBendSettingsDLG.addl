@@ -1,0 +1,6 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupPipeBendSettingsDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg|#1" ParentType="MainWin" GUIType="UIA">
+  
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#2/[PushButton]$m_btnCancel" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

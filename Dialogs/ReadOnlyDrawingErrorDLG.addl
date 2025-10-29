@@ -1,0 +1,9 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReadOnlyDrawingErrorDLG" Tag="[Pane]Read-only DWG Error|$frmReadonlyDwgError" ParentType="ProjManUndocked" GUIType="UIA">
+  <StaticText Name="OneOrMoreOfST" Tag="[StaticText]One or more of the drawing files you are attempting to remove from this project are read-only*|$lblWarning|#1" />
+  <PushButton Name="BtnMoreInfo" Tag="[PushButton]More Info|$btnMoreInfo|#2" />
+  <PushButton Name="BtnOK" Tag="[PushButton]OK|$btnOK|#1" />
+  <TitleBar Name="ReadonlyDWGErrorCTL" Tag="[TitleBar]Read-only DWG Error|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Read-only DWG Error|$TitleBar|#1/[CustomWin]System Menu Bar|$frmReadonlyDwgError|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Read-only DWG Error|$TitleBar|#1/[CustomWin]System Menu Bar|$frmReadonlyDwgError|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Read-only DWG Error|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

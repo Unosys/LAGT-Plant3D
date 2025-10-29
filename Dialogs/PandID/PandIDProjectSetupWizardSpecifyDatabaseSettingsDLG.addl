@@ -1,0 +1,28 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupWizardSpecifyDatabaseSettingsDLG" Tag="[DialogBox]$CreateProjectWizard" ParentType="Plant3D">
+<StaticText Name="M_authentLbl" Tag="[StaticText]$m_authentLbl" />
+<PushButton Name="M_btnDbGenName" Tag="[PushButton]$m_btnDbGenName" />
+<PushButton Name="M_btnTestConnection" Tag="[Pane]$m_wizardSetup/[Pane]$pageDBSettings/[PushButton]$m_btnTestConnection" />
+<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Cancel|$m_buttonCancel|#3" />
+<PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup|#1/[PushButton]$m_buttonNext|#2" />
+<ComboBox Name="M_comboServer" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[ComboBox]SQL Server name:|$m_comboServer|#1" />
+<TextField Name="M_comboServerTextField" Tag="[TextField]$m_comboServer" />
+<StaticText Name="M_dbNameLabel" Tag="[StaticText]$m_dbNameLabel" />
+<StaticText Name="M_dbPageLbl" Tag="[StaticText]$m_dbPageLbl" />
+<StaticText Name="M_helpLbl" Tag="[StaticText]$m_helpLbl" />
+<Link Name="M_linkHelpLbl" Tag="[Link]$m_linkHelpLbl" />
+<StaticText Name="M_pwdLbl" Tag="[StaticText]$m_pwdLbl" />
+<RadioButton Name="M_radioSQLServer" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[RadioButton]AutoCAD Plant 3D and AutoCAD PID both include a file-based local database (SQLite) that requires no configuration*[1]|$m_radioSQLServer|#2" />
+<RadioButton Name="M_radioSQLite" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[RadioButton]AutoCAD Plant 3D and AutoCAD PID both include a file-based local database (SQLite) that requires no configuration*[2]|$m_radioSQLite|#1" />
+<StaticText Name="M_serverNameLbl" Tag="[StaticText]$m_serverNameLbl" />
+<TextField Name="M_tbDbName" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[TextField]Database name prefix:|$m_tbDbName|#1" />
+<TextField Name="M_tbPwd" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[TextField]Password:|$m_tbPwd|#3" />
+<StaticText Name="PasswordST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]Password:|$m_pwdLbl|#7" />
+<TextField Name="M_tbUsrName" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[TextField]User name:|$m_tbUsrName|#2" />
+<StaticText Name="M_usrNameLbl" Tag="[StaticText]$m_usrNameLbl" />
+<CustomWin Name="M_wizardSetup" Tag="[CustomWin]$m_wizardSetup" />
+<GroupBox Name="PageDBSettings" Tag="[GroupBox]$pageDBSettings" />
+<PopupList Name="M_comboAuthent" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[PopupList]Authentication:|$m_comboAuthent|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

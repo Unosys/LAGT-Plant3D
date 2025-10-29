@@ -1,0 +1,13 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityEditpartsPartListDLG" Tag="[Window]Spec Property Editor|$PropertyEditor" >
+
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel_Button|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OK_Button|#1" />
+	<Window Name="PartListWIN" Tag="[PageList]$MainTabControl|#1/[Window]Part List|$PartListTab|#1" />
+	<Window Name="ManageSizesWIN" Tag="[PageList]$MainTabControl|#1/[Window]Manage Sizes|$ManageSizesTab|#2" />
+	<Window Name="ManagePropertiesWIN" Tag="[PageList]$MainTabControl|#1/[Window]Manage Properties|$ManagePropsTab|#3" />
+
+	<PopupList Name="DisplayPL" Tag="[CustomWin]$UserControl_EditPartsList|#1/[PopupList]Display:|$PropertyTypeCombo|#1" />
+
+</Window>

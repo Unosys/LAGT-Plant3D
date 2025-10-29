@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddPropertyConnections" Tag="[Window]Add Property|$PropertyWindowInConnections" >
+
+
+	<PushButton Name="AddPropertyPB" Tag="[PushButton]Add Property|$AddPropertyBtn|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+
+
+
+	<Window Name="PCFWIN" Tag="[PageList]$AddPropertyTabControl|#1/[Window]PCF|$PCFTabItem|#1" />
+	<StaticText Name="PCFST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]PCF|$PCFTabItem|#1/[StaticText]PCF|#1" />
+
+	<Window Name="SymbolsWIN" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Symbols|$SymbolsTabItem|#2" />
+	<StaticText Name="SymbolsST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Symbols|$SymbolsTabItem|#2/[StaticText]#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

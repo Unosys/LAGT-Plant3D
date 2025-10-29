@@ -1,0 +1,13 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LinetypeManagerDLG" Tag="[DialogBox]Linetype Manager" ParentType="MainWin" GUIType="WIN32">
+
+
+
+
+	
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$1|#5" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#6" />
+	
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

@@ -1,0 +1,9 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectRefreshFromVaultMSG" Tag="[DialogBox]Project Refresh from Vault Incomplete" >
+
+	
+  <Link Name="LocalProjectFilesHaveLINK" Tag="[Pane]#1/[Pane]#1/[Link]#1" />
+
+	<PushButton Name="OKPB" Tag="[Pane]$Window|#1/[PushButton]$CommandButton_1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

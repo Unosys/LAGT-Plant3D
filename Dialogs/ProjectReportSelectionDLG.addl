@@ -1,0 +1,11 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectReportSelectionDLG" Tag="[Pane]Project Report Selection|$SheetSelectionDlg|#1" >
+  
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$button1|#1" />
+  <StaticText Name="SelectProjectReportToST" Tag="[StaticText]Select project report to import: |$label1|#1" />
+  <PopupList Name="SelectProjectReportToPL" Tag="[PopupList]Select project report to import: |$m_cbSheetNames|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]Select project report to import: |$m_cbSheetNames|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <TitleBar Name="ProjectReportSelectionCTL" Tag="[TitleBar]Project Report Selection|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Report Selection|$TitleBar|#1/[CustomWin]System Menu Bar|$SheetSelectionDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Report Selection|$TitleBar|#1/[CustomWin]System Menu Bar|$SheetSelectionDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Report Selection|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LightingLightingUnitsMsgDLG" Tag="[DialogBox]LightingLightingUnitsMsgDLG" ParentType="Plant3D">
+<CustomWin Name="DirectUIHWND" Tag="[CustomWin]$DirectUIHWND" />
+<CustomWin Name="CtrlNotifySink" Tag="[CustomWin]$CtrlNotifySink" />
+<PushButton Name="OK" Tag="[PushButton]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

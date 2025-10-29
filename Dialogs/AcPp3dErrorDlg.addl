@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AcPp3dErrorDlg" Tag="[DialogBox]$AcPp3dErrorDlg" ParentType="Plant3D">
+<CustomWin Name="Panel1" Tag="[CustomWin][System.Windows.Forms.Panel]$panel1|[System.Windows.Forms.Panel]One or more items have caused an error.|[System.Windows.Forms.Panel]#1" />
+<Table Name="GridView" Tag="[Table]$GridView|#1" />
+<PushButton Name="BtnClose" Tag="[PushButton]$BtnClose|Close|#1" />
+<StaticText Name="LabelText" Tag="[StaticText]$LabelText|One or more items have caused an error.|#1" />
+<CustomWin Name="IconPicBox" Tag="[CustomWin][System.Windows.Forms.PictureBox]$IconPicBox|[System.Windows.Forms.PictureBox]#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

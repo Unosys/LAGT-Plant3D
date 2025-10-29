@@ -1,0 +1,3 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.CheckBoxTasksDLG" Tag="[Pane]CheckBox|#1" ParentType="Pane">
+<CustomWin Name="DevExpressXtraPrintingNative" Tag="[CustomWin]$DevExpress.XtraPrinting.Native.Lines.EditorPropertyLine+DropDownEdit" />
+</Pane>

@@ -1,0 +1,33 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectQuickIsoDLG" Tag="[Pane]$SelectQuickIso" ParentType="Plant3D" GUIType="UIA">
+  <GroupBox Name="OutputSettingsGB" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2" />
+  <StaticText Name="RevisionNumberST" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[StaticText]Revision number:|$label_RevisionNumber|#3" />
+  <TextField Name="RevisionNumberTF" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[TextField]Revision number:|$textBox_RevisionNumber|#2" />
+  <CheckBox Name="OverwriteIfExistingCK" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[CheckBox]Overwrite if existing|$checkBox_OverwriteExisting|#2" />
+  <PopupList Name="IsoStylePL" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[PopupList]Iso Style:|$comboBox_IsoType|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[PopupList]Iso Style:|$comboBox_IsoType|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="IsoStyleST" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[StaticText]Iso Style:|$label1|#1" />
+  <StaticText Name="SaveIsosToST" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[StaticText]Save Isos to:|$label2|#2" />
+  <TextField Name="SaveIsosToTF" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[TextField]Save Isos to:|$textBox_OutputDirectory|#1" />
+  <PushButton Name="AdvancedPB" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[PushButton]Advanced*|$button_Options|#2" />
+  <CheckBox Name="CreateDWFCK" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[CheckBox]Create DWF|$checkBox_CreateRollupDWF|#1" />
+  <PushButton Name="PushButtonPB" Tag="[GroupBox]Output settings|$groupBoxOutputSettings|#2/[PushButton]**|$button_OutputDirectory|#1" />
+  <GroupBox Name="DisplayLinesGB" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1" />
+  <CheckBox Name="CheckBox1CK" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]`|$checkBox_DrawingLines|#1" />
+  <CheckBox Name="CheckBox2CK" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]$checkBox_ProjectLines|#2" />
+  <CheckBox Name="CheckBox3CK" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]$checkBox_filter|#3" />
+  <StaticText Name="LineNumbersST" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[StaticText]Line Numbers:|$label_CreateFromLines|#1" />
+  <ListBox Name="LineNumbersLB" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[ListBox]Line Numbers:|$checkedListBox_Lines|#1" />
+  <ListBoxItem Name="one02LBI" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[ListBox]Line Numbers:|$checkedListBox_Lines|#1/[ListBoxItem]102|#1" />
+  <ListBoxItem Name="one04LBI" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[ListBox]Line Numbers:|$checkedListBox_Lines|#1/[ListBoxItem]104?|#2" />
+  <ListBoxItem Name="one05LBI" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[ListBox]Line Numbers:|$checkedListBox_Lines|#1/[ListBoxItem]105?|#3" />
+  <PushButton Name="LineNumbersPB" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[PushButton]Line Numbers:|$button_filteractive|#1" />
+  <TextField Name="TextFieldTF" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[TextField]$textBox_Filter|#1" />
+  <StaticText Name="FilterST" Tag="[StaticText]Filter:|$label_Filter|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$button_Cancel|#2" />
+  <PushButton Name="CreatePB" Tag="[PushButton]Create|$button_Create|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$button_Help|#3" />
+  <TitleBar Name="CreateQuickIsoCTL" Tag="[TitleBar]Create Quick Iso|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Quick Iso|$TitleBar|#1/[CustomWin]System Menu Bar|$SelectQuickIso|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Quick Iso|$TitleBar|#1/[CustomWin]System Menu Bar|$SelectQuickIso|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Quick Iso|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

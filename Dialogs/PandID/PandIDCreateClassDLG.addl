@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDCreateClassDLG" Tag="[Pane]$NewObjectDefinitionDlg" ParentType="Pane">
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<StaticText Name="M_labelDisplayName" Tag="[StaticText]$m_labelDisplayName" />
+<StaticText Name="M_labelName" Tag="[StaticText]$m_labelName" />
+<TextField Name="M_textBoxDisplayName" Tag="[TextField]$m_textBoxDisplayName" />
+<TextField Name="M_textBoxName" Tag="[TextField]$m_textBoxName" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

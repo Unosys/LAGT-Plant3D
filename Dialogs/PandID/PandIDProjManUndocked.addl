@@ -1,0 +1,17 @@
+﻿<CustomWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjManUndocked" Tag="[CustomWin]PROJECTMANAGER" ParentType="Plant3D" GUIType="WIN32">
+	
+	<CustomWin Name="PROJECTMANAGER1WIN" Tag="[CustomWin]PROJECTMANAGER|$59423" />
+	<TreeView Name="TreeViewTV" Tag="[CustomWin]PROJECTMANAGER|$59423/[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite/[Pane]$splitContainer1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView/[TreeView]$m_treeView" />
+	<!--Source Files tab-->
+	<TreeViewItem Name="DefaultProjectTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite/[Pane]$splitContainer1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView/[TreeView]$m_treeView/[TreeViewItem]#1" />
+	<TreeViewItem Name="PIDDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite/[Pane]$splitContainer1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView/[TreeView]$m_treeView/[TreeViewItem]#1/[TreeViewItem]P*|#1" />
+	<TreeViewItem Name="Plant3DDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite/[Pane]$splitContainer1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView/[TreeView]$m_treeView/[TreeViewItem]#1/[TreeViewItem]Plant 3D Drawings|#2" />
+	<TreeViewItem Name="RelatedFilesTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite/[Pane]$splitContainer1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView/[TreeView]$m_treeView/[TreeViewItem]#1/[TreeViewItem]Related Files|#4" />
+	<!--Orthographic Drawings tab-->
+	<TreeViewItem Name="SampleProjectTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="OrthographicDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="Area1PlanTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="TopPlanViewTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]#1/[TreeViewItem]#1/[TreeViewItem]#1" />
+
+</CustomWin>
+

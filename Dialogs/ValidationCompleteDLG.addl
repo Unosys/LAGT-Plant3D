@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ValidationCompleteDLG" Tag="[DialogBox]Validation Complete" ParentType="MainWin" GUIType="WIN32">
+
+
+	<PushButton Name="OKPB" Tag="[Pane]Validation Complete|$Window|#1/[PushButton]OK|$CommandButton_1|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

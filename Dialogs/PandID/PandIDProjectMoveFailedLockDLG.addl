@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectMoveFailedLockDLG" Tag="[DialogBox]Project Move Failed" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="FailToGetAnExclusiveLock" Tag="[StaticText]Fail to get an exclusive lock for file ?PIP_Metric_PnIdPart.xml?|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

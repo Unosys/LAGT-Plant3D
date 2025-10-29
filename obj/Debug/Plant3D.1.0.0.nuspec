@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Plant3D</id>
+    <version>1.0.0</version>
+    <authors>Plant3D</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Data.DataSetExtensions" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/OptionSet/Plant3DFeatures.txt" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/OptionSet/Plant3D.xml" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/TestSuites/GlobalDlgBox/StepsXML.txt" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\LAGT\bin\Plant3D.dll" target="lib\net8.0-windows7.0\Plant3D.dll" />
+    <file src="C:\LAGT\Plant3D\OptionSet\Plant3DFeatures.txt" target="content\OptionSet\Plant3DFeatures.txt" />
+    <file src="C:\LAGT\Plant3D\OptionSet\Plant3DFeatures.txt" target="contentFiles\any\net8.0-windows7.0\OptionSet\Plant3DFeatures.txt" />
+    <file src="C:\LAGT\Plant3D\OptionSet\Plant3D.xml" target="content\OptionSet\Plant3D.xml" />
+    <file src="C:\LAGT\Plant3D\OptionSet\Plant3D.xml" target="contentFiles\any\net8.0-windows7.0\OptionSet\Plant3D.xml" />
+    <file src="C:\LAGT\Plant3D\TestSuites\GlobalDlgBox\StepsXML.txt" target="content\TestSuites\GlobalDlgBox\StepsXML.txt" />
+    <file src="C:\LAGT\Plant3D\TestSuites\GlobalDlgBox\StepsXML.txt" target="contentFiles\any\net8.0-windows7.0\TestSuites\GlobalDlgBox\StepsXML.txt" />
+  </files>
+</package>

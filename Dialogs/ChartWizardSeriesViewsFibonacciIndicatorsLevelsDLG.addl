@@ -1,0 +1,16 @@
+
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardSeriesViewsFibonacciIndicatorsLevelsDLG" Tag="[Pane]Chart Wizard|$WizardFormBase" ParentType="Pane" GUIType="UIA">
+
+  <PageList Name="PageListPG" Tag="[Pane]pnlBase|$pnlBase|#1/[Pane]$grWizardPanel|#1/[Pane]$workPanel|#2/[Pane]grWizardParentControl|$grWizardParentControl|#1/[Pane]$pnlParent|#3/[Pane]$SeriesViewConfigControl|#1/[Pane]splitter|$splitter|#1/[Pane]$1377024|#3/[Pane]$tabPanel|#3/[Pane]$XYDiagramSeriesViewBaseControl|#1/[PageList]$tbcPagesControl|#1" />
+
+ <PushButton Name="CancelPB" Tag="[Pane]$hitTestTransparentPanelControl|#2/[PushButton]Cancel|$sbCancel|#4" />
+  <PushButton Name="PreviousPB" Tag="[Pane]$hitTestTransparentPanelControl|#2/[PushButton]&lt;&lt; Previous|$sbPreviousPage|#1" />
+  <PushButton Name="FinishPB" Tag="[Pane]$hitTestTransparentPanelControl|#2/[PushButton]Finish|$sbFinish|#3" />
+  <PushButton Name="NextPB" Tag="[Pane]$hitTestTransparentPanelControl|#2/[PushButton]Next &gt;&gt;|$sbNextPage|#2" />
+  <TitleBar Name="ChartWizardCTL" Tag="[TitleBar]Chart Wizard|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Chart Wizard|$TitleBar|#1/[CustomWin]System Menu Bar|$WizardFormBase|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Chart Wizard|$TitleBar|#1/[CustomWin]System Menu Bar|$WizardFormBase|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Chart Wizard|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Chart Wizard|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Chart Wizard|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Pane>

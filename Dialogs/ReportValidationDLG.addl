@@ -1,0 +1,7 @@
+
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportValidationDLG" Tag="[DialogBox]Report Validation" ParentType="MainWin" GUIType="WIN32">
+		<PushButton Name="ContinueWithReportGenerationPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1001|#1" />
+	<PushButton Name="ReturnToCreateReportPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1002|#2" />
+	<PushButton Name="ReviewMissingWeightLogPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1003|#3" />
+	<PushButton Name="CancelPB" Tag="[Pane]$Window|#1/[PushButton]$CommandButton_2|#4" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

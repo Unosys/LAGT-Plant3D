@@ -1,0 +1,3 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityImportFailedTheExcelnotexportedDLG" Tag="[DialogBox]Import Failed" ParentType="SpecEditorDLG">
+<PushButton Name="OkPB" Tag="[PushButton]$2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

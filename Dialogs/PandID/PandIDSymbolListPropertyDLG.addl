@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSymbolListPropertyDLG" Tag="[DialogBox]$SymbolListDlg" ParentType="Pane">
+<PushButton Name="M_btnAddRow" Tag="[PushButton]$m_btnAddRow" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnDeleteRow" Tag="[PushButton]$m_btnDeleteRow" />
+<PushButton Name="M_btnOK" Tag="[PushButton]$m_btnOK" />
+<Table Name="M_dataGridView" Tag="[Table]$m_dataGridView" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

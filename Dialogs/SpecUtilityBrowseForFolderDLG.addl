@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityBrowseForFolderDLG" Tag="[DialogBox]Browse For Folder|Select Folder"  ParentType="ConvertAutoPLANTSpecsAndCatalogsDLG">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="MakeNewFolder" Tag="[PushButton]$" />
+<PushButton Name="OK" Tag="[PushButton]$" />
+
+	<TextField Name="FolderTF" Tag="[TextField]Folder:|$1152|#1" />
+	<PushButton Name="SelectFolderPB" Tag="[PushButton]Select Folder|$1|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

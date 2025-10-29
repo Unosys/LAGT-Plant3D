@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingsLockedDLG" Tag="[DialogBox]DrawingsLockedDLG" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]$2|OK|#1" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]$20|[Icon]#1" />
+<StaticText Name="TheFollowingDrawingsCouldN" Tag="[StaticText]$65535|The following drawings could not be opened because either they are opened by another user or you do not have write permissions*|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

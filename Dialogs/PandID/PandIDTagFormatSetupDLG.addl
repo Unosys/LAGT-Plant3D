@@ -1,0 +1,22 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDTagFormatSetupDLG" Tag="[Pane]$TagformatSetupDlg" >
+
+  <PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnClass" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnClass" />
+<PushButton Name="M_btnDraw" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnDraw" />
+<PushButton Name="M_btnExpression" Tag="[Pane]$panel1|#1/[Pane]$fieldsUserControl|#1/[PushButton]$m_btnExpression|#4" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnMoreless" Tag="[PushButton]$m_btnMoreless" />
+<PushButton Name="M_btnOK" Tag="[PushButton]$m_btnOK" />
+<PushButton Name="M_btnProject" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnProject" />
+<StaticText Name="M_labelClass" Tag="[StaticText]$m_labelClass" />
+<TextField Name="M_labelFormatName" Tag="[TextField]$m_labelFormatName" />
+<StaticText Name="M_lblClassText" Tag="[StaticText]$m_lblClassText" />
+<StaticText Name="M_lblDelimiterText" Tag="[StaticText]$m_lblDelimiterText" />
+<StaticText Name="M_lblFieldText" Tag="[StaticText]$m_lblFieldText" />
+<StaticText Name="M_lblFormatNameText" Tag="[StaticText]$m_lblFormatNameText" />
+<StaticText Name="M_lblSubpartsText" Tag="[StaticText]$m_lblSubpartsText" />
+<UpDown Name="M_numOfSubparts" Tag="[UpDown]$m_numOfSubparts" />
+<TextField Name="M_tboxDelimiter" Tag="[TextField]$m_tboxDelimiter" />
+<TextField Name="M_tboxField" Tag="[TextField]$m_tboxField" />
+<GroupBox Name="Panel1" Tag="[GroupBox]$panel1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,20 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingPropertiesPDLG" Tag="[DialogBox]Drawing Properties" ParentType="Plant3D">
+<StaticText Name="Description" Tag="[StaticText]#1|$gpDescription" />
+<CustomWin Name="Panel2" Tag="[CustomWin][System.Windows.Forms.Panel]#1|[System.Windows.Forms.Panel]$panel2" />
+<StaticText Name="LblDescription" Tag="[StaticText]#1|$lblDescription" />
+<CustomWin Name="Panel1" Tag="[CustomWin][System.Windows.Forms.Panel]#1|[System.Windows.Forms.Panel]$panel1" />
+<StaticText Name="General" Tag="[StaticText]#1|$groupBox0" />
+<TextField Name="DWGNumber1" Tag="[TextField]#1|$TextBox0" />
+<StaticText Name="DWGNumberText" Tag="[StaticText]#1|$Label0" />
+<TextField Name="DWGNumber2" Tag="[TextField]#2|$TextBox1" />
+<StaticText Name="DWGTitleText" Tag="[StaticText]#2|$Label1" />
+<TextField Name="DWGTitle" Tag="[TextField]#3|$TextBox2" />
+<StaticText Name="AreaText" Tag="[StaticText]#3|$Label2" />
+<TextField Name="Area" Tag="[TextField]#4|$TextBox3" />
+<StaticText Name="AuthorText" Tag="[StaticText]#4|$Label3" />
+<TextField Name="Author" Tag="[TextField]#5|$TextBox4" />
+<StaticText Name="DescriptionText" Tag="[StaticText]#5|$Label4" />
+<PushButton Name="Help" Tag="[PushButton]#3|$btnHelp" />
+<PushButton Name="Cancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="OK" Tag="[PushButton]$btnOK" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

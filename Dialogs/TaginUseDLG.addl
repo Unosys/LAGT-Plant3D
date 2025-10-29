@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.TaginUseDLG" Tag="[DialogBox]Tag in Use" ParentType="Plant3D">
+
+	<PushButton Name="OKPB" Tag="[PushButton]$2|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

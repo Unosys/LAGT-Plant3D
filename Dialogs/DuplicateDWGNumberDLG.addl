@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DuplicateDWGNumberDLG" Tag="[DialogBox]Duplicate DWG Number" ParentType="NewDWGDLG">
+<PushButton Name="Yes" Tag="[PushButton]Yes|$6|@(165,78)" />
+<PushButton Name="No" Tag="[PushButton]No|$7|@(246,78)" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]$20|[Icon]@(27,27)" />
+<StaticText Name="N01IsAlreadyAllocatedToA" Tag="[StaticText]&lt;01&gt; is already allocated to another drawing in the current project.??It is recommended that you assign unique numbers to proj*|$65535|@(234,31)" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

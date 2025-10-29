@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityWelcometoDLG" Tag="[MainWin]$SpecAndCatalogV2Window">
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

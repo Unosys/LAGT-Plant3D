@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DCatalogBuilderBrowseForFolderDLG" Tag="[DialogBox]Browse For Folder" ParentType="CreateCatalogTemplateDLG">
+<StaticText Name="SpecifyTheDirectoryToHold1" Tag="$14146" />
+<CustomWin Name="SpecifyTheDirectoryToHold2" Tag="[SHBrowseForFolder ShellNameSpace Control]$0" />
+<TreeView Name="TreeView1" Tag="$100" />
+<PushButton Name="MakeNewFolderPB" Tag="$14150" />
+<PushButton Name="OK" Tag="$1" />
+<PushButton Name="Cancel" Tag="$2" />
+<ScrollBar Name="ScrollBar1" Tag="$14151" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

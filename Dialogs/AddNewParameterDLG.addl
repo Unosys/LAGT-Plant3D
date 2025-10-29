@@ -1,0 +1,46 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddNewParameterDLG" Tag="[Pane]Add New Parameter|$ReportParameterEditorForm|#2" ParentType="Pane" GUIType="UIA">
+
+
+	<Pane Name="Pane1PANE" Tag="[Pane]#1" />
+	<Pane Name="TablePanel11PANE" Tag="[Pane]tablePanel1|$tablePanel1|#2" />
+	<Pane Name="Pane2PANE" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1" />
+	<Pane Name="TablePanel12PANE" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1" />
+	<CheckBox Name="SelectAllValuesCK" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[CheckBox]Select all values|$ceSelectAll|#4" />
+	<Pane Name="NavigationFrame1PANE" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[Pane]navigationFrame1|$navigationFrame1|#1" />
+	<TextField Name="ExpressionTF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Expression:|$defaultValueExpressionEditor|#4" />
+	<TextField Name="TextField1TF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Expression:|$defaultValueExpressionEditor|#4/[TextField]$4984282|#2" />
+	<TextField Name="TextField2TF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Expression:|$defaultValueExpressionEditor|#4/[TextField]#1" />
+	<PushButton Name="PushButtonPB" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Expression:|$defaultValueExpressionEditor|#4/[PushButton]#1" />
+	<PopupList Name="ValueSourcePL" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[PopupList]Value Source:|$cbeValueSource|#1" />
+	<StaticText Name="noneST" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[PopupList]Value Source:|$cbeValueSource|#1/[StaticText](none)|#1" />
+	<PushButton Name="Open1PB" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[PopupList]Value Source:|$cbeValueSource|#1/[PushButton]Open|#1" />
+	<PopupList Name="TypePL" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[PopupList]Type:|$cbeType|#2" />
+	<StaticText Name="Number32BitIntegerST" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[PopupList]Type:|$cbeType|#2/[StaticText]Number (32 bit integer)|#1" />
+	<PushButton Name="Open2PB" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[PopupList]Type:|$cbeType|#2/[PushButton]Open|#1" />
+	<CheckBox Name="AllowNullValueCK" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[CheckBox]Allow null value|$ceAllowNull|#2" />
+	<CheckBox Name="AllowMultipleValuesCK" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[CheckBox]Allow multiple values|$ceAllowMultiple|#3" />
+	<CheckBox Name="ShowInTheParametersCK" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[CheckBox]Show in the parameters panel|$ceVisible|#1" />
+	<TextField Name="DescriptionTF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Description:|$teDescription|#2" />
+	<TextField Name="TextField3TF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Description:|$teDescription|#2/[TextField]$1773034|#2" />
+	<TextField Name="TextField4TF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Description:|$teDescription|#2/[TextField]#1" />
+	<TextField Name="NameTF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Name:|$teName|#1" />
+	<TextField Name="TextField5TF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Name:|$teName|#1/[TextField]$2493444|#2" />
+	<TextField Name="TextField6TF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Name:|$teName|#1/[TextField]#1" />
+	<StaticText Name="ValueSourceST" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[StaticText]Value Source:|$labelControl6|#2" />
+	<StaticText Name="ExpressionST" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[StaticText]Expression:|$labelControl5|#6" />
+	<StaticText Name="DefaultValueST" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[StaticText]Default Value:|$labelControl4|#5" />
+	<StaticText Name="TypeST" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[StaticText]Type:|$labelControl3|#4" />
+	<StaticText Name="DescriptionST" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[StaticText]Description:|$labelControl2|#3" />
+	<StaticText Name="NameST" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[StaticText]Name:|$labelControl1|#1" />
+	<TextField Name="DefaultValueTF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Default Value:|$defaultValueEditor|#3" />
+	<TextField Name="TextField7TF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Default Value:|$defaultValueEditor|#3/[TextField]$69132|#2" />
+	<TextField Name="TextField8TF" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Default Value:|$defaultValueEditor|#3/[TextField]#1" />
+	<CustomWin Name="SpinnerWIN" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Default Value:|$defaultValueEditor|#3/[CustomWin]Spinner|#1" />
+	<PushButton Name="UpPB" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Default Value:|$defaultValueEditor|#3/[CustomWin]Spinner|#1/[PushButton]Up|#1" />
+	<PushButton Name="DownPB" Tag="[Pane]tablePanel1|$tablePanel1|#2/[Pane]$parameterEditorContentControl|#1/[Pane]tablePanel1|$tablePanel1|#1/[TextField]Default Value:|$defaultValueEditor|#3/[CustomWin]Spinner|#1/[PushButton]Down|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]tablePanel1|$tablePanel1|#2/[PushButton]Cancel|$btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[Pane]tablePanel1|$tablePanel1|#2/[PushButton]OK|$btnOK|#1" />
+	<TitleBar Name="AddNewParameterCTL" Tag="[TitleBar]Add New Parameter|$TitleBar|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Add New Parameter|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

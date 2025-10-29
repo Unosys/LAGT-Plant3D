@@ -1,0 +1,11 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectImageFileDLG" Tag="[Pane]Select Image File|$DXImageEditorForm" >
+
+
+	<PushButton Name="SelectFilePB" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#2/[Pane]$buttonsPanel|#1/[PushButton]Select File*|$selectFileButton|#1" />
+	<PushButton Name="ApplyPB" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#2/[Pane]$buttonsPanel|#1/[PushButton]Apply|$applyButton|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#2/[Pane]$buttonsPanel|#1/[PushButton]Cancel|$39323804|#3" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Select Image File|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

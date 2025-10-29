@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ViewMenuDLG" Tag="[DialogBox]#1" ParentType="Plant3D">
+<CustomWin Name="DevExpressXtraBarsControlsS" Tag="[DevExpress.XtraBars.Controls.SubMenuBarControl]#1" />
+<MenuItem Name="PageLayout" Tag="[MenuItem]Page Layout|#1" />
+<PushButton Name="Facing" Tag="[PushButton]Facing|#2" />
+<PushButton Name="Continuous" Tag="[PushButton]Continuous|#1" />
+<PushButton Name="Toolbar" Tag="[PushButton]Toolbar|#1" />
+<PushButton Name="StatusBar" Tag="[PushButton]Status Bar|#2" />
+<PushButton Name="Customize" Tag="[PushButton]Customize|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

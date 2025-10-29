@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PermissionToSaveFileErrorDLG" Tag="[DialogBox]$ExceptionMessageForm" ParentType="Plant3D">
+<GroupBox Name="M_buttonsPanel" Tag="[GroupBox]$m_buttonsPanel" />
+<PushButton Name="M_detailsBtn" Tag="[PushButton]$m_detailsBtn" />
+<CustomWin Name="M_iconPicBox" Tag="[CustomWin]$m_iconPicBox" />
+<StaticText Name="M_mainExceptionText" Tag="[StaticText]$m_mainExceptionText" />
+<GroupBox Name="M_mainTableLayoutPanel" Tag="[GroupBox]$m_mainTableLayoutPanel" />
+<PushButton Name="M_okBtn" Tag="[PushButton]$m_okBtn" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

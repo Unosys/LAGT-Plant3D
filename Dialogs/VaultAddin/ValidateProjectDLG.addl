@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ValidateProjectDLG" Tag="[DialogBox]Validate Project|#1"  ParentType="PROJECTMANAGERDLG" GUIType="WIN32">
+  <Pane Name="ValidateProjectPANE" GUIType="UIA" Tag="[Pane]Validate Project|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Validate Project|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Validate Project|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Validate Project|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="ProjectValidationOnCurrentST" Tag="[Pane]Validate Project|$Window|#1/[StaticText]Project validation on current data|$MainInstruction|#1" />
+  <StaticText Name="ToEnsureThatYouST" Tag="[Pane]Validate Project|$Window|#1/[StaticText]To ensure that you get current validation results, sychronize the project before starting*|$ContentText|#2" />
+  <PushButton Name="Yes" Tag="[Pane]Validate Project|$Window|#1/[PushButton]Yes|$CommandButton_6|#1" />
+  <PushButton Name="Cancel" Tag="[Pane]Validate Project|$Window|#1/[PushButton]Cancel|$CommandButton_2|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

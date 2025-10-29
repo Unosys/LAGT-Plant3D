@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DeleteCustomizedViewDLG" Tag="[DialogBox]Delete Customized View" ParentType="Pane" GUIType="UIA">
+  <PushButton Name="YesPB" Tag="[Pane]$Window|#1/[PushButton]$CommandButton_6|#1" />
+  <PushButton Name="NoPB" Tag="[Pane]$Window|#1/[PushButton]$CommandButton_7|#2" />
+  
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

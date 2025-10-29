@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PortProperties" Tag="[CustomWin]Properties" ParentType="Plant3D">
+
+	<CustomWin Name="ValveOperator" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|$16720|#1/[CustomWin]$12|#1/[CustomWin]$1413705984|#1/[ListBox]$239|#1/[CustomWin]$335548992|#4" />
+	<PopupList Name="PopupList1PL" GUIType="UIA" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|$16720|#1/[CustomWin]$12|#1/[CustomWin]$1413705984|#1/[ListBox]$239|#1/[CustomWin]$335548992|#4/[PopupList]$12360|#1" />
+	<PushButton Name="DropDownButtonPB" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|$16720|#1/[CustomWin]$12|#1/[CustomWin]$1413705984|#1/[ListBox]$239|#1/[CustomWin]$335548992|#4/[PopupList]$12360|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+	<CustomWin Name="ButtonWIN" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|$16720|#1/[CustomWin]$12|#1/[CustomWin]$1413705984|#1/[ListBox]$239|#1/[CustomWin]$335548992|#4/[CustomWin]Button|$12348|#1" />
+	<CustomWin Name="ObjectType" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|#1/[CustomWin]#1/[CustomWin]#1/[ListBox]$239|#1/[CustomWin]#5" />
+	<CustomWin Name="Message" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|#1/[CustomWin]#1/[CustomWin]#1/[ListBox]$239|#1/[CustomWin]#9" />
+	<CustomWin Name="LocatingDimension" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|$16719|#1/[CustomWin]$5|#1/[CustomWin]$564529968|#1/[ListBox]$239|#1/[CustomWin]$668109536|#15" />
+	<ListBox Name="ListBoxLB" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|$16719|#1/[CustomWin]$5|#1/[CustomWin]$564529968|#1/[ListBox]$239|#1" />
+	<CustomWin Name="Linetype" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|$16719|#1/[CustomWin]$5|#1/[CustomWin]$564529968|#1/[ListBox]$239|#1/[CustomWin]$668107648|#7" />
+	<CustomWin Name="Enclose" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|$16719|#1/[CustomWin]$5|#1/[CustomWin]$564529968|#1/[ListBox]$239|#1/[CustomWin]$558793696|#8" />
+	<CustomWin Name="LineNumbTag" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|#1/[CustomWin]#1/[CustomWin]#1/[ListBox]$239|#1/[CustomWin]#3" />
+	<CustomWin Name="Direction" Tag="[CustomWin]Properties|$59423|#1/[CustomWin]Properties|#1/[CustomWin]#1/[CustomWin]#1/[ListBox]$239|#1/[CustomWin]#6" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

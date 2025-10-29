@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADP3DWarningDLG" Tag="[Pane]AutoCAD Plant|$DataGridInfoDialog" >
+
+  <PushButton Name="M_OKButton" Tag="[PushButton]$m_OKButton" />
+<CheckBox Name="M_notShowAgainChkBox" Tag="[CheckBox]$m_notShowAgainChkBox" />
+<Link Name="M_helperLinkLabel" Tag="[Link]$m_helperLinkLabel" />
+<CustomWin Name="M_iconPicture" Tag="[CustomWin]$m_iconPicture" />
+</Pane>

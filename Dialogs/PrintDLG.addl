@@ -1,0 +1,6 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PrintDLG" Tag="[Pane]Print|$PrintEditorForm|#3" ParentType="Pane" GUIType="UIA">
+	<PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Cancel|$btnCancel|#3" />
+	<PushButton Name="PrintPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Print|$btnPrint|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Print|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

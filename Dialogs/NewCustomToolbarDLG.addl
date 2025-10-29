@@ -1,0 +1,10 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.NewCustomToolbarDLG" Tag="[Pane]New Toolbar|#2" ParentType="CustomizationDLG" GUIType="UIA">
+  <Pane Name="PanePANE" Tag="[Pane]$pnlNBDlg" />
+  <StaticText Name="ToolbarNameST" Tag="[Pane]$pnlNBDlg/[StaticText]Toolbar Name:|$lbNBDlgCaption" />
+  <TextField Name="ToolbarNameTF" Tag="[Pane]$pnlNBDlg/[TextField]Toolbar Name:|$tbNBDlgName" />
+  <TextField Name="TextField1TF" Tag="[Pane]$pnlNBDlg/[TextField]Toolbar Name:|$tbNBDlgName/[TextField]$1508832" />
+  <TextField Name="TextField2TF" Tag="[Pane]$pnlNBDlg/[TextField]Toolbar Name:|$tbNBDlgName/[TextField]#1" />
+  <PushButton Name="BtNBDlgCancel" Tag="[Pane]$pnlNBDlg/[PushButton]Cancel|$btNBDlgCancel" />
+  <PushButton Name="BtNBDlgOk" Tag="[Pane]$pnlNBDlg/[PushButton]OK|$btNBDlgOk" />
+  <TitleBar Name="NewToolbarCTL" Tag="[TitleBar]New Toolbar|$TitleBar" />
+</Pane>

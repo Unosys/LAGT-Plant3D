@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ValveOperatorMappingDLG" Tag="[Window]Valve Operator Mapping|$ValveOperatorMappingWindow" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OK|#3" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#4" />
+	<PushButton Name="ApplyPB" Tag="[PushButton]Apply|$Apply|#5" />
+	<PushButton Name="RemovePB" Tag="[PushButton]Remove|$RemoveButton|#2" />
+	<PushButton Name="AddPB" Tag="[PushButton]Add|$AddButton|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

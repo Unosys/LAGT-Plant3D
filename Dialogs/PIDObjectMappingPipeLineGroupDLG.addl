@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDObjectMappingPipeLineGroupDLG" Tag="[Pane]$EditProjectSettingsDlg">
+	
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	
+</Pane>

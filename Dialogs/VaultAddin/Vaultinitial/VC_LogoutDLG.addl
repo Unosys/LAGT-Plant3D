@@ -1,0 +1,5 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_LogoutDLG" Tag="[Pane]Log Out|$LogoutDialog" ParentType="VaultPro" GUIType="UIA">
+
+  <PushButton Name="LogInPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$tableLayoutPanel2/[PushButton]$okButton" />
+
+</Pane>

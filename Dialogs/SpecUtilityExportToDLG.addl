@@ -1,0 +1,131 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityExportToDLG" Tag="[DialogBox]Export To" ParentType="SpecUtilityExportDataDLG" GUIType="UIA">
+  <Pane Name="Pane1PANE" Tag="[Pane]#2" />
+  <Pane Name="ExplorerPanePANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]#6" />
+  <Pane Name="Pane3PANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]#3" />
+  <Pane Name="Pane5PANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]#7" />
+  <ToolBar Name="CommandModuleTB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[ToolBar]Command Module|$FolderBandModuleInner|#1" />
+  <PushButton Name="HelpPB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[ToolBar]Command Module|$FolderBandModuleInner|#1/[PushButton]Help|$HelpButton|#3" />
+  <CustomWin Name="ViewsWIN" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[ToolBar]Command Module|$FolderBandModuleInner|#1/[CustomWin]Views|$ViewControl|#1" />
+  <PushButton Name="ViewSliderPB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[ToolBar]Command Module|$FolderBandModuleInner|#1/[CustomWin]Views|$ViewControl|#1/[PushButton]View Slider|$SplitMenuButton|#1" />
+  <PushButton Name="OrganizePB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[ToolBar]Command Module|$FolderBandModuleInner|#1/[PushButton]Organize|${7DDC1264-7E4D-4F74-BBC0-D191987C8D0F}|#1" />
+  <PushButton Name="NewFolderPB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[ToolBar]Command Module|$FolderBandModuleInner|#1/[PushButton]New folder|${E44616AD-6DF1-4B94-85A4-E465AE8A19DB}|#2" />
+  <Pane Name="ControlHostPANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Control Host|$ProperTreeHost|#2" />
+  <TreeView Name="NamespaceTreeControlTV" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Control Host|$ProperTreeHost|#2/[TreeView]Namespace Tree Control|$100|#1" />
+  <ScrollBar Name="VerticalScrollBar1SB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Control Host|$ProperTreeHost|#2/[TreeView]Namespace Tree Control|$100|#1/[ScrollBar]Vertical Scroll Bar|$Vertical ScrollBar|#1" />
+  <Pane Name="ShellFolderViewPANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4" />
+  <ListBox Name="ListBoxLB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1" />
+  <Pane Name="Pane6PANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[Pane]#2" />
+  <Pane Name="Pane7PANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[Pane]#1" />
+  <ScrollBar Name="HorizontalScrollBarSB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ScrollBar]Horizontal Scroll Bar|$HorizontalScrollBar|#2" />
+  <ScrollBar Name="VerticalScrollBar2SB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ScrollBar]Vertical Scroll Bar|$VerticalScrollBar|#1" />
+  <Header Name="HeaderCTL" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[Header]Header|#1" />
+  <CustomWin Name="NameWIN" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[Header]Header|#1/[CustomWin]Name|$System.ItemNameDisplay|#1" />
+  <PushButton Name="FilterDropdown1PB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[Header]Header|#1/[CustomWin]Name|$System.ItemNameDisplay|#1/[PushButton]Filter dropdown|$DropDown|#1" />
+  <CustomWin Name="DateModifiedWIN" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[Header]Header|#1/[CustomWin]Date modified|$System.DateModified|#2" />
+  <PushButton Name="FilterDropdown2PB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[Header]Header|#1/[CustomWin]Date modified|$System.DateModified|#2/[PushButton]Filter dropdown|$DropDown|#1" />
+  <CustomWin Name="TypeWIN" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[Header]Header|#1/[CustomWin]Type|$System.ItemTypeText|#3" />
+  <ListBoxItem Name="HadrianCatalogsLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Catalogs|#1" />
+  <Image Name="Image1IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Catalogs|#1/[Image]#1" />
+  <TextField Name="TextField1TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Catalogs|#1/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField2TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Catalogs|#1/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField3TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Catalogs|#1/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="HadrianSpecsLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Specs|$1|#2" />
+  <Image Name="Image2IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Specs|$1|#2/[Image]#1" />
+  <TextField Name="TextField4TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Specs|$1|#2/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField5TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Specs|$1|#2/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField6TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Hadrian_Specs|$1|#2/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="NetworkPathLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NetworkPath|$2|#3" />
+  <Image Name="Image3IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NetworkPath|$2|#3/[Image]#1" />
+  <TextField Name="TextField7TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NetworkPath|$2|#3/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField8TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NetworkPath|$2|#3/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField9TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NetworkPath|$2|#3/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="NewMetricLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NewMetric|$3|#4" />
+  <Image Name="Image4IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NewMetric|$3|#4/[Image]#1" />
+  <TextField Name="TextField10TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NewMetric|$3|#4/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField11TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NewMetric|$3|#4/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField12TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]NewMetric|$3|#4/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="PreviewLispsLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]PreviewLisps|$4|#5" />
+  <Image Name="Image5IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]PreviewLisps|$4|#5/[Image]#1" />
+  <TextField Name="TextField13TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]PreviewLisps|$4|#5/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField14TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]PreviewLisps|$4|#5/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField15TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]PreviewLisps|$4|#5/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="Project1LBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Project 1|$5|#6" />
+  <Image Name="Image6IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Project 1|$5|#6/[Image]#1" />
+  <TextField Name="TextField16TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Project 1|$5|#6/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField17TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Project 1|$5|#6/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField18TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Project 1|$5|#6/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="ResolveExcelImportChangesLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]ResolveExcelImportChanges|$6|#7" />
+  <Image Name="Image7IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]ResolveExcelImportChanges|$6|#7/[Image]#1" />
+  <TextField Name="TextField19TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]ResolveExcelImportChanges|$6|#7/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField20TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]ResolveExcelImportChanges|$6|#7/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField21TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]ResolveExcelImportChanges|$6|#7/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="DummyExcelxlsLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]DummyExcel*|$7|#8" />
+  <Image Name="Image8IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]DummyExcel*|$7|#8/[Image]#1" />
+  <TextField Name="TextField22TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]DummyExcel*|$7|#8/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField23TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]DummyExcel*|$7|#8/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField24TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]DummyExcel*|$7|#8/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="ExportedCatalogxlsLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Catalog*|$8|#9" />
+  <Image Name="Image9IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Catalog*|$8|#9/[Image]#1" />
+  <TextField Name="TextField25TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Catalog*|$8|#9/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField26TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Catalog*|$8|#9/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField27TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Catalog*|$8|#9/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="ExportedSpecxlsLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Spec*|$9|#10" />
+  <Image Name="Image10IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Spec*|$9|#10/[Image]#1" />
+  <TextField Name="TextField28TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Spec*|$9|#10/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField29TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Spec*|$9|#10/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField30TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Exported_Spec*|$9|#10/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="TestxlsLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]test*|$10|#11" />
+  <Image Name="Image11IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]test*|$10|#11/[Image]#1" />
+  <TextField Name="TextField31TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]test*|$10|#11/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField32TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]test*|$10|#11/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField33TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]test*|$10|#11/[TextField]$System.ItemTypeText|#3" />
+  <ListBoxItem Name="TrimmedExportedCatalogxlsLBI" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Trimmed_Exported_Catalog*|$11|#12" />
+  <Image Name="Image12IMG" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Trimmed_Exported_Catalog*|$11|#12/[Image]#1" />
+  <TextField Name="TextField34TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Trimmed_Exported_Catalog*|$11|#12/[TextField]$System.ItemNameDisplay|#1" />
+  <TextField Name="TextField35TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Trimmed_Exported_Catalog*|$11|#12/[TextField]$System.DateModified|#2" />
+  <TextField Name="TextField36TF" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Shell Folder View|$listview|#4/[ListBox]#1/[ListBoxItem]Trimmed_Exported_Catalog*|$11|#12/[TextField]$System.ItemTypeText|#3" />
+  <Pane Name="DetailsPanePANE" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5" />
+  <StaticText Name="FileNameST" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[StaticText]File name:|$SaveDialogLabel|#1" />
+  <ComboBox Name="FileNameCB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[ComboBox]File name:|$FileNameControlHost|#1" />
+  <StaticText Name="SaveAsTypeST" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[StaticText]Save as type:|$SaveDialogLabel|#2" />
+  <PopupList Name="SaveAsTypePL" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[PopupList]Save as type:|$FileTypeControlHost|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Details Pane|$BackgroundClear|#5/[PopupList]Save as type:|$FileTypeControlHost|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <ToolBar Name="ToolBar1TB" Tag="[ToolBar]#1" />
+  <PushButton Name="HideFoldersPB" Tag="[ToolBar]#1/[PushButton]Hide Folders|$Item 103|#1" />
+  <PushButton Name="SavePB" Tag="[PushButton]Save|$1|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+  <Pane Name="Pane8PANE" Tag="[Pane]#3" />
+  <Pane Name="Pane9PANE" Tag="[Pane]#1" />
+  <Pane Name="Pane10PANE" Tag="[Pane]#1/[Pane]$40965|#1" />
+  <CustomWin Name="RebarBand1WIN" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[1]|#1" />
+  <Pane Name="Pane11PANE" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[1]|#1/[Pane]#1" />
+  <ToolBar Name="ToolBar2TB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[1]|#1/[Pane]#1/[ToolBar]#1" />
+  <PushButton Name="BackPB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[1]|#1/[Pane]#1/[ToolBar]#1/[PushButton]Back|$Item 256|#1" />
+  <PushButton Name="ForwardPB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[1]|#1/[Pane]#1/[ToolBar]#1/[PushButton]Forward|$Item 257|#2" />
+  <PushButton Name="RecentPagesPB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[1]|#1/[Pane]#1/[ToolBar]#1/[PushButton]Recent Pages|$Item 258|#3" />
+  <CustomWin Name="RebarBand2WIN" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2" />
+  <Pane Name="Pane12PANE" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1" />
+  <Pane Name="Pane13PANE" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[Pane]#1" />
+  <ToolBar Name="AddressCLAGTDesktopPlant3DTestFilesTB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[Pane]#1/[ToolBar]Address: C:*|$1001|#1" />
+  <CustomWin Name="Desktop1WIN" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[Pane]#1/[ToolBar]Address: C:*|$1001|#1/[CustomWin]Desktop[1]|$Item 1280|#1" />
+  <CustomWin Name="Desktop2WIN" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[Pane]#1/[ToolBar]Address: C:*|$1001|#1/[CustomWin]Desktop[2]|$Item 1284|#2" />
+  <CustomWin Name="Plant3DWIN" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[Pane]#1/[ToolBar]Address: C:*|$1001|#1/[CustomWin]Plant3D|$Item 1285|#3" />
+  <CustomWin Name="TestFilesWIN" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[Pane]#1/[ToolBar]Address: C:*|$1001|#1/[CustomWin]TestFiles|$Item 1286|#4" />
+  <ToolBar Name="ToolBar3TB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[ToolBar]#1" />
+  <PushButton Name="PreviousLocationsPB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[ToolBar]#1/[PushButton]Previous Locations|$Item 202|#1" />
+  <PushButton Name="RefreshTestFilesPB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[2]|#2/[Pane]$41477|#1/[CustomWin]#1/[ToolBar]#1/[PushButton]Refresh &quot;TestFiles&quot;|$Item 102|#2" />
+  <CustomWin Name="RebarBand3WIN" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[3]|#3" />
+  <Pane Name="Pane14PANE" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[3]|#3/[Pane]#1" />
+  <Pane Name="Pane15PANE" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[3]|#3/[Pane]#1/[Pane]#1" />
+  <Pane Name="Pane16PANE" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[3]|#3/[Pane]#1/[Pane]#1/[Pane]#1" />
+  <Pane Name="SearchTestFilesPANE" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[3]|#3/[Pane]#1/[Pane]#1/[Pane]#1/[Pane] Search TestFiles|#1" />
+  <TextField Name="TextField37TF" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[3]|#3/[Pane]#1/[Pane]#1/[Pane]#1/[Pane] Search TestFiles|#1/[TextField]$SearchEditBox|#1" />
+  <PushButton Name="SearchPB" Tag="[Pane]#1/[Pane]$40965|#1/[CustomWin]Rebar Band[3]|#3/[Pane]#1/[Pane]#1/[Pane]#1/[Pane] Search TestFiles|#1/[PushButton]Search|$SearchBoxSearchButton|#1" />
+  <TitleBar Name="ExportToCTL" Tag="[TitleBar]Export To|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Export To|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Export To|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Export To|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,10 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardSpecifyUnitSettingsDLG" Tag="[Pane]Project Setup Wizard (Page 2 of 6)|$CreateProjectWizard" ParentType="Plant3D" GUIType="UIA">
+  <RadioButton Name="M_inchRadioBtn" Tag="[Pane]$m_wizardSetup/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings/[Pane]Most units-based properties are reported in millimeters*|$m_mixedUnitsPnl/[RadioButton]Report nominal diameters of imperial content in:[1]|$m_inchRadioBtn" />
+  <RadioButton Name="M_mmRadioBtn" Tag="[Pane]$m_wizardSetup/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings/[Pane]Most units-based properties are reported in millimeters*|$m_mixedUnitsPnl/[RadioButton]Report nominal diameters of imperial content in:[2]|$m_mmRadioBtn" />
+  <RadioButton Name="M_metricRadioBtn" Tag="[Pane]$m_wizardSetup/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings/[RadioButton]Specify the base unit for project drawings:[1]|$m_metricRadioBtn" />
+  <RadioButton Name="M_imperialRadioBtn" Tag="[Pane]$m_wizardSetup/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings/[RadioButton]Specify the base unit for project drawings:[2]|$m_imperialRadioBtn" />
+  <PushButton Name="M_buttonCancel" Tag="[Pane]$m_wizardSetup/[PushButton]Cancel|$m_buttonCancel" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup/[PushButton]Next &gt;&gt;|$m_buttonNext" />
+  <PushButton Name="M_buttonBack" Tag="[Pane]$m_wizardSetup/[PushButton]&lt;&lt; Back|$m_buttonBack" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 2 of 6)|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

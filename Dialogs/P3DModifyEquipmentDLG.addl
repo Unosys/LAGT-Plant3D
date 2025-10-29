@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DModifyEquipmentDLG" Tag="[Pane]$EquBaseDlg" ParentType="Plant3D">
+
+  
+	<ListBoxItem Name="CylinderLBI" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1/[Pane]$m_EquTableLayout|#1/[Pane]$m_EquPrimitiveListPanel|#2/[ListBox] Shapes|$m_EquPrimitiveList|#1/[ListBoxItem]Cylinder|#2" />
+	<PushButton Name="M_BtnModCancel" Tag="[PushButton]Cancel|$m_BtnModCancel" />
+	<PushButton Name="AddTrimPB" Tag="[Pane]$m_MainTableLayout/[Pane]$m_WorkPanel/[PageList]$m_Tabs/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment/[Pane]$m_EquTableLayout/[Pane]$m_EquPrimitiveListPanel/[PushButton]$m_EquPrimitiveAccessory" />
+	<Pane Name="EquipmentPANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1" />
+
+	<Pane Name="PropertiesPANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Properties|$m_TabData|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

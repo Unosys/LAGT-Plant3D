@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingAlreadyExistsDLG" Tag="[DialogBox]Drawing Already Exists" ParentType="NewDWGDLG">
+<StaticText Name="CUsersAdministratorAppDataRoam" Tag="[StaticText]$" />
+<StaticText Name="Label" Tag="[StaticText]$" />
+<PushButton Name="OK" Tag="[PushButton]$2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

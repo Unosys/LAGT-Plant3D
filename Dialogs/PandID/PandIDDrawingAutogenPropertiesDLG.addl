@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDDrawingAutogenPropertiesDLG" Tag="[Pane]$frmDWGAutogenProperties" ParentType="CustomWin">
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOK" Tag="[PushButton]$btnOK" />
+<Table Name="DataGrid" Tag="[Table]$dataGrid" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

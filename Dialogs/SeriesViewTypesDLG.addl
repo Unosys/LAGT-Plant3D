@@ -1,0 +1,9 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SeriesViewTypesDLG" Tag="[Pane]Choose Series View|$ViewTypesForm" ParentType="SeriesCollectionEditorPointsDLG">
+	<PushButton Name="CancelPB" Tag="[Pane]tablePanel1|$tablePanel1|#1/[PushButton]Cancel|$btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[Pane]tablePanel1|$tablePanel1|#1/[PushButton]OK|$btnOk|#1" />
+	<TitleBar Name="ChooseSeriesViewCTL" Tag="[TitleBar]Choose Series View|$TitleBar|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Choose Series View|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Choose Series View|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Choose Series View|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+
+</Pane>

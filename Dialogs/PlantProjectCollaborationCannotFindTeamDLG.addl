@@ -1,0 +1,13 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectCollaborationCannotFindTeamDLG" Tag="[Window]Plant Project Collaboration|$Window_1" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="PlantProjectCollaborationCTL" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PopupList Name="PopupListPL" Tag="[CustomWin]$UserControl_1|#1/[PopupList]$ComboBox_1|#1" />
+  <StaticText Name="ChooseABIM360ST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Choose a BIM 360 Team project folder:|$TextBlock_1|#2" />
+  <ListBox Name="ChooseABIM360LB" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a BIM 360 Team project folder:|$ComboBox_PA360Projects|#1" />
+  <PushButton Name="CreateABIMTeamPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Create a BIM Team project for this hub|$Button_1|#1" />
+
+	<TextField Name="TextFieldTF" Tag="[CustomWin]$UserControl_1|#1/[CustomWin]$SearchProjectCtrl|#1/[TextField]$SearchText|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

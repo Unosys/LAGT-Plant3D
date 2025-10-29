@@ -1,0 +1,24 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateIsoFromPCFDLG" Tag="[Pane]Create Iso from PCF|$PCFtoIsoDlg" ParentType="Plant3D" GUIType="UIA">
+  <GroupBox Name="GroupBox_DisplayLines" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1" />
+  <PushButton Name="Button_RemovePCF" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[PushButton]Remove|$button_RemovePCF|#2" />
+  <PushButton Name="Button_AddPCF" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[PushButton]Add*|$button_AddPCF|#1" />
+  <ListBox Name="ListBox_PCFfilenames" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[ListBox]PCF files:|$listBox_PCFfilenames|#1" />
+  <StaticText Name="Label_PCFfiles" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[StaticText]PCF files:|$label_PCFfiles|#1" />
+  <GroupBox Name="M_groupBoxOutputSettings" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2" />
+  <TextField Name="TextBox_OutputDirectory" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[TextField]Save Isos to:|$textBox_OutputDirectory|#1" />
+  <PushButton Name="Button_OutputDirectory" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[PushButton]**|$button_OutputDirectory|#1" />
+  <PushButton Name="Button_Options" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[PushButton]Advanced*|$button_Options|#2" />
+  <StaticText Name="M_labelIsosCreateIn" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[StaticText]Save Isos to:|$m_labelIsosCreateIn|#2" />
+  <CheckBox Name="CheckBox_OverwriteExisting" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[CheckBox]Overwrite if existing|$checkBox_OverwriteExisting|#2" />
+  <CheckBox Name="CheckBox_CreateDWF" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[CheckBox]Create DWF|$checkBox_CreateDWF|#1" />
+  <StaticText Name="M_isoTypeLabel" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[StaticText]Iso Type:|$m_isoTypeLabel|#1" />
+  <PopupList Name="IsoTypePL" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[PopupList]Iso Type:|$comboBox_IsoType|#1" />
+  <PushButton Name="ComboBox_IsoType" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[PopupList]Iso Type:|$comboBox_IsoType|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="Button_Help" Tag="[PushButton]Help|$button_Help|#3" />
+  <PushButton Name="Button_Cancel" Tag="[PushButton]Cancel|$button_Cancel|#2" />
+  <PushButton Name="Button_Create" Tag="[PushButton]Create|$button_Create|#1" />
+  <TitleBar Name="CreateIsoFromPCFCTL" Tag="[TitleBar]Create Iso from PCF|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Iso from PCF|$TitleBar|#1/[CustomWin]System Menu Bar|$PCFtoIsoDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Iso from PCF|$TitleBar|#1/[CustomWin]System Menu Bar|$PCFtoIsoDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Iso from PCF|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

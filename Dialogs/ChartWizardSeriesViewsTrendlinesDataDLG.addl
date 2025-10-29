@@ -1,0 +1,14 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardSeriesViewsTrendlinesDataDLG" Tag="[Pane]$WizardFormBase" ParentType="ReportDesignerApplicationDLG">
+   <!--<PageList Name="PageList1PG" Tag="[Pane]$pnlBase|#1/[Pane]$grWizardPanel|#1/[Pane]$workPanel|#2/[Pane]$grWizardParentControl|#1/[Pane]$pnlParent|#3/[Pane]$SeriesViewConfigControl|#1/[Pane]$splitter|#1/[Pane]$1388778|#3/[Pane]$tabPanel|#3/[Pane]$XYDiagramSeriesViewBaseControl|#1/[PageList]$tbcPagesControl|#1" />-->
+<PageList Name="PageList2PG" Tag="[Pane]$pnlBase|#1/[Pane]$grWizardPanel|#1/[Pane]$workPanel|#2/[Pane]$grWizardParentControl|#1/[Pane]$pnlParent|#3/[Pane]$SeriesViewConfigControl|#1/[Pane]$splitter|#1/[Pane]$1388778|#3/[Pane]$tabPanel|#3/[Pane]$XYDiagramSeriesViewBaseControl|#1/[PageList]$tbcPagesControl|#1/[Pane]$tbIndicators|#1/[Pane]$indicatorsControl|#1/[Pane]$panelIndicator|#3/[Pane]$TrendLineControl|#1/[Pane]$panelProperties|#3/[PageList]$xtraTabControl|#1" />
+   <PushButton Name="CancelPB" Tag="[Pane]$hitTestTransparentPanelControl|#2/[PushButton]$sbCancel|#4" />
+  <PushButton Name="PreviousPB" Tag="[Pane]$hitTestTransparentPanelControl|#2/[PushButton]$sbPreviousPage|#1" />
+  <PushButton Name="FinishPB" Tag="[Pane]$hitTestTransparentPanelControl|#2/[PushButton]$sbFinish|#3" />
+  <PushButton Name="NextPB" Tag="[Pane]$hitTestTransparentPanelControl|#2/[PushButton]$sbNextPage|#2" />
+  <TitleBar Name="ChartWizardCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]$TitleBar|#1/[CustomWin]$WizardFormBase|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]$TitleBar|#1/[CustomWin]$WizardFormBase|#1/[MenuItem]$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#3" />
+</Pane>

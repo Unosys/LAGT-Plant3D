@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddSymbolsEditSymbolSettingsDLG" Tag="[DialogBox]Add Symbols - Edit Symbol Settings" ParentType="Plant3D">
+<PushButton Name="FinishPB" Tag="[PushButton]Finish|$1" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|$1" />
+<PushButton Name="Help" Tag="[PushButton]Help|$9" />
+<ListBox Name="SelectedBlocks" Tag="[ListBox]Selected Blocks:|$4793" />
+<TextField Name="PIDClassDefinitionsTF" Tag="[TextField]P&amp;ID Class Definitions:|$4794" />
+<PushButton Name="BrowsePB" Tag="$4795" />
+<CustomWin Name="PIDClassDefinitions2" Tag="[CustomWin][ATL:*]P&amp;ID Class Definitions:|[ATL:*]$6" />
+<ListBox Name="ListBox1" Tag="$239" />
+<StaticText Name="SelectedBlocksText" Tag="[StaticText]Selected Blocks:|$4797" />
+<StaticText Name="PIDClassDefinitionsText" Tag="[StaticText]P&amp;ID Class Definitions:|$4798" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

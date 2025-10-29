@@ -1,0 +1,47 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DShapeBrowserDLG" Tag="[Window]Plant 3D Shape Browser|$ShapeBrowserWindow" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Plant 3D Shape Browser|$TitleBar/[PushButton]Minimize|$Minimize" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Plant 3D Shape Browser|$TitleBar/[PushButton]Maximize|$Maximize" />
+  <PushButton Name="Close" Tag="[TitleBar]Plant 3D Shape Browser|$TitleBar/[PushButton]Close|$Close" />
+  <RadioButton Name="Graphics1RB" Tag="[GroupBox]Graphics|$m_groupBox/[RadioButton]Graphics[1]|$m_btnNoFilter" />
+  <RadioButton Name="Graphics2RB" Tag="[GroupBox]Graphics|$m_groupBox/[RadioButton]Graphics[2]|$m_btnFilter1" />
+  <RadioButton Name="Graphics3RB" Tag="[GroupBox]Graphics|$m_groupBox/[RadioButton]Graphics[3]|$m_btnFilter2i" />
+  <RadioButton Name="Graphics4RB" Tag="[GroupBox]Graphics|$m_groupBox/[RadioButton]Graphics[4]|$m_btnFilter2a" />
+  <RadioButton Name="Graphics5RB" Tag="[GroupBox]Graphics|$m_groupBox/[RadioButton]Graphics[5]|$m_btnFilter3" />
+  <RadioButton Name="Graphics6RB" Tag="[GroupBox]Graphics|$m_groupBox/[RadioButton]Graphics[6]|$m_btnFilter4" />
+  <ComboBox Name="GraphicsCB" Tag="[GroupBox]Graphics|$m_groupBox/[ComboBox]Graphics|$m_FilterText" />
+  <PushButton Name="PushButton1PB" Tag="[GroupBox]Graphics|$m_groupBox/[PushButton]$m_searchBtn" />
+  <PushButton Name="PushButton2PB" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[PushButton]$btn_left" />
+  <ListBox Name="ListBoxLB" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1" />
+  <ListBoxItem Name="AutodeskProcessPowerPnP3dShapeBrowserShapeDataContext1LBI" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[1]" />
+  <StaticText Name="ValveInlineInstrument1ST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[1]/[StaticText]Valve,InlineInstrument" />
+  <StaticText Name="CPVR001000ST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[1]/[StaticText]CPVR001000" />
+  <Image Name="Image3IMG" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[1]/[Image]#1" />
+  <StaticText Name="AngleReliefValveFLGBWPEST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[1]/[StaticText]Angle Relief Valve (FLG*" />
+  <ListBoxItem Name="AutodeskProcessPowerPnP3dShapeBrowserShapeDataContext2LBI" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[2]" />
+  <StaticText Name="ValveInlineInstrument2ST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[2]/[StaticText]Valve,InlineInstrument" />
+  <StaticText Name="CPVR001000MJMJST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[2]/[StaticText]CPVR001000_MJMJ" />
+  <Image Name="Image4IMG" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[2]/[Image]#1" />
+  <StaticText Name="AngleReliefValveMJST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[2]/[StaticText]Angle Relief Valve (MJ)" />
+  <ListBoxItem Name="AutodeskProcessPowerPnP3dShapeBrowserShapeDataContext3LBI" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[3]" />
+  <StaticText Name="ValveInlineInstrument3ST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[3]/[StaticText]Valve,InlineInstrument" />
+  <StaticText Name="CPVR001000MJPLST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[3]/[StaticText]CPVR001000_MJPL" />
+  <Image Name="Image5IMG" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[3]/[Image]#1" />
+  <StaticText Name="AngleReliefValvePEST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[3]/[StaticText]Angle Relief Valve (PE, MJ at port 1)" />
+  <ListBoxItem Name="AutodeskProcessPowerPnP3dShapeBrowserShapeDataContext4LBI" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[4]" />
+  <StaticText Name="ValveInlineInstrument4ST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[4]/[StaticText]Valve,InlineInstrument" />
+  <StaticText Name="CPVR001000NNST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[4]/[StaticText]CPVR001000_N_N_" />
+  <Image Name="Image6IMG" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[4]/[Image]#1" />
+  <StaticText Name="AngleReliefValveTCST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[4]/[StaticText]Angle Relief Valve (TC)" />
+  <ListBoxItem Name="AutodeskProcessPowerPnP3dShapeBrowserShapeDataContext5LBI" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[5]" />
+  <StaticText Name="ValveInlineInstrument5ST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[5]/[StaticText]Valve,InlineInstrument" />
+  <StaticText Name="CPVR001000OFOFST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[5]/[StaticText]CPVR001000_OFOF" />
+  <Image Name="Image7IMG" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[5]/[Image]#1" />
+  <StaticText Name="AngleReliefValveSWFPTST" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[ListBox]$ListBox_1/[ListBoxItem]Autodesk*[5]/[StaticText]Angle Relief Valve (SW*" />
+  <PushButton Name="PushButton3PB" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[PushButton]$btn_right" />
+  <Image Name="Image8IMG" Tag="[GroupBox]Graphics|$m_groupBox/[CustomWin]$pnp:ShapeList_1/[PushButton]$btn_right/[Image]$Image_4" />
+  <PushButton Name="m_expandBtn" Tag="[GroupBox]Graphics|$m_groupBox/[PushButton]&lt;|$m_expandBtn" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$Button_1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$CancelButton" />
+
+</Window>

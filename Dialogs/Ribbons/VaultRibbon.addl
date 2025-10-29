@@ -1,0 +1,11 @@
+﻿<RibbonDialogClassP3D Class="Autodesk.GUIHarness.Plant3D.Dialogs.VaultRibbon" Tag="[CustomWin]Ribbon|$59419/[CustomWin]Ribbon|$16719/[CustomWin]Ribbon|$7/[Pane]#1" ParentType="Plant3D" GUIType="UIA">
+
+  <CustomWin Name="AdminPanel" Tag="[CustomWin]$PNP.ID_TabPnPVault_PanelBarScrollViewer/[CustomWin]Admin|$ID_PanelPnPVaultAdmin" IsNestedClass="True">
+    <PushButton Name="AutodeskVaultPB" Tag="[CustomWin]$ID_PP_Open_Vault_Explorer_RibbonItemControl/[PushButton]$ID_PP_Open_Vault_Explorer" />
+  </CustomWin>
+
+  <CustomWin Name="FilePanel" Tag="[CustomWin]$PNP.ID_TabPnPVault_PanelBarScrollViewer/[CustomWin]File|$ID_PanelPnPVaultFile" IsNestedClass="True">  
+    <PushButton Name="CheckOutPB" Tag="[CustomWin]$ID_PP_Vault_Check_Out_RibbonItemControl/[PushButton]$ID_PP_Vault_Check_Out" />
+  </CustomWin>
+  
+</RibbonDialogClassP3D>

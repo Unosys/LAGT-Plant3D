@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PrivacySettingsDLG" Tag="[DialogBox]Privacy Settings|#1" ParentType="MainWin" >
+
+
+	<PushButton Name="OKPB" Tag="[CustomWin]panel|$1|#1/[PushButton]OK|$1002|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

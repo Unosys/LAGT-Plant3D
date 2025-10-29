@@ -1,0 +1,15 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupGeneralSettingsPathsDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D" GUIType="UIA">
+  
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$133738|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+
+	<PushButton Name="EditDWGPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[PushButton]$m_EditPssButton|#1" />
+	<PushButton Name="OrthoDwgPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[PushButton]$m_btnOrthoDwg|#8" />
+	<PushButton Name="P3dDwtPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[PushButton]$m_btnP3dDwt|#4" />
+	<PushButton Name="EquipSnapshotsDirPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[PushButton]$m_btnEquipSnapshotsDir|#5" />
+	<PushButton Name="SpecDirPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[PushButton]$m_btnSpecDir|#7" />
+	<PushButton Name="P3dDwgPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[PushButton]$m_btnP3dDwg|#6" />
+	<PushButton Name="PnIdDwtPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[PushButton]$m_btnPnIdDwt|#2" />
+	<PushButton Name="PnIdDwgPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[PushButton]$m_btnPnIdDwg|#3" />
+
+
+</Pane>

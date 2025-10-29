@@ -1,0 +1,41 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDPMUProjectFilesOpenDLG" Tag="[DialogBox]Open" ParentType="MainWin">
+<CustomWin Name="DUIViewWndClassName1" Tag="[DUIViewWndClassName]$0" />
+<CustomWin Name="DirectUIHWND1" Tag="[DirectUIHWND]$0" />
+<CustomWin Name="CtrlNotifySink1" Tag="[CtrlNotifySink]$0[1]" />
+<CustomWin Name="NamespaceTreeControl" Tag="[CustomWin][NamespaceTreeControl]$0|[NamespaceTreeControl]Namespace Tree Control" />
+<TreeView Name="TreeView1" Tag="$100" />
+<CustomWin Name="CtrlNotifySink2" Tag="[CtrlNotifySink]$0[2]" />
+<CustomWin Name="DirectUIHWND2" Tag="[DirectUIHWND]$0" />
+<CustomWin Name="CtrlNotifySink22" Tag="[CtrlNotifySink]$0[2]" />
+<ScrollBar Name="ScrollBar1" Tag="$0" />
+<CustomWin Name="CtrlNotifySink12" Tag="[CtrlNotifySink]$0[1]" />
+<ScrollBar Name="ScrollBar2" Tag="$0" />
+<StaticText Name="FileNameText" Tag="[StaticText]$1090|File name:" />
+<ComboBox Name="FileName1" Tag="[ComboBox]$1148|File name:[1]" />
+<StaticText Name="FilesOfTypeText" Tag="[StaticText]$1089|Files of type:" />
+<PopupList Name="FileName" Tag="[PopupList]$1136|File name:" />
+<CustomWin Name="Open" Tag="[CustomWin][Button]$1|[Button]Open" />
+<PushButton Name="Cancel" Tag="[PushButton]$2|Cancel" />
+<ScrollBar Name="ScrollBar3" Tag="$-1" />
+<CustomWin Name="WorkerW1" Tag="[WorkerW]$0" />
+<CustomWin Name="ReBarWindow321" Tag="[ReBarWindow32]$40965" />
+<CustomWin Name="TravelBand1" Tag="[TravelBand]$0" />
+<ToolBar Name="ToolBar1" Tag="$0" />
+<PushButton Name="PushButton1" Tag="$256" />
+<PushButton Name="PushButton2" Tag="$257" />
+<PushButton Name="PushButton3" Tag="$258" />
+<CustomWin Name="AddressBandRoot1" Tag="[Address Band Root]$41477" />
+<CustomWin Name="Msctls_progress321" Tag="[msctls_progress32]$0" />
+<CustomWin Name="BreadcrumbParent1" Tag="[Breadcrumb Parent]$0" />
+<ToolBar Name="ToolBar2" Tag="$1001" />
+<PushButton Name="Desktop" Tag="[PushButton]$1280|Desktop" />
+<PushButton Name="Autodesk" Tag="[PushButton]$1284|Autodesk" />
+<PushButton Name="AutoCADPID2013English" Tag="[PushButton]$1285|AutoCAD PID 2013 - English" />
+<ToolBar Name="ToolBar3" Tag="$0" />
+<PushButton Name="PushButton4" Tag="$202" />
+<PushButton Name="PushButton5" Tag="$102" />
+<CustomWin Name="UniversalSearchBand1" Tag="[UniversalSearchBand]$0" />
+<CustomWin Name="SearchBox1" Tag="[Search Box]$0" />
+<CustomWin Name="SearchEditBoxWrapperClass1" Tag="[SearchEditBoxWrapperClass]$0" />
+<CustomWin Name="DirectUIHWND3" Tag="[DirectUIHWND]$0" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

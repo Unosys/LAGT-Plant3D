@@ -1,0 +1,93 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VaultProjectSetupProjectDLG" Tag="[Pane]Vault Project Setup - Project 1|$frmAddSqliteProjectToVault" ParentType="Plant3D">
+<!--<GroupBox Name="GroupBox3" Ta--><!--g="[GroupBox]$groupBox3" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label10" Tag="[StaticText]$label10" />
+<StaticText Name="Label2" Tag="[StaticText]$label2" />
+<StaticText Name="Label3" Tag="[StaticText]$label3" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+<StaticText Name="Label5" Tag="[StaticText]$label5" />
+<StaticText Name="Label6" Tag="[StaticText]$label6" />
+<StaticText Name="Label7" Tag="[StaticText]$label7" />
+<StaticText Name="Label9" Tag="[StaticText]$label9" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnDbGenName" Tag="[PushButton]$m_btnDbGenName" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOK" Tag="[PushButton]$m_btnOK" />
+<PushButton Name="M_btnTestConnection" Tag="[PushButton]$m_btnTestConnection" />
+<ComboBox Name="M_comboAuthent" Tag="[ComboBox]$m_comboAuthent" />
+<TextField Name="M_comboAuthentTextField" Tag="[TextField]$m_comboAuthent" />
+<ComboBox Name="M_comboServer" Tag="[ComboBox]$m_comboServer" />
+<TextField Name="M_comboServerTextField" Tag="[TextField]$m_comboServer" />
+<GroupBox Name="M_copyProjGB" Tag="[GroupBox]$m_copyProjGB" />
+<StaticText Name="M_orthoDirLbl" Tag="[StaticText]$m_orthoDirLbl" />
+<StaticText Name="M_p3dDirLbl" Tag="[StaticText]$m_p3dDirLbl" />
+<StaticText Name="M_pidDirLbl" Tag="[StaticText]$m_pidDirLbl" />
+<TextField Name="M_projDirTB" Tag="[TextField]$m_projDirTB" />
+<StaticText Name="M_relFilesDir" Tag="[StaticText]$m_relFilesDir" />
+<StaticText Name="M_specsDirLbl" Tag="[StaticText]$m_specsDirLbl" />
+ --><!--<CustomWin Name ="M_SQLitecollapsiblePanel" Tag="$m_SQLitecollapsiblePanel" />--><!--
+<TextField Name="M_tbDbName" Tag="[TextField]$m_tbDbName" />
+<TextField Name="M_tbPwd" Tag="[TextField]$m_tbPwd" />
+<TextField Name="M_tbUsrName" Tag="[TextField]$m_tbUsrName" />
+<GroupBox Name="M_vaultLocationGB" Tag="[GroupBox]$m_vaultLocationGB" />
+<TextField Name="M_vaultLocationTB" Tag="[TextField]$m_vaultLocationTB" />
+<StaticText Name="M_winAuthMsgLbl" Tag="[StaticText]$m_winAuthMsgLbl" />
+<StaticText Name="M_workspaceLbl" Tag="[StaticText]$m_workspaceLbl" />
+<PushButton Name="M_workspaceProjBtn" Tag="[PushButton]$m_workspaceProjBtn" />
+<TextField Name="M_workSpaceProjTB" Tag="[TextField]$m_workSpaceProjTB" />
+<StaticText Name="OrthoDirLbl" Tag="[StaticText]$orthoDirLbl" />
+<StaticText Name="P3DDirLbl" Tag="[StaticText]$P3DDirLbl" />
+<GroupBox Name="Panel1" Tag="[GroupBox]$panel1" />
+<StaticText Name="PidDirLbl" Tag="[StaticText]$pidDirLbl" />
+<StaticText Name="RelFilesDir" Tag="[StaticText]$relFilesDir" />
+<StaticText Name="SpecsDirLbl" Tag="[StaticText]$specsDirLbl" /-->>
+<Pane Name="CUsersAdministratorDocumentsProject2RelatedFilesPANE" Tag="[Pane]C:*|$panel1|#2" />
+<PushButton Name="StartPB" Tag="[Pane]C:*|$panel1|#2/[PushButton]Start|$m_btnOK|#1" />
+<PushButton Name="CancelPB" Tag="[Pane]C:*|$panel1|#2/[PushButton]Cancel|$m_btnCancel|#2" />
+<PushButton Name="HelpPB" Tag="[Pane]C:*|$panel1|#2/[PushButton]Help|$m_btnHelp|#3" />
+<StaticText Name="CUsersAdministratorDocumentsProject2RelatedFilesST" Tag="[StaticText]C:*|$m_relFilesDir|#12" />
+<StaticText Name="ProjectSupportingFilesFolderST" Tag="[StaticText]Project supporting files folder:|$relFilesDir|#11" />
+<StaticText Name="CUsersAdministratorDocumentsProject2SpecSheetsST" Tag="[StaticText]C:*|$m_specsDirLbl|#10" />
+<StaticText Name="ProjectSpecsheetsFolderST" Tag="[StaticText]Project specsheets folder:|$specsDirLbl|#9" />
+<StaticText Name="CUsersAdministratorDocumentsProject2OrthosDWGsST" Tag="[StaticText]C:*|$m_orthoDirLbl|#8" />
+<StaticText Name="OrthographicOutputFolderST" Tag="[StaticText]Orthographic output folder:|$orthoDirLbl|#7" />
+<StaticText Name="CUsersAdministratorDocumentsProject2Plant3DModelsST" Tag="[StaticText]C:*|$m_p3dDirLbl|#6" />
+<StaticText Name="Plant3DModelDrawingsST" Tag="[StaticText]Plant 3D Model Drawings folder:|$P3DDirLbl|#5" />
+<StaticText Name="CUsersAdministratorDocumentsProject2PIDDWGST" Tag="[StaticText]C:*|$m_pidDirLbl|#4" />
+<StaticText Name="PIDDrawingsFolderST" Tag="[StaticText]P*|$pidDirLbl|#3" />
+<GroupBox Name="DatabaseGB" Tag="[GroupBox]Database|$groupBox3|#3" />
+<TextField Name="PasswordTF" Tag="[GroupBox]Database|$groupBox3|#3/[TextField]Password:|$m_tbPwd|#3" />
+<StaticText Name="PasswordST" Tag="[GroupBox]Database|$groupBox3|#3/[StaticText]Password:|$label10|#6" />
+<TextField Name="UserNameTF" Tag="[GroupBox]Database|$groupBox3|#3/[TextField]User name:|$m_tbUsrName|#2" />
+<StaticText Name="UserNameST" Tag="[GroupBox]Database|$groupBox3|#3/[StaticText]User name:|$label9|#5" />
+<StaticText Name="WindowsCredentialsWillBeST" Tag="[GroupBox]Database|$groupBox3|#3/[StaticText]Windows credentials will be used automatically when users open the project|$m_winAuthMsgLbl|#4" />
+<ComboBox Name="AuthenticationCB" Tag="[GroupBox]Database|$groupBox3|#3/[ComboBox]Authentication:|$m_comboAuthent|#2" />
+<StaticText Name="AuthenticationST" Tag="[GroupBox]Database|$groupBox3|#3/[StaticText]Authentication:|$label7|#3" />
+<PushButton Name="TestNamePB" Tag="[GroupBox]Database|$groupBox3|#3/[PushButton]Test Name|$m_btnDbGenName|#2" />
+<TextField Name="DatabaseNamePrefixTF" Tag="[GroupBox]Database|$groupBox3|#3/[TextField]Database name prefix:|$m_tbDbName|#1" />
+<StaticText Name="DatabaseNamePrefixST" Tag="[GroupBox]Database|$groupBox3|#3/[StaticText]Database name prefix:|$label6|#2" />
+<PushButton Name="TestConnectionPB" Tag="[GroupBox]Database|$groupBox3|#3/[PushButton]Test Connection|$m_btnTestConnection|#1" />
+<ComboBox Name="SQLServerNameCB" Tag="[GroupBox]Database|$groupBox3|#3/[ComboBox]SQL Server name:|$m_comboServer|#1" />
+<StaticText Name="SQLServerNameST" Tag="[GroupBox]Database|$groupBox3|#3/[StaticText]SQL Server name:|$label5|#1" />
+<GroupBox Name="VaultLocationGB" Tag="[GroupBox]Vault location|$m_vaultLocationGB|#2" />
+<PushButton Name="PushButton1PB" Tag="[GroupBox]Vault location|$m_vaultLocationGB|#2/[PushButton]**|$m_vaultDirBtn|#1" />
+<TextField Name="ProjectLocationInVaultTF" Tag="[GroupBox]Vault location|$m_vaultLocationGB|#2/[TextField]Project location in vault:|$m_vaultLocationTB|#1" />
+<StaticText Name="ProjectLocationInVaultST" Tag="[GroupBox]Vault location|$m_vaultLocationGB|#2/[StaticText]Project location in vault:|$label4|#1" />
+<GroupBox Name="WorkspaceLocationGB" Tag="[GroupBox]Workspace location|$m_copyProjGB|#1" />
+<CheckBox Name="DeleteExistingProjectAfterCK" Tag="[GroupBox]Workspace location|$m_copyProjGB|#1/[CheckBox]Delete existing project after transfer|$m_deleteProjCB|#1" />
+<StaticText Name="LocalWorkingFolderLocationST" Tag="[GroupBox]Workspace location|$m_copyProjGB|#1/[StaticText]Local working folder location:|$m_workspaceLbl|#2" />
+<PushButton Name="PushButton2PB" Tag="[GroupBox]Workspace location|$m_copyProjGB|#1/[PushButton]**|$m_workspaceProjBtn|#1" />
+<TextField Name="LocalWorkingFolderLocationTF" Tag="[GroupBox]Workspace location|$m_copyProjGB|#1/[TextField]Local working folder location:|$m_workSpaceProjTB|#2" />
+<StaticText Name="ExistingProjectFolderST" Tag="[GroupBox]Workspace location|$m_copyProjGB|#1/[StaticText]Existing project folder:|$label3|#1" />
+<TextField Name="ExistingProjectFolderTF" Tag="[GroupBox]Workspace location|$m_copyProjGB|#1/[TextField]Existing project folder:|$m_projDirTB|#1" />
+<StaticText Name="VaultProjectsRequireThatST" Tag="[StaticText]Vault projects require that a local copy of the project be located in a workspace on your local machine*|$label2|#2" />
+<StaticText Name="SQLiteProjectConversionToST" Tag="[StaticText]SQLite project conversion to Vault|$label1|#1" />
+<Pane Name="SQLiteProjectConversionToPANE" Tag="[Pane]SQLite project conversion to Vault|$m_SQLitecollapsiblePanel|#1" />
+<TitleBar Name="VaultProjectSetupCTL" Tag="[TitleBar]Vault Project Setup - Project 2|$TitleBar|#1" />
+<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Vault Project Setup - Project 2|$TitleBar|#1/[CustomWin]System Menu Bar|$frmAddSqliteProjectToVault|#1" />
+<MenuItem Name="SystemMI" Tag="[TitleBar]Vault Project Setup - Project 2|$TitleBar|#1/[CustomWin]System Menu Bar|$frmAddSqliteProjectToVault|#1/[MenuItem]System|$Item 1|#1" />
+<PushButton Name="MinimizePB" Tag="[TitleBar]Vault Project Setup - Project 2|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+<PushButton Name="MaximizePB" Tag="[TitleBar]Vault Project Setup - Project 2|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+<PushButton Name="ClosePB" Tag="[TitleBar]Vault Project Setup - Project 2|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

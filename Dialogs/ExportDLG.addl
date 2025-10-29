@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportDLG" Tag="[DialogBox]Export" >
+
+
+	<PushButton Name="YesPB" Tag="[PushButton]#1" />
+	<PushButton Name="NoPB" Tag="[PushButton]#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Export|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

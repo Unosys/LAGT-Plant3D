@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSynchronizedToVaultDLG" Tag="[DialogBox]Project Synchronized to Vault" ParentType="Plant3D">
+<CustomWin Name="DirectUIHWND1" Tag="[DirectUIHWND]$0" IsNestedClass="True">
+	<CustomWin Name="CtrlNotifySink1" Tag="[CtrlNotifySink]$0[1]" IsNestedClass="True">
+		<CustomWin Name="ReferToTheLogfileAtAHre" Tag="[SysLink]$0" />
+	</CustomWin>
+	<CustomWin Name="CtrlNotifySink2" Tag="[CtrlNotifySink]$0[2]" IsNestedClass="True">
+		<PushButton Name="OK" Tag="$0" />
+	</CustomWin>
+</CustomWin>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

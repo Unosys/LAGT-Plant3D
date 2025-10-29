@@ -1,0 +1,10 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDPIDDWFOutputSettingsDLG" Tag="[Pane]$DWFOutputSettingsDlg" >
+  <PushButton Name="CancelBtn" Tag="[PushButton]$cancelBtn" />
+	<Pane Name="ObjectPropertiesPANE" Tag="[PageList]$propTabControl|#1/[Pane]$objPropPage|#1" />
+	<TreeView Name="TreeViewTV" Tag="[PageList]$propTabControl|#1/[Pane]$sheetPropPage|#1/[Pane]$sheetPropSettingsCtrl|#1/[Pane]$panel1|#1/[TreeView]$m_classTreeView|#1" />
+	<TreeViewItem Name="ProjectDetailsTVI" Tag="[PageList]$propTabControl|#1/[Pane]$sheetPropPage|#1/[Pane]$sheetPropSettingsCtrl|#1/[Pane]$panel1|#1/[TreeView]$m_classTreeView|#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="ProjectDataTVI" Tag="[PageList]$propTabControl|#1/[Pane]$sheetPropPage|#1/[Pane]$sheetPropSettingsCtrl|#1/[Pane]$panel1|#1/[TreeView]$m_classTreeView|#1/[TreeViewItem]#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="ClientInformationTVI" Tag="[PageList]$propTabControl|#1/[Pane]$sheetPropPage|#1/[Pane]$sheetPropSettingsCtrl|#1/[Pane]$panel1|#1/[TreeView]$m_classTreeView|#1/[TreeViewItem]#1/[TreeViewItem]#2" />
+	<TreeViewItem Name="DrawingPropertiesTVI" Tag="[PageList]$propTabControl|#1/[Pane]$sheetPropPage|#1/[Pane]$sheetPropSettingsCtrl|#1/[Pane]$panel1|#1/[TreeView]$m_classTreeView|#1/[TreeViewItem]#2" />
+
+</Pane>

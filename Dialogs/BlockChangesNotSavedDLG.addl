@@ -1,0 +1,11 @@
+<MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.BlockChangesNotSavedDLG" Tag="[MainWin]Block*Changes Not Saved|#1" ParentType="Desktop" GUIType="WIN32">
+  <Pane Name="BlockChangesNotSavedPANE" GUIType="UIA" Tag="[Pane]Block-Changes Not Saved|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Block-Changes Not Saved|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Block-Changes Not Saved|$Window|#1/[Pane]#2" />
+  <Pane Name="Pane3PANE" Tag="[Pane]Block-Changes Not Saved|$Window|#1/[Pane]#3" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Block-Changes Not Saved|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="TheChangesYouMadeST" Tag="[Pane]Block-Changes Not Saved|$Window|#1/[StaticText]The changes you made have not been saved*|$MainInstruction|#1" />
+  <PushButton Name="SaveTheChangesToPB" Tag="[Pane]Block-Changes Not Saved|$Window|#1/[PushButton]Save the changes to &quot;Iso*|$CommandLink_1001|#1" />
+  <PushButton Name="DiscardTheChangesAndPB" Tag="[Pane]Block-Changes Not Saved|$Window|#1/[PushButton]Discard the changes and close the Iso Title Block Editor|$CommandLink_1002|#2" />
+  <PushButton Name="CancelPB" Tag="[Pane]Block-Changes Not Saved|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+</MainWin>

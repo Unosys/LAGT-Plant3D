@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenReportCreatorProjectDLG" Tag="[DialogBox]Open|#1" ParentType="ReportCreatorDLG" GUIType="UIA">
+  <ComboBox Name="FileNameCB" Tag="[ComboBox]File name:|$1148|#1" />
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$1|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

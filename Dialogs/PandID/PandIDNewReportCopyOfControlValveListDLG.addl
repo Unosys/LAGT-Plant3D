@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDNewReportCopyOfControlValveListDLG" Tag="[Pane]$NewReportTemplateDlg" >
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnContinue" Tag="[PushButton]$m_btnContinue" />
+<PushButton Name="M_btnReplaceTable" Tag="[PushButton]$m_btnReplaceTable" />
+<StaticText Name="M_lblNameText" Tag="[StaticText]$m_lblNameText" />
+<StaticText Name="M_lblStartWithText" Tag="[StaticText]$m_lblStartWithText" />
+<ComboBox Name="M_lstFormatNames" Tag="[ComboBox]$m_lstFormatNames" />
+<TextField Name="M_tbFormatName" Tag="[TextField]New Report Name:|$m_tbFormatName|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

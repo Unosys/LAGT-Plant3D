@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConfirmationDLG" Tag="[DialogBox]Confirmation*" ParentType="PropertyEditorFieldsDLG">
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7" />
+  <Image Name="ImageIMG" Tag="[Image]$20" />
+  <StaticText Name="TheCollectionWillBeST" Tag="[StaticText]The collection will be cleared and then populated with entries, for each field in the bound data source*|$65535" />
+  <TitleBar Name="ConfirmationCTL" Tag="[TitleBar]Confirmation|$TitleBar" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Confirmation|$TitleBar/[PushButton]Close|$Close" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

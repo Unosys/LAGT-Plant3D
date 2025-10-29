@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LoginFailedErrorDLG" Tag="[DialogBox]Project Setup Wizard (Page 5 of 6)" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]$2|OK|#1" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]#1|[Icon]$20" />
+<StaticText Name="LoginFailedForUserPQRTe" Tag="[StaticText]Login failed for user 'PQR'.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

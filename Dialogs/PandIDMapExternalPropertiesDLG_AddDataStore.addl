@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDMapExternalPropertiesDLG_AddDataStore" Tag="[Window]Map External Properties|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Map External Properties|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<PushButton Name="AddDataSourcePB" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#2/[CustomWin]Item: Autodesk*|#2/[PushButton]Add Data Source*|$AddDataSourceBtn|#1" />
+	<PushButton Name="MapPropertiesPB" Tag="[PushButton]Map Properties|$MapPropertiesBtn|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

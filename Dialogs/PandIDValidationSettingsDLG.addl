@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDValidationSettingsDLG" Tag="[DialogBox]P&amp;ID Validation Settings" ParentType="Plant3D">
+<PushButton Name="Help" Tag="[PushButton]#3|$btnHelp" />
+<PushButton Name="Cancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="OK" Tag="[PushButton]$btnOK" />
+<StaticText Name="Description" Tag="[StaticText]#2|$gbDescription" />
+<StaticText Name="SizeDiscrepanciesBetweenCom" Tag="[StaticText]#1|$lblDescription" />
+<StaticText Name="ErrorReporting" Tag="[StaticText]#1|$gbErrorReporting" />
+<StaticText Name="ReportTheFollowingCondition1" Tag="[StaticText]#1|$lblErrorReporting" />
+<TreeView Name="ReportTheFollowingCondition2" Tag="[TreeView]#1|$treeView2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

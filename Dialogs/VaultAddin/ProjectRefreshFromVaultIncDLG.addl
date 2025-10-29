@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectRefreshFromVaultIncDLG" Tag="[DialogBox]ProjectRefreshFromVaultIncDLG" ParentType="PROJECTMANAGERDLG">
+<CustomWin Name="DirectUIHWND1" Tag="[CustomWin][DirectUIHWND]$0|[DirectUIHWND]#1" IsNestedClass="True">
+	<CustomWin Name="CtrlNotifySink1" Tag="[CustomWin][CtrlNotifySink]$0[1]|[CtrlNotifySink]#1" IsNestedClass="True">
+		<CustomWin Name="LocalProjectFilesHaveBeen" Tag="[CustomWin][SysLink]$0|[SysLink]Local project files have been updated with more recent versions from Vault but some steps could not be completed.????Refer to *|[SysLink]#1" />
+	</CustomWin>
+	<CustomWin Name="CtrlNotifySink2" Tag="[CustomWin][CtrlNotifySink]$0[2]|[CtrlNotifySink]#2" IsNestedClass="True">
+		<PushButton Name="OK" Tag="[PushButton]$0|OK|#1" />
+	</CustomWin>
+</CustomWin>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

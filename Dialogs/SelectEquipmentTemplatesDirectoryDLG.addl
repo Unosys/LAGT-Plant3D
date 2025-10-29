@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectEquipmentTemplatesDirectoryDLG" Tag="[DialogBox]Select Equipment Templates Directory" >
+
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#8" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

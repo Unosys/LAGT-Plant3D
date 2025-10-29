@@ -1,0 +1,36 @@
+<Autodesk.GUIHarness.MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportCreatorDLG" Tag="[MainWin]$MainForm" ParentType="Desktop" GUIType="UIA">
+
+
+	<Pane Name="PanePANE" Tag="[Pane]$m_mainTableLayoutPanel|#1" />
+  <StaticText Name="StaticTextST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]$m_bottomDelimiter|#10" />
+  <Pane Name="DataSource1PANE" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Data Source[1]|$m_repConfigComboTableLayoutPanel|#1" />
+  <PushButton Name="M_settingsBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Data Source[1]|$m_repConfigComboTableLayoutPanel|#1/[PushButton]Settings|$m_settingsBtn|#2" />
+  <PopupList Name="M_repConfigCmbBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Data Source[1]|$m_repConfigComboTableLayoutPanel|#1/[PopupList]$m_repConfigCmbBox|#1" />
+  <PushButton Name="DropDownButton1PB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Data Source[1]|$m_repConfigComboTableLayoutPanel|#1/[PopupList]$m_repConfigCmbBox|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="M_repConfigEditBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Data Source[1]|$m_repConfigComboTableLayoutPanel|#1/[PushButton]Edit*|$m_repConfigEditBtn|#1" />
+  <RadioButton Name="M_drawingDataRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[RadioButton]Data Source[1]|$m_drawingDataRadioBtn|#2" />
+  <RadioButton Name="M_projectDataRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[RadioButton]$m_projectDataRadioBtn|#1" />
+  <PopupList Name="M_projectCmbBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PopupList]Project|$m_projectCmbBox|#1" />
+  <PushButton Name="DropDownButton2PB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PopupList]Project|$m_projectCmbBox|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="ProjectNameST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Project Name:|$m_projectNameAttributeLbl|#2" />
+  <StaticText Name="ProjectVersionST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Project Version:|$m_projectVersionAttributeLbl|#3" />
+  <StaticText Name="ProjectDescriptionST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Project Description:|$m_projectDescriptionAttributeLbl|#4" />
+  <StaticText Name="FilePathST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]File Path:|$m_repConfigFilePathAttributeLbl|#6" />
+  <StaticText Name="OutputTypeST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Output Type:|$m_repConfigOutputTypeAttributeLbl|#7" />
+  <StaticText Name="TargetST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Target:|$m_repConfigTargetAttributeLbl|#8" />
+  <TreeView Name="M_dwgsTreeView" Tag="[Pane]$m_mainTableLayoutPanel|#1/[TreeView]File Path:|$m_dwgsTreeView|#1" />
+  <StaticText Name="ProjectST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Project|$m_projectLbl|#1" />
+  <StaticText Name="ReportConfigurationST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Report Configuration|$m_repConfigLbl|#5" />
+  <StaticText Name="DataSourceST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Data Source|$m_repDataLbl|#9" />
+  <Pane Name="DataSource2PANE" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$m_bottomButtonsTableLayoutPanel|#2" />
+  <PushButton Name="Close1PB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$m_bottomButtonsTableLayoutPanel|#2/[PushButton]$m_closeBtn" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$m_bottomButtonsTableLayoutPanel|#2/[PushButton]Help|$m_helpBtn|#1" />
+  <PushButton Name="M_previewBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$m_bottomButtonsTableLayoutPanel|#2/[PushButton]Preview|$m_previewBtn|#2" />
+  <PushButton Name="M_printBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$m_bottomButtonsTableLayoutPanel|#2/[PushButton]Print*|$m_printBtn|#3" />
+  <TitleBar Name="AutodeskAutoCADPlantReportCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]$TitleBar|#1/[CustomWin]System Menu Bar|$MainForm|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]$TitleBar|#1/[CustomWin]System Menu Bar|$MainForm|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="Close2PB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Autodesk.GUIHarness.MainWin>

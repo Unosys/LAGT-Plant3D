@@ -1,0 +1,32 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CollaborationCheckOutDLG" Tag="[Pane]Check Out|$frmVaultGetCheckOut" ParentType="CustomWin" GUIType="UIA">
+  <PushButton Name="PushButtonPB" Tag="[PushButton]$m_btnDownArrow|#2" />
+  <PushButton Name="CheckOutPB" Tag="[PushButton]Check Out|$m_btnCheckOut|#3" />
+  <GroupBox Name="DetailsGB" Tag="[GroupBox]Details|$groupBox4|#2" />
+  <GroupBox Name="GroupBoxGB" Tag="[GroupBox]$groupBox1|#1" />
+  <TreeView Name="TreeViewTV" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="ImperialENU03TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1" />
+  <TreeViewItem Name="PIDDrawingsTVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]P*|#1" />
+  <TreeViewItem Name="Plant3DDrawingsTVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Plant 3D Drawings|#2" />
+  <TreeViewItem Name="Draw2TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Plant 3D Drawings|#2/[TreeViewItem]Draw2|#1" />
+  <TreeViewItem Name="PipeSpecsTVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Pipe Specs|#3" />
+  <TreeViewItem Name="RelatedFilesTVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Related Files|#4" />
+  <TreeViewItem Name="OrthographicDrawingsTVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Orthographic Drawings|#5" />
+  <TreeViewItem Name="IsometricDrawingsTVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Isometric Drawings|#6" />
+  <TreeViewItem Name="CheckANSIB1TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Isometric Drawings|#6/[TreeViewItem]Check_ANSI-B[1]|#1" />
+  <TreeViewItem Name="CheckANSIB2TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Isometric Drawings|#6/[TreeViewItem]Check_ANSI-B[1]|#1" />
+  <TreeViewItem Name="CheckANSIB3TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Isometric Drawings|#6/[TreeViewItem]Check_ANSI-B[1]|#1" />
+  <TreeViewItem Name="CheckANSIB4TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Isometric Drawings|#6/[TreeViewItem]Check_ANSI-B[1]|#1" />
+  <TreeViewItem Name="CheckANSIB5TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Isometric Drawings|#6/[TreeViewItem]Check_ANSI-B[1]|#1" />
+  <TreeViewItem Name="CheckANSIB6TVI" Tag="[GroupBox]$groupBox1|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Imperial_ENU_03|#1/[TreeViewItem]Isometric Drawings|#6/[TreeViewItem]Check_ANSI-B[1]|#1" />
+  <StaticText Name="zeroFiles0ST" Tag="[StaticText]0 files *|$m_labelCheckFilesInfo|#2" />
+  <StaticText Name="SelectFilesToCheckST" Tag="[StaticText]Select files to check out:|$m_labelSelectDrawings|#1" />
+  <PushButton Name="SelectFilesToCheckPB" Tag="[PushButton]Select files to check out:|$m_btnComments|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#5" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#4" />
+  <TitleBar Name="CheckOutCTL" Tag="[TitleBar]Check Out|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Check Out|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultGetCheckOut|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Check Out|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultGetCheckOut|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Check Out|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Check Out|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Check Out|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

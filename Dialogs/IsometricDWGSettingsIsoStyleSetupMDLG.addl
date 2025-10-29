@@ -1,0 +1,6 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsometricDWGSettingsIsoStyleSetupMDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+
+ <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$68830|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+<PopupList Name="SizingMethodPL" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]Spools|$groupBox_Spools|#5/[PopupList]Sizing method:|$comboBox_SpoolSizing|#2" />
+
+</Pane>

@@ -1,0 +1,23 @@
+<Plant3DMainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.VM_ProjectExplorerDLG" Tag="[MainWin]Autodesk Vault Professional*|$ExplorerForm" ParentType="Desktop" GUIType="UIA">
+
+	<!--<Pane Name="FileListPANE" Tag="[Pane]$m_MainContainer/[Pane]#2/[Pane]$m_ViewContainer/[Pane]#1/[Pane]$FolderViewControl/[Pane]$m_gridControlFileList" />-->
+	<Table Name="FileListPANE" Tag="[Pane]$m_MainContainer/[Pane]#2/[Pane]$m_ViewContainer/[Pane]#1/[Pane]$FolderViewControl/[Table]$m_gridControlFileList" />
+	<!--<CustomWin Name="FileListPANE_FilstRow" Tag="[Pane]$m_MainContainer/[Pane]#2/[Pane]$m_ViewContainer/[Pane]#1/[Pane]$FolderViewControl/[Table]$m_gridControlFileList/[CustomWin]#2/[CustomWin]#2" />-->
+	<CustomWin Name="FileListPANE_FilstRow" Tag="[Pane]$m_MainContainer/[Pane]#2/[Pane]$m_ViewContainer/[Pane]#1/[Pane]$FolderViewControl/[Table]$m_gridControlFileList/[CustomWin]#2/[ListBoxItem]#2" />
+	<CustomWin Name="FileListPANE_SecondRow" Tag="[Pane]$m_MainContainer/[Pane]#2/[Pane]$m_ViewContainer/[Pane]#1/[Pane]$FolderViewControl/[Table]$m_gridControlFileList/[CustomWin]#2/[ListBoxItem]#3" />
+	<CustomWin Name="FileListPANE_SixRow" Tag="[Pane]$m_MainContainer/[Pane]#2/[Pane]$m_ViewContainer/[Pane]#1/[Pane]$FolderViewControl/[Table]$m_gridControlFileList/[CustomWin]#2/[ListBoxItem]#7" />
+
+	<!--<Table Name="TableTBL" Tag="[Pane]$m_MainContainer/[Pane]$m_viewPanel/[Pane]$FolderViewControl/[Table]$m_gridControlFileList" />  
+	<CustomWin Name="HeaderPanelWIN" Tag="[Pane]$m_MainContainer/[Pane]$m_viewPanel/[Pane]$FolderViewControl/[Table]$m_gridControlFileList/[CustomWin]#1" />
+	<CustomWin Name="DataPaneWIN" Tag="[Pane]$m_MainContainer/[Pane]$m_viewPanel/[Pane]$FolderViewControl/[Table]$m_gridControlFileList/[CustomWin]#2" />-->
+	
+	<PushButton Name="DropPB" Tag="[Pane]$m_MainContainer/[Pane]#2/[Pane]$m_ViewContainer/[Pane]#1/[Pane]$FolderViewControl/[Pane]$m_titleBar/[Pane]$m_titlePanel/[Pane]$m_table/[PushButton]#1" />
+	<TextField Name="FileNameTF" Tag="[Pane]$m_MainContainer/[Pane]#2/[Pane]$m_ViewContainer/[Pane]#1/[Pane]$FolderViewControl/[Pane]$ExpandedQuickFindControl/[Pane]$m_table/[Pane]#2/[TextField]#1" />  
+	
+	<TreeView Name="TreeViewTV" Tag="[Pane]$m_MainContainer/[Pane]#1/[Pane]$m_navBarControl/[Pane]$m_navBar/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[TreeView]#1" />
+
+	
+	<Pane Name="ExplorerShortcutPANE" Tag="[Pane]$m_MainContainer/[Pane]#1/[Pane]$m_navBarControl/[Pane]$m_navBar/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#3/[Pane]$ExplorerShortcutControl" />
+	<TreeView Name="ShortcutTree" Tag="[Pane]$m_MainContainer/[Pane]#1/[Pane]$m_navBarControl/[Pane]$m_navBar/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#1/[Pane]#3/[Pane]$ExplorerShortcutControl/[TreeView]$m_shortcutTree" />
+
+</Plant3DMainWin>

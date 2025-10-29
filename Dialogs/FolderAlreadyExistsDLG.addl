@@ -1,0 +1,12 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.FolderAlreadyExistsDLG" Tag="[DialogBox]Folder Already Exists" ParentType="Pane" GUIType="UIA">
+
+
+	
+	<PushButton Name="MergeTheExistingFolderPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1001|#1" />
+	<PushButton Name="CreateAFolderWithPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1002|#2" />
+	<PushButton Name="DoNotCreateThisPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1003|#3" />
+	<PushButton Name="CancelPB" Tag="[Pane]$Window|#1/[PushButton]Cancel|$CommandButton_2|#4" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

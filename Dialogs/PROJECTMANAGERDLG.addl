@@ -1,0 +1,24 @@
+<CustomWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.PROJECTMANAGERDLG" Tag="[CustomWin]$59420" ParentType="MainWin">
+	<!--<TreeView Name="TreeViewTV" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1" />
+	<TreeViewItem Name="DefaultProjectTVI" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="PIDDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="Plant3DDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]#2" />
+	<TreeViewItem Name="PipeSpecsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]#3" />
+	<TreeViewItem Name="RelatedFilesTVI" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]#4" />
+	<PushButton Name="PushButton2PB" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[ToolBar]toolStrip1|$m_ButtonCollection|#1/[PushButton]#1" />
+	<PushButton Name="OpenPB" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[PopupList]$m_comboPrjFiles|#1/[PushButton]#1" />
+  <PopupList Name="CurrentProjectPL" Tag="[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[PopupList]$m_comboPrjFiles|#1" />-->
+
+	<TreeView Name="TreeViewTV" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1" />
+	<TreeViewItem Name="DefaultProjectTVI" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1" />
+	<TreeViewItem Name="PIDDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]P*|#1" />
+	<TreeViewItem Name="Plant3DDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]Plant 3D Drawings|#2" />
+	<TreeViewItem Name="PipeSpecsTVI" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]Pipe Specs|#3" />
+	<TreeViewItem Name="RelatedFilesTVI" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]Related Files|#4" />
+
+	<PushButton Name="OpenPB" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[PopupList]Current Project:|$m_comboPrjFiles|#1/[PushButton]Open|#1" />
+	<PushButton Name="PushButton2PB" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[ToolBar]toolStrip1|$m_ButtonCollection|#1/[PushButton]#1" />
+	<PopupList Name="CurrentProjectPL" Tag="[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[PopupList]Current Project:|$m_comboPrjFiles|#1" />
+
+</CustomWin>
+

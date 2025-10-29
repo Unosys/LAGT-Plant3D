@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlant3DCatalogBuilderApplicationParametricGraphicsDLG" Tag="[MainWin]Autodesk Catalog Builder for AutoCAD Plant 3D 202*|$Window|#1" >
+
+
+
+	<RadioButton Name="Graphics1RB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]$GroupBox_1|#2/[RadioButton]$RadioButton_1|#1" />
+	<RadioButton Name="Graphics2RB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]$GroupBox_1|#2/[RadioButton]$RadioButton_2|#2" />
+	<RadioButton Name="Graphics3RB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]$GroupBox_1|#2/[RadioButton]#3" />
+
+
+</Autodesk.GUIHarness.MainWin>

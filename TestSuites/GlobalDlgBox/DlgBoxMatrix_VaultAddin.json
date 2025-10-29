@@ -1,0 +1,325 @@
+[
+  {
+    "DlgName": "AutodeskVaultStandAloneDLG",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "FAIL",
+    "IsBaseProduct": false,
+    "BaseProduct": "VaultAddin",
+    "Children": [],
+    "InventorUI": null
+  },
+  {
+    "DlgName": "AttachExternalReferencesDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectVaultLocationDLG1",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "FAIL",
+    "IsBaseProduct": false,
+    "BaseProduct": "VaultAddin",
+    "Children": [],
+    "InventorUI": null
+  },
+  {
+    "DlgName": "ProjectSetupforVault",
+    "Release": "2026",
+    "Feature": "",
+    "Execute": true,
+    "Status": "FAIL",
+    "IsBaseProduct": false,
+    "BaseProduct": "VaultAddin",
+    "Children": [],
+    "InventorUI": null
+  },
+  {
+    "DlgName": "CleanupCachedFilesDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "LaunchingAutodeskVaultProfessionalWarningDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "BrowseForFolderVaultDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SelectVaultLocationDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "VaultProjectSetupProjectDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "UserConflictDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "VaultErrorDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CheckInSettingsDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "VaultLogInDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "VaultLogOutDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "OpenProjectFromVaultDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlantVaultOptionsDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupWizardVaultDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CheckInDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ReviseDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CheckOutDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "CheckOutCommentDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PlaceProjectInVaultDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "LoginRequiredDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSettingsCheckOutDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SettingsNotAvailableDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "VaultProjectWorkspaceFolderDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "SynchronizeProjectToServerDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AttachExternalReferencesFromVault_NotSignedDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "AttachExternalReferencesFromVault_CheckinDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ValidateProjectDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "ProjectSetupWizardSpecifyDatabaseSettingsVaultDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  },
+  {
+    "DlgName": "PermissionDLG",
+    "Release": "2017",
+    "Feature": "VaultAddin",
+    "Execute": true,
+    "Status": "",
+    "IsBaseProduct": false,
+    "BaseProduct": "",
+    "Children": []
+  }
+]

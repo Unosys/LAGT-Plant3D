@@ -1,0 +1,5 @@
+﻿<VC_UserAndGroupManagementDLG Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_UserAndGroupManagementDLG_PageList" Tag="[Pane]$AccessManagementDialog" ParentType="VM_GlobalSettingsDLG">
+
+  <PageList Name="PageListPG" Tag="[Pane]$tableLayoutPanel1/[PageList]$m_accesManagementTabControl" />
+  
+</VC_UserAndGroupManagementDLG>

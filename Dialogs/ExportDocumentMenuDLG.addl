@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportDocumentMenuDLG" Tag="[DialogBox]ExportDocumentMenuDLG" ParentType="Plant3D">
+<CustomWin Name="DevExpressXtraBarsControlsP" Tag="[DevExpress.XtraBars.Controls.PopupMenuBarControl]#1" />
+<CustomWin Name="CustomWin1" Tag="#1" />
+<PushButton Name="PDFFile" Tag="[PushButton]PDF File|#1" />
+<PushButton Name="HTMLFile" Tag="[PushButton]HTML File|#2" />
+<PushButton Name="MHTFile" Tag="[PushButton]MHT File|#3" />
+<PushButton Name="RTFFile" Tag="[PushButton]RTF File|#4" />
+<PushButton Name="XLSFile" Tag="[PushButton]XLS File|#5" />
+<PushButton Name="XLSXFile" Tag="[PushButton]XLSX File|#6" />
+<PushButton Name="CSVFile" Tag="[PushButton]CSV File|#7" />
+<PushButton Name="TextFile" Tag="[PushButton]Text File|#8" />
+<PushButton Name="ImageFile" Tag="[PushButton]Image File|#9" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

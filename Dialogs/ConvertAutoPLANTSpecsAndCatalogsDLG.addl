@@ -1,0 +1,7 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConvertAutoPLANTSpecsAndCatalogsDLG" Tag="[Window]Convert AutoPLANT Specs and Catalogs|$SpecMigrationConversionWindow" >
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel" />
+	<PushButton Name="PushButtonPB" Tag="[PushButton]**|$Button_1|#3" />
+	<PushButton Name="AddPB" Tag="[PushButton]Add|$AddButton" />
+
+	
+</Window>

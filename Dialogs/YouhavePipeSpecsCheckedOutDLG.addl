@@ -1,0 +1,11 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.YouhavePipeSpecsCheckedOutDLG" Tag="[DialogBox]You Have Pipe Specs Checked Out" ParentType="CustomWin" GUIType="WIN32">
+  <Pane Name="YouHavePipeSpecsPANE" GUIType="UIA" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1/[Pane]#2" />
+  <Pane Name="Pane3PANE" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1/[Pane]#3" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="ThereArePipeSpecsST" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1/[StaticText]There are Pipe Specs that have not been checked-in*|$MainInstruction|#1" />
+  <PushButton Name="CheckInAnyPipeSpecsPB" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1/[PushButton]Check-In any Pipe Specs that I have Checked Out|$CommandLink_1001|#1" />
+  <PushButton Name="LeavePipeSpecsCheckedPB" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1/[PushButton]Leave Pipe Specs Checked Out|$CommandLink_1002|#2" />
+  <PushButton Name="CancelPB" Tag="[Pane]You Have Pipe Specs Checked Out|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

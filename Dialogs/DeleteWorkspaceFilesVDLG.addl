@@ -1,0 +1,5 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DeleteWorkspaceFilesVDLG" Tag="[DialogBox]Delete Workspace Files">
+   <CheckBox Name="CheckboxCK" Tag="[Pane]Delete Workspace Files|$Window/[CheckBox]Always delete local workspace files*|$VerificationCheckBox" />
+   <PushButton Name="DeleteFilesPB" Tag="[Pane]Delete Workspace Files|$Window/[PushButton]Delete Files|$CommandButton_1001" />
+   <PushButton Name="CancelPB" Tag="[Pane]Delete Workspace Files|$Window/[PushButton]Cancel|$CommandButton_2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

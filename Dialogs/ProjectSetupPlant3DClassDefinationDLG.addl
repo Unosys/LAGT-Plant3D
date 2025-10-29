@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupPlant3DClassDefinationDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+
+	<PushButton Name="EditPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Blower|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[PushButton]Edit*|$m_btnEditProperties|#3" />
+	<ListView Name="ListViewLV" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Blower|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[ListView]$m_dataGridView|#1" />
+	<PushButton Name="NewPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Blower|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3/[PushButton]New*|$m_btnNewTag|#1" />
+	<PushButton Name="AddPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Blower|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[PushButton]Add*|$m_btnAddProperty|#1" />
+</Pane>

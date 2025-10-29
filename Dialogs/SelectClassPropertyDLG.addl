@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectClassPropertyDLG" Tag="[DialogBox]Select Class Property" >
+<PushButton Name="Cancel" Tag="[PushButton]$m_button_cancel|#2" />
+<PushButton Name="OK" Tag="[PushButton]$m_button_ok|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

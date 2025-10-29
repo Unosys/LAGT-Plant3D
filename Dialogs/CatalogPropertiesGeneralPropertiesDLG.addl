@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CatalogPropertiesGeneralPropertiesDLG" Tag="[Window]Catalog Properties|$Window_1" ParentType="MainWin" >
+
+  <PushButton Name="EditOperatorAssignmentsPB" Tag="[PageList]$PropertiesTabControl|#1/[Window]General Properties|$TabItem_1|#2/[PushButton]Edit Operator Assignments|$Button_1|#1" />
+	<Window Name="GeneralPropertiesWIN" Tag="[PageList]$PropertiesTabControl|#1/[Window]General Properties|$TabItem_1|#1" />
+	<StaticText Name="GeneralPropertiesST" Tag="[PageList]$PropertiesTabControl|#1/[Window]General Properties|$TabItem_1|#1/[StaticText]General Properties|#1" />
+	<Window Name="SizesWIN" Tag="[PageList]$PropertiesTabControl|#1/[Window]Sizes|$TabItem_2|#2" />
+	<StaticText Name="SizesST" Tag="[PageList]$PropertiesTabControl|#1/[Window]Sizes|$TabItem_2|#2/[StaticText]Sizes|#1" />
+	<PushButton Name="PushButton1PB" Tag="[PageList]$PropertiesTabControl|#1/[Window]Sizes|$TabItem_2|#2/[PushButton]$Add_Button|#1" />
+	<PushButton Name="PushButton2PB" Tag="[PageList]$PropertiesTabControl|#1/[Window]Sizes|$TabItem_2|#2/[PushButton]$Duplicate_Button|#2" />
+	<PushButton Name="PushButton3PB" Tag="[PageList]$PropertiesTabControl|#1/[Window]Sizes|$TabItem_2|#2/[PushButton]$Remove_Button|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

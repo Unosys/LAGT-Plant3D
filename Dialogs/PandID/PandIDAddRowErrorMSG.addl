@@ -1,0 +1,4 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox  Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDAddRowErrorMSG" Tag="[DialogBox]Error" ParentType="Pane">
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox >

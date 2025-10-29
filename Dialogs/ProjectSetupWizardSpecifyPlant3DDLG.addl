@@ -1,0 +1,14 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardSpecifyPlant3DDLG" Tag="[Pane]Project Setup Wizard (Page 4 of 6)|$CreateProjectWizard" ParentType="Plant3D" GUIType="UIA">
+  <TextField Name="M_editRelFilesDir" Tag="[Pane]$m_wizardSetup/[Pane]The wizard has collected enough information to create your project*|$page3DSettings/[TextField]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$m_editRelFilesDir" />
+  <PushButton Name="M_btnRelFilesDir" Tag="[Pane]$m_wizardSetup/[Pane]The wizard has collected enough information to create your project*|$page3DSettings/[PushButton]**[1]|$m_btnRelFilesDir" />
+  <TextField Name="M_edit3DDwgDir" Tag="[Pane]$m_wizardSetup/[Pane]The wizard has collected enough information to create your project*|$page3DSettings/[TextField]Plant 3D model DWG file directory:|$m_edit3DDwgDir" />
+  <PushButton Name="M_btn3DDwgDir" Tag="[Pane]$m_wizardSetup/[Pane]The wizard has collected enough information to create your project*|$page3DSettings/[PushButton]**[2]|$m_btn3DDwgDir" />
+  <PushButton Name="M_btn3DSheetsDir" Tag="[Pane]$m_wizardSetup/[Pane]The wizard has collected enough information to create your project*|$page3DSettings/[PushButton]**[3]|$m_btn3DSheetsDir" />
+  <TextField Name="M_edit3DSheetsDir" Tag="[Pane]$m_wizardSetup/[Pane]The wizard has collected enough information to create your project*|$page3DSettings/[TextField]Spec sheets directory:|$m_edit3DSheetsDir" />
+  <TextField Name="M_editOrthoDir" Tag="[Pane]$m_wizardSetup/[Pane]The wizard has collected enough information to create your project*|$page3DSettings/[TextField]Orthographic output directory:|$m_editOrthoDir" />
+  <PushButton Name="M_btnOrthoDir" Tag="[Pane]$m_wizardSetup/[Pane]The wizard has collected enough information to create your project*|$page3DSettings/[PushButton]**[4]|$m_btnOrthoDir" />
+  <PushButton Name="M_buttonCancel" Tag="[Pane]$m_wizardSetup/[PushButton]Cancel|$m_buttonCancel" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup/[PushButton]Next &gt;&gt;|$m_buttonNext" />
+  <PushButton Name="M_buttonBack" Tag="[Pane]$m_wizardSetup/[PushButton]&lt;&lt; Back|$m_buttonBack" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 4 of 6)|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

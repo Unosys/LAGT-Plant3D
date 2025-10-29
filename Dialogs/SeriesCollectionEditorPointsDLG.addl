@@ -1,0 +1,17 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SeriesCollectionEditorPointsDLG" Tag="[Pane]Series Collection Editor|$SeriesCollectionForm" ParentType="Pane" GUIType="UIA">
+
+
+	<StaticText Name="StaticTextST" Tag="[StaticText]$labelSeparator|#1" />
+	<Pane Name="PanelSeriesPANE" Tag="[Pane]panelSeries|$panelSeries|#1" />
+	<ListBox Name="ListBoxLB" Tag="[Pane]panelSeries|$panelSeries|#1/[ListBox]$lvSeries|#1" />
+	<PushButton Name="ClosePB" Tag="[PushButton]$btnClose|#6" />
+	<PushButton Name="RemovePB" Tag="[PushButton]*Remove*|$btnRemove|#5" />
+	<PushButton Name="CopyPB" Tag="[PushButton]*Copy*|$btnCopy|#4" />
+	<PushButton Name="AddPB" Tag="[PushButton]$btnAdd|#3" />
+	<PushButton Name="PushButton1PB" Tag="[PushButton]$btnDown|#2" />
+	<PushButton Name="PushButton2PB" Tag="[PushButton]$btnUp|#1" />
+	<!--<PageList Name="PageListPG" Tag="[PageList]$tabControl|#1" />-->
+
+	<Pane Name="PointsPANE" Tag="[PageList]$tabControl|#1/[Pane]Points|$tabPagePoints|#1" />
+
+</Pane>

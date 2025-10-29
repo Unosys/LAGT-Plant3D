@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExternalDatabaseReferenceManager"  Tag="[Pane]External Database Reference Manager|$XDbReferenceManagerDialog" ParentType="MainWin" GUIType="UIA">
+
+
+  <!--<PageList Name="PageList2PG" Tag="[PageList]$m_tabCtrlPrjParts|#1/[Pane]Ortho|#1/[Pane]$m_xDbReferenceManagerControl|#1/[Pane]$splitContainer|#1/[Pane]#1/[PageList]$m_tabCtrlSelection|#1" />-->
+  <Pane Name="DataSourcesPANE" Tag="[PageList]$m_tabCtrlPrjParts|#1/[Pane]#1/[Pane]$m_xDbReferenceManagerControl|#1/[Pane]$splitContainer|#1/[Pane]#1/[PageList]$m_tabCtrlSelection|#1/[Pane]$m_tabDataSources|#1" />
+  
+  <PushButton Name="Close2PB" Tag="[TitleBar]External Database Reference Manager|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

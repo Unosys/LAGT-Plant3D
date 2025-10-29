@@ -1,0 +1,1932 @@
+; CADWorx DataFile Template
+;
+; THIS FILE CONTAINS INFORMATION FOR GENERATING THE 
+; TEMPLATE DATA FILES FOR ALL COMPONENTS
+; WITHIN THE CADWorx SPECIFICATION EDITOR.
+
+[001] ;PIPW
+DESC=PIPE BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+THRD_ENG=Thread engagement
+SOC_ENG=Socket engagement
+WGT=Weight
+THK=Thickness
+
+[002] ;90LR
+DESC=90 LR ELBOW BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+RAD=Radius
+WGT=Weight
+THK=Thickness
+
+[003] ;90SR
+DESC=90 SR ELBOW BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+RAD=Radius
+WGT=Weight
+THK=Thickness
+
+[004] ;90RD
+DESC=90 REDUCING ELBOW BUTTWELD
+NOM_LE=Nominal diameter (large end)
+NOM_SE=Nominal diameter (small end)
+OD_LE=Outside diameter (large end)
+OD_SE=Outside diameter (small end)
+RAD=Radius
+WGT=Weight
+THK_LE=Thickness(large end)
+THK_SE=Thickness(small end)
+
+[005] ;45LR
+DESC=45 ELBOW BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+WGT=Weight
+THK=Thickness
+
+[006] ;18LR
+DESC=180 LR RETURN BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+RAD=Radius
+WGT=Weight
+THK=Thickness
+
+[007] ;18SR
+DESC=180 SR RETURN BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+RAD=Radius
+WGT=Weight
+THK=Thickness
+
+[008] ;TESW
+DESC=TEE BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_MAIN=Center to main end
+OD_BRAN=Outside diameter branch
+CEN_BRAN=Center to branch end
+WGT=Weight
+THK=Thickness
+
+[009] ;TERW
+DESC=TEE REDUCING BUTTWELD
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+CEN_MAIN=Center to main end
+CEN_BRAN=Center to branch end
+WGT=Weight
+THK_MAIN=Thickness main
+THK_BRAN=Thickness branch
+
+[010] ;CONC
+DESC=CONCENTRIC REDUCING BUTTWELD
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[011] ;ECC
+DESC=ECCENTRIC REDUCING BUTTWELD
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[012] ;CAPW
+DESC=CAP BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+WGT=Weight
+THK=Thickness
+
+[013] ;CRSW
+DESC=CROSS BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_MAIN=Center to main end
+OD_BRAN=Outside diameter branch
+CEN_BRAN=Center to branch end
+WGT=Weight
+THK=Thickness
+
+[014] ;CRRW
+DESC=CROSS REDUCING BUTTWELD
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+CEN_MAIN=Center to main end
+CEN_BRH=Center to branch end
+WGT=Weight
+THK_MAIN=Thickness main
+THK_BRAN=Thickness branch
+
+[015] ;LATW
+DESC=LATERAL BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN/SHORT=Center to short end
+CEN/LONG=Center to long end
+CEN/BRAN=Center to branch end
+WGT=Weight
+THK=Thickness
+
+[016] ;STB
+DESC=STUB END BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+LAP_OD=Lap outside diameter
+LENGTH=Length
+LAP_THK=Lap thickness
+WGT=Weight
+WALL_THK=Thickness
+
+[017] ;LWN
+DESC=LONG WELD NECK
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+LENGTH=Length
+FLG_THK=Flange thickness
+WGT=Weight
+THK=Thickness
+
+[018] ;FLGW
+DESC=FLANGE WELD NECK
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+Y=Buttweld to face distance
+FLG_THK=Flange thickness
+WGT=Weight
+
+[019] ;FLGO
+DESC=FLANGE SLIP ON
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+Y=Back to face distance
+X=Outside diameter of hub @ back
+FLG_THK=Flange thickness
+ENG=Engagement from face
+WGT=Weight
+
+[020] ;FLGB
+DESC=FLANGE BLIND
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+WGT=Weight
+
+[021] ;FLGL
+DESC=FLANGE LAP JOINT
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+Y=Back to face distance
+X=Outside diameter of hub @ back
+FLG_THK=Flange thickness
+WGT=Weight
+
+[022] ;FLGS
+DESC=FLANGE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+Y=Back to face distance
+X=Outside diameter of hub @ back
+FLG_THK=Flange thickness
+SOC_ENG=Socket engagement from back
+WGT=Weight
+
+[023] ;FLGT
+DESC=FLANGE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+Y=Back to face distance
+X=Outside diameter of hub @ back
+FLG_THK=Flange thickness
+THRD_ENG=Thread engagement from back
+WGT=Weight
+
+[024] ;BOLT
+DESC=STUD BOLTS
+NOM=Nominal diameter
+OD=Outside diameter
+NO_SET=Number of bolts in set
+DIA=Diameter of bolts
+LENGTH=Length
+WGT=Weight
+
+[025] ;GAS
+DESC=GASKET
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+THK=Thickness
+WGT=Weight
+
+[026] ;NIP
+DESC=NIPPLE
+NOM=Nominal diameter
+OD=Outside diameter
+THRD_ENG=Thread engagement
+SOC_ENG=Socket engagement
+THRD_CL=Threaded close distance
+SOC_CL=Socket close distance
+WGT=Weight
+THK=Thickness
+
+[027] ;SWGC
+DESC=SWAGE CONCENTRIC
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+SOC_LE=Socket engagement large end
+SOC_SE=Socket engagement small end
+THRD_LE=Thread engagement large end
+THRD_SE=Thread engagement small end
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[028] ;SWGE
+DESC=SWAGE ECCENTRIC
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+SOC_LE=Socket engagement large end
+SOC_SE=Socket engagement small end
+THRD_LE=Thread engagement large end
+THRD_SE=Thread engagement small end
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[029] 90S
+DESC=90 ELL SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+SOC_ENG=Socket engagement from end
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[030] ;90SS
+DESC=90 STREET ELL SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_FEMALE=Center to female end
+CEN_MALE=Center to male end
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[031] ;90RS
+DESC=90 RED ELL SOCKET WELD
+NOM_LE=Nominal diameter large end
+NOD_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+CEN_LE=Center to large end
+CEN_SE=Center to small end
+ENG_LE=Engagement large end
+ENG_SE=Engagement small end
+HUB_LE=Hub outside diameter large end
+HUB_SE=Hub outside diameter small end
+WGT=Weight
+
+[032] ;45S
+DESC=45 ELL SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+SOC_ENG=Socket engagement from end
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[033] ;TESS
+DESC=TEE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+SOC_ENG=Socket engagement from end
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[034] ;TERS
+DESC=TEE REDUCING SOCKET WELD
+NOM_LE=Nominal diameter large end
+NOD_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+CEN_LE=Center to large end
+CEN_SE=Center to small end
+ENG_LE=Engagement large end
+ENG_SE=Engagement small end
+HUB_LE=Hub outside diameter large end
+HUB_SE=Hub outside diameter small end
+WGT=Weight
+
+[035] ;LATS
+DESC=LATERAL SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_SE=Center to short end
+CEN_LE=Center to long end
+CEN_BRAN=Center to branch end
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[036] ;CRSS
+DESC=CROSS SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[037] ;BUSS
+DESC=BUSHING REDUCING SOCKET WELD
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+SOC_LE=Socket engagement large end
+SOC_SE=Socket engagement small end
+WGT=Weight
+
+[038] ;CAPS
+DESC=CAP SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[039] ;CPS
+DESC=COUPLING SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[040] ;HCPS
+DESC=COUPLING HALF SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[041] ;UNS
+DESC=UNION SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+NUT_CROWN=Nut crown distance
+WGT=Weight
+
+[042] ;BLD
+DESC=BLEED RING
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+THK=Thickness
+WGT=Weight
+
+[043] ;90T
+DESC=90 ELL THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[044] ;90ST
+DESC=90 STREET ELL THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_FEMALE=Center to female end
+CEN_MALE=Center to male end
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[045] ;90RT
+DESC=90 REDUCING ELL THREADED
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+CEN_LE=Center to large end
+CEN_SE=Center to small end
+ENG_LE=Engagement large end
+ENG_SE=Engagement small end
+HUB_LE=Hub large end
+HUB_SE=Hub small end
+WGT=Weight
+
+[046] ;45T
+DESC=45 ELL THREADED
+NOM=Nominal diameter
+OD=Outside diameter; 0.0000
+CEN_END=Center to end
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[047] ;TEST
+DESC=TEE THREADED
+NOM=Nominal diameter
+OD=Outside diameter; 0.0000
+CEN_END=Center to end
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[048] ;TERT
+DESC=TEE REDUCING THREADED
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+CEN_LE=Center to large end
+CEN_SE=Center to small end
+ENG_LE=Engagement large end
+ENG_SE=Engagement small end
+HUB_LE=Hub large end
+HUB_SE=Hub small end
+WGT=Weight
+
+[049] ;LATT
+DESC=LATERAL THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_SE=Center to small end
+CEN_LE=Center to large end
+CEN_BRAN=Center to branch end
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[050] ;CRST
+DESC=CROSS THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[051] ;BUST
+DESC=BUSHING REDUCING THREADED
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+THRD_LE=Thread engagement large end
+THRD_SE=Thread engagement small end
+WGT=Weight
+
+[052] ;CAPT
+DESC=CAP THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[053] ;CPT
+DESC=COUPLING THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[054] ;HCPT
+DESC=COUPLING HALF THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[055] ;UNT
+DESC=UNION THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+NUT_CROWN=Nut crown distance
+WGT=Weight
+
+[056] ;PLGT
+DESC=PLUG THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+WGT=Weight
+
+[057] ;EOLS
+DESC=ELL-O-LET SOCKET WELD
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Projection from outer radius
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[058] ;EOLT
+DESC=ELL-O-LET THREADED
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Projection from outer radius
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[059] ;EOLW
+DESC=ELL-O-LET BUTTWELD
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Projection from outer radius
+WGT=Weight
+
+[060] ;SOL
+DESC=SOCK-O-LET
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Projection from outer radius
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[061] ;TOL
+DESC=THREAD-O-LET
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Projection from outer radius
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight;
+
+[062] ;WOL
+DESC=WELD-O-LET
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Projection from outer radius
+WGT=Weight
+
+[063] ;BALF
+DESC=BALL VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[064] ;BALS
+DESC=BALL VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[065] ;BALT
+DESC=BALL VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter0
+WGT=Weight
+
+[066] ;BFYF
+DESC=BUTTERFLY VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[067] ;CHKF
+DESC=CHECK VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[068] ;CHKS
+DESC=CHECK VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[069] ;CHKT
+DESC=CHECK VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter0
+WGT=Weight
+
+[070] ;GATF
+DESC=GATE VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[071] ;GATS
+DESC=GATE VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[072] ;GATT
+DESC=GATE VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter0
+WGT=Weight
+
+[073] ;GLBF
+DESC=GLOBE VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[074] ;GLBS
+DESC=GLOBE VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[075] ;GLBT
+DESC=GLOBE VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter0
+WGT=Weight
+
+[076] ;PLUF
+DESC=PLUG VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[077] ;PLUS
+DESC=PLUG VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[078] ;PLUT
+DESC=PLUG VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter0
+WGT=Weight
+
+[079] ;RELF
+DESC=RELIEF VALVE BUTTWELD/FLANGE
+NOM_REL=Nominal diameter relief
+NOM_PRES=Nominal diameter pressure
+OD_REL=Outside diameter relief
+OD_PRES=Outside diameter pressure
+CEN_PRES=Center to pressure end
+CEN_REL=Center to relief end
+FLG_PRES=Flange diameter pressure end
+THK_PRES=Flange thickness pressure end
+FLG_REL=Flange diameter relief end
+THK_REL=Flange thickness relief end
+WGT=Weight
+
+[080] ;RELS
+DESC=RELIEF VALVE SOCKET WELD
+NOM_REL=Nominal diameter relief
+NOM_PRES=Nominal diameter pressure
+OD_REL=Outside diameter relief
+OD_PRES=Outside diameter pressure
+CEN_PRES=Center to pressure end
+CEN_REL=Center to relief end
+HUB_PRES=Hub outside diameter pressure end
+SOC_PRES=Socket engagement pressure end
+HUB_REL=Hub outside diameter relief end
+SOC_REL=Socket engagement relief end
+WGT=Weight
+
+[081] ;RELT
+DESC=RELIEF VALVE THREADED
+NOM_REL=Nominal diameter relief
+NOM_PRES=Nominal diameter pressure
+OD_REL=Outside diameter relief
+OD_PRES=Outside diameter pressure
+CEN_PRES=Center to pressure end
+CEN_REL=Center to relief end
+HUB_PRES=Hub outside diameter pressure end
+THRD_PRES=Thread engagement pressure end
+HUB_REL=Hub outside diameter relief end
+THRD_REL=Thread engagement relief end
+WGT=Weight
+
+[082] ;NEDS
+DESC=NEEDLE VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[083] ;NEDT
+DESC=NEEDLE VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[084] ;3VF
+DESC=3-WAY VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+CEN_FACE=Center to face
+WGT=Weight
+
+[085] ;3VS
+DESC=3-WAY VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+HUB_OD=Hub outside diameter
+SOC_ENG=Socket engagement
+CEN_END=Center end
+WGT=Weight
+
+[086] ;3VT
+DESC=3-WAY VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+HUB_OD=Hub outside diameter
+THRD_ENG=Thread engagement
+CEN_END=Center end
+WGT=Weight
+
+[087] ;4VF
+DESC=4-WAY VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+CEN_FACE=Center to face
+WGT=Weight
+
+[088] ;4VS
+DESC=4-WAY VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+HUB_OD=Hub outside diameter
+SOC_ENG=Socket engagement
+CEN_END=Center end
+WGT=Weight
+
+[089] ;4VT
+DESC=4-WAY VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+HUB_OD=Hub outside diameter
+THRD_ENG=Thread engagement
+CEN_END=Center end
+WGT=Weight
+
+[090] ;CNTF
+DESC=CONTROL VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[091] ;CNTS
+DESC=CONTROL VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[092] ;CNTT
+DESC=CONTROL VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[093] ;STRF
+DESC=STRAINER BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+CEN_BTM=Center to extreme bottom
+WGT=Weight
+
+[094] ;STRS
+DESC=STRAINER SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+HUB_OD=Hub outside diameter
+SOC_ENG=Socket engagement
+LENGTH=Length
+CEN_BTM=Center to extreme bottom
+WGT=Weight
+
+[095] ;STRT
+DESC=STRAINER THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+HUB_OD=Hub outside diameter
+THRD_ENG=Thread engagement
+LENGTH=Length
+CEN_BTM=Center to extreme bottom
+WGT=Weight
+
+[096] ;ANGF
+DESC=ANGLE VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+CEN_FACE=Center to face
+WGT=Weight
+
+[097] ;ANGS
+DESC=ANGLE VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[098] ;ANGT
+DESC=ANGLE VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[099] ;GAGS
+DESC=GAGE VALVE SOCKET WELD
+NOM_IN=Nominal diameter main
+NOM_OUT=Nominal diameter branch
+OD_IN=Outside diameter main
+OD_OUT=Outside diameter branch
+SQ=Square dimension
+END_PORT=End to port outlet
+OAL=Over all length
+SOC_ENG=Socket engagement
+WGT=Weight
+
+[100] ;GAGT
+DESC=GAGE VALVE THREADED
+NOM_IN=Nominal diameter main
+NOM_OUT=Nominal diameter branch
+OD_IN=Outside diameter main
+OD_OUT=Outside diameter branch
+SQ=Square dimension
+END_PORT=End to port outlet
+OAL=Over all length
+THRD_ENG=Thread engagement
+WGT=Weight
+
+[101] ;SPCT
+DESC=SPECTACLE BLIND
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+THK=Thickness
+CEN_CEN=Center to center
+WGT=Weight
+
+[102] ;EXPF
+DESC=EXPANSION JOINT
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+OAL=Over all length
+WGT=Weight
+
+[103] ;USE
+DESC=USER 1
+NOM=Nominal size
+OD=Outside diameter
+WGT=Weight
+
+[104] ;USE
+DESC=USER 2
+NOM=Nominal size
+OD=Outside diameter
+WGT=Weight
+
+[105] ;USE
+DESC=USER 3
+NOM=Nominal size
+OD=Outside diameter
+WGT=Weight
+
+[106] ;USE
+DESC=USER 4
+NOM=Nominal size
+OD=Outside diameter
+WGT=Weight
+
+[107] ;USE
+DESC=USER 5
+NOM=Nominal size
+OD=Outside diameter
+WGT=Weight
+
+[108] ;22LR
+DESC=22.5 LR ELBOW BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+WGT=Weight
+THK=Thickness
+
+[109] ;11LR
+DESC=11.25 LR ELBOW BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Center to end
+WGT=Weight
+THK=Thickness
+
+[110] ;YB
+DESC=WYE BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_MAIN=Center to main end
+CEN_BRAN=Center to branch end
+WGT=Weight
+THK=Thickness
+
+[111] ;SWGCS
+DESC=CONCENTRIC W/ SOCKET WELD HUB
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+ENG_LE=Socket engagement large end
+ENG_SE=Socket engagement small end
+HUB_LE=Hub outside diameter
+HUB_SE=Hub outside diameter
+WGT=Weight
+
+[112] ;SWGCT
+DESC=CONCENTRIC W/ THREADED HUB
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+ENG_LE=Thread engagement large end
+ENG_SE=Thread engagement small end
+HUB_LE=Hub outside diameter
+HUB_SE=Hub outside diameter
+WGT=Weight
+
+[113] ;SWGES
+DESC=ECCENTRIC W/ SOCKET WELD HUB
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+ENG_LE=Socket engagement large end
+ENG_SE=Socket engagement small end
+HUB_LE=Hub outside diameter
+HUB_SE=Hub outside diameter
+WGT=Weight
+
+[114] ;SWGET
+DESC=ECCENTRIC W/ THREADED HUB
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+ENG_LE=Thread engagement large end
+ENG_SE=Thread engagement small end
+HUB_LE=Hub outside diameter
+HUB_SE=Hub outside diameter
+WGT=Weight
+
+[115] ;FLRO
+DESC=FLANGE REDUCING SO
+NOM_MAIN=Nominal diameter main
+NOM_RED=Nominal diameter reducing
+OD_MAIN=Outside diameter main
+OD_RED=Outside diameter reducing
+FLG_OD=Flange outside diameter
+Y=Back to face distance
+X=Outside diameter of hub @ back
+FLG_THK=Flange thickness
+ENG=Engagement from face to pipe
+WGT=Weight
+
+[116] ;FLRT
+DESC=FLANGE REDUCING THREADED
+NOM_MAIN=Nominal diameter main
+NOM_RED=Nominal diameter reducing
+OD_MAIN=Outside diameter main
+OD_RED=Outside diameter reducing
+FLG_OD=Flange outside diameter
+Y=Back to face distance
+X=Outside diameter of hub @ back
+FLG_THK=Flange thickness
+ENG=Thread engagement from back
+WGT=Weight
+
+[117] ;FLRW
+DESC=FLANGE REDUCING WN
+NOM_MAIN=Nominal diameter main
+NOM_RED=Nominal diameter reducing
+OD_MAIN=Outside diameter main
+OD_RED=Outside diameter reducing
+FLG_OD=Flange outside diameter
+Y=Back to face distance
+FLG_THK=Flange thickness
+WGT=Weight
+
+[118] ;CPRS
+DESC=COUPLING REDUCING SOCKET WELD
+NOM_LE=Nominal diameter large end
+NOD_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+ENG_LE=Socket engagement large end
+ENG_SE=Socket engagement small end
+HUB_LE=Hub outside diameter large end
+HUB_SE=Hub outside diameter small end
+WGT=Weight
+
+[119] ;CPRT
+DESC=COUPLING REDUCING THREADED
+NOM_LE=Nominal diameter large end
+NOD_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+ENG_LE=Thread engagement large end
+ENG_SE=Thread engagement small end
+HUB_LE=Hub outside diameter large end
+HUB_SE=Hub outside diameter small end
+WGT=Weight
+
+[120] ;LOLS
+DESC=LATERAL-O-LET SOCKET WELD
+NOM_MAIN=Nominal diameter main
+NOD_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Project from outer radius
+ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[121] ;LOLT
+DESC=LATERAL-O-LET THREADED
+NOM_MAIN=Nominal diameter main
+NOD_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Project from outer radius
+ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[122] ;LOLW
+DESC=LATERAL-O-LET WELD
+NOM_MAIN=Nominal diameter main
+NOD_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Projection from outer radius
+WGT=Weight
+
+[123] ;NOLT
+DESC=NIP-O-LET THREADED
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+ENG=Thread engagement
+PROJECT=Projection from outer radius
+WGT=Weight
+
+[124] ;NOLP
+DESC=NIP-O-LET PLAIN
+NOM_MAIN=Nominal diameter main
+NOM_BRAN=Nominal diameter branch
+OD_MAIN=Outside diameter main
+OD_BRAN=Outside diameter branch
+PROJECT=Projection from outer radius
+WGT=Weight
+
+[125] ;PIPFL
+DESC=PIPE FLANGED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+THK=Thickness
+
+[126] ;90FL
+DESC=90 ELBOW FLANGED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Distance from center to end
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+FLGS=Bitwise flange placement control
+WGT=Weight
+THK=Thickness
+
+[127] ;45FL
+DESC=45 ELBOW FLANGED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_END=Distance from center to end
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+FLGS=Bitwise flange placement control
+WGT=Weight
+THK=Thickness
+
+[128] ;TEFL
+DESC=TEE FLANGED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_MAIN=Center to main face
+CEN_BRAN=Center to branch face
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+FLGS=Bitwise flange placement control
+WGT=Weight
+THK=Thickness
+
+[129] ;CNFL
+DESC=CONCENTRIC FLANGED
+NOM_LE=Nominal diameter large end
+NOD_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+FLG_OD_LE=Flange outside diameter large end
+FLG_THK_LE=Flange thickness large end
+FLG_OD_SE=Flange outside diameter small end
+FLG_THK_SE=Flange thickness small end
+FLGS=Bitwise flange placement control
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[130] ;ECFL
+DESC=ECCENTRIC FLANGED
+NOM_LE=Nominal diameter large end
+NOD_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+FLG_OD_LE=Flange outside diameter large end
+FLG_THK_LE=Flange thickness large end
+FLG_OD_SE=Flange outside diameter small end
+FLG_THK_SE=Flange thickness small end
+FLGS=Bitwise flange placement control
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[131] ;YFL
+DESC=WYE FLANGED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_MAIN=Center to main end
+CEN_BRH=Center to branch end
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+FLGS=Bitwise flange placement control
+WGT=Weight
+THK=Thickness
+
+[132] ;DIAS
+DESC=DIAPHRAGM VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[133] ;DIAT
+DESC=DIAPHRAGM VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[134] ;DIAF
+DESC=DIAPHRAGM VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[135] ;ROTS
+DESC=ROTARY VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[136] ;ROTT
+DESC=ROTARY VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[137] ;ROTF
+DESC=ROTARY VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[138] ;DCHS
+DESC=DUAL CHECK VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+SOC_ENG=Socket engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[139] ;DCHT
+DESC=DUAL CHECK VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+THRD_ENG=Thread engagement
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[140] ;DCHF
+DESC=DUAL CHECK VALVE BUTTWELD/FLANGE
+NOM=Nominal diameter
+OD=Outside diameter
+FLG_OD=Flange outside diameter
+FLG_THK=Flange thickness
+LENGTH=Length
+WGT=Weight
+
+[141] ;EGAS
+DESC=XBODY GATE VALVE SOCKET WELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_FEMALE=Center to female end
+OAL=Over all length
+ENG_FEMALE=Engagement female end
+ENG_MALE=Engagement male end
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[142] ;EGAT
+DESC=XBODY GATE VALVE THREADED
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_FEMALE=Center to female end
+OAL=Over all length
+ENG_FEMALE=Engagement female end
+ENG_MALE=Engagement male end
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[143] ;EGAB
+DESC=XBODY GATE VALVE BUTTWELD
+NOM=Nominal diameter
+OD=Outside diameter
+CEN_FEMALE=Center to female end
+OAL=Over all length
+ENG_FEMALE=Engagement female end
+HUB_OD=Hub outside diameter
+WGT=Weight
+
+[144] ;90EN
+DESC=90 ELBOW SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+THK=Thickness
+
+[145] ;90RE
+DESC=90 REDUCING ELBOW SPECIAL END
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[146] ;45EN
+DESC=45 ELBOW SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+THK=Thickness
+
+[147] ;TESE
+DESC=TEE SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+END3_CEN=Center to end 3
+END3_TYPE=Type of end 3
+END3_OD=Outside diameter of end 3
+END3_LG=Length of end 3
+WGT=Weight
+THK=Thickness
+
+[148] ;TERE
+DESC=TEE REDUCING SPECIAL END
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+END3_CEN=Center to end 3
+END3_TYPE=Type of end 3
+END3_OD=Outside diameter of end 3
+END3_LG=Length of end 3
+WGT=Weight
+THK=Thickness
+
+[149] ;CRSE
+DESC=CROSS SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+END3_CEN=Center to end 3
+END3_TYPE=Type of end 3
+END3_OD=Outside diameter of end 3
+END3_LG=Length of end 3
+END4_CEN=Center to end 4
+END4_TYPE=Type of end 4
+END4_OD=Outside diameter of end 4
+END4_LG=Length of end 4
+WGT=Weight
+THK=Thickness
+
+[150] ;CRRE
+DESC=CROSS REDUCING SPECIAL END
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+END3_CEN=Center to end 3
+END3_TYPE=Type of end 3
+END3_OD=Outside diameter of end 3
+END3_LG=Length of end 3
+END4_CEN=Center to end 4
+END4_TYPE=Type of end 4
+END4_OD=Outside diameter of end 4
+END4_LG=Length of end 4
+WGT=Weight
+THK=Thickness
+
+[151] ;LATE
+DESC=LATERAL SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+END3_CEN=Center to end 3
+END3_TYPE=Type of end 3
+END3_OD=Outside diameter of end 3
+END3_LG=Length of end 3
+WGT=Weight
+THK=Thickness
+
+[152] ;CONCE
+DESC=CONCENTRIC SPECIAL END
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+MAIN_TYPE=Type of main end
+MAIN_OD=Outside diameter of main end
+MAIN_LG=Length of main end
+RED_TYPE=Type of reducing end
+RED_OD=Outside diameter of reducing end
+RED_LG=Length of reducing end
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[153] ;ECCE
+DESC=ECCENTRIC SPECIAL END
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+LENGTH=Length
+MAIN_TYPE=Type of main end
+MAIN_OD=Outside diameter of main end
+MAIN_LG=Length of main end
+RED_TYPE=Type of reducing end
+RED_OD=Outside diameter of reducing end
+RED_LG=Length of reducing end
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[154] ;STUE
+DESC=STUB SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+THK=Thickness
+
+[155] ;YE
+DESC=WYE SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+END3_CEN=Center to end 3
+END3_TYPE=Type of end 3
+END3_OD=Outside diameter of end 3
+END3_LG=Length of end 3
+WGT=Weight
+THK=Thickness
+
+[156] ;CAPE
+DESC=CAP SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END_TYPE=Type of end
+END_OD=Outside diameter of end
+END_LG=Length of end
+WGT=Weight
+THK=Thickness
+
+[157] ;NUTE
+DESC=NUT SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+FEMALE_TYPE=Female end type
+MALE_TYPE=Male end type
+END_OD=Outside diameter of end
+END_LG=Length of end
+WGT=Weight
+
+[158] ;BALE
+DESC=BALL SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+
+[159] ;BFYE
+DESC=BUTTERFLY SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+
+[160] ;CHKE
+DESC=CHECK SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+
+[161] ;GATE
+DESC=GATE SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+
+[162] ;GLBE
+DESC=GLOBE SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+
+[163] ;PLUE
+DESC=PLUG SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+LENGTH=Length
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+
+[164] ;3VE
+DESC=3-WAY SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+END3_CEN=Center to end 3
+END3_TYPE=Type of end 3
+END3_OD=Outside diameter of end 3
+END3_LG=Length of end 3
+WGT=Weight
+THK=Thickness
+
+[165] ;ANGE
+DESC=ANGLE SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+THK=Thickness
+
+[166] ;AIR1
+DESC=MULTIPORT 1 SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+ACT_LG=Actuator length
+ACT_OD=Actuator outside diameter
+YOKE_LG=Yoke length
+CEN_CEN=Center to center ports
+CEN_PORT=Center to port
+CEN_STEM=Center to stem
+END_TYPE=Port end type
+END_OD=Port outside diameter
+END_LG=Port length
+BODY1=Body 1 bit wise control
+BODY2=Body 2 bit wise control
+BODY3=Body 3 bit wise control
+WGT=Weight
+
+[167] ;AIR2
+DESC=MULTIPORT 2 SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+ACT_LG=Actuator length
+ACT_OD=Actuator outside diameter
+YOKE_LG=Yoke length
+CEN_CEN=Center to center ports
+CEN_PORT=Center to port
+CEN_STEM=Center to stem
+END_TYPE=Port end type
+END_OD=Port outside diameter
+END_LG=Port length
+BODY1=Body 1 bit wise control
+BODY2=Body 2 bit wise control
+BODY3=Body 3 bit wise control
+WGT=Weight
+
+[168] ;AIR3
+DESC=MULTIPORT 3 SPECIAL END
+NOM=Nominal diameter
+OD=Outside diameter
+ACT_LG=Actuator length
+ACT_OD=Actuator outside diameter
+YOKE_LG=Yoke length
+CEN_CEN=Center to center ports
+CEN_PORT=Center to port
+CEN_STEM=Center to stem
+END_TYPE=Port end type
+END_OD=Port outside diameter
+END_LG=Port length
+BODY1=Body 1 bit wise control
+BODY2=Body 2 bit wise control
+BODY3=Body 3 bit wise control
+WGT=Weight
+
+[169] ;22EN
+DESC=22.5 ELL SPEC END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+THK=Thickness
+
+[170] ;11EN
+DESC=11.25 ELL SPEC END
+NOM=Nominal diameter
+OD=Outside diameter
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+WGT=Weight
+THK=Thickness
+
+[171] ;LARE
+DESC=LATERAL RED SPEC END
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+END1_CEN=Center to end 1
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_CEN=Center to end 2
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+END3_CEN=Center to end 3
+END3_TYPE=Type of end 3
+END3_OD=Outside diameter of end 3
+END3_LG=Length of end 3
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[172] ;UBEN
+DESC=U-BEND SPEC END
+NOM_LE=Nominal diameter large end
+NOM_SE=Nominal diameter small end
+OD_LE=Outside diameter large end
+OD_SE=Outside diameter small end
+PROJ=Side to project branch
+CEN_CEN=Center to center
+END_BOTTOM=End to bottom of bend
+END1_TYPE=Type of end 1
+END1_OD=Outside diameter of end 1
+END1_LG=Length of end 1
+END2_TYPE=Type of end 2
+END2_OD=Outside diameter of end 2
+END2_LG=Length of end 2
+BRAN_PROJ=Branch projection
+BRAN_TYPE=Type of branch
+BRAN_OD=Outside diameter of branch
+BRAN_LG=Length of branch
+WGT=Weight
+THK_LE=Thickness large end
+THK_SE=Thickness small end
+
+[173] ;WELD
+DESC=WELD GAP
+NOM=Nominal size
+OD=Outside diameter
+THK=Thickness
+TYPE=Not used
+WGT=Weight

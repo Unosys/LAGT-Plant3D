@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecandCatalogsConversionCompleteDLG" Tag="[Window]Specs and Catalogs - Conversion Complete|$TaskDialog_Enhanced" ParentType="SpecEditorDLG" GUIType="UIA">
+
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Specs and Catalogs - Conversion Complete|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Specs and Catalogs - Conversion Complete|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CloseButton|#1" />
+	<StaticText Name="CancelST" Tag="[PushButton]Cancel|$CloseButton|#1/[StaticText]Cancel|#1" />
+	<Image Name="Image1IMG" Tag="[Image]$InformationImage|#1" />
+	<StaticText Name="zeroFilesHaveBeenST" Tag="[StaticText]0 files have been converted to Autodesk AutoCAD Plant 3D 2024 format*|$HeaderTextBlock|#1" />
+	<StaticText Name="StaticTextST" Tag="[StaticText]$MessageTexBlock|#2" />
+	<Image Name="Image2IMG" Tag="[Image]#2" />
+	<StaticText Name="ViewTheConversionReportST" Tag="[StaticText]#3" />
+	<StaticText Name="ListsOverallConversionResultsST" Tag="[StaticText]#4" />
+	<Image Name="Image3IMG" Tag="[Image]#3" />
+	<StaticText Name="OpenTheOutputFolderST" Tag="[StaticText]#5" />
+	<StaticText Name="DisplaysTheConvertedFilesST" Tag="[StaticText]#6" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

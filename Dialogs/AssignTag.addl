@@ -1,0 +1,43 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.AssignTag" Tag="[Pane]Assign Tag|$TaggingDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_Bottom_Panel|#2" />
+  <PushButton Name="AssignPB" Tag="[Pane]$m_Bottom_Panel|#2/[PushButton]Assign|$m_btnOK|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_Bottom_Panel|#2/[PushButton]Cancel|$m_btnCancel|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_Bottom_Panel|#2/[PushButton]Help|$m_btnHelp|#3" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_LowerPanel|#3" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_LowerPanel|#3/[Pane]$m_CollapsibleButton|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$panel_top|#1" />
+  <StaticText Name="TagFormatST" Tag="[Pane]$panel_top|#1/[StaticText]Tag Format:|$m_lblTagFormatText|#4" />
+  <StaticText Name="LineNumberST" Tag="[Pane]$panel_top|#1/[StaticText]Line Number|$m_TagFormatName_Label|#3" />
+  <Pane Name="LineNumberPANE" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagUserControl|#1" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagUserControl|#1/[Pane]$panel1|#1" />
+  <TextField Name="TextField1TF" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagUserControl|#1/[Pane]$panel1|#1/[TextField]$m_tbTagValue" />
+  <TextField Name="TextField2TF" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagUserControl|#1/[Pane]$panel1|#1/[TextField]$m_tbTagValueMirror" />
+  <TextField Name="TextField3TF" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagUserControl|#1/[Pane]$panel1|#1/[TextField]$m_tbTagName" />
+  <TextField Name="TextField8TF" Tag="[Pane]$panel_top|#1/[Pane]Class:|$m_TagPanel|#1/[Pane]Class:|$m_UserCtrTagValue|#1/[Pane]$panel1|#1/[TextField]$m_tbTagName" />
+  <TextField Name="TextField9TF" Tag="[Pane]$panel_top|#1/[Pane]Class:|$m_TagPanel|#1/[Pane]Class:|$m_UserCtrTagValue|#1/[Pane]$panel1|#1/[TextField]$m_tbTagValue" />
+  <TextField Name="TextField10TF" Tag="[Pane]$panel_top|#1/[Pane]Class:|$m_TagPanel|#1/[Pane]Class:|$m_UserCtrTagValue|#1/[Pane]$panel1|#1/[TextField]$m_tbTagValueMirror" />
+  <StaticText Name="StaticTextST" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[StaticText]$263176|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#2" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#2/[Pane]$panel1|#1" />
+  <TextField Name="TextField4TF" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#2/[Pane]$panel1|#1/[TextField]$m_tbTagValue|#2" />
+  <TextField Name="TextField5TF" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#2/[Pane]$panel1|#1/[TextField]$m_tbTagName|#1" />
+  <PopupList Name="PopupList1PL" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#2/[Pane]$panel1|#1/[PopupList]$m_cbType|#1" />
+  <PushButton Name="DropDownButton1PB" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#2/[Pane]$panel1|#1/[PopupList]$m_cbType|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <Pane Name="Pane9PANE" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#3" />
+  <Pane Name="Pane10PANE" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#3/[Pane]$panel1|#1" />
+  <TextField Name="TextField6TF" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#3/[Pane]$panel1|#1/[TextField]$m_tbTagValue|#2" />
+  <TextField Name="TextField7TF" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#3/[Pane]$panel1|#1/[TextField]$m_tbTagName|#1" />
+  <PopupList Name="PopupList2PL" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#3/[Pane]$panel1|#1/[PopupList]$m_cbType|#1" />
+  <PushButton Name="DropDownButton2PB" Tag="[Pane]$panel_top|#1/[Pane]Line Number|$m_UserControlPanel|#2/[Pane]$TagComboUserControl|#3/[Pane]$panel1|#1/[PopupList]$m_cbType|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="P3dLineGroupST" Tag="[Pane]$panel_top|#1/[StaticText]P3d Line Group|$m_lblClassName|#1" />
+  <Pane Name="Class1PANE" Tag="[Pane]$panel_top|#1/[Pane]Class:|$m_TagPanel|#1" />
+  <Pane Name="Class2PANE" Tag="[Pane]$panel_top|#1/[Pane]Class:|$m_TagPanel|#1/[Pane]Class:|$m_UserCtrTagValue|#1" />
+  <Pane Name="Pane11PANE" Tag="[Pane]$panel_top|#1/[Pane]Class:|$m_TagPanel|#1/[Pane]Class:|$m_UserCtrTagValue|#1/[Pane]$panel1|#1" />
+  
+  <StaticText Name="ClassST" Tag="[Pane]$panel_top|#1/[StaticText]Class:|$m_lblClassText|#2" />
+  <TitleBar Name="AssignTagCTL" Tag="[TitleBar]Assign Tag|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Assign Tag|$TitleBar|#1/[CustomWin]System Menu Bar|$TaggingDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Assign Tag|$TitleBar|#1/[CustomWin]System Menu Bar|$TaggingDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Assign Tag|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

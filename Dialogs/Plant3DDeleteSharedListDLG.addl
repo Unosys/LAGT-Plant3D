@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DDeleteSharedListDLG" Tag="[DialogBox]Plant 3D - Delete Shared List" >
+
+
+<PushButton Name="DeleteTETSFromBothPB" Tag="[Pane]$Window|#1/[PushButton]Delete ‘TETS’ from both P*|$CommandLink_1001|#1" />
+<PushButton Name="StopSharingTETSPB" Tag="[Pane]$Window|#1/[PushButton]Stop sharing ‘TETS’|$CommandLink_1002|#2" />
+<PushButton Name="CancelPB" Tag="[Pane]$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton"/>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

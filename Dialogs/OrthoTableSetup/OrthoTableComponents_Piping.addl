@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox  Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoTableComponents_Piping" Tag="[Window]Ortho Table Components|$Window_BOMSetupGroups" ParentType="MainWin" GUIType="UIA">
+
+
+
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Ortho Table Components|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_Cancel|#2" />
+	<PushButton Name="ApplyPB" Tag="[PushButton]Apply|$Button_Apply|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

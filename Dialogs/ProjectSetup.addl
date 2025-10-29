@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetup" Tag="[DialogBox]$EditProjectSettingsDlg" ParentType="Plant3D">
+<TreeView Name="M_treeView" Tag="[TreeView]#1|$m_treeView" />
+<StaticText Name="CustomizedViews" Tag="[StaticText]Customized views|#1|$m_viewsGroupBox" />
+<ListBox Name="M_viewListBox" Tag="[ListBox]#1|$m_viewListBox" />
+<PushButton Name="CreateView" Tag="[PushButton]Create View|#1|$m_buttonNewView" />
+<PushButton Name="DeleteView" Tag="[PushButton]Delete View|#2|$m_buttonRemoveView" />
+<PushButton Name="Help" Tag="[PushButton]Help|#4|$m_btnHelp" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|#3|$m_btnCancel" />
+<PushButton Name="OK" Tag="[PushButton]OK|#2|$m_btnOk" />
+<PushButton Name="Apply" Tag="[PushButton]Apply|#1|$m_btnSave" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

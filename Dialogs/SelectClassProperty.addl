@@ -1,0 +1,42 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectClassProperty" Tag="[Pane]Select Class Property|$Select3dObjectDefinitionPropertyDlg|#1" ParentType="AddJointDLG" GUIType="UIA">
+  <Pane Name="Pane1PANE" Tag="[Pane]$splitContainer1|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$splitContainer1|#1/[Pane]$395128|#1" />
+  <TreeView Name="ClassTV" Tag="[Pane]$splitContainer1|#1/[Pane]$395128|#1/[TreeView]Class:|$m_objectDefinitionTreeView|#1" />
+  <TreeViewItem Name="PipeRunComponentTVI" Tag="[Pane]$splitContainer1|#1/[Pane]$395128|#1/[TreeView]Class:|$m_objectDefinitionTreeView|#1/[TreeViewItem]Pipe Run Component|#1" />
+  <TreeViewItem Name="FastenersTVI" Tag="[Pane]$splitContainer1|#1/[Pane]$395128|#1/[TreeView]Class:|$m_objectDefinitionTreeView|#1/[TreeViewItem]Fasteners|#2" />
+  <StaticText Name="ClassST" Tag="[Pane]$splitContainer1|#1/[Pane]$395128|#1/[StaticText]Class:|$m_objectCategoryLabel|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2" />
+  <ListBox Name="PropertiesLB" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1" />
+  <ScrollBar Name="PropertiesSB" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ScrollBar]Properties:|$Vertical ScrollBar|#1" />
+  <ListBoxItem Name="CompatibleStandardLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Compatible Standard|#1" />
+  <ListBoxItem Name="ContentIsoSymbolDefinitionLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Content Iso Symbol Definition|#2" />
+  <ListBoxItem Name="DesignPressureFactorLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Design Pressure Factor|#3" />
+  <ListBoxItem Name="DesignStdLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Design Std|#4" />
+  <ListBoxItem Name="EngagementLengthLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Engagement Length|#5" />
+  <ListBoxItem Name="FacingLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Facing|#6" />
+  <ListBoxItem Name="FlangeStdLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Flange Std|#7" />
+  <ListBoxItem Name="FlangeThicknessLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Flange Thickness|#8" />
+  <ListBoxItem Name="GasketStdLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Gasket Std|#9" />
+  <ListBoxItem Name="ItemCodeLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Item Code|#10" />
+  <ListBoxItem Name="LongDescriptionFamilyLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Long Description (Family)|#11" />
+  <ListBoxItem Name="LongDescriptionSizeLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Long Description (Size)|#12" />
+  <ListBoxItem Name="ManufacturerLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Manufacturer|#13" />
+  <ListBoxItem Name="MatchingPipeODLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Matching Pipe OD|#14" />
+  <ListBoxItem Name="MaterialLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Material|#15" />
+  <ListBoxItem Name="MaterialCodeLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Material Code|#16" />
+  <ListBoxItem Name="NominalDiameterLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Nominal Diameter|#17" />
+  <ListBoxItem Name="PortUnitLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Port Unit|#18" />
+  <ListBoxItem Name="PressureClassLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Pressure Class|#19" />
+  <ListBoxItem Name="ScheduleLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Schedule|#20" />
+  <ListBoxItem Name="ShopFieldLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Shop*|#21" />
+  <ListBoxItem Name="ShortDescriptionLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Short Description|#22" />
+  <ListBoxItem Name="SizeLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Size|#23" />
+  <StaticText Name="PropertiesST" Tag="[Pane]$splitContainer1|#1/[Pane]$199316|#2/[StaticText]Properties:|$m_objectPropertyLabel|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_button_help|#3" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_button_cancel|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_button_ok|#1" />
+  <TitleBar Name="SelectClassPropertyCTL" Tag="[TitleBar]Select Class Property|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Select Class Property|$TitleBar|#1/[CustomWin]System Menu Bar|$Select3dObjectDefinitionPropertyDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Select Class Property|$TitleBar|#1/[CustomWin]System Menu Bar|$Select3dObjectDefinitionPropertyDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Class Property|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

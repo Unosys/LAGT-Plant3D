@@ -1,0 +1,33 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddPropertyDLG" Tag="Add Property|$AddPropertyDlg" ParentType="ProjectSetupPandIDClassDefinitionDLG">
+<!--<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<GroupBox Name="M_groupBox" Tag="[GroupBox]$m_groupBox" />
+<StaticText Name="M_labelDisplay" Tag="[StaticText]$m_labelDisplay" />
+<StaticText Name="M_labelProperty" Tag="[StaticText]$m_labelProperty" />
+<RadioButton Name="M_radioAcquisition" Tag="[RadioButton]$m_radioAcquisition" />
+<RadioButton Name="M_radioBlock" Tag="[RadioButton]$m_radioBlock" />
+<RadioButton Name="M_radioBoolean" Tag="[RadioButton]$m_radioBoolean" />
+<RadioButton Name="M_radioNumeric" Tag="[RadioButton]$m_radioNumeric" />
+<RadioButton Name="M_radioSelection" Tag="[RadioButton]$m_radioSelection" />
+<RadioButton Name="M_radioString" Tag="[RadioButton]$m_radioString" />
+<TextField Name="M_textBoxDisplayName" Tag="[TextField]$m_textBoxDisplayName" />
+<TextField Name="M_textBoxPropertyName" Tag="[TextField]$m_textBoxPropertyName" />-->
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOk|#1" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <TextField Name="DisplayNameTF" Tag="[TextField]Display name:|$m_textBoxDisplayName|#2" />
+  <StaticText Name="DisplayNameST" Tag="[StaticText]Display name:|$m_labelDisplay|#2" />
+  <TextField Name="M_textBoxPropertyName" Tag="[TextField]Property name:|$m_textBoxPropertyName|#1" />
+  <StaticText Name="PropertyNameST" Tag="[StaticText]Property name:|$m_labelProperty|#1" />
+  <GroupBox Name="ChooseATypeGB" Tag="[GroupBox]Choose a type|$m_groupBox|#1" />
+  <RadioButton Name="M_radioAcquisition" Tag="[GroupBox]Choose a type|$m_groupBox|#1/[RadioButton]$m_radioAcquisition|#6" />
+  <RadioButton Name="RadioButton2RB" Tag="[GroupBox]Choose a type|$m_groupBox|#1/[RadioButton]$m_radioSelection|#5" />
+  <RadioButton Name="RadioButton3RB" Tag="[GroupBox]Choose a type|$m_groupBox|#1/[RadioButton]$m_radioBlock|#4" />
+  <RadioButton Name="RadioButton4RB" Tag="[GroupBox]Choose a type|$m_groupBox|#1/[RadioButton]$m_radioBoolean|#3" />
+  <RadioButton Name="RadioButton5RB" Tag="[GroupBox]Choose a type|$m_groupBox|#1/[RadioButton]$m_radioNumeric|#2" />
+  <RadioButton Name="RadioButton6RB" Tag="[GroupBox]Choose a type|$m_groupBox|#1/[RadioButton]$m_radioString|#1" />
+  <TitleBar Name="AddPropertyCTL" Tag="[TitleBar]Add Property|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Add Property|$TitleBar|#1/[CustomWin]System Menu Bar|$AddPropertyDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Add Property|$TitleBar|#1/[CustomWin]System Menu Bar|$AddPropertyDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

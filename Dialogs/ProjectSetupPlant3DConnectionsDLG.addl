@@ -1,0 +1,37 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupPlant3DConnectionsDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="Plant3D">
+<TreeView Name="M_treeView" Tag="$m_treeView" />
+<StaticText Name="JointSetup" Tag="[StaticText]Joint setup|$groupBox1" />
+<StaticText Name="SimpleJoints" Tag="[StaticText]Simple joints|$groupBox2" />
+<Table Name="M_dataGridView1" Tag="$m_dataGridView1" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]Vertical Scroll Bar|$VerticalScrollBar" />
+<PushButton Name="Add" Tag="[PushButton]Add|$m_btnAddSimple" />
+<PushButton Name="Modify" Tag="[PushButton]Modify|$m_btnModifySimple" />
+<PushButton Name="Modify1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[PushButton]|$btnModifyCompound|#2" />
+<PushButton Name="Modify2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[PushButton]Modify*|$m_btnModifySimple|#2" />
+<PushButton Name="Delete" Tag="[PushButton]Delete|$m_btnDeleteSimple" />
+<CheckBox Name="EnableImperialToMetricConn" Tag="[CheckBox]Enable Imperial to Metric connection control|$m_ChkBoxEnableAnsiDin" />
+<StaticText Name="CompoundJoints" Tag="[StaticText]Compound joints|$groupBox3" />
+<Table Name="M_dataGridView2" Tag="$m_dataGridView2" />
+<PushButton Name="AddCompound" Tag="[PushButton]Add|$btnAddCompound" />
+<PushButton Name="ModifyCompound" Tag="[PushButton]Modify|$btnModifyCompound" />
+<PushButton Name="DeleteCompound" Tag="[PushButton]Delete|$btnDeleteCompound" />
+<StaticText Name="PipeSegments" Tag="[StaticText]Pipe segments|$groupBox4" />
+<StaticText Name="MinimumLengthText" Tag="[StaticText]Minimum length:|$label1" />
+<TextField Name="MinimumLength" Tag="[TextField]Minimum length:|$txtboxMinLength" />
+<StaticText Name="WeldGaps" Tag="[StaticText]Weld gaps|$groupBox5" />
+<CheckBox Name="UseWeldGaps" Tag="[CheckBox]Use weld gaps|$m_cbUseWeldgaps" />
+<StaticText Name="GapSizeText" Tag="[StaticText]Gap size:|$label3" />
+<TextField Name="GapSize" Tag="[TextField]Gap size:|$m_tbWeldgapSize" />
+<StaticText Name="WeldDots" Tag="[StaticText]Weld dots|$groupBox6" />
+<StaticText Name="DiameterText" Tag="[StaticText]Diameter:|$label4" />
+<TextField Name="Diameter" Tag="[TextField]Diameter:|$m_tbWeldDiameter" />
+<StaticText Name="WaferBolts" Tag="[StaticText]Wafer bolts|$groupBox7" />
+<StaticText Name="RoundUpToNearestText" Tag="[StaticText]Round up to nearest:|$label2" />
+<TextField Name="RoundUpToNearest" Tag="[TextField]Round up to nearest:|$m_tbWaferBoltRounding" />
+<CustomWin Name="SystemWindowsFormsSplitterP2" Tag="[System.Windows.Forms.SplitterPanel]#2" />
+<PushButton Name="Help" Tag="[PushButton]Help|$m_btnHelp" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|$m_btnCancel" />
+<PushButton Name="OK" Tag="[PushButton]OK|$m_btnOk" />
+<PushButton Name="Apply" Tag="[PushButton]Apply|$m_btnSave" />
+
+  </Autodesk.GUIHarness.AutoCAD.AcDialogBox>

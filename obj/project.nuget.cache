@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "irlKqGP8MTEuYixGY+f+KG295IMcwAvQ7Soieqjyf2RoIbCUS7VuJhQWNsLzl/HDcITAQAezPy+AooFKg2y/Aw==",
+  "success": true,
+  "projectFilePath": "C:\\LAGT\\Plant3D\\Plant3D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

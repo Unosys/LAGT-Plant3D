@@ -1,0 +1,32 @@
+<ProductTestSuite.CommonFiles.AdDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VM_OptionsDLG" Tag="[Pane]$OptionsForm" ParentType="VaultPro" GUIType="UIA">
+  
+  <PushButton Name="CancelPB" Tag="[PushButton]$m_cancelButton" />
+  <PushButton Name="OKPB" Tag="[PushButton]$m_okButton" />
+  
+  <!--<CheckBox Name="UndoCheckOutDialogCK" Tag="[GroupBox]$m_dialogSuppressionGroupBox/[CheckBox]$m_undoCheckOutCheckBox" />-->
+	<CheckBox Name="UndoCheckOutDialogCK" Tag="[Pane]$m_dialogSuppressionGroupBox/[CheckBox]$m_undoCheckOutCheckBox" />
+  <!--<PushButton Name="SettingsPB_UndoCheckOut" Tag="[GroupBox]$m_dialogSuppressionGroupBox/[PushButton]$m_undoCheckOutSettingsButton" />-->
+	<PushButton Name="SettingsPB_UndoCheckOut" Tag="[Pane]$m_dialogSuppressionGroupBox/[PushButton]$m_undoCheckOutSettingsButton" />
+	<!--<CheckBox Name="CheckInDialogCK" Tag="[GroupBox]$m_dialogSuppressionGroupBox/[CheckBox]$m_checkInCheckBox" />-->
+	<CheckBox Name="CheckInDialogCK" Tag="[Pane]$m_dialogSuppressionGroupBox/[CheckBox]$m_checkInCheckBox" />
+	<!--<PushButton Name="SettingsPB_CheckIn" Tag="[GroupBox]$m_dialogSuppressionGroupBox/[PushButton]$m_checkInSettingsButton" />-->
+	<PushButton Name="SettingsPB_CheckIn" Tag="[Pane]$m_dialogSuppressionGroupBox/[PushButton]$m_checkInSettingsButton" />
+  <!--<PushButton Name="SettingsPB_File" Tag="[GroupBox]$m_generalOptionsGroupBox/[PushButton]$btnFileOpenBehavior" />-->
+	<PushButton Name="SettingsPB_File" Tag="[Pane]$m_generalOptionsGroupBox/[PushButton]$btnFileOpenBehavior" />
+  <!--<PushButton Name="PromptsPB" Tag="[GroupBox]$m_generalOptionsGroupBox/[PushButton]$m_promptsButton" />-->
+	<PushButton Name="PromptsPB" Tag="[Pane]$m_generalOptionsGroupBox/[PushButton]$m_promptsButton" />
+  <!--<PushButton Name="BrowseForProjectFilePB" Tag="[GroupBox]$m_groupBoxInventorProjectFileOptions/[PushButton]$m_button_BrowseForProjectFile" />-->
+	<PushButton Name="BrowseForProjectFilePB" Tag="[Pane]$m_groupBoxInventorProjectFileOptions/[PushButton]$m_button_BrowseForProjectFile" />
+	<!--<PushButton Name="DocumentPreviewersPB" Tag="[GroupBox]$m_generalOptionsGroupBox/[PushButton]$m_documentPreviewButton" />-->
+	<PushButton Name="DocumentPreviewersPB" Tag="[Pane]$m_generalOptionsGroupBox/[PushButton]$m_documentPreviewButton" />
+	<PopupList Name="ColorThemePL" Tag="[Pane]$m_generalOptionsGroupBox/[PopupList]$m_skinsComboBox" />
+
+	<!--<PopupList Name="DefaultSettingsForViewingPL" Tag="[GroupBox]$m_generalOptionsGroupBox/[PopupList]$m_invViewerComboBox" />-->
+	<PopupList Name="DefaultSettingsForViewingPL" Tag="[Pane]$m_generalOptionsGroupBox/[PopupList]$m_invViewerComboBox" />
+  <!--<TextField Name="ProjectFileTF" Tag="[GroupBox]$m_groupBoxInventorProjectFileOptions/[TextField]$m_textBox_ProjectFilePath" />-->
+	<TextField Name="ProjectFileTF" Tag="[Pane]$m_groupBoxInventorProjectFileOptions/[TextField]$m_textBox_ProjectFilePath" />
+
+
+
+
+</ProductTestSuite.CommonFiles.AdDialogBox>

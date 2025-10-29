@@ -1,0 +1,7 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RCFConvertToRCFXMSG" Tag="[DialogBox]AutoCAD Plant 3D" ParentType="MainWin" GUIType="UIA">
+	<PushButton Name="AutomaticallyConvertTheSelectedPB" Tag="[Pane]AutoCAD Plant 3D|$Window|#1/[PushButton]Automatically convert the selected file(recommended)|$CommandLink_1001|#1" />
+	<PushButton Name="ChooseAnotherFilePB" Tag="[Pane]AutoCAD Plant 3D|$Window|#1/[PushButton]Choose another file|$CommandLink_1003|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]AutoCAD Plant 3D|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]AutoCAD Plant 3D|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

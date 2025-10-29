@@ -1,0 +1,10 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PipingPipeSpecNotLoaded" Tag="[DialogBox]Piping - Pipe Spec Not Loaded|#1" ParentType="MainWin" GUIType="WIN32">
+
+
+	<CheckBox Name="DoNotShowThisCK" Tag="[Pane]$Window|#1/[CheckBox]$VerificationCheckBox|#1" />
+	<PushButton Name="ClosePB" Tag="[Pane]$Window|#1/[PushButton]$CommandButton_8|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectBackupDLG_CollaborationProgress" Tag="[Window]Plant 3D - Project Backup|$PrjBackUpDlog" >
+
+	<PushButton Name="CancelPB" Tag="[CustomWin]$ProgressPage|#1/[PushButton]Cancel|$CancelButton|#1" />
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Plant 3D - Project Backup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<PushButton Name="Close2PB" Tag="[CustomWin]$CancelPage|#1/[PushButton]Close|$CloseButton|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

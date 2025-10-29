@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSignalLineGroupDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3410374|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+	<PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3410374|#2/[PushButton]OK|$m_btnOk|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

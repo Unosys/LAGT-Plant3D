@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDNoNewValidationErrorsDetecDLG" Tag="[DialogBox]No New Validation Errors Detected" ParentType="Plant3D">
+<CustomWin Name="DirectUIHWND1" Tag="[DirectUIHWND]$0" />
+<CustomWin Name="CtrlNotifySink1" Tag="[CtrlNotifySink]$0" />
+<PushButton Name="OKPB" Tag="$0" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

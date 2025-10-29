@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectPostShapeDLG" Tag="[DialogBox]*Post Shape*" ParentType="Plant3D">
+<PushButton Name="Cancel" Tag="[PushButton]$1038" />
+<PushButton Name="Select" Tag="[PushButton]$1037" />
+<PushButton Name="Help" Tag="[PushButton]$1030" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

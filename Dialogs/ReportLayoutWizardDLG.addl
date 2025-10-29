@@ -1,0 +1,21 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportLayoutWizardDLG" Tag="[Pane]Report Wizard|$WizardView" ParentType="Pane" GUIType="UIA">
+<CustomWin Name="BackButton" Tag="[CustomWin]$backButton" />
+  <PushButton Name="CancelButton" Tag="[PushButton] Cancel |$cancelButton|#1" />
+<!--<CustomWin Name="CancelButton" Tag="[CustomWin]$cancelButton" />-->
+<CustomWin Name="ChkAdjustFields" Tag="[CustomWin]$chkAdjustFields" />
+<CustomWin Name="FinishButton" Tag="[CustomWin]$finishButton" />
+<CustomWin Name="GrpLayout" Tag="[CustomWin]$grpLayout" />
+<CustomWin Name="GrpOrientation" Tag="[CustomWin]$grpOrientation" />
+<GroupBox Name="HeaderPanel" Tag="[GroupBox]$headerPanel" />
+<CustomWin Name="HeaderPicture" Tag="[CustomWin]$headerPicture" />
+<GroupBox Name="HeaderSeparator" Tag="[GroupBox]$headerSeparator" />
+<CustomWin Name="NextButton" Tag="[CustomWin]$nextButton" />
+<CustomWin Name="PicOrientation" Tag="[CustomWin]$picOrientation" />
+<CustomWin Name="PicPreview" Tag="[CustomWin]$picPreview" />
+<CustomWin Name="RgrpLayout" Tag="[CustomWin]$rgrpLayout" />
+<CustomWin Name="RgrpOrientation" Tag="[CustomWin]$rgrpOrientation" />
+<GroupBox Name="Separator" Tag="[GroupBox]$separator" />
+<StaticText Name="SubtitleLabel" Tag="[StaticText]$subtitleLabel" />
+<StaticText Name="TitleLabel" Tag="[StaticText]$titleLabel" />
+<CustomWin Name="WizPageGroupedLayout" Tag="[CustomWin]$WizPageGroupedLayout" />
+</Pane>

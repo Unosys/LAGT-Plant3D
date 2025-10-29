@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.FormattingRulesSheetEditorDLG" Tag="[Pane]Formatting Rule Sheet Editor|$FormattingRuleSheetEditorForm" ParentType="Pane" GUIType="UIA">
+
+	<PushButton Name="Close2PB" Tag="[TitleBar]Formatting Rule Sheet Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="PushButton1PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btPurge|#5" />
+	<PushButton Name="PushButton2PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btClear|#4" />
+	<PushButton Name="PushButton3PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btRemove|#3" />
+	<PushButton Name="PushButton4PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btClone|#2" />
+	<PushButton Name="AddPB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btAdd|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SDNFExportDLG" Tag="[DialogBox]SDNF Export" ParentType="Plant3D">
+<PushButton Name="Button1" Tag="[PushButton]$" />
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<TextField Name="ClientIdentificationTextField" Tag="[TextField]$" />
+<TextField Name="DesignCodeTextField" Tag="[TextField]$" />
+<TextField Name="EngineeringFirmNameTextField" Tag="[TextField]$" />
+<PushButton Name="Export" Tag="[PushButton]$1" />
+<PushButton Name="Help" Tag="[PushButton]$3" />
+<GroupBox Name="Objects" Tag="[GroupBox]$" />
+<TextField Name="OutputFileTextField" Tag="[TextField]$" />
+<TextField Name="ProjectIDTextField" Tag="[TextField]$" />
+<PushButton Name="PushButton" Tag="[PushButton]$" />
+<TextField Name="RevisionNumberTextField" Tag="[TextField]$" />
+<TextField Name="StructureNameTextField" Tag="[TextField]$" />
+<GroupBox Name="TitlePacketInformation" Tag="[GroupBox]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

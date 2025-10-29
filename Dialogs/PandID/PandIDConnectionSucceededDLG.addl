@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDConnectionSucceededDLG" Tag="[DialogBox]Connection Succeeded" ParentType="Pane">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="YourTestOfTheConnectionTo" Tag="[StaticText]Your test of the connection to the specified server has been successful.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

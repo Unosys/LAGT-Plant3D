@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDLineListDLG" Tag="[CustomWin]#3" ParentType="Plant3D" GUIType="WIN32">
+<CustomWin Name="AfxControlBar90u1" Tag="[CustomWin][AfxControlBar*u]#1|[AfxControlBar*u]$59423" />
+<CustomWin Name="AfxWnd90u1" Tag="[CustomWin][AfxWnd*u]#1|[AfxWnd*u]$16719" />
+<CustomWin Name="PIDLineList" Tag="[CustomWin][AfxWnd*u]PID Line List|[AfxWnd*u]#1|[AfxWnd*u]$8" />
+<CustomWin Name="LineListESW" Tag="[Autodesk.ProcessPower.PnP3dInteropUI.LineListESW]$LineListESW" />
+<CustomWin Name="Panel1" Tag="[System.Windows.Forms.Panel]$panel1" />
+<PushButton Name="Btn_Open" Tag="$Btn_Open" />
+<CustomWin Name="Panel2" Tag="[System.Windows.Forms.Panel]$panel2" />
+<PushButton Name="Btn_Refresh" Tag="$Btn_Refresh" />
+<CheckBox Name="ZoomToSelectedItem" Tag="[CheckBox]Zoom to selected item|$m_chkZoom" />
+<PushButton Name="Place" Tag="[PushButton]Place|$m_btnPlace" />
+<PopupList Name="M_cmbDwgTitles" Tag="$m_cmbDwgTitles" />
+<TreeView Name="M_treeLines" Tag="[TreeView]#1|$m_treeLines" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

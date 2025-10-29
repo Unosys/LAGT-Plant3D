@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecAndCatalogMigrationRequired1DLG" Tag="[MainWin]Spec and Catalog Migration Required|$UpgradeMigrationRequiredWindow" >
+
+
+  <PushButton Name="Close1PB" Tag="[TitleBar]Spec and Catalog Migration Required|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="ShowDetailsPB" Tag="[GroupBox]Show details|$expanderFiles|#1/[PushButton]Show details|$HeaderSite|#1" />
+  <PushButton Name="Close2PB" Tag="[PushButton]Close|$button1|#1" />
+
+</Autodesk.GUIHarness.MainWin>

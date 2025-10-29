@@ -1,0 +1,6 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DConvertToEquipmentDLG" Tag="[Pane]$SelectEquipmentTypeDlg" ParentType="Plant3D">
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<PushButton Name="M_Cancel" Tag="[PushButton]$m_Cancel" />
+<PushButton Name="M_Select" Tag="[PushButton]$m_Select" />
+<TreeView Name="M_TypeTree" Tag="[TreeView]$m_TypeTree" />
+</Pane>

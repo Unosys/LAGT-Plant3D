@@ -1,0 +1,26 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDPMUMoveProjectDatabaseDLG" Tag="[DialogBox]$ProjectMaintenanceDlg" ParentType="Desktop">
+<ComboBox Name="AuthenticationCombobox" Tag="[ComboBox]$AuthenticationCombobox" />
+<GroupBox Name="AuthGroup" Tag="[GroupBox]$AuthGroup" />
+<PushButton Name="CheckConnectionBtn" Tag="[PushButton]$CheckConnectionBtn" />
+<PushButton Name="CloseBtn" Tag="[PushButton]$CloseBtn" />
+<GroupBox Name="DBGroup" Tag="[GroupBox]$DBGroup" />
+<TextField Name="DbPrefixTxt" Tag="[Pane]$DetailsControl|#1/[GroupBox]Database|$DBGroup|#2/[TextField]Database prefix name: |$DbPrefixTxt|#1" />
+<CustomWin Name="DetailsControl" Tag="[CustomWin]$DetailsControl" />
+<PushButton Name="DoBtn" Tag="[Pane]$DetailsControl|#1/[PushButton]Move|$DoBtn|#1" />
+<PushButton Name="GenerateNameBtn" Tag="[PushButton]$GenerateNameBtn" />
+<StaticText Name="InfoLable" Tag="[StaticText]$infoLable" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label2" Tag="[StaticText]$label2" />
+<StaticText Name="Label3" Tag="[StaticText]$label3" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+<StaticText Name="Label6" Tag="[StaticText]$label6" />
+<GroupBox Name="LogGroup" Tag="[GroupBox]$LogGroup" />
+<ListBox Name="LogList" Tag="[ListBox]$LogList" />
+<PushButton Name="MoveBrowseBtn" Tag="[Pane]$DetailsControl|#1/[GroupBox]Move details|$MoveGroup|#1/[PushButton]Browse*|$MoveBrowseBtn|#1" />
+<GroupBox Name="MoveGroup" Tag="[GroupBox]$MoveGroup" />
+<TextField Name="MovePjtPathTB" Tag="[TextField]$MovePjtPathTB" />
+<TextField Name="PasswordTxtBox" Tag="[TextField]$PasswordTxtBox" />
+<ComboBox Name="ServerListCombbox" Tag="[ComboBox]$ServerListCombbox" />
+<ComboBox Name="ServerListCombboxTextField" Tag="[Pane]$DetailsControl|#1/[GroupBox]Database|$DBGroup|#2/[ComboBox]SQL Server name:|$ServerListCombbox|#1" />
+<TextField Name="UserNameTxtbox" Tag="[TextField]$UserNameTxtbox" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

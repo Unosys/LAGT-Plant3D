@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDAutoCADPIDDLG" Tag="[Pane]$DataGridInfoDialog" >
+<CheckBox Name="M_notShowAgainChkBox" Tag="[CheckBox]$m_notShowAgainChkBox" />
+<PushButton Name="M_OKButton" Tag="[PushButton]$m_OKButton" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

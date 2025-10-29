@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDTagInUse" Tag="[DialogBox]Tag in Use|#1" ParentType="Pane" GUIType="UIA">
+
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="AnotherSchematicLineGroupST" Tag="[StaticText]Another schematic line group in the project has the same tag which has not been saved*|$65535|#1" />
+  <TitleBar Name="TagInUseCTL" Tag="[TitleBar]Tag in Use|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Tag in Use|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

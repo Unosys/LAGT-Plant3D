@@ -1,0 +1,55 @@
+<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SavePCFToDLG" Tag="[DialogBox]SavePCFToDLG" ParentType="Plant3D">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="CreateNewFolderAlt5" Tag="[PushButton]$" />
+<PushButton Name="DeleteDel" Tag="[PushButton]$" />
+<Header Name="Header" Tag="[Header]$" />
+<ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$" />
+<ListView Name="ListView" Tag="[ListView]$" />
+<ListBox Name="LookIn" Tag="[ListBox]$" />
+<ComboBox Name="LookInComboBox" Tag="[ComboBox]$" />
+<StaticText Name="LookInLabel" Tag="[StaticText]$" />
+<PushButton Name="Open" Tag="[PushButton]$1" />
+<PushButton Name="PreviousFolderAlt1" Tag="[PushButton]$" />
+<PushButton Name="SearchTheWebAlt3" Tag="[PushButton]$" />
+<CustomWin Name="SHELLDLL_DefView" Tag="[CustomWin]$SHELLDLL_DefView" />
+<PushButton Name="Tools" Tag="[PushButton]$" />
+<PushButton Name="UpOneLevelAlt2" Tag="[PushButton]$" />
+<PushButton Name="Views" Tag="[PushButton]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>-->
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SavePCFToDLG" Tag="[DialogBox]*/Save PCF To" >
+  <!--<CustomWin Name="CustomWinWIN" Tag="[CustomWin]#1" />
+  <ListView Name="ListView" Tag="[CustomWin]#1/[ListView]$1|#1" />
+  <Header Name="HeaderCTL" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="NameWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 0|#1" />
+  <CustomWin Name="DateModifiedWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Date modified|$HeaderItem 1|#2" />
+  <CustomWin Name="TypeWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Type|$HeaderItem 2|#3" />
+  <ScrollBar Name="HorizontalScrollBarSB" Tag="[CustomWin]#1/[ListView]$1|#1/[ScrollBar]Horizontal Scroll Bar|$Horizontal ScrollBar|#1" />  
+  <TextField Name="TextField1TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]Images|#1/[TextField]#1" />
+  <TextField Name="TextField2TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]Images|#1/[TextField]#2" />
+  <TextField Name="TextField3TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]Images|#1/[TextField]#3" />
+  <TextField Name="TextField4TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]Isometric|#2/[TextField]#1" />
+  <TextField Name="TextField5TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]Isometric|#2/[TextField]#2" />
+  <TextField Name="TextField6TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]Isometric|#2/[TextField]#3" />  
+  <PushButton Name="PreviousFolderAlt1PB" Tag="[PushButton]Previous folder(Alt+1)|$13011|#1" />
+  <PushButton Name="UpOneLevelAlt2PB" Tag="[PushButton]Up one level (Alt+2)|$13003|#2" />
+  <PushButton Name="SearchTheWebAlt3PB" Tag="[PushButton]Search the Web (Alt+3)|$13004|#3" />
+  <PushButton Name="DeleteDelPB" Tag="[PushButton]Delete (Del)|$13014|#4" />
+  <PushButton Name="CreateNewFolderAlt5PB" Tag="[PushButton]Create New Folder (Alt+5)|$13013|#5" />
+  <PushButton Name="ViewsPB" Tag="[PushButton]Views|$13012|#6" />
+  <PushButton Name="ToolsPB" Tag="[PushButton]Tools|$13005|#7" />-->
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+  <!--<ListBox Name="LookInLB" Tag="[ListBox]Look in:|$13000|#1" />
+  <ListBoxItem Name="A360LBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]A360|#1" />
+  <ListBoxItem Name="HistoryLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]History|#2" />
+  <ListBoxItem Name="DocumentsLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Documents|#3" />
+  <ListBoxItem Name="FavoritesLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Favorites|#4" />
+  <ListBoxItem Name="DesktopLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Desktop|#5" />
+  <StaticText Name="LookInST" Tag="[StaticText]Look in:|$13007|#1" />
+  <PopupList Name="LookInPL" Tag="[PopupList]Look in:|$13001|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]Look in:|$13001|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <TitleBar Name="SavePCFToCTL" Tag="[TitleBar]Save PCF To|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Save PCF To|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Save PCF To|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Save PCF To|$TitleBar|#1/[PushButton]Close|$Close|#1" />-->
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

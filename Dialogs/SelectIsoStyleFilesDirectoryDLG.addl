@@ -1,0 +1,20 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectIsoStyleFilesDirectoryDLG" Tag="[DialogBox]Select Iso Style Files Directory" ParentType="ProjectSetupPIDLineDLG">
+<ListBox Name="LookIn1" Tag="[ListBox]Look in:|#1|$13000" />
+<StaticText Name="LookInText" Tag="[StaticText]Look in:|#1|$13007" />
+<PopupList Name="LookIn2" Tag="[PopupList]Look in:|#1|$13001" />
+<ListView Name="ListView1" Tag="[ListView]#1|$1" />
+<Header Name="Header1" Tag="[Header]#1|$0" />
+<PushButton Name="Name" Tag="[PushButton]Name|#1" />
+<PushButton Name="Size" Tag="[PushButton]Size|#2" />
+<PushButton Name="Type" Tag="[PushButton]Type|#3" />
+<PushButton Name="DateModified" Tag="[PushButton]Date Modified|#4" />
+<PushButton Name="PreviousFolderAlt1" Tag="[PushButton]Previous folder(Alt+1)|#1|$13011" />
+<PushButton Name="UpOneLevelAlt2" Tag="[PushButton]Up one level (Alt+2)|#2|$13003" />
+<PushButton Name="SearchTheWebAlt3" Tag="[PushButton]Search the Web (Alt+3)|#3|$13004" />
+<PushButton Name="DeleteDel" Tag="[PushButton]Delete (Del)|#4|$13014" />
+<PushButton Name="CreateNewFolderAlt5" Tag="[PushButton]Create New Folder (Alt+5)|#5|$13013" />
+<PushButton Name="Views" Tag="[PushButton]Views|#6|$13012" />
+<PushButton Name="Tools" Tag="[PushButton]Tools|#7|$13005" />
+<PushButton Name="Open" Tag="[PushButton]Open|#8|$1" />
+<PushButton Name="CancelPB" Tag="[PushButton]Cancel|#9|$2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

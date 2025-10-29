@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConvertToPIDObjectDLG" Tag="[DialogBox]Convert to P&amp;ID Object" ParentType="Plant3D">
+<PushButton Name="Help" Tag="[PushButton]Help|$btnHelp|@(249,382)" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|$btnCancel|@(166,382)" />
+<PushButton Name="OK" Tag="[PushButton]OK|$btnOk|@(83,382)" />
+<StaticText Name="Classes" Tag="[StaticText]Classes|$groupBox|@(148,178)" />
+<TreeView Name="TreeView" Tag="[TreeView]$treeView|@(142,183)" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

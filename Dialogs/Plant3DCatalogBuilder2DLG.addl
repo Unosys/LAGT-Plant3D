@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DCatalogBuilder2DLG" Tag="[DialogBox]Welcome to the Autodesk AutoCAD Plant 3D Catalog Builder" ParentType="Plant3D">
+<Image Name="Image1" Tag="[Image]$Image_1" />
+<StaticText Name="TextBlock1" Tag="[StaticText]$TextBlock_1" />
+<StaticText Name="CreateNew" Tag="[StaticText]$CreateNew" />
+<StaticText Name="EditExisting" Tag="[StaticText]$EditExisting" />
+<StaticText Name="TextBlock2" Tag="[StaticText]$TextBlock_2" />
+<StaticText Name="BuildCatalog" Tag="[StaticText]$BuildCatalog" />
+<StaticText Name="TextBlock3" Tag="[StaticText]$TextBlock_3" />
+<PushButton Name="Chevron" Tag="[PushButton]$Chevron" />
+<Image Name="ChevronUpImage" Tag="[Image]$ChevronUpImage" />
+<StaticText Name="Label1" Tag="[StaticText]$Label_1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

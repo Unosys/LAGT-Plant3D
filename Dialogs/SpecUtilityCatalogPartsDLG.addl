@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityCatalogPartsDLG" Tag="[Window]Catalog Properties|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+	<!--<PageList Name="PageListPG" Tag="[PageList]$PropertiesTabControl|#1" />-->
+	<Window Name="GeneralPropertiesWIN" Tag="[PageList]$PropertiesTabControl|#1/[Window]$TabItem_1|#1" />
+
+	<Window Name="SizesWIN" Tag="[PageList]$PropertiesTabControl|#1/[Window]$TabItem_2|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

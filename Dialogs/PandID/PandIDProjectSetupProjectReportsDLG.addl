@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupProjectReportsDLG" Tag="[DialogBox]$EditProjectSettingsDlg" ParentType="Plant3D">
+	<PushButton Name="M_btnNew" Tag="[Pane]$m_splitHorz|#1/[Pane]$5246688|#1/[Pane]$m_splitVert|#1/[Pane]$7867210|#2/[Pane]$m_reportsUserControl|#1/[GroupBox]Project reports|$groupBox1|#1/[PushButton]$m_btnNew|#1" />
+	<ListBox Name="M_listBox" Tag="[Pane]$m_splitHorz|#1/[Pane]$5246688|#1/[Pane]$m_splitVert|#1/[Pane]$7867210|#2/[Pane]$m_reportsUserControl|#1/[GroupBox]Project reports|$groupBox1|#1/[ListBox]Defined reports:|$m_listBox|#1" />
+	<PushButton Name="M_btnModify" Tag="[Pane]$m_splitHorz|#1/[Pane]$5246688|#1/[Pane]$m_splitVert|#1/[Pane]$7867210|#2/[Pane]$m_reportsUserControl|#1/[GroupBox]Project reports|$groupBox1|#1/[PushButton]$m_btnModify" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

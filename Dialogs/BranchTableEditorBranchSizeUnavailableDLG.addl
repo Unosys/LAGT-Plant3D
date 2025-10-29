@@ -1,0 +1,7 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.BranchTableEditorBranchSizeUnavailableDLG" Tag="[Window]Branch Table Editor – Branch Size Unavailable|$BranchSizeUnavailable_Window" ParentType="MainWin" GUIType="UIA">
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#1" />
+	<Image Name="Image2IMG" Tag="[Image]$BulletImage1|#2" />
+	<StaticText Name="SelectBranchFitting" Tag="[StaticText]$SelectBranchFitting|#3" />
+
+</Window>

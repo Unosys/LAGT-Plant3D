@@ -1,0 +1,31 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.GroupFieldCollectionEditorDLG" Tag="[Pane]$GroupFieldCollectionEditorForm" ParentType="ReportDesignerApplicationDLG">
+
+
+  <Pane Name="TheXtraLayoutControl1PANE" Tag="[Pane]$layoutControl1|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]$layoutControl1|#1/[PushButton]*OK*|$btnOk|#1" />
+  <StaticText Name="StaticTextST" Tag="[Pane]$layoutControl1|#1/[StaticText]$bottomLine|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1" />
+  <Pane Name="TheXtraLayoutControl2PANE" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1" />
+  <PushButton Name="PushButton1PB" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[PushButton]$buttonDown|#4" />
+  <PushButton Name="AddPB" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[PushButton]*Add*|$buttonAdd|#1" />
+  <PushButton Name="RemovePB" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[PushButton]*Remove*|$buttonRemove|#2" />
+  <PushButton Name="PushButton2PB" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[PushButton]$buttonUp|#3" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1" />
+  <Pane Name="TheXtraLayoutControl3PANE" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1" />
+  <Table Name="TableTBL" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Table]$propertyGridControl|#1" />
+  <CustomWin Name="DataPanel1WIN" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Table]$propertyGridControl|#1/[CustomWin]Data Panel|#1" />
+  <CustomWin Name="Record0WIN" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Table]$propertyGridControl|#1/[CustomWin]Data Panel|#1/[CustomWin]Record 0|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Pane]$propertyDescriptionControl|#1" />
+  <GroupBox Name="DockTopGB" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[GroupBox]Dock Top|$15142380|#1" />
+  <ToolBar Name="ToolsTB" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[GroupBox]Dock Top|$15142380|#1/[ToolBar]Tools|$32638482|#1" />
+  <PushButton Name="CategorizedPB" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[GroupBox]Dock Top|$15142380|#1/[ToolBar]Tools|$32638482|#1/[PushButton]Categorized|#1" />
+  <PushButton Name="AlphabeticalPB" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[GroupBox]Dock Top|$15142380|#1/[ToolBar]Tools|$32638482|#1/[PushButton]Alphabetical|#2" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[TreeView]$tv|#1" />
+  <CustomWin Name="HeaderPanelWIN" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[TreeView]$tv|#1/[CustomWin]Header Panel|#2" />
+  <Header Name="HeaderCTL" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[TreeView]$tv|#1/[CustomWin]Header Panel|#2/[Header]#1" />
+  <CustomWin Name="DataPanel2WIN" Tag="[Pane]$layoutControl1|#1/[Pane]$collectionEditorContent|#1/[Pane]$layoutControl1|#1/[TreeView]$tv|#1/[CustomWin]Data Panel|#1" />
+  <TitleBar Name="GroupFieldCollectionEditorCTL" Tag="[TitleBar]Group Field Collection Editor|$TitleBar|#1" />
+
+ 
+</Pane>

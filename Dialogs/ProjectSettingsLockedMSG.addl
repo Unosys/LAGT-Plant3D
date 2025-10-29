@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSettingsLockedMSG" Tag="[DialogBox]Project Settings Locked" >
+
+	<PushButton Name="YesPB" Tag="[PushButton]Yes" />
+	<PushButton Name="NoPB" Tag="[PushButton]No" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

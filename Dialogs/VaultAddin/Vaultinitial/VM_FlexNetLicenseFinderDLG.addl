@@ -1,0 +1,16 @@
+﻿<ProductTestSuite.CommonFiles.AdDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VM_FlexNetLicenseFinderDLG" Tag="[DialogBox]FlexNet License Finder" ParentType="Desktop"  GUIType="WIN32" >
+
+  <PushButton Name="NextPB" Tag="[PushButton]$11016" />
+  <TextField Name="EnterTheComputerNameTF" Tag="[DialogBox]#1/[TextField]$11003" />
+  
+
+  <PushButton Name="BackPB" Tag="[PushButton]&lt;Back|$11017|#2" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#1" />
+  <DialogBox Name="DialogBoxDLG" Tag="[DialogBox]#1" />
+  <RadioButton Name="RadioButton1RB" Tag="[DialogBox]#1/[RadioButton]$11003|#1" />
+  <RadioButton Name="RadioButton2RB" Tag="[DialogBox]#1/[RadioButton]$11011|#2" />
+  <StaticText Name="YourApplicationWasNotST" Tag="[DialogBox]#1/[StaticText]Your application was not able to obtain a license because the FlexNet license server manager could not determine where to find the licensing data it needs*|$-1|#1" />
+  <GroupBox Name="GroupBoxGB" Tag="[DialogBox]#1/[GroupBox]$-1|#1" />
+  <StaticText Name="CopyrightcFlexeraSoftwareST" Tag="[DialogBox]#1/[StaticText]Copyright (c) Flexera Software LLC|$-1|#2" />
+
+</ProductTestSuite.CommonFiles.AdDialogBox>

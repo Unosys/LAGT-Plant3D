@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BoltStandardAlreadyExistsDLG" Tag="[DialogBox]Bolt Standard Already Exists" ParentType="Plant3D">
+<PushButton Name="CloseButton" Tag="[PushButton]$CloseButton" />
+<Image Name="WarningImage" Tag="[Image]$WarningImage" />
+<StaticText Name="HeaderTextBlock" Tag="[StaticText]$HeaderTextBlock" />
+<StaticText Name="MessageTexBlock" Tag="[StaticText]$MessageTexBlock" />
+<Image Name="Image" Tag="[Image]$" />
+<StaticText Name="TextBlock" Tag="[StaticText]$" />
+<StaticText Name="TextBlock4" Tag="[StaticText]$" />
+<Image Name="Image3" Tag="[Image]$" />
+<StaticText Name="TextBlock2" Tag="[StaticText]$" />
+<StaticText Name="TextBlock3" Tag="[StaticText]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

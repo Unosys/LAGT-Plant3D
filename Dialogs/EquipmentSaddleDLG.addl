@@ -1,0 +1,4 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.EquipmentSaddleDLG" Tag="[Pane]Create Equipment|$EquBaseDlg" ParentType="Plant3D" GUIType="UIA">
+	<Pane Name="EquipmentPANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Pane]Equipment|$m_TabEquipment|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

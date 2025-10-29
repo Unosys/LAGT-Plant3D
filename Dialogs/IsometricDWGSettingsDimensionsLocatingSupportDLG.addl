@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsometricDWGSettingsDimensionsLocatingSupportDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="Plant3D" GUIType="UIA">
+  <PopupList Name="HowToDimensionEndPointsPL" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]*/[Pane]*/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$TabControl_1|#1/[Window]#4/[CustomWin]$UserControl_1|#1/[PopupList]$ImageCombobox" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[PushButton]$m_btnCancel" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

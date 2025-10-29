@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.AnnotationCollectionEditorDLG"  Tag="[Pane]*/$AnnotationCollectionEditorForm">
+
+
+  <Table Name="TableTBL" Tag="[Table]$propertyGrid|#1" />
+  <CustomWin Name="DataPanelWIN" Tag="[Table]$propertyGrid|#1/[CustomWin]Data Panel|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[Table]$propertyGrid|#1/[CustomWin]Data Panel|#1/[CustomWin]#1" />
+  <StaticText Name="StaticTextST" Tag="[StaticText]$labelControl1|#1" />
+  <PushButton Name="ClosePB" Tag="[PushButton]Close|$btnClose|#5" />
+  <PushButton Name="RemovePB" Tag="[PushButton]*Remove*|$btnRemove|#4" />
+  <PushButton Name="AddPB" Tag="[PushButton]*Add*|$btnAdd|#3" />
+  <PushButton Name="PushButton1PB" Tag="[PushButton]$btnDown|#2" />
+  <PushButton Name="PushButton2PB" Tag="[PushButton]$btnUp|#1" />
+  <ListBox Name="ListBoxLB" Tag="[ListBox]$fListBox|#1" />
+  <TitleBar Name="AnnotationCollectionEditorCTL" Tag="[TitleBar]Annotation Collection Editor|$TitleBar|#1" />
+
+</Pane>

@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.WarningAutoCADDLG" Tag="[DialogBox]*/AutoCAD" >
+
+  <PushButton Name="Yes" Tag="[PushButton]Yes|#1|$6" />
+<PushButton Name="No" Tag="[PushButton]No|#2|$7" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|#3|$2" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]#1|[Icon]$20" />
+<StaticText Name="SaveChangesToCDocuments" Tag="[StaticText]Save changes to ?C:\Documents and Settings\nsarch\Application Data\Autodesk\AutoCAD PID 2010\R18.0\enu\DefaultProject\PID_DWG*|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

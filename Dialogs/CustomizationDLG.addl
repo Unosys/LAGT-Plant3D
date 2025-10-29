@@ -1,0 +1,24 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.CustomizationDLG" Tag="[Pane]Customization|$CustomizationForm" ParentType="Pane" GUIType="UIA">
+
+	
+	<!--<PageList Name="PageListPG" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1" />-->
+	<Pane Name="ToolbarsPANE" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1" />
+	<PushButton Name="RenamePB" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[PushButton]Rename|$btRenameBar|#2" />
+	<PushButton Name="ResetPB" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[PushButton]Reset|$btResetBar|#4" />
+	<PushButton Name="DeletePB" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[PushButton]Delete|$btDeleteBar|#3" />
+	<PushButton Name="NewPB" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[PushButton]New|$btNewBar|#1" />
+	<StaticText Name="ToolbarsST" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[StaticText]Toolbars:|$lbToolbarCaption|#1" />
+	<ListBox Name="ToolbarsLB" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[ListBox]Toolbars:|$toolBarsList|#1" />
+	<CheckBox Name="ToolbarCK" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[ListBox]Toolbars:|$toolBarsList|#1/[CheckBox]Toolbar|#1" />
+	<CheckBox Name="StatusBarCK" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[ListBox]Toolbars:|$toolBarsList|#1/[CheckBox]Status Bar|#2" />
+	<CheckBox Name="MainMenuCK" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Pane]$tpToolbars|#1/[ListBox]Toolbars:|$toolBarsList|#1/[CheckBox]Main Menu|#3" />
+	<Window Name="ToolbarsWIN" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Window]Toolbars|#3" />
+	<Window Name="CommandsWIN" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Window]Commands|#1" />
+	<Window Name="OptionsWIN" Tag="[Pane]$localizationManager|#2/[PageList]$tabControl|#1/[Window]Options|#2" />
+	<PushButton Name="Close1PB" Tag="[Pane]$localizationManager|#2/[PushButton]Close|$btClose|#1" />
+	<TitleBar Name="CustomizationCTL" Tag="[TitleBar]Customization|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Customization|$TitleBar|#1/[CustomWin]System Menu Bar|$CustomizationForm|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Customization|$TitleBar|#1/[CustomWin]System Menu Bar|$CustomizationForm|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="Close2PB" Tag="[TitleBar]Customization|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

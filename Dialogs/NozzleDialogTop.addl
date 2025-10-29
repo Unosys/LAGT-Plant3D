@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.NozzleDialogTop" Tag="[Window]$NozzleDialog_1">
+
+	<PushButton Name="ClosePB" Tag="[PushButton]Close|$m_btnClose" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

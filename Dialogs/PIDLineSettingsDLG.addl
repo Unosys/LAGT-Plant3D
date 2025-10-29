@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDLineSettingsDLG" Tag="[DialogBox]Line Settings" ParentType="ProjectSetupPIDLineDLG">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="Help" Tag="[PushButton]$9" />
+<ListBox Name="ListBox" Tag="[ListBox]$239" />
+<PushButton Name="OK" Tag="[PushButton]$1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

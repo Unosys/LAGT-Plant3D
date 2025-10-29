@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecEditorLongDescriptionStyleDeletionDLG" Tag="[Window]Spec Editor - Long Description Style Deletion|$TaskDialog_Enhanced" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="SpecEditorLongCTL" Tag="[TitleBar]Spec Editor - Long Description Style Deletion|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Spec Editor - Long Description Style Deletion|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Spec Editor - Long Description Style Deletion|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Spec Editor - Long Description Style Deletion|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CloseButton|#1" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CloseButton|#1/[StaticText]Cancel|#1" />
+  <Image Name="Image1IMG" Tag="[Image]$WarningImage|#1" />
+  <StaticText Name="DoYouWantToST" Tag="[StaticText]Do you want to delete long description style Dummy?|$HeaderTextBlock|#1" />
+  <StaticText Name="StaticTextST" Tag="[StaticText]$MessageTexBlock|#2" />
+  <Image Name="Image2IMG" Tag="[Image]#2" />
+  <StaticText Name="DeleteLongDescriptionStyleST" Tag="[StaticText]Delete long description style Dummy|#3" />
+  <Image Name="Image3IMG" Tag="[Image]#3" />
+  <StaticText Name="DoNotDeleteLongST" Tag="[StaticText]Do not delete long description style Dummy|#4" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

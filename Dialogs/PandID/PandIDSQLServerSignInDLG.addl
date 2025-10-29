@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSQLServerSignInDLG" Tag="[DialogBox]$frmSqlServerSignIn" ParentType="Plant3D">
+<TextField Name="ProjectName" Tag="[TextField]Project Name:|#1|$m_textBox_ProjName" />
+<StaticText Name="ProjectNameText" Tag="[StaticText]Project Name:|#1|$m_label_projName" />
+<PushButton Name="SignInPB" Tag="[PushButton]Sign In|#2|$m_btnSignin" />
+<PushButton Name="CancelPB" Tag="[PushButton]Cancel|#1|$m_btnCancel" />
+<TextField Name="PasswordTF" Tag="[TextField]Password:|#3|$m_textBox_pwd" />
+<StaticText Name="PasswordText" Tag="[StaticText]Password:|#3|$m_label_pwd" />
+<TextField Name="UserNameTF" Tag="[TextField]User Name:|#2|$m_textBox_username" />
+<StaticText Name="UserNameText" Tag="[StaticText]User Name:|#2|$m_label_username" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,9 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RemoveDrawingFromProjectDLG" Tag="[DialogBox]Remove Drawing From Project" ParentType="ProjManUndocked">
+  <Pane Name="RemoveDrawingFromProjectPANE" GUIType="UIA" Tag="[Pane]Remove Drawing From Project|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Remove Drawing From Project|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Remove Drawing From Project|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Remove Drawing From Project|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="TheSelectedDrawingAndST" Tag="[Pane]Remove Drawing From Project|$Window|#1/[StaticText]The selected drawing and its information will no longer be available in this project*|$MainInstruction|#1" />
+  <PushButton Name="RemoveTheDrawingFromPB" Tag="[Pane]Remove Drawing From Project|$Window|#1/[PushButton]Remove the Drawing from the Project |$CommandLink_0|#1" />
+  <PushButton Name="DoNotRemoveThePB" Tag="[Pane]Remove Drawing From Project|$Window|#1/[PushButton]Do Not Remove the Drawing from the Project|$CommandLink_1|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

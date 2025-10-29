@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADSteelMemberErrorDLG" Tag="[DialogBox]AutoCAD" ParentType="MainWin" GUIType="WIN32">
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

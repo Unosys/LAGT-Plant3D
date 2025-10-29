@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataManagerConfigurationDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#2/[PushButton]Cancel|$m_btnCancel|#3" />
+
+	<PushButton Name="DeleteViewPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[PushButton]Delete View|$m_buttonRemoveView|#2" />
+	<PushButton Name="CreateViewPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[PushButton]Create View|$m_buttonNewView|#1" />
+	<PushButton Name="NewLevelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[Pane]$splitContainer1|#1/[Pane]#2/[Pane]$m_viewsPanel|#1/[Pane]$CustomizedViewUserControl|#1/[GroupBox]A New Customized View - Drawing Data|$m_groupBox|#1/[PushButton]New Level*|$m_btnNewLevel|#1" />
+
+	<PopupList Name="ScopePL" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_dm3dConfigUserControl|#1/[Pane]$m_dataManagerConfigUserControl|#1/[GroupBox]Customized views|$m_viewsGroupBox|#1/[Pane]$splitContainer1|#1/[Pane]#2/[Pane]$m_viewsPanel|#1/[Pane]$CustomizedViewUserControl|#1/[GroupBox]A New Customized View - Drawing Data|$m_groupBox|#1/[Pane]$m_viewNamePanel|#1/[PopupList]Scope:|$m_comboBoxScope|#1" />
+
+
+</Pane>

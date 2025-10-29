@@ -1,0 +1,57 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PropertyEditorLayoutGridPreviewDLG" Tag="[Pane]$DesignerForm" ParentType="ReportDesignerApplicationDLG">
+  <Pane Name="Pane1PANE" Tag="[Pane]$pnlMainForm|#1" />
+  <Pane Name="PnlFramePANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1" />
+  <Pane Name="PnlMainPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1" />
+  <Pane Name="PnlTabPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTab|$pnlTab|#2" />
+  <PageList Name="PageListPG" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTab|$pnlTab|#2/[PageList]$27069436|#1" />
+  <Pane Name="GridPreviewPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTab|$pnlTab|#2/[PageList]$27069436|#1/[Pane]Grid Preview|$18941730|#1" />
+  <Pane Name="PnlGridPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTab|$pnlTab|#2/[PageList]$27069436|#1/[Pane]Grid Preview|$18941730|#1/[Pane]pnlGrid|$pnlGrid|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTab|$pnlTab|#2/[PageList]$27069436|#1/[Pane]Grid Preview|$18941730|#1/[Pane]pnlGrid|$pnlGrid|#1/[Pane]$3018948|#1" />
+  <Window Name="GridPreviewWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTab|$pnlTab|#2/[PageList]$27069436|#1/[Window]Grid Preview|#2" />
+  <Window Name="LoadDataFromXMLWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTab|$pnlTab|#2/[PageList]$27069436|#1/[Window]Load Data from XML|#1" />
+  <PushButton Name="LoadXMLFilePB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTab|$pnlTab|#2/[PageList]$27069436|#1/[Pane]Load Data from XML|$16975888|#1/[Pane]pnlXML|$pnlXML/[PushButton]$btnXMLLoad" />
+ 
+
+  <Pane Name="PnlTopPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTop|$pnlTop|#1" />
+  <PushButton Name="ShowFieldsselectorPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTop|$pnlTop|#1/[PushButton]Show fields *|$chColumnSelector|#3" />
+  <PushButton Name="SaveLayoutPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTop|$pnlTop|#1/[PushButton]Sa*|$btnSave|#2" />
+  <PushButton Name="LoadLayoutPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTop|$pnlTop|#1/[PushButton]*Load Layout*|$btnLoad|#1" />
+  <CheckBox Name="IncludingAppearanceCK" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$LayoutsBase|#1/[Pane]pnlMain|$pnlMain|#1/[Pane]pnlTop|$pnlTop|#1/[CheckBox]Including Appearance|$ceIncludeAppearance|#1" />
+  <StaticText Name="ModifyThePivotGridsST" Tag="[Pane]$pnlMainForm|#1/[StaticText]Modify the Pivot Grid's layout (sorting settings, field arrangement) and click the Apply button to apply the modifications to the current Pivot Grid*|$123013168|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$4657034|#2" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$4657034|#2/[Pane]$accordionControl|#1" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3/[Pane]$buttonsPanel|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3/[Pane]$buttonsPanel|#2/[PushButton]*Apply*|$btnApply|#1" />
+  <PushButton Name="Close1PB" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3/[Pane]$buttonsPanel|#2/[PushButton]Close|$14945622|#2" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3/[Pane]$15273160|#1" />
+  <TitleBar Name="TitleBarCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="Close2PB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#3" />
+
+
+  <!--<CustomWin Name="BtnApply" Tag="[CustomWin]$btnApply" />
+<CustomWin Name="BtnLoad" Tag="[CustomWin]$btnLoad" />
+<CustomWin Name="BtnSave" Tag="[CustomWin]$btnSave" />
+<CustomWin Name="ChColumnSelector" Tag="[CustomWin]$chColumnSelector" />
+<CustomWin Name="DevExpressUtilsFramesNotePanelEx" Tag="[CustomWin]$LayoutsBase" />
+<CustomWin Name="DevExpressXtraTabXtraTabControl" Tag="[CustomWin]$pnlTab" />
+<CustomWin Name="GridPreview" Tag="[CustomWin]$" />
+<CustomWin Name="HorzSplitter" Tag="[CustomWin]$horzSplitter" />
+<CustomWin Name="Layout" Tag="[CustomWin]$pnlGrid" />
+<CustomWin Name="LayoutsBase" Tag="[CustomWin]$LayoutsBase" />
+<StaticText Name="LbCaption" Tag="[StaticText]$lbCaption" />
+<CustomWin Name="NavBarControl" Tag="[CustomWin]$navBarControl" />
+<CustomWin Name="PnlBottom" Tag="[CustomWin]$pnlBottom" />
+<CustomWin Name="PnlFrame" Tag="[CustomWin]$pnlFrame" />
+<CustomWin Name="PnlGrid" Tag="[CustomWin]$pnlGrid" />
+<CustomWin Name="PnlMain" Tag="[CustomWin]$pnlMain" />
+<GroupBox Name="PnlMainForm" Tag="[GroupBox]$pnlMainForm" />
+<CustomWin Name="PnlTab" Tag="[CustomWin]$pnlTab" />
+<CustomWin Name="PnlTop" Tag="[CustomWin]$pnlTop" />
+<StatusBar Name="SbHelp" Tag="[StatusBar]$sbHelp" />
+<CustomWin Name="Splitter1" Tag="[CustomWin]$splitter1" />
+<CustomWin Name="LoadXMLFile" Tag="[CustomWin]$btnXMLLoad" />-->
+</Pane>

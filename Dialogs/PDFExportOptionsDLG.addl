@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PDFExportOptionsDLG" Tag="[Pane]PDF Export Options|$LinesForm|#2" ParentType="ReportCreatorDLG" GUIType="UIA">
+
+
+	<PushButton Name="CancelPB" Tag="[Pane]$layoutControl1|#2/[PushButton]Cancel|$btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[Pane]$layoutControl1|#2/[PushButton]OK|$btnOK|#1" />
+	<StaticText Name="PasswordSecurityST" Tag="[Pane]$layoutControl1|#2/[Pane]#2/[Pane]#13/[StaticText]#1" />
+	<TextField Name="PasswordSecurityTF" Tag="[Pane]$layoutControl1|#2/[Pane]#2/[Pane]#13/[TextField]#1" />
+	<PushButton Name="Open4PB" Tag="[Pane]$layoutControl1|#2/[Pane]#2/[Pane]#13/[TextField]#1/[PushButton]Open|#1" />
+	<StaticText Name="DigitalSignatureST" Tag="[Pane]$layoutControl1|#2/[Pane]#2/[Pane]$16517526|#14/[StaticText]$17958822|#1" />
+	<TextField Name="DigitalSignatureTF" Tag="[Pane]$layoutControl1|#2/[Pane]#2/[Pane]$16517526|#14/[TextField]#1" />
+	<PushButton Name="Open5PB" Tag="[Pane]$layoutControl1|#2/[Pane]#2/[Pane]$16517526|#14/[TextField]#1/[PushButton]Open|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+
+
+
+</Pane>

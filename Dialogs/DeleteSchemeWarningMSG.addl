@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DeleteSchemeWarningMSG" Tag="[DialogBox]Warning" >
+
+
+
+
+	<PushButton Name="YesPB" Tag="[Pane]Warning|$Window|#1/[PushButton]Yes|$CommandButton_6|#1" />
+	<PushButton Name="NoPB" Tag="[Pane]Warning|$Window|#1/[PushButton]No|$CommandButton_7|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

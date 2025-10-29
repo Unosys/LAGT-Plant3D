@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDReadOnlyDrawingErrorDLG" Tag="[DialogBox]$frmReadonlyDwgError" ParentType="PROJECTMANAGERDLG">
+<StaticText Name="OneOrMoreOfTheDrawingFil" Tag="$lblWarning" />
+<PushButton Name="MoreInfo" Tag="$btnMoreInfo" />
+<PushButton Name="OK" Tag="$btnOK" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

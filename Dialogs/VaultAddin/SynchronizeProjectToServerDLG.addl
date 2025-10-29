@@ -1,0 +1,14 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SynchronizeProjectToServerDLG" Tag="[DialogBox]Synchronize to Vault" ParentType="CustomWin">
+    <Pane Name="SynchronizeToVaultPANE" GUIType="UIA" Tag="[Pane]Synchronize to Vault|$Window|#1" />
+    <Pane Name="Pane1PANE" Tag="[Pane]Synchronize to Vault|$Window|#1/[Pane]#1" />
+    <Pane Name="Pane2PANE" Tag="[Pane]Synchronize to Vault|$Window|#1/[Pane]#2" />
+    <Image Name="MainInstructionIconIMG" Tag="[Pane]Synchronize to Vault|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+    <StaticText Name="SaveAndCheckInST" Tag="[Pane]Synchronize to Vault|$Window|#1/[StaticText]Save and Check In All|$MainInstruction|#1" />
+    <StaticText Name="AllCheckedoutFilesWillST" Tag="[Pane]Synchronize to Vault|$Window|#1/[StaticText]All checked-out files will be saved and upload to the vault*|$ContentText|#2" />
+    <PushButton Name="ShowDetailsPB" Tag="[Pane]Synchronize to Vault|$Window|#1/[PushButton]Show details|$ExpandoButton|#1" />
+    <CheckBox Name="AlwaysSaveAndCheckCK" Tag="[Pane]Synchronize to Vault|$Window|#1/[CheckBox]Always save and check in all*|$VerificationCheckBox|#1" />
+    <PushButton Name="SaveAndCheckInPB" Tag="[Pane]Synchronize to Vault|$Window|#1/[PushButton]Save and Check In|$CommandButton_1001|#2" />
+    <PushButton Name="Cancel" Tag="[Pane]Synchronize to Vault|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

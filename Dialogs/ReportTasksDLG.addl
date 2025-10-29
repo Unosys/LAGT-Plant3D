@@ -1,0 +1,74 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportTasksDLG" Tag="[Pane]#3" ParentType="Pane" GUIType="UIA">
+
+	
+		<Pane Name="Pane1PANE" Tag="[Pane]$1377462|#1" />
+		<Pane Name="Pane2PANE" Tag="[Pane]$1377462|#1/[Pane]$1312976|#1" />
+		<StaticText Name="DesignInReportWizardST" Tag="[Pane]$1377462|#1/[Pane]$1312976|#1/[StaticText]Design in Report Wizard*|#1" />
+		<Link Name="DesignInReportWizardLINK" Tag="[Pane]$1377462|#1/[Pane]$1312976|#1/[StaticText]Design in Report Wizard*|#1/[Link]Design in Report Wizard*|#1" />
+		<Pane Name="DesignInReportWizardPANE" Tag="[Pane]$1377462|#1/[Pane]Design in Report Wizard*|$1574578|#2" />
+		<StaticText Name="EditAndReorderBandsST" Tag="[Pane]$1377462|#1/[Pane]Design in Report Wizard*|$1574578|#2/[StaticText]Edit and Reorder Bands*|#1" />
+		<Link Name="EditAndReorderBandsLINK" Tag="[Pane]$1377462|#1/[Pane]Design in Report Wizard*|$1574578|#2/[StaticText]Edit and Reorder Bands*|#1/[Link]Edit and Reorder Bands*|#1" />
+		<Pane Name="EditAndReorderBandsPANE" Tag="[Pane]$1377462|#1/[Pane]Edit and Reorder Bands*|$3344334|#3" />
+		<StaticText Name="EditBindingsST" Tag="[Pane]$1377462|#1/[Pane]Edit and Reorder Bands*|$3344334|#3/[StaticText]Edit Bindings*|#1" />
+		<Link Name="EditBindingsLINK" Tag="[Pane]$1377462|#1/[Pane]Edit and Reorder Bands*|$3344334|#3/[StaticText]Edit Bindings*|#1/[Link]Edit Bindings*|#1" />
+		<Pane Name="EditBindingsPANE" Tag="[Pane]$1377462|#1/[Pane]Edit Bindings*|$4066562|#4" />
+		<StaticText Name="ConvertToExpressionsST" Tag="[Pane]$1377462|#1/[Pane]Edit Bindings*|$4066562|#4/[StaticText]Convert to Expressions|#1" />
+		<Link Name="ConvertToExpressionsLINK" Tag="[Pane]$1377462|#1/[Pane]Edit Bindings*|$4066562|#4/[StaticText]Convert to Expressions|#1/[Link]Convert to Expressions|#1" />
+		<Pane Name="ConvertToExpressionsPANE" Tag="[Pane]$1377462|#1/[Pane]Convert to Expressions|$3672344|#5" />
+		<StaticText Name="EditLocalizationST" Tag="[Pane]$1377462|#1/[Pane]Convert to Expressions|$3672344|#5/[StaticText]Edit Localization*|#1" />
+		<Link Name="EditLocalizationLINK" Tag="[Pane]$1377462|#1/[Pane]Convert to Expressions|$3672344|#5/[StaticText]Edit Localization*|#1/[Link]Edit Localization*|#1" />
+		<Pane Name="EditLocalizationPANE" Tag="[Pane]$1377462|#1/[Pane]Edit Localization*|$1116742|#6" />
+		<StaticText Name="StaticText1ST" Tag="[Pane]$1377462|#1/[Pane]Edit Localization*|$1116742|#6/[StaticText]$1051770|#1" />
+		<Pane Name="DataSourcePANE" Tag="[Pane]$1377462|#1/[Pane]Data Source|$723360|#7" />
+		<StaticText Name="DataSourceST" Tag="[Pane]$1377462|#1/[Pane]Data Source|$723360|#7/[StaticText]Data Source|$1574616|#1" />
+		<TextField Name="DataSourceTF" Tag="[Pane]$1377462|#1/[Pane]Data Source|$723360|#7/[TextField]Data Source|$788654|#1" />
+		<PushButton Name="Open1PB" Tag="[Pane]$1377462|#1/[Pane]Data Source|$723360|#7/[TextField]Data Source|$788654|#1/[PushButton]Open|#1" />
+		<CustomWin Name="DataSourceWIN" Tag="[Pane]$1377462|#1/[Pane]Data Source|$723360|#7/[TextField]Data Source|$788654|#1/[CustomWin]Data Source|#1" />
+		<Pane Name="DataMemberPANE" Tag="[Pane]$1377462|#1/[Pane]Data Member|$855088|#8" />
+		<StaticText Name="DataMemberST" Tag="[Pane]$1377462|#1/[Pane]Data Member|$855088|#8/[StaticText]Data Member|$919946|#1" />
+		<TextField Name="DataMemberTF" Tag="[Pane]$1377462|#1/[Pane]Data Member|$855088|#8/[TextField]Data Member|$723366|#1" />
+		<TextField Name="TextField1TF" Tag="[Pane]$1377462|#1/[Pane]Data Member|$855088|#8/[TextField]Data Member|$723366|#1/[TextField]#1" />
+		<Pane Name="FilterStringPANE" Tag="[Pane]$1377462|#1/[Pane]Filter String|$1575240|#9" />
+		<StaticText Name="FilterStringST" Tag="[Pane]$1377462|#1/[Pane]Filter String|$1575240|#9/[StaticText]Filter String|$1115394|#1" />
+		<TextField Name="FilterStringTF" Tag="[Pane]$1377462|#1/[Pane]Filter String|$1575240|#9/[TextField]Filter String|$1444922|#1" />
+		<TextField Name="TextField2TF" Tag="[Pane]$1377462|#1/[Pane]Filter String|$1575240|#9/[TextField]Filter String|$1444922|#1/[TextField]#1" />
+		<Pane Name="Pane3PANE" Tag="[Pane]$1377462|#1/[Pane]$1181600|#10" />
+		<StaticText Name="StaticText2ST" Tag="[Pane]$1377462|#1/[Pane]$1181600|#10/[StaticText]$789248|#1" />
+		<Pane Name="DetailCountAtDesignPANE" Tag="[Pane]$1377462|#1/[Pane]Detail Count at Design Time|$789240|#11" />
+		<StaticText Name="DetailCountAtDesignST" Tag="[Pane]$1377462|#1/[Pane]Detail Count at Design Time|$789240|#11/[StaticText]Detail Count at Design Time|$3016922|#1" />
+		<CustomWin Name="DetailCountAtDesign1WIN" Tag="[Pane]$1377462|#1/[Pane]Detail Count at Design Time|$789240|#11/[CustomWin]Detail Count at Design Time|$3541276|#1" />
+		<CustomWin Name="DetailCountAtDesign2WIN" Tag="[Pane]$1377462|#1/[Pane]Detail Count at Design Time|$789240|#11/[CustomWin]Detail Count at Design Time|$3541276|#1/[CustomWin]Detail Count at Design Time|#1" />
+		<PushButton Name="ForwardPB" Tag="[Pane]$1377462|#1/[Pane]Detail Count at Design Time|$789240|#11/[CustomWin]Detail Count at Design Time|$3541276|#1/[PushButton]Forward|$SmallIncrement|#1" />
+		<PushButton Name="BackwardPB" Tag="[Pane]$1377462|#1/[Pane]Detail Count at Design Time|$789240|#11/[CustomWin]Detail Count at Design Time|$3541276|#1/[PushButton]Backward|$SmallDecrement|#2" />
+		<Pane Name="Pane4PANE" Tag="[Pane]$1377462|#1/[Pane]$2886262|#12" />
+		<StaticText Name="StaticText3ST" Tag="[Pane]$1377462|#1/[Pane]$2886262|#12/[StaticText]$38340830|#1" />
+		<Pane Name="MeasureUnitsPANE" Tag="[Pane]$1377462|#1/[Pane]Measure Units|$722206|#13" />
+		<StaticText Name="MeasureUnitsST" Tag="[Pane]$1377462|#1/[Pane]Measure Units|$722206|#13/[StaticText]Measure Units|$854182|#1" />
+		<PopupList Name="MeasureUnitsPL" Tag="[Pane]$1377462|#1/[Pane]Measure Units|$722206|#13/[PopupList]Measure Units|$2557710|#1" />
+		<PushButton Name="Open2PB" Tag="[Pane]$1377462|#1/[Pane]Measure Units|$722206|#13/[PopupList]Measure Units|$2557710|#1/[PushButton]Open|#1" />
+		<CustomWin Name="MeasureUnitsWIN" Tag="[Pane]$1377462|#1/[Pane]Measure Units|$722206|#13/[PopupList]Measure Units|$2557710|#1/[CustomWin]Measure Units|#1" />
+		<Pane Name="Pane5PANE" Tag="[Pane]$1377462|#1/[Pane]$854716|#14" />
+		<StaticText Name="StaticText4ST" Tag="[Pane]$1377462|#1/[Pane]$854716|#14/[StaticText]$723370|#1" />
+		<Pane Name="FormattingRulesPANE" Tag="[Pane]$1377462|#1/[Pane]Formatting Rules|$920328|#15" />
+		<StaticText Name="FormattingRulesST" Tag="[Pane]$1377462|#1/[Pane]Formatting Rules|$920328|#15/[StaticText]Formatting Rules|$4131048|#1" />
+		<TextField Name="FormattingRulesTF" Tag="[Pane]$1377462|#1/[Pane]Formatting Rules|$920328|#15/[TextField]Formatting Rules|$854308|#1" />
+		<PushButton Name="Open3PB" Tag="[Pane]$1377462|#1/[Pane]Formatting Rules|$920328|#15/[TextField]Formatting Rules|$854308|#1/[PushButton]Open|#1" />
+		<CustomWin Name="FormattingRulesWIN" Tag="[Pane]$1377462|#1/[Pane]Formatting Rules|$920328|#15/[TextField]Formatting Rules|$854308|#1/[CustomWin]Formatting Rules|#1" />
+		<Pane Name="FormattingRuleSheetPANE" Tag="[Pane]$1377462|#1/[Pane]Formatting Rule Sheet|$919476|#16" />
+		<StaticText Name="FormattingRuleSheetST" Tag="[Pane]$1377462|#1/[Pane]Formatting Rule Sheet|$919476|#16/[StaticText]Formatting Rule Sheet|$1116316|#1" />
+		<TextField Name="FormattingRuleSheetTF" Tag="[Pane]$1377462|#1/[Pane]Formatting Rule Sheet|$919476|#16/[TextField]Formatting Rule Sheet|$592324|#1" />
+		<PushButton Name="Open4PB" Tag="[Pane]$1377462|#1/[Pane]Formatting Rule Sheet|$919476|#16/[TextField]Formatting Rule Sheet|$592324|#1/[PushButton]Open|#1" />
+		<CustomWin Name="FormattingRuleSheetWIN" Tag="[Pane]$1377462|#1/[Pane]Formatting Rule Sheet|$919476|#16/[TextField]Formatting Rule Sheet|$592324|#1/[CustomWin]Formatting Rule Sheet|#1" />
+		<Pane Name="StyleSheetPANE" Tag="[Pane]$1377462|#1/[Pane]Style Sheet|$3213582|#17" />
+		<StaticText Name="StyleSheetST" Tag="[Pane]$1377462|#1/[Pane]Style Sheet|$3213582|#17/[StaticText]Style Sheet|$1443982|#1" />
+		<TextField Name="StyleSheetTF" Tag="[Pane]$1377462|#1/[Pane]Style Sheet|$3213582|#17/[TextField]Style Sheet|$853144|#1" />
+		<PushButton Name="Open5PB" Tag="[Pane]$1377462|#1/[Pane]Style Sheet|$3213582|#17/[TextField]Style Sheet|$853144|#1/[PushButton]Open|#1" />
+		<CustomWin Name="StyleSheetWIN" Tag="[Pane]$1377462|#1/[Pane]Style Sheet|$3213582|#17/[TextField]Style Sheet|$853144|#1/[CustomWin]Style Sheet|#1" />
+		<Pane Name="WatermarksPANE" Tag="[Pane]$1377462|#1/[Pane]Watermarks|$4064968|#18" />
+		<StaticText Name="WatermarksST" Tag="[Pane]$1377462|#1/[Pane]Watermarks|$4064968|#18/[StaticText]Watermarks|$722176|#1" />
+		<TextField Name="WatermarksTF" Tag="[Pane]$1377462|#1/[Pane]Watermarks|$4064968|#18/[TextField]Watermarks|$1051316|#1" />
+		<PushButton Name="Open6PB" Tag="[Pane]$1377462|#1/[Pane]Watermarks|$4064968|#18/[TextField]Watermarks|$1051316|#1/[PushButton]Open|#1" />
+		<CustomWin Name="WatermarksWIN" Tag="[Pane]$1377462|#1/[Pane]Watermarks|$4064968|#18/[TextField]Watermarks|$1051316|#1/[CustomWin]Watermarks|#1" />
+	
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

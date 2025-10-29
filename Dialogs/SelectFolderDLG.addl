@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectFolderDLG" Tag="[DialogBox]Select Folder" >
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

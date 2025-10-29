@@ -1,0 +1,10 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportCreatorConfirmDeleteDLG" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$MessageForm|#2" ParentType="ReportConfigurationDLG" GUIType="UIA">
+  <Pane Name="M_mainTableLayoutPanel" Tag="[Pane]$m_mainTableLayoutPanel|#1" />
+  <Pane Name="M_iconPicBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Are you sure you want to delete current report configuration?[1]|$m_iconPicBox|#1" />
+  <Pane Name="M_buttonsTableLayoutPanel" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Are you sure you want to delete current report configuration?[2]|$m_buttonsTableLayoutPanel|#2" />
+  <PushButton Name="M_noBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Are you sure you want to delete current report configuration?[2]|$m_buttonsTableLayoutPanel|#2/[PushButton]No|$m_noBtn|#2" />
+  <PushButton Name="M_yesBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Are you sure you want to delete current report configuration?[2]|$m_buttonsTableLayoutPanel|#2/[PushButton]Yes|$m_yesBtn|#1" />
+  <StaticText Name="M_msgLbl" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Are you sure you want to delete current report configuration?|$m_msgLbl|#1" />
+  <TitleBar Name="AutodeskAutoCADPlantReportCTL" Tag="[TitleBar]Autodesk AutoCAD Plant Report Creator|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Autodesk AutoCAD Plant Report Creator|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

@@ -1,0 +1,9 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DAddRowDLG" Tag="[Pane]Add Row|$AddItemDlg" >
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOk|#1" />
+	<TextField Name="DescriptionTF" Tag="[TextField]Description:|$m_textBoxDesc|#2" />
+<TextField Name="ValueTF" Tag="[TextField]Value:|$m_textBoxName|#1" />
+
+</Pane>

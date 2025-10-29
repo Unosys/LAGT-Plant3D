@@ -1,0 +1,35 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.QuickProperties" Tag="[Window]Quick Properties|#1" ParentType="Plant3D" GUIType="UIA">
+  <DialogBox Name="DialogBox1DLG" Tag="[DialogBox]#1" />
+  <Pane Name="Pane1PANE" Tag="[DialogBox]#1/[Pane]$1145100592|#1" />
+  <ListBox Name="ListBox1LB" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1" />
+  <Pane Name="Pane2PANE" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[Pane]$919777320|#1" />
+  <Pane Name="Pane3PANE" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[Pane]$919778256|#2" />
+  <Pane Name="Pane4PANE" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[Pane]$1145360728|#3" />
+  <Pane Name="Pane5PANE" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[Pane]$919779184|#4" />
+  <ListBoxItem Name="Color1LBI" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[ListBoxItem]Color|#1" />
+  <ListBoxItem Name="Layer1LBI" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[ListBoxItem]Layer|#2" />
+  <ListBoxItem Name="Name1LBI" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[ListBoxItem]Name|#3" />
+  <ListBoxItem Name="Rotation1LBI" Tag="[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[ListBoxItem]Rotation|#4" />
+  <PopupList Name="PopupList1PL" Tag="[DialogBox]#1/[PopupList]$1002|#1" />
+  <PushButton Name="DropDownButton1PB" Tag="[DialogBox]#1/[PopupList]$1002|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="PushButton1PB" Tag="[DialogBox]#1/[PushButton]$1003|#1" />
+  <Pane Name="Pane6PANE" Tag="[Pane]#1" />
+  <DialogBox Name="DialogBox2DLG" Tag="[Pane]#1/[DialogBox]#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1" />
+  <ListBox Name="ListBox2LB" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1" />
+  <Pane Name="Pane8PANE" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[Pane]$919777320|#1" />
+  <Pane Name="Pane9PANE" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[Pane]$919778256|#2" />
+  <Pane Name="Pane10PANE" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[Pane]$1145360728|#3" />
+  <Pane Name="Pane11PANE" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[Pane]$919779184|#4" />
+  <ListBoxItem Name="Color2LBI" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[ListBoxItem]Color|#1" />
+  <ListBoxItem Name="Layer2LBI" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[ListBoxItem]Layer|#2" />
+  <ListBoxItem Name="Name2LBI" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[ListBoxItem]Name|#3" />
+  <ListBoxItem Name="Rotation2LBI" Tag="[Pane]#1/[DialogBox]#1/[Pane]$1145100592|#1/[ListBox]$239|#1/[ListBoxItem]Rotation|#4" />
+  <PopupList Name="PopupList2PL" Tag="[Pane]#1/[DialogBox]#1/[PopupList]$1002|#1" />
+  <PushButton Name="DropDownButton2PB" Tag="[Pane]#1/[DialogBox]#1/[PopupList]$1002|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="PushButton2PB" Tag="[Pane]#1/[DialogBox]#1/[PushButton]$1003|#1" />
+  <PushButton Name="ClosePB" Tag="[PushButton]Close|$ID_Close|#1" />
+  <Image Name="Image1IMG" Tag="[PushButton]Close|$ID_Close|#1/[Image]#1" />
+  <PushButton Name="OptionsPB" Tag="[PushButton]Options|$ID_Options|#2" />
+  <Image Name="Image2IMG" Tag="[PushButton]Options|$ID_Options|#2/[Image]#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

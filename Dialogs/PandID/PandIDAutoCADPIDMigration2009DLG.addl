@@ -1,0 +1,27 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox  Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDAutoCADPIDMigration2009DLG" Tag = "[Pane]$frmProjectMigration1|[Pane]$frmProjectMigration3|[Pane]$frmProjectMigration4" ParentType="Plant3D" >
+
+
+
+  <StaticText Name="ClickNextToCheckST" Tag="[StaticText]$lblMsg02|#2" />
+  <StaticText Name="PleaseVerifyThatAllST" Tag="[StaticText]$lblMsg01|#1" />
+  <Pane Name="PleaseVerifyThatAll1PANE" Tag="[Pane]$pnlInfos|#2" />
+  <Pane Name="PleaseVerifyThatAll2PANE" Tag="[Pane]$pnlInfos|#2/[Pane]$frmMigrationInfo|#1" />
+  <Link Name="HowDoIVerifyLINK" Tag="[Pane]$pnlInfos|#2/[Pane]$frmMigrationInfo|#1/[Link]$linkLabel0|#1" />
+  <StaticText Name="InformationST" Tag="[Pane]$pnlInfos|#2/[Pane]$frmMigrationInfo|#1/[StaticText]$lblHeader|#1" />
+  <Link Name="WhatOccursDuringProjectLINK" Tag="[Pane]$pnlInfos|#2/[Pane]$frmMigrationInfo|#1/[Link]$linkLabel1|#2" />
+  <Link Name="WhatOccursDuringDrawingLINK" Tag="[Pane]$pnlInfos|#2/[Pane]$frmMigrationInfo|#1/[Link]$linkLabel1|#3" />
+  <Link Name="WhatIsUpdatedDuringLINK" Tag="[Pane]$pnlInfos|#2/[Pane]$frmMigrationInfo|#1/[Link]$linkLabel1|#4" />
+  <Link Name="WhyDidTheMigrationLINK" Tag="[Pane]$pnlInfos|#2/[Pane]$frmMigrationInfo|#1/[Link]$linkLabel1|#5" />
+  <Pane Name="PleaseVerifyThatAll3PANE" Tag="[Pane]$pnlButtons|#3" />
+  <PushButton Name="NextPB" Tag="[Pane]$pnlButtons/[PushButton]$btnNext" />
+  <PushButton Name="CancelPB" Tag="[Pane]$pnlButtons/[PushButton]$btnCancel" />
+  <Pane Name="PleaseVerifyThatAll4PANE" Tag="[Pane]$pnlHeader|#1" />
+  <StaticText Name="ThisProjectWasCreatedST" Tag="[Pane]$pnlHeader|#1/[StaticText]$lblHeader|#1" />
+  <TitleBar Name="AutoCADPIDMigrationCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]$TitleBar|#1/[CustomWin]$frmProjectMigration1|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]$TitleBar|#1/[CustomWin]$frmProjectMigration1|#1/[MenuItem]$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+  <CheckBox Name="BackupTheseFilesBeforeCK" Tag="[CheckBox]Backup these files before migration (recommended)|$chkboxBackup|#1" />
+  <TextField Name="TextFieldTF" Tag="[TextField]$txtboxFolder" />
+	<PushButton Name="MigratePB" Tag="[Pane]$pnlButtons/[PushButton]$btnMigrate" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox >

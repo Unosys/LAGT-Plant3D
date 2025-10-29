@@ -1,0 +1,23 @@
+{
+	"name": "Plant3D",
+	"version": "0.0.1",
+	"gitrepo": "https://gitcontractors.autodesk.com/LocalizationServices/LAGT-Plant3D",
+	"vendorTeam": "Moravia Brno",
+	"vendors": [
+		"Milan Mrtvy",
+		"Lubomir Gusenica",
+		"David Zakravsky"
+	],
+	"dependencies": {
+		"Bin": "https://gitcontractors.autodesk.com/LocalizationServices/LAGT-Bin",
+		"CommonFiles": "https://gitcontractors.autodesk.com/LocalizationServices/LAGT-CommonFiles",
+		"LAGT": "https://gitcontractors.autodesk.com/LocalizationServices/LAGT",
+		"AutoCAD": "https://gitcontractors.autodesk.com/LocalizationServices/LAGT-AutoCAD",
+		"PandID": "https://gitcontractors.autodesk.com/LocalizationServices/LAGT-PandID"
+	},
+	"ignore": [
+		"obj",
+		"bin\\debug",
+		"bin\\release"
+	],
+}

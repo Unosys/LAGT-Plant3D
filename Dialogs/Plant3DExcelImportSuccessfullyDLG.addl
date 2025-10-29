@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DExcelImportSuccessfullyDLG" Tag="[Window]Plant 3D - Excel Import|$Window_1" ParentType="CustomWin" GUIType="UIA">
+
+
+	<PushButton Name="Close2PB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Close|$Button_1|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

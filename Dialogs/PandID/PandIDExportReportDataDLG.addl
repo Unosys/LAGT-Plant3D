@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDExportReportDataDLG" Tag="[Pane]ExportReportDataDLG" >
+<PushButton Name="M_buttonBrowse" Tag="[PushButton]$m_buttonBrowse" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonHelp" Tag="[PushButton]$m_buttonHelp" />
+<PushButton Name="M_buttonOK" Tag="[PushButton]$m_buttonOK" />
+<ComboBox Name="M_comboBoxSettings" Tag="[ComboBox]$m_comboBoxSettings" />
+<GroupBox Name="M_groupBoxNodes" Tag="[GroupBox]$m_groupBoxNodes" />
+<StaticText Name="M_labelFile" Tag="[StaticText]$m_labelFile" />
+<StaticText Name="M_labelSettings" Tag="[StaticText]$m_labelSettings" />
+<RadioButton Name="M_radioActiveNode" Tag="[RadioButton]$m_radioActiveNode" />
+<RadioButton Name="M_radioChildNodes" Tag="[RadioButton]$m_radioChildNodes" />
+<TextField Name="M_textBoxFile" Tag="[TextField]$m_textBoxFile" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

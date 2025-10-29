@@ -1,0 +1,9 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ShareProjectErrorDLG" Tag="[Window]Plant Project Collaboration|$Window_1" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="PlantProjectCollaborationCTL" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]$UserControl_1|#1" />
+  <StaticText Name="SharePlantProjectErrorST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Share Plant Project Error*|$TextBlock_1|#1" />
+  <StaticText Name="OneOrMoreProjectsST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]One or more projects drawings are open*|$TextBlock_2|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

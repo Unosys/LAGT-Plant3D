@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupIsoThemesOverrideDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg|#1" ParentType="MainWin" GUIType="UIA">
+
+	<ListBox Name="OverrideThemesLB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]*/[Pane]*/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl|#1/[Window]#2/[CustomWin]$UserControl_1|#1/[ListBox]$ThemeListView" />
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$2491740|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+
+	<PushButton Name="StartsWithPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]#1/[Window]#2/[CustomWin]$UserControl_1|#1/[CustomWin]#4/[PushButton]$CollapsiblePanel_Button|#1" />
+	<PushButton Name="EndsWithPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]#1/[Window]#2/[CustomWin]$UserControl_1|#1/[CustomWin]#5/[PushButton]$CollapsiblePanel_Button|#1" />
+	<PushButton Name="OnlyContainPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]#1/[Window]#2/[CustomWin]$UserControl_1|#1/[CustomWin]#6/[PushButton]$CollapsiblePanel_Button|#1" />
+
+	<PushButton Name="PipingDetailsPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]#1/[Pane]#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PageList]$IsometricThemeTabCtrl|#1/[Window]#2/[CustomWin]$UserControl_1|#1/[CustomWin]#4/[PushButton]$CollapsiblePanel_Button|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

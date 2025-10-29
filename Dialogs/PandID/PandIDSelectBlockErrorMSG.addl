@@ -1,0 +1,8 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSelectBlockErrorMSG" Tag="[DialogBox]Error" ParentType="Pane">
+  <PushButton Name="Yes" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="No" Tag="[PushButton]No|$7|#2" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="TheProjectFileAlreadyST" Tag="[StaticText]The project file already contains a block definition*|$65535|#1" />
+  <TitleBar Name="ErrorCTL" Tag="[TitleBar]Error|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Error|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

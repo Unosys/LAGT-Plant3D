@@ -1,0 +1,6 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportResultsNewDLG" Tag="[Pane]Export results[1]|$ExportResultsForm" ParentType="Desktop" GUIType="UIA">
+  <ListBox Name="M_exportsListBox" Tag="[Pane]$m_mainTableLayoutPanel/[ListBox]Export succeeded*|$m_exportsListBox" />
+  <ListBoxItem Name="CUsersAdministratorW7EN1ENUx64VM7AppDataRoamingAutodeskAutodeskAutoCADPlant3DLBI" Tag="[Pane]$m_mainTableLayoutPanel/[ListBox]Export succeeded*|$m_exportsListBox/[ListBoxItem]C:*" />
+  <PushButton Name="M_okBtn" Tag="[Pane]$m_mainTableLayoutPanel/[PushButton]OK|$m_okBtn" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Export results|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

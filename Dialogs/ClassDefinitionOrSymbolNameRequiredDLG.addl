@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ClassDefinitionOrSymbolNameRequiredDLG" Tag="[DialogBox]$SymbolSettingErrorMessageDlg" ParentType="Plant3D">
+<CustomWin Name="Panel1" Tag="[System.Windows.Forms.Panel]$panel1" />
+<RadioButton Name="ContinueAddRadioBtn" Tag="$continueAddRadioBtn" />
+<PushButton Name="Cancel" Tag="[PushButton]$cancelBtn" />
+<Table Name="ItemDataGridView" Tag="$itemDataGridView" />
+<TextField Name="RichTextBox1" Tag="$richTextBox1" />
+<CustomWin Name="ImagePictureBox" Tag="[System.Windows.Forms.PictureBox]$imagePictureBox" />
+<PushButton Name="OK" Tag="[PushButton]$okBtn" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

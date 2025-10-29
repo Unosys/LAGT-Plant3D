@@ -1,0 +1,8 @@
+<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.UnrecognizedCharactersInLengthDLG" Tag="[DialogBox]Unrecognized Characters in Length" ParentType="IsometricDWGSettingsIsoStyleSetupDLG" GUIType="UIA">
+  <PushButton Name="OK" Tag="[PushButton]OK|$2|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>-->
+
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.UnrecognizedCharactersInLengthDLG" Tag="[MainWin]Invalid Entry" ParentType="Desktop" GUIType="WIN32">
+  <PushButton Name="ClosePB" Tag="[Pane]$Window/[PushButton]$CommandButton_8" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

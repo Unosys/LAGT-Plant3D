@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddPipeSupportDLG" Tag="[Window]Add Pipe Support|$ShapeBrowserWindow" >
+
+	<RadioButton Name="MBtnFilter3" Tag="[GroupBox]Graphics|$m_groupBox/[RadioButton]Graphics[5]|$m_btnFilter3" />
+
+	<PushButton Name="OK" Tag="[PushButton]OK|$OkButton|#4" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#5" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

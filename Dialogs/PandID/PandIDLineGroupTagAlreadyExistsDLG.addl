@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDLineGroupTagAlreadyExistsDLG" Tag="[DialogBox]Tag Already Assigned|#1" ParentType="Pane" GUIType="UIA">
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="NoTwoSchematicLineST" Tag="[StaticText]No two schematic line groups can have the same tag*|$65535|#1" />
+  <TitleBar Name="TagAlreadyAssignedCTL" Tag="[TitleBar]Tag Already Assigned|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Tag Already Assigned|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+ </Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,31 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.StylesEditorDLG" Tag="[Pane]Styles Editor|$StyleSheetEditorForm" ParentType="ReportDesignerApplicationDLG">
+
+
+	<Pane Name="TheXtraLayoutControl1PANE" Tag="[Pane]$layoutControl1|#1" />
+	<Pane Name="Pane1PANE" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1" />
+	<Pane Name="TheXtraLayoutControl2PANE" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1" />
+	<Pane Name="PropertyGridControlPanelPANE" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Pane]propertyGridControlPanel|$propertyGridControlPanel|#1" />
+	<Table Name="TableTBL" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Pane]propertyGridControlPanel|$propertyGridControlPanel|#1/[Table]$propertyGridControl|#1" />
+	<CustomWin Name="DataPanelWIN" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Pane]propertyGridControlPanel|$propertyGridControlPanel|#1/[Table]$propertyGridControl|#1/[CustomWin]Data Panel|#1" />
+	<CustomWin Name="CustomWinWIN" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Pane]propertyGridControlPanel|$propertyGridControlPanel|#1/[Table]$propertyGridControl|#1/[CustomWin]Data Panel|#1/[CustomWin]#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[Pane]$layoutControl|#1/[Pane]$propertyDescriptionControl|#2" />
+	<GroupBox Name="DockTopGB" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[GroupBox]Dock Top|$117116556|#1" />
+	<ToolBar Name="ToolsTB" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[GroupBox]Dock Top|$117116556|#1/[ToolBar]Tools|$25039718|#1" />
+	<PushButton Name="CategorizedPB" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[GroupBox]Dock Top|$117116556|#1/[ToolBar]Tools|$25039718|#1/[PushButton]Categorized|#1" />
+	<PushButton Name="AlphabeticalPB" Tag="[Pane]$layoutControl1|#1/[Pane]$propertyGrid|#1/[GroupBox]Dock Top|$117116556|#1/[ToolBar]Tools|$25039718|#1/[PushButton]Alphabetical|#2" />
+	<PushButton Name="Close1PB" Tag="[Pane]$layoutControl1|#1/[PushButton]Close|$btnCancel|#8" />
+	<Pane Name="PnlPreviewPANE" Tag="[Pane]$layoutControl1|#1/[Pane]pnlPreview|$pnlPreview|#2" />
+	<StaticText Name="StaticText1ST" Tag="[Pane]$layoutControl1|#1/[StaticText]$bottomLine|#2" />
+	<ListBox Name="ListBoxLB" Tag="[Pane]$layoutControl1|#1/[ListBox]$lboxItems|#1" />
+	<PushButton Name="PushButton1PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btSave|#7" />
+	<StaticText Name="StaticText2ST" Tag="[Pane]$layoutControl1|#1/[StaticText]$separator|#1" />
+	<PushButton Name="PushButton2PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btLoad|#6" />
+	<PushButton Name="PushButton3PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btPurge|#5" />
+	<PushButton Name="PushButton4PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btClear|#4" />
+	<PushButton Name="PushButton5PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btRemove|#3" />
+	<PushButton Name="PushButton6PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btClone|#2" />
+	<PushButton Name="PushButton7PB" Tag="[Pane]$layoutControl1|#1/[PushButton]$btAdd|#1" />
+	<TitleBar Name="StylesEditorCTL" Tag="[TitleBar]Styles Editor|$TitleBar|#1" />
+	<PushButton Name="Close2PB" Tag="[TitleBar]Styles Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

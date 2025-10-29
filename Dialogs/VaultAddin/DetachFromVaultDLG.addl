@@ -1,0 +1,11 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DetachFromVaultDLG" Tag="[DialogBox]Detach from Vault|#1" ParentType="PROJECTMANAGERDLG" GUIType="WIN32">
+  <Pane Name="DetachFromVaultPANE" GUIType="UIA" Tag="[Pane]Detach from Vault|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Detach from Vault|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Detach from Vault|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Detach from Vault|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="DetachProjectFromTheST" Tag="[Pane]Detach from Vault|$Window|#1/[StaticText]Detach Project from the Vault|$MainInstruction|#1" />
+  <StaticText Name="TheProjectInTheST" Tag="[Pane]Detach from Vault|$Window|#1/[StaticText]The project in the local workspace will be converted to a non-vault project*|$ContentText|#2" />
+  <CheckBox Name="AlwaysDetachFromTheCK" Tag="[Pane]Detach from Vault|$Window|#1/[CheckBox]Always detach from the vault*|$VerificationCheckBox|#1" />
+  <PushButton Name="DetachPB" Tag="[Pane]Detach from Vault|$Window|#1/[PushButton]Detach|$CommandButton_1001|#1" />
+  <PushButton Name="Cancel" Tag="[Pane]Detach from Vault|$Window|#1/[PushButton]Cancel|$CommandButton_2|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

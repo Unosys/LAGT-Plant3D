@@ -1,0 +1,6 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.CustomPartsBuilderDimensionsDLG" Tag="[Pane]Dimensions|$CustomPartPicPreview" ParentType="Plant3D" GUIType="UIA">
+  <TitleBar Name="DimensionsCTL" Tag="[TitleBar]Dimensions|$TitleBar" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Dimensions|$TitleBar/[CustomWin]System Menu Bar|$CustomPartPicPreview" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Dimensions|$TitleBar/[CustomWin]System Menu Bar|$CustomPartPicPreview/[MenuItem]System|$Item 1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Dimensions|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

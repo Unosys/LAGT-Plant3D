@@ -1,0 +1,11 @@
+﻿<RibbonDialogClassP3D Class="Autodesk.GUIHarness.Plant3D.Dialogs.HomeRibbonP3D" Tag="[CustomWin]Ribbon|$59419/[CustomWin]Ribbon|$16719/[CustomWin]Ribbon|$7/[Pane]#1" ParentType="Plant3D" GUIType="UIA">
+
+  <!--<CustomWin Name="ExportPanel" Tag="[CustomWin]$PNP.ID_TabStructural_PanelBarScrollViewer/[CustomWin]Export|$ID_PanelStructure_Export" IsNestedClass="True">
+    <PushButton Name="AdvanceSteelXMLExportPB" Tag="[CustomWin]$STRUCT_ADVANCESTEEL_EXPORT_RibbonItemControl/[PushButton]$STRUCT_ADVANCESTEEL_EXPORT" />
+  </CustomWin>-->
+
+  <CustomWin Name="PartInsertionPanel" Tag="[CustomWin]$PNP.ID_TabHomePiping_PanelBarScrollViewer/[CustomWin]Part Insertion|$ID_PanelPartInsertion" IsNestedClass="True">
+    <PushButton Name="RoutePipePB" Tag="[CustomWin]$ID_PP_ROUTE_PIPE_RibbonItemControl/[PushButton]$ID_PP_ROUTE_PIPE" />
+    <PopupList Name="LineNumberComboPL" Tag="[CustomWin]Line Number Combo|$pnpLineNumberCombo_RibbonItemControl/[PopupList]Line Number Combo|$pnpLineNumberCombo" />
+  </CustomWin>
+</RibbonDialogClassP3D>

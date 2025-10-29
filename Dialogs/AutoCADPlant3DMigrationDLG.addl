@@ -1,0 +1,14 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlant3DMigrationDLG" Tag="[Pane]$frmProjectMigration1" ParentType="Plant3D" GUIType="UIA">  
+  <PushButton Name="BtnNext" Tag="[Pane]Please verify that *[2]|$pnlButtons/[PushButton]Next|$btnNext" />
+  <PushButton Name="BrowsePB" Tag="[PushButton]Browse *|$btnBrowse" />
+  <TextField Name="SaveFilesToTF" Tag="[TextField]Backup the drawing to:|$txtboxDwgPath" />
+  <CheckBox Name="BackupTheDrawingBeforeCK" Tag="[CheckBox]Backup the drawing before migration (recommended)|$chkboxBackup" />
+  <Link Name="LinkLabel0" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process[1]|$pnlInfos/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo/[Link]How do I verify that my drawing is not in use?|$linkLabel0" />
+  <Link Name="WhatOccursDuringDrawingMigration" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process[1]|$pnlInfos/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo/[Link]What occurs during drawing migration?|$linkLabel1" />
+  <Link Name="WhatIsUpdatedDuringMigration" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process[1]|$pnlInfos/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo/[Link]What is updated during migration?|$linkLabel1" />
+  <Link Name="WhyDidTheMigrationFail" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process[1]|$pnlInfos/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo/[Link]Why did the migration fail?|$linkLabel1" />
+  <PushButton Name="MigratePB" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process[2]|$pnlButtons/[PushButton]Migrate|$btnMigrate" />
+  <PushButton Name="BtnCancel" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process[2]|$pnlButtons/[PushButton]Cancel|$btnCancel" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]AutoCAD Plant 3D Migration|$TitleBar/[PushButton]Close|$Close" />
+</Pane>
+

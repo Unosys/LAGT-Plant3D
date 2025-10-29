@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.InvalidNameDLG" Tag="[DialogBox]Invalid Name" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]#1|$2" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]#1|[Icon]$20" />
+<StaticText Name="ThePropertyNameFieldCannot" Tag="[StaticText]#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

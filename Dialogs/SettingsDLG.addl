@@ -1,0 +1,17 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SettingsDLG" Tag="[Pane]Settings|$SettingsForm|#2" ParentType="ReportCreatorDLG" GUIType="UIA">
+  <Pane Name="PanePANE" Tag="[Pane]$m_mainTableLayoutPanel|#1" />
+  <StaticText Name="LocationOfReportConfigurationST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Location of Report Configuration Files|$m_repFilesLocationLbl|#1" />
+  <RadioButton Name="M_repFilesLocGeneralRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[RadioButton]Location of Report Configuration Files[1]|$m_repFilesLocGeneralRadioBtn|#1" />
+  <RadioButton Name="M_repFilesLocProjectRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[RadioButton]Location of Report Configuration Files[2]|$m_repFilesLocProjectRadioBtn|#2" />
+  <RadioButton Name="M_repFilesLocCustomRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[RadioButton]Location of Report Configuration Files[3]|$m_repFilesLocCustomRadioBtn|#3" />
+  <TextField Name="M_customPathTxtBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[TextField]C:*[1]|$m_customPathTxtBox|#2" />
+  <PushButton Name="M_customPathEditBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]**|$m_customPathEditBtn|#1" />
+  <StaticText Name="CProgramDataAutodeskAutodeskAutoCADPlant3DST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]C:*|$m_generalPathLabel|#2" />
+  <TextField Name="M_projectPathTxtBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[TextField]C:*[2]|$m_projectPathTxtBox|#1" />
+  <PushButton Name="M_okBtn" Tag="[PushButton]OK|$m_okBtn|#1" />
+  <PushButton Name="M_cancelBtn" Tag="[PushButton]Cancel|$m_cancelBtn|#2" />
+  <TitleBar Name="SettingsCTL" Tag="[TitleBar]Settings|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$SettingsForm|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$SettingsForm|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Settings|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ImportData" Tag="[DialogBox]Import Data" ParentType="Window" GUIType="UIA">
+
+
+
+
+	<ComboBox Name="FileNameCB" Tag="[ComboBox]$1148" />
+	<PushButton Name="OpenPB" Tag="[PushButton]$1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]$2|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

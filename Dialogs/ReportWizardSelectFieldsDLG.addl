@@ -1,0 +1,9 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportWizardSelectFieldsDLG" Tag="[Pane]Report Wizard|#2" ParentType="ReportWizardDLG" GUIType="UIA">
+
+  <PushButton Name="OKPB" Tag="[PushButton]*OK*|$7541188|#1" />
+  <TitleBar Name="ReportWizardCTL" Tag="[TitleBar]Report Wizard|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Report Wizard|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <Image Name="ReportWizardIMG" Tag="[Image]Report Wizard|#1" />
+  <StaticText Name="YouMustSelectFieldsST" Tag="[StaticText]You must select fields for the report before you continue|#1" />
+
+</Pane>

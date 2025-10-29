@@ -1,0 +1,5 @@
+
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectDataMerged" Tag="[Pane]Project Data Merged|$DwgOffLineEditsNotification" >
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$btnOk|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Project Data Merged|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

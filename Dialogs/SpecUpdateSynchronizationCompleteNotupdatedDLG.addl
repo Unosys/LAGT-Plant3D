@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateSynchronizationCompleteNotupdatedDLG" Tag="[Window]Spec Update - Synchronization Complete|$SynchronizationCompleteWindow" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="Close2PB" Tag="[PushButton]Close|$CloseButton|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

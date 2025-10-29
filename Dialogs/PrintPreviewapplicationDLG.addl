@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PrintPreviewapplicationDLG" Tag="[Window]Print Preview|$PrintPreviewWindow" ParentType="MainWin" GUIType="UIA">
+
+		<PushButton Name="ClosePB" Tag="[TitleBar]Print Preview|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

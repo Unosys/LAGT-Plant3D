@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LineGroupTagAlreadyExistsDLG" Tag="[DialogBox]Tag Already assigned" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]$2" />
+<RadioButton Name="ThisLineGroupTagAlreadyEx1" Tag="[RadioButton]#1|$m_radioButton2" />
+<StaticText Name="ThisLineGroupTagAlreadyEx2" Tag="[StaticText]#1|$m_descText" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

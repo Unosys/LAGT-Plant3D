@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BlockInsideThisDWG" Tag="[DialogBox]#1" ParentType="AutoCADPlant3DCatalogBuilderApplicationDLG" GUIType="UIA">
+  <PushButton Name="OK" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="NoneBlockInsideThisST" Tag="[StaticText]None block inside this dwg agrees with Number of Port setting*|$65535|#1" />
+  <TitleBar Name="TitleBarCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

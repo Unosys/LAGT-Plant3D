@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DOrthoGenerationDLG_Successfully" Tag="Plant 3D - Ortho Generation|$OrthoUpdateDlg" >
+
+	<PushButton Name="ClosePB" Tag="[CustomWin]$SuccessPage|#1/[PushButton]$CloseButton" />
+	<PushButton Name="Close1PB" Tag="[TitleBar]Plant 3D - Ortho Generation|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<Link Name="LogFileLINK" Tag="[CustomWin]$SuccessPage|#1/[StaticText]$LogFileText|#3/[Link]$LogFileHyperlink|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

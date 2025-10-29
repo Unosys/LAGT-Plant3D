@@ -1,0 +1,7 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardChartTitlesTextDLG" Tag="[Pane]$DesignerFormBase" ParentType="ReportDesignerApplicationDLG">
+   <PushButton Name="CancelPB" Tag="[Pane]$hitTestTransparentPanelControl|#7/[PushButton]Cancel|$sbCancel|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]$hitTestTransparentPanelControl|#7/[PushButton]OK|$sbOK|#1" />
+	<PushButton Name="AddPB" Tag="[Pane]pnlStructure|$pnlStructure|#3/[Pane]pnlActions|$pnlActions|#1/[Pane]$ucActionsControl|#1/[PushButton]$btnAddElement|#1" />
+	<!--<PageList Name="PageListPG" Tag="[Pane]pnlOptions|$pnlOptions|#7/[PageList]$tcOptionsProperties|#1" />-->
+	<Pane Name="OptionsPANE" Tag="[Pane]pnlOptions|$pnlOptions|#7/[PageList]$tcOptionsProperties|#1/[Pane]Options|$tbpOptions|#1" />
+</Pane>

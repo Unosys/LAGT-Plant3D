@@ -1,0 +1,10 @@
+<Window  Class="Autodesk.GUIHarness.Plant3D.Dialogs.ModifySharedContentFolderDLG" Tag="[Window]Modify Shared Content Folder|$ModifySharedContentFolder|#1" ParentType="MainWin" GUIType="UIA">
+
+  <PushButton Name="ClosePB" Tag="[TitleBar]Modify Shared Content Folder|$TitleBar/[PushButton]Close|$Close" />
+  <TextField Name="EdSharedContentFolder" Tag="[TextField]Shared Content Folder:|$edSharedContentFolder" />
+  <PushButton Name="BtSharedContentFolder" Tag="[PushButton]**|$btSharedContentFolder" />
+  <CheckBox Name="CbCopyAllContent" Tag="[CheckBox]$cbCopyAllContent" />
+  <PushButton Name="BtOk" Tag="[PushButton]OK|$btOk" />
+  <PushButton Name="BtCancel" Tag="[PushButton]Cancel|$btCancel|#3" />
+  <PushButton Name="BtHelp" Tag="[PushButton]Help|$btHelp" />
+</Window >

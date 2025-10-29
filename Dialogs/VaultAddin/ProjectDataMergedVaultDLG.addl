@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectDataMergedVaultDLG" Tag="[Pane]$frmVaultDataMerged" ParentType="Plant3D">
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOk" Tag="[PushButton]$btnOk" />
+<StaticText Name="M_LblIssuesFound" Tag="[StaticText]$m_LblIssuesFound" />
+<StaticText Name="M_LblMainInstruction" Tag="[StaticText]$m_LblMainInstruction" />
+<Link Name="M_LinkLblLog" Tag="[Link]$m_LinkLblLog" />
+<TextField Name="M_TextBoxIssuesFound" Tag="[TextField]$m_TextBoxIssuesFound" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$m_TextBoxIssuesFound" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

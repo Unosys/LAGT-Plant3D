@@ -1,0 +1,19 @@
+﻿<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.NewSpecDLG" Tag="[Window]New Spec|$Window_1|#1" ParentType="Plant3D" GUIType="UIA">
+  <TitleBar Name="NewSpecCTL" Tag="[TitleBar]New Spec|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]New Spec|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]New Spec|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]New Spec|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#2" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelButton|#2/[StaticText]Cancel|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$OKButton|#1" />
+  <StaticText Name="OKST" Tag="[PushButton]OK|$OKButton|#1/[StaticText]OK|#1" />
+  <StaticText Name="SpecName1ST" Tag="[StaticText]Spec name:|$Label_1|#1" />
+  <StaticText Name="SpecName2ST" Tag="[StaticText]Spec name:|$Label_1|#1/[StaticText]Spec name:|#1" />
+  <TextField Name="SpecNameTF" Tag="[TextField]Spec name:|$SpecNameTextBox|#1" />
+  <Pane Name="Pane1PANE" Tag="[TextField]Spec name:|$SpecNameTextBox|#1/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="CUsersAdministratorAppDataRoamingAutodeskAutodeskAutoCADPlant3DST" Tag="[StaticText]C:*|$TextBlock_1|#2" />
+  <StaticText Name="SpecDescription1ST" Tag="[StaticText]Spec description:|$Label_2|#3" />
+  <StaticText Name="SpecDescription2ST" Tag="[StaticText]Spec description:|$Label_2|#3/[StaticText]Spec description:|#1" />
+  <TextField Name="SpecDescriptionTF" Tag="[TextField]Spec description:|$SpecDescTextBox|#2" />
+  <Pane Name="Pane2PANE" Tag="[TextField]Spec description:|$SpecDescTextBox|#2/[Pane]$PART_ContentHost|#1" />
+</Window>

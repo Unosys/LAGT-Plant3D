@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DuplicateMappingMSG" Tag="[DialogBox]Duplicate Mapping" >
+
+
+	<PushButton Name="OverwriteTheMappingPB" Tag="[Pane]Duplicate Mapping|$Window|#1/[PushButton]Overwrite the mapping|$CommandButton_1313|#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]Duplicate Mapping|$Window|#1/[PushButton]Cancel|$CommandButton_1315|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Duplicate Mapping|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

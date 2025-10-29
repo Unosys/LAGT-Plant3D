@@ -1,0 +1,5 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VCSRV_CreateSuccessfulDLG" Tag="[Pane]$CommonMessageBox" ParentType="VaultProServer">
+
+  <PushButton Name="OKPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$tableLayoutPanel2/[PushButton]$button1" />
+
+</Pane>

@@ -1,0 +1,18 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDNewDWGDLG" Tag="[Pane]New DWG|$frmNewDWG_Revised" ParentType="CustomWin" GUIType="UIA">
+
+
+
+	<PushButton Name="OKPB" Tag="[Pane]$m_panel_buttons|#1/[PushButton]OK|$btnOK|#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]$m_panel_buttons|#1/[PushButton]Cancel|$btnCancel|#2" />
+	<TextField Name="AuthorTF" Tag="[GroupBox]$m_gb_drawing_properties/[TextField]Author:|$m_textBoxAuthor|#1" />
+	<StaticText Name="AuthorST" Tag="[GroupBox]$m_gb_drawing_properties/[StaticText]Author:|$m_StaticAuthor|#1" />
+	<Pane Name="Pane2PANE" Tag="[GroupBox]$m_gb_drawing_name|#1/[Pane]$m_panel_filename|#1" />
+	<TextField Name="FileNameTF" Tag="[GroupBox]$m_gb_drawing_name|#1/[Pane]$m_panel_filename|#1/[TextField]$m_tb_filename|#1" />
+	<PushButton Name="PushButtonPB" Tag="[GroupBox]$m_gb_project_properties/[PushButton]$m_dwtBrowseButton|#1" />
+	<TextField Name="DWGTemplateTF" Tag="[GroupBox]$m_gb_project_properties/[TextField]$tbDWGTemplate|#2" />
+	<TextField Name="FolderPathTF" Tag="[GroupBox]$m_gb_project_properties/[TextField]$tbFolderPath|#1" />
+	<TitleBar Name="NewDWGCTL" Tag="[TitleBar]New DWG|$TitleBar|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]New DWG|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Pane>

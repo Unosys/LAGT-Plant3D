@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AlreadyLoggendInDLG" Tag="[DialogBox]AlreadyLoggendInDLG" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]$2|#1" />
+<StaticText Name="AlreadyLoggedInServerEnv00" Tag="[StaticText]$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,6 @@
+﻿<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AttachExternalReferencesFromVault_CheckinDLG" Tag="[DialogBox]Attach External References from Vault" ParentType="MainWin" GUIType="WIN32">-->
+
+  <Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AttachExternalReferencesFromVault_CheckinDLG" Tag="[Pane]Attach External References|$frmVaultAttachReferences" ParentType="MainWin" GUIType="UIA">
+    <PushButton Name="OK" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="FileIsNotCheckedST" Tag="[StaticText]File is not checked out*|$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

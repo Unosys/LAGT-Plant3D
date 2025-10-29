@@ -1,0 +1,41 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardSpecifyPlant3DVaultDLG" Tag="[Pane]$CreateProjectWizard" ParentType="Plant3D">
+<!--<PushButton Name="M_btn3DDwgDir" Tag="[PushButton]$m_btn3DDwgDir" />
+<PushButton Name="M_btn3DSheetsDir" Tag="[PushButton]$m_btn3DSheetsDir" />
+<PushButton Name="M_btnOrthoDir" Tag="[PushButton]$m_btnOrthoDir" />
+<PushButton Name="M_btnRelFilesDir" Tag="[PushButton]$m_btnRelFilesDir" />
+<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonNext" Tag="[PushButton]$m_buttonNext" />
+<TextField Name="M_edit3DDwgDir" Tag="[TextField]$m_edit3DDwgDir" />
+<TextField Name="M_edit3DSheetsDir" Tag="[TextField]$m_edit3DSheetsDir" />
+<TextField Name="M_editOrthoDir" Tag="[TextField]$m_editOrthoDir" />
+<TextField Name="M_editRelFilesDir" Tag="[TextField]$m_editRelFilesDir" />
+<StaticText Name="M_orthoDirLbl" Tag="[StaticText]$m_orthoDirLbl" />
+<StaticText Name="M_PipingDwgsDirLbl" Tag="[StaticText]$m_PipingDwgsDirLbl" />
+<StaticText Name="M_relFilesLbl" Tag="[StaticText]$m_relFilesLbl" />
+<StaticText Name="M_SpecSheetsDirLbl" Tag="[StaticText]$m_SpecSheetsDirLbl" />
+ --><!--//<CustomWin Name ="M_wizardSetup" Tag="$m_wizardSetup" />-->
+<GroupBox Name="Page3DSettings" Tag="[GroupBox]$page3DSettings" />
+  <Pane Name="PanePANE" Tag="[Pane]$m_wizardSetup|#1" />
+  <Pane Name="TheWizardHasCollectedPANE" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1" />
+  <StaticText Name="SpecifyTheDirectoryWhereST" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[StaticText]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$m_relFilesLbl|#4" />
+  <TextField Name="SpecifyTheDirectoryWhereTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[TextField]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$m_editRelFilesDir|#4" />
+  <PushButton Name="PushButton1PB" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[PushButton]**[1]|$m_btnRelFilesDir|#4" />
+  <TextField Name="Plant3DModelDWGTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[TextField]Plant 3D model DWG file directory:|$m_edit3DDwgDir|#1" />
+  <PushButton Name="PushButton2PB" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[PushButton]**[2]|$m_btn3DDwgDir|#1" />
+  <PushButton Name="PushButton3PB" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[PushButton]**[3]|$m_btn3DSheetsDir|#2" />
+  <TextField Name="SpecSheetsDirectoryTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[TextField]Spec sheets directory:|$m_edit3DSheetsDir|#2" />
+  <StaticText Name="OrthographicOutputDirectoryST" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[StaticText]Orthographic output directory:|$m_orthoDirLbl|#3" />
+  <TextField Name="OrthographicOutputDirectoryTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[TextField]Orthographic output directory:|$m_editOrthoDir|#3" />
+  <PushButton Name="PushButton4PB" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[PushButton]**[4]|$m_btnOrthoDir|#3" />
+  <StaticText Name="SpecSheetsDirectoryST" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[StaticText]Spec sheets directory:|$m_SpecSheetsDirLbl|#2" />
+  <StaticText Name="Plant3DModelDWGST" Tag="[Pane]$m_wizardSetup|#1/[Pane]The wizard has collected enough information to create your project*|$page3DSettings|#1/[StaticText]Plant 3D model DWG file directory:|$m_PipingDwgsDirLbl|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Cancel|$m_buttonCancel|#3" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Next|$m_buttonNext|#2" />
+  <PushButton Name="BackPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]&lt;&lt; Back|$m_buttonBack|#1" />
+  <TitleBar Name="ProjectSetupWizardPageCTL" Tag="[TitleBar]Project Setup Wizard (Page 4 of 6)|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup Wizard (Page 4 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup Wizard (Page 4 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 4 of 6)|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

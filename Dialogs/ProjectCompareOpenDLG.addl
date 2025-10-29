@@ -1,0 +1,33 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectCompareOpenDLG" Tag="[DialogBox]Open" ParentType="CustomWin" GUIType="WIN32">
+
+  <StaticText Name="LookInST" Tag="[StaticText]Look in:|$1091|#1" />
+  <PopupList Name="LookInPL" Tag="[PopupList]Look in:|$1137|#1" />
+  <ToolBar Name="ToolBar1TB" GUIType="UIA" Tag="[ToolBar]$1088|#1" />
+  <PushButton Name="GoToLastFolderPB" Tag="[ToolBar]$1088|#1/[PushButton]Go To Last Folder Visited|$Item 40971|#1" />
+  <PushButton Name="UpOneLevelPB" Tag="[ToolBar]$1088|#1/[PushButton]Up One Level|$Item 40961|#2" />
+  <PushButton Name="CreateNewFolderPB" Tag="[ToolBar]$1088|#1/[PushButton]Create New Folder|$Item 40962|#3" />
+  <PushButton Name="ViewMenuPB" Tag="[ToolBar]$1088|#1/[PushButton]View Menu|$Item 40970|#4" />
+  <ToolBar Name="ToolBar2TB" GUIType="UIA" Tag="[ToolBar]$1184|#2" />
+  <PushButton Name="QuickAccessPB" Tag="[ToolBar]$1184|#2/[PushButton]Quick access|$Item 41060|#1" />
+  <PushButton Name="DesktopPB" Tag="[ToolBar]$1184|#2/[PushButton]Desktop|$Item 41061|#2" />
+  <PushButton Name="LibrariesPB" Tag="[ToolBar]$1184|#2/[PushButton]Libraries|$Item 41062|#3" />
+  <PushButton Name="ThisPCPB" Tag="[ToolBar]$1184|#2/[PushButton]This PC|$Item 41063|#4" />
+  <PushButton Name="NetworkPB" Tag="[ToolBar]$1184|#2/[PushButton]Network|$Item 41064|#5" />
+  <CustomWin Name="CustomWin1WIN" Tag="[CustomWin]$1121|#1" />
+  <ListView Name="ListViewLV" Tag="[CustomWin]$1121|#1/[ListView]$1|#1" />
+  <Header Name="HeaderCTL" GUIType="UIA" Tag="[CustomWin]$1121|#1/[ListView]$1|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="NameWIN" Tag="[CustomWin]$1121|#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 0|#1" />
+  <CustomWin Name="DateModifiedWIN" Tag="[CustomWin]$1121|#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Date modified|$HeaderItem 1|#2" />
+  <CustomWin Name="TypeWIN" Tag="[CustomWin]$1121|#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Type|$HeaderItem 2|#3" />
+  <StaticText Name="FileNameST" Tag="[StaticText]File name:|$1090|#2" />
+  <ComboBox Name="FileNameCB" Tag="[ComboBox]$1148" />
+  <StaticText Name="FilesOfTypeST" Tag="[StaticText]Files of type:|$1089|#3" />
+  <PopupList Name="FilesOfTypePL" Tag="[PopupList]Files of type:|$1136|#2" />
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$1|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$1038|#3" />
+  <CustomWin Name="CustomWin2WIN" Tag="[CustomWin]$-1|#2" />
+  <DialogBox Name="DialogBoxDLG" Tag="[DialogBox]#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

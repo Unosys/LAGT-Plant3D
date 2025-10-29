@@ -1,0 +1,18 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectBackupProcessDLG" Tag="[Window]Plant Project Backup|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+  <TitleBar Name="PlantProjectBackupCTL" Tag="[TitleBar]Plant Project Backup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Plant Project Backup|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Plant Project Backup|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Plant Project Backup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[CustomWin]$UserControl_1|#1" />
+  <Image Name="ImageIMG" Tag="[CustomWin]$UserControl_1|#1/[Image]$Image_1|#1" />
+  <StaticText Name="CreatingProjectBackupCopyST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Creating project backup copy*|$TextBlock_1|#1" />
+  <StaticText Name="Copying1Of227ST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]copying 1 of 227 model files*|$TextBlock_2|#2" />
+  <CustomWin Name="CustomWin2WIN" Tag="[CustomWin]$UserControl_1|#1/[CustomWin]$ProgressBar_1|#1" />
+  <PushButton Name="PushButtonPB" Tag="[PushButton]$Button_10|#2" />
+  <StaticText Name="OpenBackupFolderST" Tag="[PushButton]$Button_10|#2/[StaticText]open backup folder|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_1|#1" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$Button_1|#1/[StaticText]Cancel|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

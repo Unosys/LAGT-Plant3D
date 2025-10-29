@@ -1,0 +1,22 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ViewPortsDLG" Tag="[DialogBox]Viewports" ParentType="Plant3D">
+<DialogBox Name="DialogBox1" Tag="$0" />
+<StaticText Name="CurrentNameText" Tag="[StaticText]Current name:|$1834" />
+<StaticText Name="StandardViewportsText" Tag="[StaticText]Standard viewports:|$1838" />
+<ListView Name="StandardViewports" Tag="[ListView]Standard viewports:|$1820" />
+<StaticText Name="ViewportSpacingText" Tag="[StaticText]Viewport Spacing:|$1824" />
+<TextField Name="ViewportSpacing" Tag="[TextField]Viewport Spacing:|$1872" />
+<UpDown Name="Spin3" Tag="[UpDown]Spin3|$1873" />
+<StaticText Name="SetupText" Tag="[StaticText]Setup:|$1826" />
+<PopupList Name="Setup" Tag="[PopupList]Setup:|$1823" />
+<StaticText Name="PreviewText" Tag="[StaticText]Preview|$1822" />
+<PushButton Name="Preview" Tag="[PushButton]Preview|$1836" />
+<StaticText Name="ChangeViewToText" Tag="[StaticText]Change view to:|$1827" />
+<PopupList Name="ChangeViewTo" Tag="[PopupList]Change view to:|$1825" />
+<StaticText Name="VisualStyleText" Tag="[StaticText]Visual Style:|$1865" />
+<PopupList Name="VisualStyle" Tag="[PopupList]Visual Style:|$1833" />
+<StaticText Name="ActiveModelConfigurationTe" Tag="[StaticText]?Active Model Configuration?|$1877" />
+<PushButton Name="OK" Tag="[PushButton]OK|$1" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+<PushButton Name="Help" Tag="[PushButton]Help|$57670" />
+<PageList Name="PageList1" Tag="$1819" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

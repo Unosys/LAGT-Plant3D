@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.FibonacciIndicatorKindsDLG" Tag="[Pane]Indicator Type|$IndicatorTypeForm"  ParentType="Pane">
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$btnOk|#1" />
+  <ListBox Name="ListBoxLB" Tag="[ListBox]$listView|#1" />
+  <ListBoxItem Name="RegressionLineLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Regression Line|#4" />
+  <ListBoxItem Name="TrendLineLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Trend Line|#1" />
+  <ListBoxItem Name="FibonacciArcsLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Fibonacci Arcs|#2" />
+  <ListBoxItem Name="FibonacciFansLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Fibonacci Fans|#3" />
+  <ListBoxItem Name="FibonacciRetracementLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Fibonacci Retracement|#5" />
+  <ListBoxItem Name="SimpleMovingAverageLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Simple Moving Average|#6" />
+  <ListBoxItem Name="ExponentialMovingAverageLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Exponential Moving Average|#7" />
+  <ListBoxItem Name="WeightedMovingAverageLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Weighted Moving Average|#8" />
+  <ListBoxItem Name="TriangularMovingAverageLBI" Tag="[ListBox]$listView|#1/[ListBoxItem]Triangular Moving Average|#9" />
+  <StaticText Name="StaticTextST" Tag="[StaticText]$separator|#1" />
+  <TitleBar Name="IndicatorTypeCTL" Tag="[TitleBar]Indicator Type|$TitleBar|#1" />
+</Pane>

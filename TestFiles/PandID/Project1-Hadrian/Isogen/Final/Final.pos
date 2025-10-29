@@ -1,0 +1,18 @@
+                                      Table   Table   Numb  Numb
+Text       X       Y   Char   Char    Offset  Offset   of    of    Table
+ID No     Pos     Pos  Width  Height   in X    in Y   Cols  Lines   Dir
+-----     ---     ---  -----  ------  ------  ------  ----  -----  -----
+
+-700      5000      52500      1000      1000    0      0      0      0      0      
+-703      84000      2500      250      250      0      0      0      0      0      
+-8        82050      1400      250      250      0      0      0      0      0      
+-602      60500      7700      250      254      0      0      0      0      0      !ACIsogen.Attribute2 = P3dLineGroup.Tag
+-604      60500      7150      250      254      0      0      0      0      0      !ACIsogen.Attribute4 = P3dLineGroup.Service
+-9        82050      1000      250      250      0      0      0      0      0      
+-6        82050      1400      250      250      0      0      0      0      0      
+-702      82500      2500      250      250      0      0      0      0      0      
+-603      60500      6600      250      254      0      0      0      0      0      !ACIsogen.Attribute3 = P3dLineGroup.NominalSpec
+-14       0          0         225      225      0      0      0      0      0      
+-601      67200      3380      250      254      0      0      0      0      0      !ACIsogen.Attribute1 = General.Project_Name
+-11       00000      0000      500      500      0      0      0      0      0      
+-10       71300      1550      200      250      0      0      0      0      0      

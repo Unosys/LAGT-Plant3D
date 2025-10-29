@@ -1,0 +1,11 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VaultProjectWorkspaceFolderDLG" Tag="[DialogBox]Vault Project Workspace Folder" ParentType="Pane" GUIType="UIA">
+ <Pane Name="VaultProjectWorkspaceFolderPANE" Tag="[Pane]Vault Project Workspace Folder|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Vault Project Workspace Folder|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Vault Project Workspace Folder|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Vault Project Workspace Folder|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="NonlocalWorkspaceFolderST" Tag="[Pane]Vault Project Workspace Folder|$Window|#1/[StaticText]Non-local Workspace Folder|$MainInstruction|#1" />
+  <StaticText Name="TheFolderuno13pcFFS1IsST" Tag="[Pane]Vault Project Workspace Folder|$Window|#1/[StaticText]The folder *|$ContentText|#2" />
+  <PushButton Name="YesPB" Tag="[Pane]Vault Project Workspace Folder|$Window|#1/[PushButton]Yes|$CommandButton_6|#1" />
+  <PushButton Name="NoPB" Tag="[Pane]Vault Project Workspace Folder|$Window|#1/[PushButton]No|$CommandButton_7|#2" />
+  <TitleBar Name="VaultProjectWorkspaceFolderCTL" Tag="[TitleBar]Vault Project Workspace Folder|$TitleBar|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

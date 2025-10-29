@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DSelectBlockDLG" Tag="[DialogBox]Select Block" ParentType="SymbolSettingsDLG">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="OK" Tag="[PushButton]$1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

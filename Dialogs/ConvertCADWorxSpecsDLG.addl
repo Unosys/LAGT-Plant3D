@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConvertCADWorxSpecsDLG" Tag="[Window]Convert CADWorx Specs|$SpecMigrationConversionWindow" ParentType="MainWin" GUIType="UIA">
+	
+
+
+	<PushButton Name="ConvertPB" Tag="[PushButton]Convert|$Convert|#6" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#7" />
+	<PushButton Name="PushButton1PB" Tag="[PushButton]$EllipsisButton|#5" />
+
+	<PushButton Name="PushButton2PB" Tag="[PushButton]$EllipsisButtonCADWorx|#4" />
+	<PushButton Name="PushButton3PB" Tag="[PushButton]$EllipsisButton2|#3" />
+	<TextField Name="SelectTheStandardLibraryTF" Tag="[TextField]Select the standard library that contains referenced files:|$LibRefTextBox|#1" />
+	<TextField Name="SelectTheCadWorxDatafiletblTF" Tag="[TextField]Select the CadWorx datafile*|$DataFileTextBox|#2" />
+	<TextField Name="SelectTheFolderForTF" Tag="[TextField]Select the folder for the converted specs:|$MigratedFolderTextBox|#3" />
+
+	<PushButton Name="AddPB" Tag="[PushButton]Add|$AddButton|#1" />
+	<PushButton Name="RemovePB" Tag="[PushButton]Remove|$RemoveButton|#2" />
+
+</Autodesk.GUIHarness.Window>

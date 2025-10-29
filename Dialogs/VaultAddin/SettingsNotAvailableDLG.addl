@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SettingsNotAvailableDLG" Tag="[DialogBox]Settings Not Available" ParentType="MainWin">
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

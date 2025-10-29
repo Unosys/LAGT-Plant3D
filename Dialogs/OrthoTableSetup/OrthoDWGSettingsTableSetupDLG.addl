@@ -1,0 +1,36 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox  Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoDWGSettingsTableSetupDLG" Tag="[Window]Ortho Table Setup|$Window_BOMSetup" ParentType="MainWin" GUIType="UIA">
+
+	<TitleBar Name="OrthoTableSetupCTL" Tag="[TitleBar]Ortho Table Setup|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Ortho Table Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Ortho Table Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Ortho Table Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<ListBox Name="ListBoxLB" Tag="[ListBox]$ListView_TableTypes|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupOrthoBOMSetupDlgBOMTable1LBI" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#1" />
+	<StaticText Name="PipingBOM1ST" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#1/[StaticText]Piping BOM|$TextBlock_TableType|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupOrthoBOMSetupDlgBOMTable2LBI" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#2" />
+	<StaticText Name="EquipmentBOMST" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#2/[StaticText]Equipment BOM|$TextBlock_TableType|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupOrthoBOMSetupDlgBOMTable3LBI" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#3" />
+	<StaticText Name="NozzleListST" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#3/[StaticText]Nozzle List|$TextBlock_TableType|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupOrthoBOMSetupDlgBOMTable4LBI" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#4" />
+	<StaticText Name="SteelBOMST" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#4/[StaticText]Steel BOM|$TextBlock_TableType|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupOrthoBOMSetupDlgBOMTable5LBI" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#5" />
+	<StaticText Name="SpoolListST" Tag="[ListBox]$ListView_TableTypes|#1/[ListBoxItem]#5/[StaticText]Spool List|$TextBlock_TableType|#1" />
+	<PageList Name="PageListPG" Tag="[PageList]$TabControl_Table|#1" />
+	<Window Name="SettingsWIN" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_Settings|#2" />
+	<StaticText Name="SettingsST" Tag="[PageList]$TabControl_Table|#1/[Window]Settings|$TabItem_Settings|#2/[StaticText]Settings|#1" />
+	<Window Name="TableLayoutWIN" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1" />
+	<StaticText Name="TableLayoutST" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[StaticText]Table Layout|#1" />
+	<CustomWin Name="CustomWin1WIN" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1" />
+	<CustomWin Name="CustomWin2WIN" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CustomWin]$UserControl_BOMSetupLayout|#1" />
+	<PopupList Name="PopupListPL" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CustomWin]$UserControl_BOMSetupLayout|#1/[PopupList]$ComboBox_Layout|#1" />
+	<CheckBox Name="CheckBox1CK" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CheckBox]$CheckBox_EnableTable|#1" />
+	<StaticText Name="EnablePipingBOMInST" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[StaticText]Enable  Piping BOM  in Orthos:|$TextBlock_EnableTable|#1" />
+	<CustomWin Name="CustomWin3WIN" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CustomWin]$UserControl_BOMSetupTable|#2" />
+	<ListView Name="ListViewLV" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CustomWin]$UserControl_BOMSetupTable|#2/[ListView]$TableGrid|#1" />
+	<PushButton Name="ManageComponentsPB" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CustomWin]$UserControl_BOMSetupTable|#2/[PushButton]Manage Components|$Button_ManageComponents|#1" />
+	<PushButton Name="AddColumnPB" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CustomWin]$UserControl_BOMSetupTable|#2/[PushButton]Add Column|$Button_AddColumn|#2" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_Cancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$Button_OK|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

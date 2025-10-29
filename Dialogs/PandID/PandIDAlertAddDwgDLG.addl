@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDAlertAddDwgDLG" Tag="[DialogBox]AlertAddDwgDLG" ParentType="Plant3D">
+<PushButton Name="Yes" Tag="[PushButton]Yes|$6" />
+<PushButton Name="No" Tag="[PushButton]No|$7" />
+<CustomWin Name="Icon1" Tag="[Icon]$20" />
+<StaticText Name="ThisObjectCanOnlyBeInsert" Tag="[StaticText]This object can only be inserted into a project drawing. ??Would you like to add this drawing to the current project?|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

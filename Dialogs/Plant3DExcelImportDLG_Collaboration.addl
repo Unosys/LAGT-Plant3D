@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DExcelImportDLG_Collaboration" Tag="[Window]Plant 3D - Excel Import|$Window_1" >
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Plant 3D - Excel Import|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="CancelPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Cancel|$Button_1|#2" />
+	<PushButton Name="UpdatePB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Update|$Button_2|#1" />
+
+	<CheckBox Name="CheckBoxCK" Tag="[CustomWin]$UserControl_1|#1/[CheckBox]$OptionCheckBox|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

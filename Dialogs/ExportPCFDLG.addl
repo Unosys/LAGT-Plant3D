@@ -1,0 +1,36 @@
+<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportPCFDLG" Tag="[DialogBox]$ExportPCF" ParentType="Plant3D">
+<PushButton Name="Button_Browse" Tag="[PushButton]$button_Browse" />
+<PushButton Name="Button_filteractive" Tag="[PushButton]$button_filteractive" />
+<CheckBox Name="CheckBox_DrawingLines" Tag="[CheckBox]$checkBox_DrawingLines" />
+<CheckBox Name="CheckBox_filter" Tag="[CheckBox]$checkBox_filter" />
+<CheckBox Name="CheckBox_ProjectLines" Tag="[CheckBox]$checkBox_ProjectLines" />
+<CheckedListBox Name="CheckedListBox_Lines" Tag="[CheckedListBox]$checkedListBox_Lines" />
+<GroupBox Name="GroupBox_DisplayLines" Tag="[GroupBox]$groupBox_DisplayLines" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label_CreateFromLines" Tag="[StaticText]$label_CreateFromLines" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonCreate" Tag="[PushButton]$m_buttonCreate" />
+<PushButton Name="M_buttonHelp" Tag="[PushButton]$m_buttonHelp" />
+<TextField Name="TextBox_Filter" Tag="[TextField]$textBox_Filter" />
+<TextField Name="TextBox_OutputDir" Tag="[TextField]$textBox_OutputDir" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>-->
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportPCFDLG" Tag="[Pane]Export PCF|$ExportPCF" ParentType="Plant3D" GUIType="UIA">
+  <TextField Name="SavePCFFilesToTF" Tag="[TextField]Save PCF files to:|$textBox_OutputDir|#1" />
+  <PushButton Name="Button_Browse" Tag="[PushButton]$button_Browse" />
+  <StaticText Name="SavePCFFilesToST" Tag="[StaticText]Save PCF files to:|$label1|#1" />
+  <GroupBox Name="DisplayLinesGB" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1" />
+  <ListBox Name="LineNumbersLB" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[ListBox]Line Numbers:|$checkedListBox_Lines|#1" />
+  <CheckBox Name="CheckBox1CK" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]`|$checkBox_DrawingLines|#3" />
+  <CheckBox Name="CheckBox2CK" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]$checkBox_ProjectLines|#1" />
+  <CheckBox Name="CheckBox3CK" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]$checkBox_filter|#2" />
+  <StaticText Name="LineNumbersST" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[StaticText]Line Numbers:|$label_CreateFromLines|#1" />
+  <PushButton Name="LineNumbersPB" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[PushButton]Line Numbers:|$button_filteractive|#1" />
+  <TextField Name="TextFieldTF" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[TextField]$textBox_Filter|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_buttonCancel|#3" />
+  <PushButton Name="CreatePB" Tag="[PushButton]Create|$m_buttonCreate|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_buttonHelp|#4" />
+  <TitleBar Name="ExportPCFCTL" Tag="[TitleBar]Export PCF|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Export PCF|$TitleBar|#1/[CustomWin]System Menu Bar|$ExportPCF|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Export PCF|$TitleBar|#1/[CustomWin]System Menu Bar|$ExportPCF|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Export PCF|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

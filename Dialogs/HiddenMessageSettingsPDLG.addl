@@ -1,0 +1,18 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.HiddenMessageSettingsPDLG" Tag="[Window]Hidden Message Settings|$Window_1">
+    <TextField Name="SearchTF" Tag="[TextField]Search:|$mSearchBox" />
+    <Pane Name="PanePANE" Tag="[TextField]Search:|$mSearchBox/[Pane]$PART_ContentHost" />
+    <TreeView Name="TreeViewTV" Tag="[TreeView]$PART_TreeView" />
+    <TreeViewItem Name="AutoCADTVI" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1" />
+    <PushButton Name="PushButton1PB" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1/[PushButton]$Expander" />
+    <CheckBox Name="CheckBox1CK" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1/[CheckBox]#1" />
+    <TreeViewItem Name="AutoCADPlant3DTVI" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1/[TreeViewItem]AutoCAD Plant 3D|#1" />
+    <PushButton Name="PushButton2PB" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1/[TreeViewItem]AutoCAD Plant 3D|#1/[PushButton]$Expander" />
+    <CheckBox Name="CheckBox2CK" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1/[TreeViewItem]AutoCAD Plant 3D|#1/[CheckBox]#1" />
+    <TreeViewItem Name="DeleteWSFilesTVI" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1/[TreeViewItem]AutoCAD Plant 3D|#1/[TreeViewItem]Delete Workspace Files|#1" />
+    <CheckBox Name="CheckBox3CK" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1/[TreeViewItem]AutoCAD Plant 3D|#1/[TreeViewItem]Delete Workspace Files|#1/[CheckBox]#1" />
+    <StaticText Name="DeleteWorkspaceFilesST" Tag="[TreeView]$PART_TreeView/[TreeViewItem]AutoCAD|#1/[TreeViewItem]AutoCAD Plant 3D|#1/[TreeViewItem]Delete Workspace Files|#1/[StaticText]Delete Workspace Files|#1" />
+    <PushButton Name="OKPB" Tag="[PushButton]OK|$Button_1" />
+    <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_2" />
+    <PushButton Name="HelpPB" Tag="[PushButton]Help|$Button_3" />
+    <PushButton Name="ClosePB" Tag="[TitleBar]Hidden Message Settings|$TitleBar/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

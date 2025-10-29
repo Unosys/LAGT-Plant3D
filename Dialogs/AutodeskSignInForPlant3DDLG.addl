@@ -1,0 +1,19 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Dialogs.AutodeskSignInForPlant3DDLG" Tag="[Window]Sign in"  ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="SignInCTL" Tag="[TitleBar]Sign in|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Sign in|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Sign in|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Sign in|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[Pane]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+<!--<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutodeskSignInForPlant3DDLG" Tag="[Pane]Sign in" ParentType="Desktop" GUIType="UIA">
+  <TitleBar Name="SignInCTL" Tag="[TitleBar]Sign in|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Sign in|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Sign in|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Sign in|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[Pane]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]#1" />
+</Pane>-->

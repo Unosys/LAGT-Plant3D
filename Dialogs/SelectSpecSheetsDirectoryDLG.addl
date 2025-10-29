@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectSpecSheetsDirectoryDLG" Tag="[DialogBox]Select Spec Sheets Directory|#1" >
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#8" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

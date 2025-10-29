@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.AxisVisibilityDLG" Tag="[Pane]$AxisVisibilityInPanesForm" ParentType="ChartWizardChartDLG">
+<CustomWin Name="ContentPanel" Tag="[CustomWin]$contentPanel" />
+<CustomWin Name="FooterPanel" Tag="[CustomWin]$footerPanel" />
+<CustomWin Name="LabelControl1" Tag="[CustomWin]$labelControl1" />
+<ListView Name="ListViewPanes" Tag="[ListView]$listViewPanes" />
+<Header Name="ListViewPanesHeader" Tag="[Header]$listViewPanes" />
+<CustomWin Name="SimpleButton1" Tag="[CustomWin]$simpleButton1" />
+</Autodesk.GUIHarness.Pane>

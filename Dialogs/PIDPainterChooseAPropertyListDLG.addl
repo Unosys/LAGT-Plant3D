@@ -1,0 +1,8 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDPainterChooseAPropertyListDLG" Tag="[Pane]$ChooseaPropertyListDlg" >
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Choose a Property List|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

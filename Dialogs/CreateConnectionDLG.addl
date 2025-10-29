@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateConnectionDLG" Tag="[Pane]$CreateConnectionDlg" ParentType="MainWin" GUIType="UIA">
+  <GroupBox Name="PreviewGB" Tag="[GroupBox]Preview|$groupBoxPreview|#3" />
+  <PushButton Name="BtnCancel" Tag="[Pane]Select Offpage Connector to Connect to:|$splitHoriz|#1/[Pane]$2951128|#2/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOk" Tag="[PushButton]$btnOk" />
+<GroupBox Name="GroupBoxPreview" Tag="[GroupBox]$groupBoxPreview" />
+<StaticText Name="M_OPCPreviewLabel" Tag="[StaticText]$m_OPCPreviewLabel" />
+<Table Name="OPCDataGridView" Tag="[Table]$OPCDataGridView" />
+<GroupBox Name="OPCListPanel" Tag="[GroupBox]$OPCListPanel" />
+<GroupBox Name="PreviewPanel" Tag="[GroupBox]$previewPanel" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Connection|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

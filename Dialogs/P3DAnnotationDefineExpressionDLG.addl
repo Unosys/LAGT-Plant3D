@@ -1,0 +1,39 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DAnnotationDefineExpressionDLG" Tag="[Pane]$DefineExpressionDlg" >
+
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_helpButton|#3" />
+  <PushButton Name="M_cancelButton" Tag="[PushButton]Cancel|$m_cancelButton|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_okButton|#1" />
+  <GroupBox Name="AutogenerateGB" Tag="[GroupBox]Autogenerate|$m_autogenerateGroup|#3" />
+  <TextField Name="TextField1TF" Tag="[GroupBox]Autogenerate|$m_autogenerateGroup|#3/[TextField]$m_drawingFieldTextBox|#2" />
+  <PushButton Name="M_drawingFieldButton" Tag="[GroupBox]Autogenerate|$m_autogenerateGroup|#3/[PushButton]$m_drawingFieldButton|#2" />
+  <RadioButton Name="M_drawingFieldRadioButton" Tag="[GroupBox]Autogenerate|$m_autogenerateGroup|#3/[RadioButton]$m_drawingFieldRadioButton|#2" />
+  <TextField Name="TextField2TF" Tag="[GroupBox]Autogenerate|$m_autogenerateGroup|#3/[TextField]$m_projectFieldTextBox|#1" />
+  <PushButton Name="M_projectFieldButton" Tag="[GroupBox]Autogenerate|$m_autogenerateGroup|#3/[PushButton]$m_projectFieldButton|#1" />
+  <RadioButton Name="M_projectFieldRadioButton" Tag="[GroupBox]Autogenerate|$m_autogenerateGroup|#3/[RadioButton]$m_projectFieldRadioButton|#1" />
+  <CheckBox Name="M_autogenerateCheckBox" Tag="[GroupBox]Autogenerate|$m_autogenerateGroup|#3/[CheckBox]Autogenerate expression|$m_autogenerateCheckBox|#1" />
+  <GroupBox Name="ResultGB" Tag="[GroupBox]Result|$m_resultGroup|#2" />
+  <CheckBox Name="M_noExpressioncheckBox" Tag="[GroupBox]Result|$m_resultGroup|#2/[CheckBox]No expression (free style value)|$m_noExpressioncheckBox|#1" />
+  <TextField Name="TextField3TF" Tag="[GroupBox]Result|$m_resultGroup|#2/[TextField]$m_manuallyDefinedExpressionTextBox|#1" />
+  <CheckBox Name="ManuallyDefineExpressionCK" Tag="[GroupBox]Result|$m_resultGroup|#2/[CheckBox]Manually define expression|$m_manuallyDefineCheckBox|#2" />
+  <GroupBox Name="ExpressionGB" Tag="[GroupBox]Expression|$m_expressionGroup|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedNumberLengthNumericUpDown|#2" />
+  <CustomWin Name="Spinner1WIN" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedNumberLengthNumericUpDown|#2/[CustomWin]Spinner|$7410058|#2" />
+  <PushButton Name="Forward1PB" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedNumberLengthNumericUpDown|#2/[CustomWin]Spinner|$7410058|#2/[PushButton]Forward|$SmallIncrement|#1" />
+  <PushButton Name="Backward1PB" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedNumberLengthNumericUpDown|#2/[CustomWin]Spinner|$7410058|#2/[PushButton]Backward|$SmallDecrement|#2" />
+  <CustomWin Name="one1WIN" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedNumberLengthNumericUpDown|#2/[CustomWin]1|$m_fixedNumberLengthNumericUpDown|#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedCharacterLengthNumericUpDown|#1" />
+  <CustomWin Name="Spinner2WIN" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedCharacterLengthNumericUpDown|#1/[CustomWin]Spinner|$12259318|#2" />
+  <PushButton Name="Forward2PB" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedCharacterLengthNumericUpDown|#1/[CustomWin]Spinner|$12259318|#2/[PushButton]Forward|$SmallIncrement|#1" />
+  <PushButton Name="Backward2PB" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedCharacterLengthNumericUpDown|#1/[CustomWin]Spinner|$12259318|#2/[PushButton]Backward|$SmallDecrement|#2" />
+  <CustomWin Name="one2WIN" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CustomWin]$m_fixedCharacterLengthNumericUpDown|#1/[CustomWin]1|$m_fixedCharacterLengthNumericUpDown|#1" />
+  <CheckBox Name="FixedLength1CK" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CheckBox]Fixed Length[1]|$m_fixedNumberLengthCheckBox|#3" />
+  <CheckBox Name="FixedLength2CK" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CheckBox]Fixed Length[2]|$m_fixedCharacterLengthCheckBox|#2" />
+  <CheckBox Name="UppercaseCK" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[CheckBox]Uppercase|$m_uppercaseCheckBox|#1" />
+  <RadioButton Name="RadioButton3RB" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[RadioButton]$m_numbersRadioButton|#2" />
+  <RadioButton Name="RadioButton4RB" Tag="[GroupBox]Expression|$m_expressionGroup|#1/[RadioButton]$m_textCharactersRadioButton|#1" />
+  <TitleBar Name="DefineExpressionCTL" Tag="[TitleBar]Define Expression|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Define Expression|$TitleBar|#1/[CustomWin]System Menu Bar|$DefineExpressionDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Define Expression|$TitleBar|#1/[CustomWin]System Menu Bar|$DefineExpressionDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Define Expression|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

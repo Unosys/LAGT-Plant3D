@@ -1,0 +1,6 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.NoExcelMSGDLG" Tag="[DialogBox]#1" ParentType="SelectExcelFilesValidatingDLG" GUIType="UIA">
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="NoExcelInstallationWasST" Tag="[StaticText]No Excel installation was found|$65535|#1" />
+  <TitleBar Name="TitleBarCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

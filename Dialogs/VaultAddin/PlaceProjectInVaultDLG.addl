@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlaceProjectInVaultDLG" Tag="[DialogBox]Place Project in Vault" ParentType="MainWin" >
+<PushButton Name="Yes" Tag="[PushButton]$6|#1" />
+<PushButton Name="No" Tag="[PushButton]$7|#2" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]$20|[Icon]#1" />
+<StaticText Name="OneOrMoreDrawingsOfTheCu" Tag="[StaticText]$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

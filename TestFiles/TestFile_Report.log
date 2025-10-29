@@ -1,0 +1,17 @@
+Génération du catalogue impossible. Consultez les erreurs et les avertissements.
+
+C:\LAGT\Plant3D\TestFiles\TestFile.xlsx
+Erreurs
+	 Feuille de famille incorrecte:C:\LAGT\Plant3D\TestFiles\TestFile.xlsx
+		Sheet1
+		Sheet2
+		Sheet3
+Avertissements
+	Le fichier Excel ne contient aucun avertissement.
+Résumé
+	3	Erreurs
+	0	Avertissement
+	0	Famille de pièces
+	0	Pièce individuelle
+	0	Dépendance de graphique de bloc AutoCAD
+	0	Dépendance de graphique de script personnalisé

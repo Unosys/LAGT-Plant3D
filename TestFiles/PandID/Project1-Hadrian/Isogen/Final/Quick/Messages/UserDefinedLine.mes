@@ -1,0 +1,28 @@
+
+ Personal ISOGEN : VERSION 6.3.0 (Full)
+
+*** IDFGEN VERSION 7.3.0 (Build 12) ***
+Reading File: ISOGEN.PCF
+
+Processing PIPELINE-REFERENCE: UserDefinedLine
+ALL COMPONENTS CONNECTED.
+ISOGEN VERSION 9.3.0 (Build 17]
+          **** ISODAT ****
+ START OF DRAWING UserDefinedLine
+
+ERROR DETECTED IN PIPE /UserDefinedLine
+********************************************************************************
+WARNING:
+Message Indentifier:            ISOGEN:1111
+Message Text:                   COMPONENT(S) WITH NO WEIGHT FOUND
+********************************************************************************
+ OUTPUT STAGE OF DRAWING UserDefinedLine
+
+         **** ISOPLOT ****
+ DRG   1  SHAPED        	   	   
+
+ THE FOLLOWING DRAWINGS ARE IN PLOTFILE  C:\Users\petrjk\Documents\Project 1\Isogen\Final\Quick\Drawings\UserDefinedLineF.DWG
+ DRG   1  SIMULATE      	   	   
+          DRG.   1   /UserDefinedLine                                   
+ DRG.  1 ISOMET ARRAYS SET, CHRS     0 FROM 20000 TEXT     0 FROM  1000
+                            DIMN     3 FROM   400 SKEW     1 FROM    50

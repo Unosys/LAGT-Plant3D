@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingIsLockedDLG" Tag="[DialogBox]DrawingIsLockedDLG" ParentType="CreateConnectionDLG">
+<PushButton Name="OK" Tag="[PushButton]$2|OK|#1" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]$20|[Icon]#1" />
+<StaticText Name="CUsersENV002DocumentsPlan" Tag="[StaticText]$65535|C:\Users\ENV002\Documents\Plant Vault Projects\zsemi\PID DWG\c.dwg is currently locked. Connector cannot be placed.|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

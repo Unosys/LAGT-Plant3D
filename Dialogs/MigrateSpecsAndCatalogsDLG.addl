@@ -1,0 +1,15 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.MigrateSpecsAndCatalogsDLG" Tag="[Window]Migrate Specs and Catalogs|$TaskDialog_Enhanced">
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Migrate Specs and Catalogs|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<Image Name="Image1IMG" Tag="[Image]$InformationImage|#1" />
+	<StaticText Name="SpecAndCatalogFilesST" Tag="[StaticText]$HeaderTextBlock|#1" />
+	<StaticText Name="StaticTextST" Tag="[StaticText]$MessageTexBlock|#2" />
+	<Image Name="Image2IMG" Tag="[Image]#2" />
+	<StaticText Name="MigrateAndCopySpecST" Tag="[StaticText]#3" />
+	<StaticText Name="SelectSpecAndCatalogST" Tag="[StaticText]#4" />
+	<Image Name="Image3IMG" Tag="[Image]#3" />
+	<StaticText Name="DoNotMigrateST" Tag="[StaticText]#5" />
+	<StaticText Name="ContentFromEarlierVersionsST" Tag="[StaticText]#6" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,42 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_AddMembersDLG" Tag="[Pane]$AddUsersForm" ParentType="VC_NewGroupDLG">
+
+	<!--<PushButton Name="CancelPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$panel4/[PushButton]$m_cancelButton" />
+	<PushButton Name="OKPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$panel4/[PushButton]$m_okButton" />
+	<PushButton Name="AddPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$panel3/[PushButton]$m_addButton" />-->
+	<!--<PushButton Name="CancelPB" Tag="[Pane]$tableLayoutPanel4/[Pane]$panel4/[PushButton]$m_cancelButton" />
+	<PushButton Name="OKPB" Tag="[Pane]$tableLayoutPanel4/[Pane]$panel4/[PushButton]$m_okButton" />-->
+	<PushButton Name="CancelPB" Tag="[Pane]$panel4/[PushButton]$m_cancelButton" />
+	<PushButton Name="OKPB" Tag="[Pane]$panel4/[PushButton]$m_okButton" />	
+	<!--<RadioButton Name="MembersRB" Tag="[Pane]$tableLayoutPanel4/[Pane]$tableLayoutPanel5/[RadioButton]$memberRadioBtn" />
+	<RadioButton Name="ProfileAttributesRB" Tag="[Pane]$tableLayoutPanel4/[Pane]$tableLayoutPanel5/[RadioButton]$profAttrRadioBtn" />-->
+	<RadioButton Name="MembersRB" Tag="[Pane]$tableLayoutPanel5/[RadioButton]$memberRadioBtn" />
+	<RadioButton Name="ProfileAttributesRB" Tag="[Pane]$tableLayoutPanel5/[RadioButton]$profAttrRadioBtn" />
+
+	<!--Members-->
+	<!--<PushButton Name="AddPB_Members" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$memberPage/[Pane]$tableLayoutPanel1/[Pane]$panel3/[PushButton]$m_addButton" />
+	<PushButton Name="RemovePB_Members" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$memberPage/[Pane]$tableLayoutPanel1/[Pane]$panel3/[PushButton]$m_removeButton" />-->
+	<PushButton Name="AddPB_Members" Tag="[PageList]$xtraTabControl1/[Pane]$memberPage/[Pane]$tableLayoutPanel1/[Pane]$panel3/[PushButton]$m_addButton" />
+	<PushButton Name="RemovePB_Members" Tag="[PageList]$xtraTabControl1/[Pane]$memberPage/[Pane]$tableLayoutPanel1/[Pane]$panel3/[PushButton]$m_removeButton" />	
+	<!--<Pane Name = "AvailableMembersPANE" Tag = "[Pane]$tableLayoutPanel1/[Pane]$panel2/[Pane]$tableLayoutPanel2/[Pane]$m_availableUsersGridControl" />-->
+	<!--<Table Name="AvailableMembersPANE" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$memberPage/[Pane]$tableLayoutPanel1/[Pane]$panel2/[Pane]$tableLayoutPanel2/[Table]$m_availableUsersGridControl" />-->
+	<Table Name="AvailableMembersPANE" Tag="[PageList]$xtraTabControl1/[Pane]$memberPage/[Pane]$tableLayoutPanel1/[Pane]$panel2/[Pane]$tableLayoutPanel2/[Table]$m_availableUsersGridControl" />
+
+	<!--Profile Attributes-->
+	<!--<PushButton Name="AddPB_ProfileAttributes" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$tableLayoutPanel1/[PushButton]$m_addButton" />
+	<PushButton Name="ReplacePB_ProfileAttributes" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$tableLayoutPanel1/[PushButton]$m_replaceButton" />
+	<PushButton Name="RemovePB_ProfileAttributes" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$tableLayoutPanel1/[PushButton]$m_removeButton" />
+	<ListBox Name="SelectMembersThatMatchLB" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[ListBox]$m_criteriaListBox" />
+	<PopupList Name="PropertyPL" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$m_condTableLayoutPanel/[PopupList]$m_propertyComboBox" />
+	<PopupList Name="ConditionPL" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$m_condTableLayoutPanel/[PopupList]$m_conditionComboBox" />
+	<TextField Name="TextFieldTF" Tag="[Pane]$tableLayoutPanel4/[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$m_condTableLayoutPanel/[Pane]#1/[TextField]#1" />-->
+	<PushButton Name="AddPB_ProfileAttributes" Tag="[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$tableLayoutPanel1/[PushButton]$m_addButton" />
+	<PushButton Name="ReplacePB_ProfileAttributes" Tag="[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$tableLayoutPanel1/[PushButton]$m_replaceButton" />
+	<PushButton Name="RemovePB_ProfileAttributes" Tag="[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$tableLayoutPanel1/[PushButton]$m_removeButton" />
+	<ListBox Name="SelectMembersThatMatchLB" Tag="[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[ListBox]$m_criteriaListBox" />
+	<PopupList Name="PropertyPL" Tag="[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$m_condTableLayoutPanel/[PopupList]$m_propertyComboBox" />
+	<PopupList Name="ConditionPL" Tag="[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$m_condTableLayoutPanel/[PopupList]$m_conditionComboBox" />
+	<TextField Name="TextFieldTF" Tag="[PageList]$xtraTabControl1/[Pane]$profAttrPage/[Pane]$advancedConditionBuilder1/[Pane]$m_conditionPanel/[Pane]$m_condTableLayoutPanel/[Pane]#1/[TextField]#1" />
+	
+
+
+</Pane>

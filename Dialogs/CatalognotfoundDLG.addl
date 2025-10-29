@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CatalognotfoundDLG" Tag="[Window]Catalog Not Found|$CatalogNotFoundWindow" >
+
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+	<PushButton Name="ReferencePB" Tag="[PushButton]$BrowseButton|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]$CancelButton|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

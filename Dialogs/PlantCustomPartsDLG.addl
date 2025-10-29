@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantCustomPartsDLG" Tag="[CustomWin]#3" ParentType="Plant3D" GUIType="WIN32">
+    	<Window Name="AutoCADBlockWIN" Tag="[CustomWin]$59423|#1/[CustomWin]$16722|#1/[CustomWin]Custom Parts Builder|$11|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[PageList]$dtc_GeometryType|#1/[Window]AutoCAD Block|$dti_GeometryType_Block|#2" />
+
+	<PushButton Name="OperatorPB" Tag="[CustomWin]$59423|#1/[CustomWin]$16722|#1/[CustomWin]$15|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#4/[PushButton]$dbt_pp_ValveOperator|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

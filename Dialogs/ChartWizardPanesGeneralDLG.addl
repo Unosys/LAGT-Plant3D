@@ -1,0 +1,24 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardPanesGeneralDLG" Tag="[Pane]$WizardFormBase" ParentType="ReportDesignerApplicationDLG">
+  <GroupBox Name="ChartPanel" Tag="[GroupBox]$chartPanel" />
+  <GroupBox Name="ChartPanelControl1" Tag="[GroupBox]$groupSize" />
+  <GroupBox Name="ChartPanelControl12" Tag="[GroupBox]$grWizardParentControl" />
+  <GroupBox Name="ChartPanelControl2" Tag="[GroupBox]$tbGeneral" />
+  <GroupBox Name="ChartPanelControl22" Tag="[GroupBox]$pnlPanes" />
+  <GroupBox Name="ChartPanelControl5" Tag="[GroupBox]$chartPanelControl5" />
+  <GroupBox Name="ChartPanesControl" Tag="[GroupBox]$ChartPanesControl" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox" Tag="[TextField]$txtWeight" />
+  <GroupBox Name="GrWizardPanel" Tag="[GroupBox]$grWizardPanel" />
+  <GroupBox Name="PaneControl" Tag="[GroupBox]$PaneControl" />
+  <GroupBox Name="PanelControl11" Tag="[GroupBox]$panelControl11" />
+  <GroupBox Name="PanelName" Tag="[GroupBox]$panelName" />
+  <GroupBox Name="PanelNavigation" Tag="[GroupBox]$panelNavigation" />
+  <GroupBox Name="PanelSizeMode" Tag="[GroupBox]$panelSizeMode" />
+  <GroupBox Name="PanelVisible" Tag="[GroupBox]$panelVisible" />
+  <GroupBox Name="PanelWeight" Tag="[GroupBox]$panelWeight" />
+  <GroupBox Name="Pnl" Tag="[GroupBox]$pnl" />
+  <GroupBox Name="PnlHintOffset" Tag="[GroupBox]$pnlHintOffset" />
+  <GroupBox Name="PnlPanes" Tag="[GroupBox]$pnlPanes" />
+  <GroupBox Name="PnlParent" Tag="[GroupBox]$pnlParent" />
+  <GroupBox Name="PnlTab" Tag="[GroupBox]$pnlTab" />
+  <GroupBox Name="WorkPanel" Tag="[GroupBox]$workPanel" />
+</Pane>

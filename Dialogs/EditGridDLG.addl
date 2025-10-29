@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.EditGridDLG" Tag="[DialogBox]Edit Grid" ParentType="Plant3D">
+<PushButton Name="Cancel" Tag="[PushButton]$1003" />
+<PushButton Name="Create" Tag="[PushButton]$1" />
+<PushButton Name="Help" Tag="[PushButton]$1052" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

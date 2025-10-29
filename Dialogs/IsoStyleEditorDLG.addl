@@ -1,0 +1,93 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsoStyleEditorDLG" Tag="[MainWin]Iso Style Edito*|$Window_1" ParentType="Desktop" GUIType="UIA">
+
+
+  <TitleBar Name="IsoStyleEditorCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#3" />
+  <Menu Name="MenuMNU" Tag="[Menu]#1" />
+  <MenuItem Name="FileMI" Tag="[Menu]#1/[MenuItem]File|#1" />
+  <StaticText Name="FileST" Tag="[Menu]#1/[MenuItem]File|#1/[StaticText]_File|#1" />
+  <MenuItem Name="EditMI" Tag="[Menu]#1/[MenuItem]Edit|#2" />
+  <StaticText Name="EditST" Tag="[Menu]#1/[MenuItem]Edit|#2/[StaticText]_Edit|#1" />
+  <MenuItem Name="ViewMI" Tag="[Menu]#1/[MenuItem]View|#3" />
+  <StaticText Name="View1ST" Tag="[Menu]#1/[MenuItem]View|#3/[StaticText]_View|#1" />
+  <MenuItem Name="HelpMI" Tag="[Menu]#1/[MenuItem]Help|#4" />
+  <StaticText Name="HelpST" Tag="[Menu]#1/[MenuItem]Help|#4/[StaticText]_Help|#1" />
+  <StaticText Name="IsoconfigST" Tag="[StaticText]isoconfig|$txtBlk_FileName|#1" />
+  <TextField Name="IsoconfigTF" Tag="[TextField]isoconfig|$txtBx_Search|#1" />
+  <Pane Name="Pane1PANE" Tag="[TextField]isoconfig|$txtBx_Search|#1/[Pane]$PART_ContentHost|#1" />
+  <PushButton Name="PushButton1PB" Tag="[PushButton]#1" />
+  <TreeView Name="TreeViewTV" Tag="[TreeView]$tv_IsoConfig|#1" />
+  <TreeViewItem Name="OutputTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Output|#1" />
+  <StaticText Name="Output1ST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Output|#1/[StaticText]Output|$TxtBlk|#1" />
+  <TreeViewItem Name="FilesTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Files|#2" />
+  <StaticText Name="FilesST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Files|#2/[StaticText]Files|$TxtBlk|#1" />
+  <TreeViewItem Name="AdvancedDefaultTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]AdvancedDefault|#3" />
+  <PushButton Name="PushButton2PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]AdvancedDefault|#3/[PushButton]$Expander|#1" />
+  <StaticText Name="AdvancedDefaultST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]AdvancedDefault|#3/[StaticText]AdvancedDefault|$TxtBlk|#1" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]FileNameFormat|#4" />
+  <PushButton Name="PushButton3PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]FileNameFormat|#4/[PushButton]$Expander|#1" />
+  <StaticText Name="FileNameFormatST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]FileNameFormat|#4/[StaticText]FileNameFormat|$TxtBlk|#1" />
+  <TreeViewItem Name="DrawingNameFormatTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]DrawingNameFormat|#5" />
+  <PushButton Name="PushButton4PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]DrawingNameFormat|#5/[PushButton]$Expander|#1" />
+  <StaticText Name="DrawingNameFormatST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]DrawingNameFormat|#5/[StaticText]DrawingNameFormat|$TxtBlk|#1" />
+  <TreeViewItem Name="ViewTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]View|#6" />
+  <PushButton Name="PushButton5PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]View|#6/[PushButton]$Expander|#1" />
+  <StaticText Name="View2ST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]View|#6/[StaticText]View|$TxtBlk|#1" />
+  <TreeViewItem Name="GeometryTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Geometry|#7" />
+  <StaticText Name="GeometryST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Geometry|#7/[StaticText]Geometry|$TxtBlk|#1" />
+  <TreeViewItem Name="UnitsTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Units|#8" />
+  <PushButton Name="PushButton6PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Units|#8/[PushButton]$Expander|#1" />
+  <StaticText Name="UnitsST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Units|#8/[StaticText]Units|$TxtBlk|#1" />
+  <TreeViewItem Name="SkewTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Skew|#9" />
+  <PushButton Name="PushButton7PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Skew|#9/[PushButton]$Expander|#1" />
+  <StaticText Name="SkewST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Skew|#9/[StaticText]Skew|$TxtBlk|#1" />
+  <TreeViewItem Name="SplitTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Split|#10" />
+  <PushButton Name="PushButton8PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Split|#10/[PushButton]$Expander|#1" />
+  <StaticText Name="SplitST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Split|#10/[StaticText]Split|$TxtBlk|#1" />
+  <TreeViewItem Name="DataTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Data|#11" />
+  <PushButton Name="PushButton9PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Data|#11/[PushButton]$Expander|#1" />
+  <StaticText Name="DataST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Data|#11/[StaticText]Data|$TxtBlk|#1" />
+  <TreeViewItem Name="TableTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Table|#12" />
+  <PushButton Name="PushButton10PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Table|#12/[PushButton]$Expander|#1" />
+  <StaticText Name="Table1ST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Table|#12/[StaticText]Table|$TxtBlk|#1" />
+  <TreeViewItem Name="LoggingTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Logging|#13" />
+  <StaticText Name="LoggingST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Logging|#13/[StaticText]Logging|$TxtBlk|#1" />
+  <TreeViewItem Name="TitleBlockTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]TitleBlock|#14" />
+  <PushButton Name="PushButton11PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]TitleBlock|#14/[PushButton]$Expander|#1" />
+  <StaticText Name="TitleBlockST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]TitleBlock|#14/[StaticText]TitleBlock|$TxtBlk|#1" />
+  <TreeViewItem Name="LayoutOptimizationTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]LayoutOptimization|#15" />
+  <PushButton Name="PushButton12PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]LayoutOptimization|#15/[PushButton]$Expander|#1" />
+  <StaticText Name="LayoutOptimizationST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]LayoutOptimization|#15/[StaticText]LayoutOptimization|$TxtBlk|#1" />
+  <TreeViewItem Name="ThemesTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Themes|#16" />
+  <PushButton Name="PushButton13PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Themes|#16/[PushButton]$Expander|#1" />
+  <StaticText Name="ThemesST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Themes|#16/[StaticText]Themes|$TxtBlk|#1" />
+  <TreeViewItem Name="FiltersTVI" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Filters|#17" />
+  <PushButton Name="PushButton14PB" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Filters|#17/[PushButton]$Expander|#1" />
+  <StaticText Name="FiltersST" Tag="[TreeView]$tv_IsoConfig|#1/[TreeViewItem]Filters|#17/[StaticText]Filters|$TxtBlk|#1" />
+  <Thumb Name="Thumb1CTL" Tag="[Thumb]#1" />
+  <!--<PageList Name="PageListPG" Tag="[PageList]$TBCntrl|#1" />-->
+  <Window Name="TableWIN" Tag="[PageList]$TBCntrl|#1/[Window]#1" />
+  <StaticText Name="Table2ST" Tag="[PageList]$TBCntrl|#1/[Window]*/[StaticText]Table|#1" />
+  <Pane Name="Pane2PANE" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1" />
+  <TextField Name="TextFieldTF" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[TextField]#1" />
+  <StaticText Name="BOMReportFLPLengthST" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[StaticText]BOMReportFLPLength|#1" />
+  <CheckBox Name="CheckBox1CK" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[CheckBox]#1" />
+  <StaticText Name="EnablePCFPerDrawingST" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[StaticText]EnablePCFPerDrawing|#2" />
+  <CheckBox Name="CheckBox2CK" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[CheckBox]#2" />
+  <StaticText Name="ForceUpcaseST" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[StaticText]ForceUpcase|#3" />
+  <CheckBox Name="CheckBox3CK" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[CheckBox]#3" />
+  <StaticText Name="OverwriteST" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[StaticText]Overwrite|#4" />
+  <CheckBox Name="CheckBox4CK" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[CheckBox]#4" />
+  <Thumb Name="Thumb2CTL" Tag="[PageList]$TBCntrl|#1/[Window]*/[Pane]$ScrollView|#1/[Thumb]#1" />
+  <PushButton Name="PushButton15PB" Tag="[PageList]$TBCntrl|#1/[Window]*/[PushButton]$btn_HideComment|#1" />
+  <Image Name="ImageIMG" Tag="[PageList]$TBCntrl|#1/[Window]*/[PushButton]$btn_HideComment|#1/[Image]#1" />
+  <Window Name="CodeWIN" Tag="[PageList]$TBCntrl|#1/[Window]#2" />
+  <StaticText Name="CodeST" Tag="[PageList]$TBCntrl|#1/[Window]Code|#2/[StaticText]Code|#1" />
+  <StaticText Name="Output2ST" Tag="[StaticText]Output|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

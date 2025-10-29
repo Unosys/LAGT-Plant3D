@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.NetworkPathNotFoundP3DDLG" Tag="[DialogBox]Network Path Not Found|#1" ParentType="Plant3D" GUIType="WIN32">
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <PushButton Name="RemovePathsAndContinuePB" Tag="[Pane]Network Path Not Found|$Window/[PushButton]Remove paths and continue*|$CommandLink_1001" />
+  <PushButton Name="DontRemovePathsPB" Tag="[Pane]Network Path Not Found|$Window/[PushButton]Don't remove paths*|$CommandLink_1002" />
+  <PushButton Name="ShowDetailsPB" Tag="[Pane]Network Path Not Found|$Window/[PushButton]Show details|$ExpandoButton" />
+  <CheckBox Name="AlwaysApplySelectedActionCK" Tag="[Pane]Network Path Not Found|$Window/[CheckBox]Always apply selected action|$VerificationCheckBox" />
+  <PushButton Name="CancelPB" Tag="[Pane]Network Path Not Found|$Window/[PushButton]Cancel|$CommandButton_2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,15 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilitySaveChangesDLG" Tag="[Window]Save Changes|$TaskDialog_Enhanced|#1" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Save Changes|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CloseButton|#1" />
+	<Image Name="Image1IMG" Tag="[Image]$WarningImage|#1" />
+	<StaticText Name="YouHaveMadeChangesST" Tag="[StaticText]You have made changes to the current Piping Component*|$HeaderTextBlock|#1" />
+	<StaticText Name="StaticTextST" Tag="[StaticText]$MessageTexBlock|#2" />
+	<Image Name="Image2IMG" Tag="[Image]#2" />
+	<StaticText Name="SaveChangesToTheST" Tag="[StaticText]Save changes to the current component|#3" />
+	<Image Name="Image3IMG" Tag="[Image]#3" />
+	<StaticText Name="DiscardChangesToTheST" Tag="[StaticText]Discard changes to the current component|#4" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,14 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSelectionListPropertyDLG" Tag="[Window]Selection List Property|$PickListDlg" >
+
+	<PushButton Name="AddRowPB" Tag="[PushButton]Add Row*|$AddRowBtn|#3" />
+	<PushButton Name="DeleteRowPB" Tag="[PushButton]Delete Row|$DeleteRowBtn|#4" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OKBtn|#7" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#8" />
+
+	<PushButton Name="AddListPB" Tag="[PushButton]Add List*|$AddListBtn|#5" />
+	<PushButton Name="RemoveListPB" Tag="[PushButton]Remove List*|$RemoveListBtn|#6" />
+	<PushButton Name="ExportPB" Tag="[PushButton]$ExportBtn|#1" />
+	<PushButton Name="ImportPB" Tag="[PushButton]$ImportBtn|#2" />
+	<ListBox Name="NameLB" Tag="[ListBox]Name:|$PickListListBox|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

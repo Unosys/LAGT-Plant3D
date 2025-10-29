@@ -1,0 +1,32 @@
+Génération du catalogue impossible. Consultez les erreurs et les avertissements.
+
+C:\LAGT\Plant3D\TestFiles\1234.xlsx
+Erreurs
+	Pipe Valeur ND incorrecte dans le port1
+		Pipe,BV
+	Pipe Valeur ND incorrecte dans le port2
+		Pipe,BV
+Avertissements
+	Pipe Le champ de norme compatible est vide.
+		Pipe,BV
+	Pipe Le champ de norme de conception est vide.
+		Pipe,BV
+	Pipe Le champ de description détaillée est vide.
+		Pipe,BV
+	Pipe La description détaillée du diamètre nominal est vide.
+		Pipe,BV
+	Pipe Identifiant ISO vide
+		Pipe,BV
+	Pipe Type ISO vide
+		Pipe,BV
+	Pipe La classe de pression est vide dans le port.1
+		Pipe,BV
+	Pipe La classe de pression est vide dans le port.2
+		Pipe,BV
+Résumé
+	12	Erreurs
+	96	Avertissements
+	1	Famille de pièces
+	12	Pièces individuelles
+	0	Dépendance de graphique de bloc AutoCAD
+	0	Dépendance de graphique de script personnalisé

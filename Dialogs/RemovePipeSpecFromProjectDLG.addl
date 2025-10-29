@@ -1,0 +1,9 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RemovePipeSpecFromProjectDLG" Tag="[DialogBox]Remove Pipe Spec From Project|#1" ParentType="ProjManUndocked" GUIType="WIN32">
+  <Pane Name="RemovePipeSpecFromPANE" GUIType="UIA" Tag="[Pane]Remove Pipe Spec From Project|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Remove Pipe Spec From Project|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Remove Pipe Spec From Project|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Remove Pipe Spec From Project|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="TheSelectedPipeSpecST" Tag="[Pane]Remove Pipe Spec From Project|$Window|#1/[StaticText]The selected pipe spec and its information will no longer be available in this project*|$MainInstruction|#1" />
+  <PushButton Name="RemoveThePipeSpecPB" Tag="[Pane]Remove Pipe Spec From Project|$Window|#1/[PushButton]Remove the Pipe Spec from the Project |$CommandLink_0|#1" />
+  <PushButton Name="DoNotRemoveThePB" Tag="[Pane]Remove Pipe Spec From Project|$Window|#1/[PushButton]Do Not Remove the Pipe Spec from the Project|$CommandLink_1|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

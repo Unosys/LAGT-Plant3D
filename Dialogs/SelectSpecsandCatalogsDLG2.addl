@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectSpecsandCatalogsDLG2" Tag="[DialogBox]Select Specs and Catalogs" ParentType="ConvertAutoPLANTSpecsAndCatalogsDLG" GUIType="UIA">
+
+  <PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="OpenPB" Tag="[PushButton]$1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

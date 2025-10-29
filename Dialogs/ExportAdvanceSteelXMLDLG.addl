@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportAdvanceSteelXMLDLG" Tag="[DialogBox]Export Advance Steel XML file" ParentType="DialogBox" >
+
+	<PushButton Name="SavePB" Tag="[PushButton]Save|$1|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

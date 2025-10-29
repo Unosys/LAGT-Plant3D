@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveTemplateToDLG" Tag="[DialogBox]Save Template To*" >
+
+	<PushButton Name="SavePB" Tag="[PushButton]Save|$1|#7" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#8" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

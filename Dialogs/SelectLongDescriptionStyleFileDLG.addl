@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectLongDescriptionStyleFileDLG" Tag="*/[DialogBox]Select Long Description Style File" >
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<TextField Name="FileNameTextField" Tag="[TextField]$1001" />
+<PushButton Name="Open" Tag="[PushButton]$1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

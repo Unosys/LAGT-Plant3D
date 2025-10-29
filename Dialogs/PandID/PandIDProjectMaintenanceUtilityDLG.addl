@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectMaintenanceUtilityDLG" Tag="[MainWin]$ProjectMaintenanceDlg"  ParentType="Desktop" GUIType="UIA">
+
+<PushButton Name="CloseBtn" Tag="[PushButton]$CloseBtn" />
+  <GroupBox Name="UtilityDetailsGB" Tag="[Pane]$UtilityDetailsCtrl|#1/[GroupBox]$groupBox1|#1/[GroupBox]Utility details|$groupBox2|#1" />
+  <RadioButton Name="CopyRBtn" Tag="[Pane]$UtilityDetailsCtrl|#1/[GroupBox]$groupBox1|#1/[GroupBox]Utility details|$groupBox2|#1/[RadioButton]Close AutoCAD PID or AutoCAD Plant 3D and select one of the options below: [1]|$CopyRBtn|#3" />
+  <RadioButton Name="MoveRBtn" Tag="[Pane]$UtilityDetailsCtrl|#1/[GroupBox]$groupBox1|#1/[GroupBox]Utility details|$groupBox2|#1/[RadioButton]Close AutoCAD PID or AutoCAD Plant 3D and select one of the options below: [2]|$MoveRBtn|#2" />
+  <RadioButton Name="ConvertRBtn" Tag="[Pane]$UtilityDetailsCtrl|#1/[GroupBox]$groupBox1|#1/[GroupBox]Utility details|$groupBox2|#1/[RadioButton]Close AutoCAD PID or AutoCAD Plant 3D and select one of the options below: [3]|$ConvertRBtn|#1" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<GroupBox Name="GroupBox2" Tag="[GroupBox]$groupBox2" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label2" Tag="[StaticText]$label2" />
+<StaticText Name="Label3" Tag="[StaticText]$label3" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+  <PushButton Name="NextBtn" Tag="[Pane]$UtilityDetailsCtrl|#1/[PushButton]Next &gt;&gt;|$NextBtn|#1" />
+  <CustomWin Name="UtilityDetailsCtrl" Tag="[CustomWin]$UtilityDetailsCtrl" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

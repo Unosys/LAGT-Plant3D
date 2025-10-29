@@ -1,0 +1,79 @@
+<Autodesk.GUIHarness.Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlant3DCatalogBuildSettingsDLG" Tag="[Window]Autodesk AutoCAD Plant 3D Catalog Builder Settings|$Window_1" ParentType="AutoCADPlant3DCatalogBuilderApplicationDLG" GUIType="UIA">
+  <TitleBar Name="AutodeskAutoCADPlant3DCTL" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder Settings|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder Settings|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <GroupBox Name="CatalogTemplateDefaultsGB" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1" />
+  <StaticText Name="CatalogTemplateDefaultsST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Catalog Template Defaults|#1" />
+  <CheckBox Name="ApplyDefaultValuesToCK" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[CheckBox]Apply default values to newly created Part Families|$OverrideNewFamilyDefaultValueCheck|#1" />
+  <StaticText Name="SelectPipingUnitType1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Select piping unit type to edit:|$Label_1|#2" />
+  <StaticText Name="SelectPipingUnitType2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Select piping unit type to edit:|$Label_1|#2/[StaticText]Select piping unit type to edit:|#1" />
+  <RadioButton Name="ImperialRadio" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[RadioButton]Select piping unit type to edit:[1]|$ImperialRadio|#1" />
+  <RadioButton Name="Metric" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[RadioButton]Select piping unit type to edit:[2]|$MetricRadio|#2" />
+  <StaticText Name="Category1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Category:|$Label_6|#3" />
+  <StaticText Name="Category2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Category:|$Label_6|#3/[StaticText]Category:|#1" />
+  <PopupList Name="CategoryPL" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PopupList]Category:|$CategoryComboBox|#1" />
+  <PushButton Name="AdvancedBtn" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PushButton]Advanced*|$AdvancedBtn|#3" />
+  <StaticText Name="AdvancedST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PushButton]Advanced*|$AdvancedBtn|#3/[StaticText]Advanced*|#1" />
+  <PushButton Name="PropertyPB" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PushButton]Property|$Button_1|#1" />
+  <StaticText Name="PropertyST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PushButton]Property|$Button_1|#1/[StaticText]Property|#1" />
+  <PushButton Name="ValuePB" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PushButton]Value|$Button_2|#2" />
+  <StaticText Name="ValueST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PushButton]Value|$Button_2|#2/[StaticText]Value|#1" />
+  <StaticText Name="Graphics1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Graphics|$Label_7|#4" />
+  <StaticText Name="Graphics2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Graphics|$Label_7|#4/[StaticText]Graphics|#1" />
+  <StaticText Name="SizeFrom1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Size From|$Label_8|#5" />
+  <StaticText Name="SizeFrom2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Size From|$Label_8|#5/[StaticText]Size From|#1" />
+  <StaticText Name="SizeTo1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Size To|$Label_9|#6" />
+  <StaticText Name="SizeTo2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Size To|$Label_9|#6/[StaticText]Size To|#1" />
+  <StaticText Name="EndType1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]End Type|$Label_10|#7" />
+  <StaticText Name="EndType2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]End Type|$Label_10|#7/[StaticText]End Type|#1" />
+  <StaticText Name="PressureClass1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Pressure Class|$Label_11|#8" />
+  <StaticText Name="PressureClass2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Pressure Class|$Label_11|#8/[StaticText]Pressure Class|#1" />
+  <StaticText Name="Schedule1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Schedule|$Label_12|#9" />
+  <StaticText Name="Schedule2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Schedule|$Label_12|#9/[StaticText]Schedule|#1" />
+  <StaticText Name="Material1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Material|$Label_13|#10" />
+  <StaticText Name="Material2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Material|$Label_13|#10/[StaticText]Material|#1" />
+  <StaticText Name="MaterialCode1ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Material Code|$Label_14|#11" />
+  <StaticText Name="MaterialCode2ST" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[StaticText]Material Code|$Label_14|#11/[StaticText]Material Code|#1" />
+  <PopupList Name="GraphicsPL" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PopupList]Graphics|$GraphicModeCB|#2" />
+  <PopupList Name="SizeFromPL" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PopupList]Size From|$SizeFromCB|#3" />
+  <PopupList Name="SizeToPL" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PopupList]Size To|$SizeToCB|#4" />
+  <PopupList Name="EndTypePL" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[PopupList]End Type|$EndTypeCB|#5" />
+  <TextField Name="PressureClassTF" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[TextField]Pressure Class|$PressureClassTB|#1" />
+  <Pane Name="Pane1PANE" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[TextField]Pressure Class|$PressureClassTB|#1/[Pane]$PART_ContentHost|#1" />
+  <TextField Name="ScheduleTF" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[TextField]Schedule|$ScheduleTB|#2" />
+  <Pane Name="Pane2PANE" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[TextField]Schedule|$ScheduleTB|#2/[Pane]$PART_ContentHost|#1" />
+  <TextField Name="MaterialTF" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[TextField]Material|$MaterialTB|#3" />
+  <Pane Name="Pane3PANE" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[TextField]Material|$MaterialTB|#3/[Pane]$PART_ContentHost|#1" />
+  <TextField Name="MaterialCodeTF" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[TextField]Material Code|$MaterialCodeTB|#4" />
+  <Pane Name="Pane4PANE" Tag="[GroupBox]Catalog Template Defaults|$CatalogTemplateDefaultsGroup|#1/[TextField]Material Code|$MaterialCodeTB|#4/[Pane]$PART_ContentHost|#1" />
+  <GroupBox Name="BuildCatalogDefaultsGB" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2" />
+  <StaticText Name="BuildCatalogDefaultsST" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[StaticText]BuildCatalogDefaults|#1" />
+  <CheckBox Name="CreatePartFamilyPreviewCK" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[CheckBox]Create Part Family preview lisp files|$CreateFamilyLispCheck|#1" />
+  <GroupBox Name="LongDescriptionsGB" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1" />
+  <StaticText Name="LongDescriptionsST" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[StaticText]Long Descriptions|#1" />
+  <CheckBox Name="AutoCreatLongDescCheck" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[CheckBox]Automatically create Long Descriptions using Long Description Styles when catalog is built|$AutoCreatLongDescCheck|#1" />
+  <StaticText Name="LongDescriptionFamilyStyle1ST" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[StaticText]Long Description (Family) style:|$Label_2|#2" />
+  <StaticText Name="LongDescriptionFamilyStyle2ST" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[StaticText]Long Description (Family) style:|$Label_2|#2/[StaticText]Long Description (Family) style:|#1" />
+  <PopupList Name="LongDescriptionFamilyStylePL" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[PopupList]Long Description (Family) style:|$LDFamilyComboBox|#1" />
+  <StaticText Name="LongDescriptionSizeStyle1ST" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[StaticText]Long Description (Size) style:|$Label_3|#3" />
+  <StaticText Name="LongDescriptionSizeStyle2ST" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[StaticText]Long Description (Size) style:|$Label_3|#3/[StaticText]Long Description (Size) style:|#1" />
+  <PopupList Name="LongDescriptionSizeStylePL" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[PopupList]Long Description (Size) style:|$LDSizeComboBox|#2" />
+  <PushButton Name="EditStyleBtn" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[PushButton]Edit Long Description Styles*|$EditStyleBtn|#1" />
+  <StaticText Name="EditLongDescriptionStylesST" Tag="[GroupBox]BuildCatalogDefaults|$BuildCatalogDefaultsGroup|#2/[GroupBox]Long Descriptions|$LongDescGroup|#1/[PushButton]Edit Long Description Styles*|$EditStyleBtn|#1/[StaticText]Edit Long Description Styles*|#1" />
+  <GroupBox Name="ChangeCatalogTemplateUnitsGB" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3" />
+  <StaticText Name="ChangeCatalogTemplateUnitsST" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3/[StaticText]Change Catalog Template Units|#1" />
+  <StaticText Name="Units1ST" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3/[StaticText]Units:|$Label_4|#2" />
+  <StaticText Name="Units2ST" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3/[StaticText]Units:|$Label_4|#2/[StaticText]Units:|#1" />
+  <PopupList Name="UnitsPL" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3/[PopupList]Units:|$UnitComboBox|#1" />
+  <PushButton Name="ConvertBtn" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3/[PushButton]Convert|$ConvertBtn|#1" />
+  <StaticText Name="ConvertST" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3/[PushButton]Convert|$ConvertBtn|#1/[StaticText]Convert|#1" />
+  <StaticText Name="NoteChangesAffectEntire1ST" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3/[StaticText]Note: Changes affect entire Catalog Template|$Label_5|#3" />
+  <StaticText Name="NoteChangesAffectEntire2ST" Tag="[GroupBox]Change Catalog Template Units|$CatalogTemplateUnitsGroup|#3/[StaticText]Note: Changes affect entire Catalog Template|$Label_5|#3/[StaticText]Note: Changes affect entire Catalog Template|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$OkBtn|#1" />
+  <StaticText Name="OKST" Tag="[PushButton]OK|$OkBtn|#1/[StaticText]OK|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelBtn|#2/[StaticText]Cancel|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$HelpBtn|#3" />
+  <StaticText Name="HelpST" Tag="[PushButton]Help|$HelpBtn|#3/[StaticText]Help|#1" />
+</Autodesk.GUIHarness.Window>

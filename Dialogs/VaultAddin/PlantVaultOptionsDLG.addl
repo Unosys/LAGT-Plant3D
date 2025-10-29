@@ -1,0 +1,23 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantVaultOptionsDLG" Tag="[Pane]Plant Vault Options|$frmVaultOptions|#1" ParentType="Plant3D" GUIType="UIA">
+  <GroupBox Name="VisualizationAttachmentOptionsGB" Tag="[GroupBox]Visualization Attachment Options|$groupBox1|#2" />
+  <CheckBox Name="ApplyToAllFilesCK" Tag="[GroupBox]Visualization Attachment Options|$groupBox1|#2/[CheckBox]Apply to all files|$chkboxApplyToAllFiles|#2" />
+  <PopupList Name="PopupListPL" Tag="[GroupBox]Visualization Attachment Options|$groupBox1|#2/[PopupList]$comboViz|#1" />
+  <PushButton Name="DropDownButton1PB" Tag="[GroupBox]Visualization Attachment Options|$groupBox1|#2/[PopupList]$comboViz|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <CheckBox Name="CreateVisualizationAttachmentCK" Tag="[GroupBox]Visualization Attachment Options|$groupBox1|#2/[CheckBox]Create visualization attachment|$chkboxVisualAttachment|#1" />
+  <StaticText Name="IncludeST" Tag="[GroupBox]Visualization Attachment Options|$groupBox1|#2/[StaticText]Include:|$label2|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#3" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOK|#1" />
+  <GroupBox Name="SynchronizeGB" Tag="[GroupBox]Synchronize|$groupSynchronize|#1" />
+  <PopupList Name="CheckForUpdatesPL" Tag="[GroupBox]Synchronize|$groupSynchronize|#1/[PopupList]Check for updates:|$m_cmbCheckInterval|#1" />
+  <PushButton Name="DropDownButton2PB" Tag="[GroupBox]Synchronize|$groupSynchronize|#1/[PopupList]Check for updates:|$m_cmbCheckInterval|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="CheckForUpdatesST" Tag="[GroupBox]Synchronize|$groupSynchronize|#1/[StaticText]Check for updates:|$label1|#1" />
+  <RadioButton Name="RadioButton1RB" Tag="[GroupBox]Synchronize|$groupSynchronize|#1/[RadioButton]$m_radioNoSync|#3" />
+  <RadioButton Name="RadioButton2RB" Tag="[GroupBox]Synchronize|$groupSynchronize|#1/[RadioButton]$m_radioXref|#2" />
+  <RadioButton Name="RadioButton3RB" Tag="[GroupBox]Synchronize|$groupSynchronize|#1/[RadioButton]$m_radioWorkspace|#1" />
+  <TitleBar Name="PlantVaultOptionsCTL" Tag="[TitleBar]Plant Vault Options|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Plant Vault Options|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultOptions|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Plant Vault Options|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultOptions|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Plant Vault Options|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

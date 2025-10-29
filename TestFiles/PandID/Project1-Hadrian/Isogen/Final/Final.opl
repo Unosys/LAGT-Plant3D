@@ -1,0 +1,144 @@
+Switch   Switch                 Switch
+Number   Setting                Purpose
+------   -------                -------
+
+1       3275                 ! Plotfile Length control
+2       0                    ! Cut Piece - Numbering/List control
+3       0                    ! Drawing Trim Marks control
+4       28                   ! Drawing Text Size on isometric picture
+5       0                    ! Co-ordinate suppression control
+6       112                  ! Date Output control
+7       0                    ! Pipeline Splitting (Number of drawings)
+8       0                    ! Dimension Line Standout Distance control
+9       100                  ! Dimensions Form on isometric
+10      30                   ! Drawing Margin - Left
+11      220                  ! Drawing Margin - Right
+12      20                   ! Drawing Margin - Top
+13      0                    ! Drawing Margin - Bottom
+14      5                    ! Drawing Size (Standard Sizes) control
+15      0                    ! Drawing Size - Height  (Non-standard Size)
+16      0                    ! Drawing Size - Width   (Non-standard Size)
+17      1                    ! Flow Arrows  - Inline components
+18      1                    ! Drawing Frame(Standard) On / Off control
+19      0                    ! Sloping Pipeline Indication control
+20      0                    ! Sloping Pipeline Indication Limit control
+21      0                    ! Isometric Type control
+22      150150               ! Cut-Piece Add-On Allowance control
+23      300                  ! Material List / Material Control File control
+24      10                   ! Material List - Type / Pipe Length units control
+25      21                   ! Material List - Position / Title Block control
+26      0                    ! Material List - Description control
+27      0                    ! Material List - Text Size control
+28      16                   ! Material List - Item Code Length control
+29      0                    ! Material List - Line Spacing control
+30      11                   ! Material List - Continuation Method control
+31      1                    ! Drawing Output - To File or Screen control
+32      0                    ! Drawing Output - Scaling control
+33      0                    ! Revision / Detailed Marker control
+34      0                    ! Drawing Output - Picture Scale control
+35      65065                ! Drawing - Reserved Areas control
+36      0                    ! Drawing Output - Stacking Value control
+37      0                    ! Drawing Output - Stacking Orientation control
+38      0                    ! Pipeline Spliting control
+39      1                    ! Spool Piece Identification control
+40      1                    ! Pipe Support information control
+41      12001                ! Bore / Dimension / Weight output control
+42      2                    ! Drawing View Point control
+43      1                    ! Pipe Wastage Factor - Area 1
+44      1                    ! Pipe Wastage Factor - Area 2
+45      1                    ! Pipe Wastage Factor - Area 3
+46      1                    ! Pipe Wastage Factor - Area 4
+47      1                    ! Pipe Wastage Factor - Area 5
+48      1                    ! Pipe Wastage Factor - Area 6
+49      1                    ! Pipe Wastage Factor - Area 7
+50      1                    ! Pipe Wastage Factor - Area 8
+51      1                    ! Pipe Wastage Factor - Area 9
+52      1                    ! Equipment Trim Drawings control
+53      2000                 ! Weld Numbering control
+54      0                    ! Weld Plotting control
+55      102                  ! Program Messages - Run Information
+56      0                    ! Not to be used by User
+57      0                    ! Not to be used by User
+58      0                    ! Clear Screen control
+59      0                    ! Instrument Identification control
+60      1                    ! Component Tagging control
+61      2                    ! Insulation Indication control
+62      2                    ! Tracing Indication control
+63      100                  ! Printed Output - Page Length control
+64      0                    ! Pipe Support Identification control
+65      0                    ! Bolting Units control
+66      0                    ! Co-ordinates - Supplementary output control
+67      1                    ! Sloping Pipeline - 3D Skew Depiction control
+68      0                    ! Sloping Pipeline - Vertical Branch Depiction control
+69      0                    ! Terminal Type Identification control
+70      0                    ! Skew Indication on Branches control
+71      17017                ! Plotfile Format control
+72      0                    ! Un-used
+73      0                    ! Material Part Number Enclosure style control
+74      0                    ! Material List - Accumulation control
+75      0                    ! Weld Number Enclosure Style / Prefix control
+76      200                  ! Material Part Number Output control
+77      1001                 ! Un-used
+78      0                    ! Un-used
+79      0                    ! Un-used
+80      0                    ! Dimensions - to Valve Centres control
+81      0                    ! Dimensions - Un-dimensioned Branch control
+82      0                    ! C of G / Weight output control
+83      0                    ! Un-used
+84      0                    ! Un-used
+85      0                    ! Un-used
+86      0                    ! Un-used
+87      0                    ! Un-used
+88      0                    ! Un-used
+89      0                    ! Un-used
+90      0                    ! Material Control - COMDACE File Content control
+91      0                    ! Material Control - COMDACE FILE control
+92      1                    ! DXF File Units control
+93      0                    ! Un-used
+94      0                    ! Un-used
+95      0                    ! Component Leg Length for Tees,Elbows,Crosses
+96      0                    ! Un-used
+97      0                    ! Skew Depiction - Individual / Overall control
+98      0                    ! Un-used
+99      3                    ! Skew Depiction - Style control
+100     0                    ! Skew Depiction - Dimension Line Standout control
+101     2015                 ! Skew Depiction - Triangle Hatching control
+102     152525               ! Skew Depiction - Hatching Clearance control
+103     0                    ! Un-used
+104     0                    ! Un-used
+105     0                    ! Un-used
+106     0                    ! Un-used
+107     0                    ! Un-used
+108     0                    ! Pipeline Splitting in Tube control
+109     0                    ! Repeatability File Content control
+110     0                    ! Ghost Gap Size control
+111     1                    ! Nozzles - Dotted Indication control
+112     0                    ! Flow Arrows on Pipeline control
+113     0                    ! Material Control File - Pipeline Identification
+114     1                    ! Specification Break Indication control
+115     50                   ! Tolerance - Angle Offset control
+116     0                    ! Tolerance - Dimension Offset control
+117     0                    ! Dimension Round-off control
+118     210                  ! Dimensions - Overall style control
+119     0                    ! Dimensions/Elevations - Vertical output control
+120     75075                ! Tapping - Branch Scale control
+121     20                   ! Tapping - Branch Dimension control
+122     1                    ! Tapping - Branch Co-ordinate Output control
+123     0                    ! Instrument ID Enclosure control
+124     0                    ! Flange Rotation Angle output control
+125     0                    ! Un-used
+126     0                    ! Un-used
+127     0                    ! Program Version / Run date Output control
+128     0                    ! FFIGENN Probing Facilities control
+129     0                    ! Interactive Editing (Probing) control
+130     0                    ! Un-used
+131     0                    ! Un-used
+132     0                    ! Un-used
+133     0                    ! Un-used
+134     0                    ! Un-used
+135     0                    ! Un-used
+136     0                    ! Un-used
+137     0                    ! Un-used
+138     1000                 ! Un-used
+139     0                    ! Un-used
+140     0                    ! Un-used

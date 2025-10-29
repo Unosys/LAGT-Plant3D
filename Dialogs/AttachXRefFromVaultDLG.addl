@@ -1,0 +1,25 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AttachXRefFromVaultDLG" Tag="[Pane]$frmVaultAttachReferences" ParentType="Plant3D" GUIType="UIA">
+  <GroupBox Name="GroupBox1GB" Tag="[GroupBox]$groupBox2|#2" />
+  <CheckBox Name="PromptForInsertionPointCK" Tag="[GroupBox]$groupBox2|#2/[CheckBox]Prompt for insertion point, rotation, and scale |$m_cbCLIPrompt|#1" />
+  <RadioButton Name="RadioButton1RB" Tag="[GroupBox]$groupBox2|#2/[RadioButton]$m_radioOverlay|#2" />
+  <RadioButton Name="RadioButton2RB" Tag="[GroupBox]$groupBox2|#2/[RadioButton]$m_radioAttach|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#3" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <PushButton Name="AttachPB" Tag="[PushButton]Attach|$m_btnAttach|#1" />
+  <GroupBox Name="GroupBox2GB" Tag="[GroupBox]$groupBox1|#1" />
+  <ListView Name="ListViewLV" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1" />
+  <Header Name="HeaderCTL" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1/[CustomWin]$HeaderItem 0|#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1/[CustomWin]$HeaderItem 1|#2" />
+  <CustomWin Name="NameWIN" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 2|#3" />
+  <CustomWin Name="VaultPathWIN" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1/[CustomWin]Vault Path|$HeaderItem 3|#4" />
+  <CustomWin Name="FileSizeWIN" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1/[CustomWin]File Size|$HeaderItem 4|#5" />
+  <CustomWin Name="CheckedOutByWIN" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1/[Header]Header|$Header|#1/[CustomWin]Checked Out By|$HeaderItem 5|#6" />
+  <ScrollBar Name="HorizontalScrollBarSB" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_ListView|#1/[ScrollBar]Horizontal Scroll Bar|$Horizontal ScrollBar|#1" />
+  <TitleBar Name="AttachExternalReferenceFromCTL" Tag="[TitleBar]Attach External Reference from Vault|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Attach External Reference from Vault|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultAttachReferences|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Attach External Reference from Vault|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultAttachReferences|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Attach External Reference from Vault|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Attach External Reference from Vault|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Attach External Reference from Vault|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BrowseForFolderReportConfigurationDLG" Tag="[DialogBox]Browse For Folder Report Configuration" ParentType="ReportConfigurationDLG">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="MakeNewFolder" Tag="[PushButton]$14150" />
+<PushButton Name="OK" Tag="[PushButton]$1" />
+<StaticText Name="SelectReportFilesFolder" Tag="[StaticText]$" />
+<ScrollBar Name="SelectReportFilesFolderHorizontalScrollBar" Tag="[ScrollBar]$Select report files folder." />
+<TreeView Name="SelectReportFilesFolderTree" Tag="[TreeView]$" />
+<CustomWin Name="SHBrowseForFolderShellNameSpaceControl" Tag="[CustomWin]$SHBrowseForFolder ShellNameSpace Control" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

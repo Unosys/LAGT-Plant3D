@@ -1,0 +1,59 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.NewExportandImportSettingsDLG" Tag="[Pane]$PnPNewExportImportSettingDlg" ParentType="ProjectSetupExportandImportSettingsDLG">
+  <PushButton Name="Elipses" Tag="[GroupBox] External data mapping|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[PushButton]**|$5968076|#1" />
+
+  <StaticText Name="PIDClassesST" Tag="[StaticText]P*|$label3|#3" />
+  <TextField Name="DescriptionTF" Tag="[TextField]Description:|$m_tbDesc|#2" />
+  <ScrollBar Name="DescriptionSB" Tag="[TextField]Description:|$m_tbDesc|#2/[ScrollBar]Description:|$Vertical ScrollBar|#1" />
+  <GroupBox Name="ExternalDataMappingGB" Tag="[GroupBox] External data mapping|$groupBox1|#1" />
+  <StaticText Name="PropertiesST" Tag="[GroupBox] External data mapping|$groupBox1|#1/[StaticText]Properties:|$label5|#2" />
+  <StaticText Name="ExternalClassNameST" Tag="[GroupBox] External data mapping|$groupBox1|#1/[StaticText]External class name:|$label4|#1" />
+  <Table Name="M_dataGridView" Tag="[GroupBox] External data mapping|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1" />
+  <TextField Name="ExternalClassNameTF" Tag="[GroupBox] External data mapping|$groupBox1|#1/[TextField]External class name:|$m_tbExternalObjName|#1" />
+  <TreeView Name="M_treeView" Tag="[TreeView]P*|$m_treeView|#1" />
+  <TreeViewItem Name="EngineeringItemsTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Engineering Items|#1" />
+  <TreeViewItem Name="EquipmentTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Engineering Items|#1/[TreeViewItem]Equipment|#1" />
+  <TreeViewItem Name="InlineAssetsTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Engineering Items|#1/[TreeViewItem]Inline Assets|#2" />
+  <TreeViewItem Name="InstrumentationTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Engineering Items|#1/[TreeViewItem]Instrumentation|#3" />
+  <TreeViewItem Name="LinesTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Engineering Items|#1/[TreeViewItem]Lines|#4" />
+  <TreeViewItem Name="NozzlesTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Engineering Items|#1/[TreeViewItem]Nozzles|#5" />
+  <TreeViewItem Name="NonEngineeringItemsTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2" />
+  <TreeViewItem Name="ActuatorsTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Actuators|#1" />
+  <TreeViewItem Name="AnnotationTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Annotation|#2" />
+  <TreeViewItem Name="ClosedDrainNoPIDTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Closed Drain No PID|#3" />
+  <TreeViewItem Name="ConnectorsTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Connectors|#4" />
+  <TreeViewItem Name="FlowArrowTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Flow Arrow|#5" />
+  <TreeViewItem Name="FlagTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Flag|#6" />
+  <TreeViewItem Name="GapTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Gap|#7" />
+  <TreeViewItem Name="LineBreakersTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Line Breakers|#8" />
+  <TreeViewItem Name="OpenDrainNoPIDTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Open Drain No PID|#9" />
+  <TreeViewItem Name="TieInTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Non Engineering Items|#2/[TreeViewItem]Tie In|#10" />
+  <TreeViewItem Name="SignalLineGroupTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Signal Line Group|#3" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <PushButton Name="M_btnOK" Tag="[PushButton]OK|$m_btnOK|#1" />
+  <StaticText Name="DescriptionST" Tag="[StaticText]Description:|$label2|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#3" />
+  <TextField Name="M_tbName" Tag="[TextField]Name:|$m_tbName|#1" />
+  <StaticText Name="NameST" Tag="[StaticText]Name:|$label1|#1" />
+  <TitleBar Name="NewExportAndImportCTL" Tag="[TitleBar]New Export and Import Settings|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]New Export and Import Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$PnPNewExportImportSettingDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]New Export and Import Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$PnPNewExportImportSettingDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]New Export and Import Settings|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+  <!--<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label2" Tag="[StaticText]$label2" />
+<StaticText Name="Label3" Tag="[StaticText]$label3" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+<StaticText Name="Label5" Tag="[StaticText]$label5" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOK" Tag="[PushButton]$m_btnOK" />
+<PushButton Name="Elipses" Tag="[PushButton]$..." />
+<Table Name="M_dataGridView" Tag="[Table]$m_dataGridView" />
+<TextField Name="M_tbDesc" Tag="[TextField]$m_tbDesc" />
+<TextField Name="M_tbExternalObjName" Tag="[TextField]$m_tbExternalObjName" />
+<TextField Name="M_tbName" Tag="[TextField]$m_tbName" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$m_tbDesc" />-->
+</Pane>

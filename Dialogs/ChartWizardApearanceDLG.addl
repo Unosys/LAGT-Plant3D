@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardApearanceDLG" Tag="[Pane]$WizardFormBase" ParentType="ReportDesignerApplicationDLG">
+  <GroupBox Name="ChartAppearanceControl" Tag="[GroupBox]$ChartAppearanceControl" />
+  <GroupBox Name="ChartPanelControl1" Tag="[GroupBox]$chartPanelControl1" />
+  <GroupBox Name="GrWizardPanel" Tag="[GroupBox]$grWizardPanel" />
+  <GroupBox Name="PanelNavigation" Tag="[GroupBox]$panelNavigation" />
+  <GroupBox Name="PnlHintOffset" Tag="[GroupBox]$pnlHintOffset" />
+  <GroupBox Name="PnlParent" Tag="[GroupBox]$pnlParent" />
+  <GroupBox Name="WorkPanel" Tag="[GroupBox]$workPanel" />
+</Autodesk.GUIHarness.Pane>

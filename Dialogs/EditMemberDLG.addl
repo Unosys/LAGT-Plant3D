@@ -1,0 +1,3 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.EditMemberDLG" Tag="[DialogBox]Edit Member" ParentType="Plant3D">
+<PushButton Name="Cancel" Tag="[PushButton]$1038" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RegistryEditor" Tag="[MainWin]Registry Editor" ParentType="Desktop" GUIType="WIN32">
+
+  <Pane Name="RegistryEditorPANE" GUIType="UIA" Tag="[Pane]Registry Editor|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Registry Editor|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Registry Editor|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Registry Editor|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="AddingInformationCanUnintentionallyST" Tag="[Pane]Registry Editor|$Window|#1/[StaticText]Adding information can unintentionally change or delete values and cause components to stop working correctly*|$ContentText|#1" />
+  <PushButton Name="YesPB" Tag="[Pane]Registry Editor|$Window|#1/[PushButton]Yes|$CommandButton_6|#1" />
+  <PushButton Name="NoPB" Tag="[Pane]Registry Editor|$Window|#1/[PushButton]No|$CommandButton_7|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]Registry Editor|#1/[Pane]#1/[PushButton]OK|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

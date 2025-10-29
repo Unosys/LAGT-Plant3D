@@ -1,0 +1,48 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PreviewDLG" Tag="[Pane]Preview|$PrintPreviewFormExBase" ParentType="ReportCreatorDLG" GUIType="UIA">
+
+	<Pane Name="Pane1PANE" Tag="[Pane]#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]$fPrintControl|#2" />
+	<Pane Name="Pane3PANE" Tag="[Pane]$fPrintControl|#2/[Pane]$DocumentViewer|#1" />
+	<ScrollBar Name="HorizontalSB" Tag="[Pane]$fPrintControl|#2/[ScrollBar]Horizontal|$hScrollBar|#1" />
+	<Pane Name="Pane4PANE" Tag="[Pane]$fPrintControl|#2/[Pane]$sidePanel|#2" />
+	<ScrollBar Name="VerticalSB" Tag="[Pane]$fPrintControl|#2/[Pane]$sidePanel|#2/[ScrollBar]Vertical|$vScrollBar|#1" />
+	<Pane Name="Pane5PANE" Tag="[Pane]$fPrintControl|#2/[Pane]$sidePanel|#2/[Pane]$cornerPanel|#1" />
+	<GroupBox Name="DockBottomGB" Tag="[GroupBox]Dock Bottom|$7804338|#2" />
+	<StatusBar Name="StatusBarSB" Tag="[GroupBox]Dock Bottom|$7804338|#2/[StatusBar]Status Bar|$10032034|#1" />
+	<GroupBox Name="DockTopGB" Tag="[GroupBox]#1" />
+	<CustomWin Name="MainMenuWIN" Tag="[GroupBox]#1/[CustomWin]#1" />
+	<MenuItem Name="FileMI" Tag="[GroupBox]#1/[CustomWin]#1/[MenuItem]File|#1" />
+	<MenuItem Name="ViewMI" Tag="[GroupBox]#1/[CustomWin]#1/[MenuItem]View|#2" />
+	<MenuItem Name="BackgroundMI" Tag="[GroupBox]#1/[CustomWin]#1/[MenuItem]Background|#3" />
+	<MenuItem Name="Item1MI" Tag="[GroupBox]#1/[CustomWin]#1/[MenuItem]Item|#4" />
+	<ToolBar Name="ToolbarTB" Tag="[GroupBox]#1/[ToolBar]#1" />
+	<PushButton Name="ParametersPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Parameters|#1" />
+	<PushButton Name="ThumbnailsPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Thumbnails|#2" />
+	<PushButton Name="SearchPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]#3" />
+	<PushButton Name="Open1PB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]#4" />
+	<PushButton Name="SavePB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]#5" />
+	<PushButton Name="Print1PB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Print*|#6" />
+	<PushButton Name="Print2PB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Print|#7" />
+	<PushButton Name="PageSetupPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Page Setup*|#8" />
+	<PushButton Name="ScalePB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Scale|#9" />
+	<PushButton Name="HandToolPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Hand Tool|#10" />
+	<PushButton Name="MagnifierPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Magnifier|#11" />
+	<PushButton Name="ZoomOutPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Zoom Out|#12" />
+	<PushButton Name="ZoomPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Zoom|#13" />
+	<PushButton Name="ZoomInPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Zoom In|#14" />
+	<PushButton Name="FirstPagePB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]First Page|#15" />
+	<PushButton Name="PreviousPagePB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Previous Page|#16" />
+	<PushButton Name="NextPagePB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Next Page|#17" />
+	<PushButton Name="LastPagePB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Last Page|#18" />
+	<PushButton Name="MultiplePagesPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Multiple Pages|#19" />
+	<PushButton Name="ColorPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Color*|#20" />
+	<PushButton Name="WatermarkPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Watermark*|#21" />
+	<PushButton Name="ExportDocumentPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Export Document*|#22" />
+	<PushButton Name="Open2PB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]Export Document*|#22/[PushButton]Open|#1" />
+	<MenuItem Name="Item2MI" Tag="[GroupBox]#1/[ToolBar]#1/[MenuItem]Item|#1" />
+	<TitleBar Name="PreviewCTL" Tag="[TitleBar]Preview|$TitleBar|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Preview|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Preview|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Preview|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+
+</Pane>

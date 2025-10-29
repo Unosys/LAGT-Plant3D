@@ -1,0 +1,25 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSelectFilesToCopyToProject" Tag="[DialogBox]Select Files to Copy to Project" ParentType="CustomWin">
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]#1" />
+  <ListView Name="ListViewLV" Tag="[CustomWin]#1/[ListView]$1|#1" />
+  <Header Name="HeaderCTL" GUIType="UIA" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="NameWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 0|#1" />
+  <CustomWin Name="DateModifiedWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Date modified|$HeaderItem 1|#2" />
+  <CustomWin Name="TypeWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Type|$HeaderItem 2|#3" />
+  <CustomWin Name="SizeWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Size|$HeaderItem 3|#4" />
+  <StaticText Name="FileNameST" Tag="[StaticText]File name:|$13008|#2" />
+  <ComboBox Name="FileNameCB" Tag="[ComboBox]File name:|$13006|#1" />
+  <StaticText Name="FilesOfTypeST" Tag="[StaticText]Files of type:|$13009|#3" />
+  <PopupList Name="FilesOfTypePL" Tag="[PopupList]Files of type:|$13002|#2" />
+  <PushButton Name="PreviousFolderAlt1PB" Tag="[PushButton]Previous folder(Alt+1)|$13011|#1" />
+  <PushButton Name="UpOneLevelAlt2PB" Tag="[PushButton]Up one level (Alt+2)|$13003|#2" />
+  <PushButton Name="SearchTheWebAlt3PB" Tag="[PushButton]Search the Web (Alt+3)|$13004|#3" />
+  <PushButton Name="DeleteDelPB" Tag="[PushButton]Delete (Del)|$13014|#4" />
+  <PushButton Name="CreateNewFolderAlt5PB" Tag="[PushButton]Create New Folder (Alt+5)|$13013|#5" />
+  <PushButton Name="ViewsPB" Tag="[PushButton]Views|$13012|#6" />
+  <PushButton Name="ToolsPB" Tag="[PushButton]Tools|$13005|#7" />
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$1|#8" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#9" />
+  <ListBox Name="LookInLB" Tag="[ListBox]Look in:|$13000|#1" />
+  <StaticText Name="LookInST" Tag="[StaticText]Look in:|$13007|#1" />
+  <PopupList Name="LookInPL" Tag="[PopupList]Look in:|$13001|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

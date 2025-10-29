@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BackgroundMenuDLG" Tag="[DialogBox]BackgroundMenuDLG" ParentType="Plant3D">
+<CustomWin Name="DevExpressXtraBarsControlsS" Tag="[DevExpress.XtraBars.Controls.SubMenuBarControl]#1" />
+<CustomWin Name="CustomWin1" Tag="#1" />
+<PushButton Name="Color" Tag="[PushButton]Color|#1" />
+<PushButton Name="Watermark" Tag="[PushButton]Watermark|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

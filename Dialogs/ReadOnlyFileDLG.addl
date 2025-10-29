@@ -1,0 +1,10 @@
+
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReadOnlyFileDLG" Tag="[Pane]$DwgOfflineReadOnly" ParentType="CustomWin" GUIType="UIA">
+  <PushButton Name="HelpPB" Tag="[PushButton]$btnHelp|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]$btnOk|#1" />
+  <StaticText Name="ThisFileIsReadonlyST" Tag="[StaticText]$label1|#1" />
+  <TitleBar Name="ReadOnlyFileCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]$TitleBar|#1/[CustomWin]$DwgOfflineReadOnly|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]$TitleBar|#1/[CustomWin]$DwgOfflineReadOnly|#1/[MenuItem]$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+</Pane>

@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecifyDoubleLinePipingDLG" Tag="[Window]Specify Double Line Piping|$Window_DoubleLine" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="PushButton1PB" Tag="[PushButton]$Button_SelectAllNone|#2" />
+	<PushButton Name="PushButton2PB" Tag="[PushButton]$Button_ManualSelect|#1" />
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#4" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OKButton|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

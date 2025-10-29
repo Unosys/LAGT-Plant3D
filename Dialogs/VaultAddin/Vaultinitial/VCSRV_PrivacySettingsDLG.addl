@@ -1,0 +1,6 @@
+﻿<ProductTestSuite.CommonFiles.AdDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VCSRV_PrivacySettingsDLG" Tag="[DialogBox]Privacy Settings|#1" ParentType="VaultProServer">
+
+	<PushButton Name="OKPB" Tag="[Pane]$1/[PushButton]$1002" />
+	
+
+</ProductTestSuite.CommonFiles.AdDialogBox>

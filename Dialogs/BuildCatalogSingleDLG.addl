@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.BuildCatalogSingleDLG" Tag="[MainWin]Build Catalog|$Window_1" ParentType="Desktop" GUIType="UIA">
+	
+	<PushButton Name="SaveAsNewPB" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#1/[CustomWin]Catalog|$ID_CatalogPanel|#1/[ListBox]Catalog|$mRibbonPanelView|#1/[ListViewItem]#2/[CustomWin]Save*|$ID_SaveAsNew_RibbonItemControl|#1/[PushButton]$ID_SaveAsNew" />
+	<PushButton Name="AddToExistingPB" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#1/[CustomWin]Catalog|$ID_CatalogPanel|#1/[ListBox]Catalog|$mRibbonPanelView|#1/[ListViewItem]#4/[CustomWin]Add to*|$ID_AddToExisting_RibbonItemControl|#1/[PushButton]$ID_AddToExisting" />
+	<PushButton Name="ContentPackPB" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#1/[CustomWin]Catalog|$ID_CatalogPanel|#1/[ListBox]Catalog|$mRibbonPanelView|#1/[ListViewItem]#6/[CustomWin]Content*|$ID_ContentPack_RibbonItemControl|#1/[PushButton]$ID_ContentPack" />
+	
+
+</Autodesk.GUIHarness.MainWin>

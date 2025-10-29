@@ -1,0 +1,4 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardAxesStripsGeneralDLG" Tag="[Pane]$WizardFormBase" ParentType="ReportDesignerApplicationDLG">
+  <PushButton Name="AddPB" Tag="[Pane]pnlBase|$pnlBase/[Pane]$grWizardPanel/[Pane]$workPanel/[Pane]grWizardParentControl|$grWizardParentControl/[Pane]$pnlParent/[Pane]$ChartAxesControl/[Pane]splitter|$splitter/[Pane]$1443790|#2/[Pane]$tabPanel/[Pane]$ChartAxisControl/[PageList]$tbcTabPages/[Pane]Strips|$tbStrips/[Pane]$stripsControl/[Pane]$stripsListControl/[Pane]$panelControl2/[PushButton]Add|$cbAdd" />
+
+</Pane>

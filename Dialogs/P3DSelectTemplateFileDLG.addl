@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DSelectTemplateFileDLG" Tag="[DialogBox]Select Template File|#1" ParentType="NewDWGDLG">
+  <ListView Name="ListView1" Tag="[CustomWin]#1/[ListView]$1" />
+  <StaticText Name="FileNameText" Tag="[StaticText]File name:|$13008" />
+  <ComboBox Name="FileName" Tag="[ComboBox]$13006|#1" />
+  <StaticText Name="FilesOfTypeText" Tag="[StaticText]Files of type:|$13009" />
+  <PopupList Name="FilesOfType" Tag="[PopupList]Files of type:|$13002" />
+  <PushButton Name="Open" Tag="[PushButton]Open|$1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+  <PushButton Name="Preview" Tag="[PushButton]Preview|$13101" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Template File|$TitleBar/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,27 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PropertyEditorLayoutLoadXMLFileDLG" Tag="[Pane]$DesignerForm" ParentType="ReportDesignerApplicationDLG">
+<CustomWin Name="BtnApply" Tag="[CustomWin]$btnApply" />
+<CustomWin Name="BtnLoad" Tag="[CustomWin]$btnLoad" />
+<CustomWin Name="BtnSave" Tag="[CustomWin]$btnSave" />
+<CustomWin Name="BtnXMLLoad" Tag="[CustomWin]$btnXMLLoad" />
+<CustomWin Name="CbXMLTable" Tag="[CustomWin]$cbXMLTable" />
+<CustomWin Name="ChColumnSelector" Tag="[CustomWin]$chColumnSelector" />
+<CustomWin Name="DevExpressUtilsFramesNotePanelEx" Tag="[CustomWin]$LayoutsBase" />
+<CustomWin Name="DevExpressXtraTabXtraTabControl" Tag="[CustomWin]$pnlTab" />
+<CustomWin Name="GcXMLTables" Tag="[CustomWin]$gcXMLTables" />
+<CustomWin Name="HorzSplitter" Tag="[CustomWin]$horzSplitter" />
+<CustomWin Name="LayoutsBase" Tag="[CustomWin]$LayoutsBase" />
+<StaticText Name="LbCaption" Tag="[StaticText]$lbCaption" />
+<StaticText Name="LbXMLTable" Tag="[StaticText]$lbXMLTable" />
+<CustomWin Name="LoadDataFromXML" Tag="[CustomWin]$" />
+<CustomWin Name="NavBarControl" Tag="[CustomWin]$navBarControl" />
+<CustomWin Name="PnlBottom" Tag="[CustomWin]$pnlBottom" />
+<CustomWin Name="PnlFrame" Tag="[CustomWin]$pnlFrame" />
+<CustomWin Name="PnlMain" Tag="[CustomWin]$pnlMain" />
+<GroupBox Name="PnlMainForm" Tag="[GroupBox]$pnlMainForm" />
+<CustomWin Name="PnlTab" Tag="[CustomWin]$pnlTab" />
+<CustomWin Name="PnlTop" Tag="[CustomWin]$pnlTop" />
+<CustomWin Name="PnlXML" Tag="[CustomWin]$pnlXML" />
+<StatusBar Name="SbHelp" Tag="[StatusBar]$sbHelp" />
+<CustomWin Name="Splitter1" Tag="[CustomWin]$splitter1" />
+  <PushButton Name="Close2PB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Pane>

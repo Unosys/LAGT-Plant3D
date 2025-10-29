@@ -1,0 +1,18 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddCalculatedPropertyDLG" Tag="[Window]Add Calculated Property|$Window_1" ParentType="Pane" GUIType="UIA">
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_4|#4" />
+	<PushButton Name="AddPropertyPB" Tag="[PushButton]$Button_2|#3" />
+
+	<TreeView Name="TreeViewTV" Tag="[TreeView]$TreeView_1|#1" />
+	<TreeViewItem Name="SystemWindowsControlsTreeViewItemHeaderItemsCount8TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_1|#1" />
+	<PushButton Name="PushButton1PB" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_1|#1/[PushButton]$Expander|#1" />
+	<StaticText Name="FunctionsST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_1|#1/[StaticText]Functions|#1" />
+	<TreeViewItem Name="SystemWindowsControlsTreeViewItemHeaderItemsCount53TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_7|#2" />
+	<PushButton Name="PushButton2PB" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_7|#2/[PushButton]$Expander|#1" />
+	<StaticText Name="PropertiesST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_7|#2/[StaticText]Properties|#1" />
+	<TreeViewItem Name="SystemWindowsControlsTreeViewItemHeaderItemsCount7TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_8|#3" />
+	<PushButton Name="PushButton3PB" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_8|#3/[PushButton]$Expander|#1" />
+	<StaticText Name="OperatorSymbolsST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]$TreeViewItem_8|#3/[StaticText]Operator Symbols|#1" />
+
+
+</Window>

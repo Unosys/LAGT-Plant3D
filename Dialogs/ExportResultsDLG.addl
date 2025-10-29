@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportResultsDLG" Tag="[Pane]Export results|$ExportResultsForm|#2" ParentType="ReportCreatorDLG" GUIType="UIA">
+  <Pane Name="PanePANE" Tag="[Pane]$m_mainTableLayoutPanel|#1" />
+  <ListBox Name="ExportSucceededTheFollowingLB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[ListBox]Export succeeded*|$m_exportsListBox|#1" />
+  <ListBoxItem Name="CUsersAdministratorW7EN1ENUx64VM7AppDataRoamingAutodeskAutodeskAutoCADPlant3DLBI" Tag="[Pane]$m_mainTableLayoutPanel|#1/[ListBox]Export succeeded*|$m_exportsListBox|#1/[ListBoxItem]C:*|#1" />
+  <StaticText Name="ExportSucceededTheFollowingST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Export succeeded*|$m_descriptionLbl|#1" />
+  <PushButton Name="M_okBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]OK|$m_okBtn|#1" />
+  <Pane Name="ExportSucceededTheFollowingPANE" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Export succeeded*|$m_iconPicBox|#1" />
+  <TitleBar Name="ExportResultsCTL" Tag="[TitleBar]Export results|$TitleBar|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Export results|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Export results|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Export results|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Pane>

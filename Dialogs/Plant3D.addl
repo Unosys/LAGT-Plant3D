@@ -1,0 +1,20 @@
+﻿<Plant3DMainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3D" Tag="[MainWin]*AutoCAD Plant 3D*" ParentType="Desktop" GUIType="WIN32">
+	<MDIClient Name="MDIClient" Tag="[MDIClient]$59648" />
+	<CustomWin Name="Ribbon" Tag="[CustomWin]Ribbon|$59419|#3" />
+	<CustomWin Name="ExportWIN" Tag="[CustomWin]Ribbon|$59419|#3/[CustomWin]Ribbon|$16719|#1/[CustomWin]Ribbon|#1/[Pane]#1/[CustomWin]$PNP.ID_TabStructural_PanelBarScrollViewer|#1/[CustomWin]Export|$ID_PanelStructure_Export|#5" />
+	<CustomWin Name="AdvanceSteelXMLExportWIN" Tag="[CustomWin]Ribbon|$59419|#3/[CustomWin]Ribbon|$16719|#1/[CustomWin]Ribbon|#1/[Pane]#1/[CustomWin]$PNP.ID_TabStructural_PanelBarScrollViewer|#1/[CustomWin]Export|$ID_PanelStructure_Export|#5/[CustomWin]$STRUCT_ADVANCESTEEL_EXPORT_RibbonItemControl|#1" />
+	<PushButton Name="AdvanceSteelXMLExportPB" Tag="[CustomWin]Ribbon|$59419|#3/[CustomWin]Ribbon|$16719|#1/[CustomWin]Ribbon|#1/[Pane]#1/[CustomWin]$PNP.ID_TabStructural_PanelBarScrollViewer|#1/[CustomWin]Export|$ID_PanelStructure_Export|#5/[CustomWin]$STRUCT_ADVANCESTEEL_EXPORT_RibbonItemControl|#1/[PushButton]$STRUCT_ADVANCESTEEL_EXPORT|#1" />
+	<PushButton Name="PushButton2PB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_WebservicesLoginButton_RibbonItemControl/[PushButton]$ID_IC_WebservicesLoginButton" />
+	<CustomWin Name="CustomWin5WIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_WebservicesLoginButton_RibbonItemControl" />
+
+	<Image Name="ISOImage" Tag="[StatusBar]$59393|#1/[Pane]$UserControl_1|#1/[CustomWin]$mStatusBarControl|#2/[Image]#4" />
+
+	<Image Name="Spec" Tag="[StatusBar]$59393|#1/[Pane]$UserControl_1|#1/[CustomWin]$mStatusBarControl|#2/[Image]$ID_|#8" />
+	<CustomWin Name="LoadOrthoCubeWIN" Tag="[CustomWin]Ribbon|$59419|#2/[CustomWin]Ribbon|$16718|#1/[CustomWin]Ribbon|$4|#1/[Pane]#1/[CustomWin]PNP*|$PNP.ID_TabOrthoEditor_PanelBarScrollViewer|#2/[CustomWin]Library|$ID_PanelOrthoLibrary|#3/[CustomWin]Load Ortho Cube|$pnpLoadViewConfigButton_RibbonItemControl|#1" />
+	<PushButton Name="LoadOrthoCubePB" Tag="[CustomWin]$59419|#2/[CustomWin]*/[CustomWin]#1/[Pane]#1/[CustomWin]$PNP.ID_TabOrthoEditor_PanelBarScrollViewer|#2/[CustomWin]$ID_PanelOrthoLibrary|#3/[CustomWin]$pnpLoadViewConfigButton_RibbonItemControl|#1/[PushButton]$pnpLoadViewConfigButton|#1" />
+	<PushButton Name="SaveOrthoCubePB" Tag="[CustomWin]$59419|#2/[CustomWin]*/[CustomWin]#1/[Pane]#1/[CustomWin]$PNP.ID_TabOrthoEditor_PanelBarScrollViewer|#2/[CustomWin]$ID_PanelOrthoLibrary|#3/[CustomWin]$pnpSaveViewConfigButton_RibbonItemControl|#2/[PushButton]$pnpSaveViewConfigButton|#1" />
+
+	<PushButton Name="OKPB" Tag="[CustomWin]Ribbon|$59419|#2/[CustomWin]*/[CustomWin]#1/[Pane]#1/[CustomWin]$PNP.ID_TabOrthoEditor_PanelBarScrollViewer|#2/[CustomWin]$ID_PanelCanelOrthoCreation|#7/[CustomWin]$pnpOrthoViewCreateButton_RibbonItemControl|#1/[PushButton]$pnpOrthoViewCreateButton|#1" />
+	<PushButton Name="CancelPB" Tag="[CustomWin]Ribbon|$59419|#2/[CustomWin]*/[CustomWin]#1/[Pane]#1/[CustomWin]$PNP.ID_TabOrthoEditor_PanelBarScrollViewer|#2/[CustomWin]$ID_PanelCanelOrthoCreation|#7/[CustomWin]$pnpCancelOrthoEditorButton_RibbonItemControl|#2/[PushButton]$pnpCancelOrthoEditorButton|#1" />
+	<TextField Name="TypeACommandTF" Tag="[CustomWin]$59422/[CustomWin]$16716/[CustomWin]#1/[Pane]#1/[CustomWin]$Control_1/[TextField]$local:AutoCompleteEdit_1" />
+</Plant3DMainWin>

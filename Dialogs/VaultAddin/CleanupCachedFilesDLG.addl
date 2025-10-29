@@ -1,0 +1,11 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CleanupCachedFilesDLG" Tag="[DialogBox]Cleanup Cached Files" ParentType="CustomWin" GUIType="WIN32">
+  <Pane Name="CleanupCachedFilesPANE" GUIType="UIA" Tag="[Pane]Cleanup Cached Files|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Cleanup Cached Files|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Cleanup Cached Files|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Cleanup Cached Files|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="CleanupLocallyCachedFilesST" Tag="[Pane]Cleanup Cached Files|$Window|#1/[StaticText]Cleanup Locally Cached Files|$MainInstruction|#1" />
+  <StaticText Name="FilesThatAreNotST" Tag="[Pane]Cleanup Cached Files|$Window|#1/[StaticText]Files that are not checked-out will be removed from the local workspace*|$ContentText|#2" />
+  <CheckBox Name="AlwaysCleanupLocallyCachedCK" Tag="[Pane]Cleanup Cached Files|$Window|#1/[CheckBox]Always cleanup locally cached files*|$VerificationCheckBox|#1" />
+  <PushButton Name="DeleteFilesPB" Tag="[Pane]Cleanup Cached Files|$Window|#1/[PushButton]Delete Files|$CommandButton_1001|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]Cleanup Cached Files|$Window|#1/[PushButton]Cancel|$CommandButton_2|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

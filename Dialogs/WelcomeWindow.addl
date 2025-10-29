@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.WelcomeWindow" Tag="[MainWin]$SpecAndCatalogV2Window">
+
+ 
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close" />
+
+</Autodesk.GUIHarness.Window>

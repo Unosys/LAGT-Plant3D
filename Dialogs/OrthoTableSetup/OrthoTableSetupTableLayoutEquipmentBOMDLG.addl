@@ -1,0 +1,8 @@
+<Window  Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoTableSetupTableLayoutEquipmentBOMDLG" Tag="[Window]Ortho Table Setup|$Window_BOMSetup" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<PushButton Name="ManageComponentsPB" Tag="[PageList]$TabControl_Table|#1/[Window]$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CustomWin]$UserControl_BOMSetupTable|#2/[PushButton]$Button_ManageComponents" />
+	<PushButton Name="AddColumnPB" Tag="[PageList]$TabControl_Table|#1/[Window]Table Layout|$TabItem_TableLayout|#1/[CustomWin]$UserControl_BOMSetupTabs|#1/[CustomWin]$UserControl_BOMSetupTable|#2/[PushButton]$Button_AddColumn" />
+
+</Window>

@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DeleteAnnotationDLG" Tag="[DialogBox]Delete annotation" ParentType="Pane" GUIType="UIA">
+
+
+	<PushButton Name="DeleteTheAnnotationPB" Tag="[Pane]Delete annotation|$Window|#1/[PushButton]Delete the annotation|$CommandLink_0|#1" />
+	<PushButton Name="DoNotDeleteThePB" Tag="[Pane]Delete annotation|$Window|#1/[PushButton]Do not delete the annotation|$CommandLink_1|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]Delete annotation|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+	<TitleBar Name="DeleteAnnotationCTL" Tag="[TitleBar]Delete annotation|$TitleBar|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Delete annotation|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

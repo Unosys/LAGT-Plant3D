@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ErrorCannotOpenCADWorxDataFileDLG" Tag="[DialogBox]Error" ParentType="Plant3D">
+<PushButton Name="OkPB" Tag="$2" />
+<StaticText Name="CannotOpenSpecDataFileTlb" Tag="$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

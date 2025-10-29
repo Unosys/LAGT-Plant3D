@@ -1,0 +1,44 @@
+{
+    "plant-projects": {
+        "host": {
+            "scheme": "https",
+            "host": "developer.api.autodesk.com",
+            "path": "plant/v3"
+        }
+    },
+    "plant-notification": {
+        "host": {
+            "scheme": "https",
+            "host": "developer.api.autodesk.com",
+            "path": "notifications/v1"
+        }
+    },
+    "oss": {
+        "host": {
+            "scheme": "https",
+            "host": "developer.api.autodesk.com",
+            "path": "oss/v2"
+        }
+    },
+    "p360": {
+        "host": {
+            "scheme": "https",
+            "host": "developer.api.autodesk.com",
+            "path": "p360/v3"         
+        }
+    },
+    "p360data": {
+        "host": {
+            "scheme": "https",
+            "host": "developer.api.autodesk.com",
+            "path": "p360data/v3"         
+        }
+    },
+    "forgedm": {
+        "host": {
+            "scheme": "https",
+            "host": "developer.api.autodesk.com",
+            "path": "data/v1"         
+        }
+    }
+}

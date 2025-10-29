@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutodeskVaultStandAloneDLG" Tag="[DialogBox]Autodesk Vault Stand Alone Client" ParentType="MainWin" >
+
+
+	<PushButton Name="LaunchAutodeskVaultPB" Tag="[Pane]$Window|#1/[PushButton]Launch Autodesk Vault|$CommandLink_1001|#1" />
+	<PushButton Name="DoNotLaunchAutodeskPB" Tag="[Pane]$Window|#1/[PushButton]Do Not Launch Autodesk Vault|$CommandLink_2|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

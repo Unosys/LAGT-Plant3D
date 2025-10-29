@@ -1,0 +1,5 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.UndoCheckOut" Tag="[DialogBox]Undo Check Out" ParentType="CustomWin" GUIType="WIN32">
+	<PushButton Name="CancelPB" Tag="[Pane]Undo Check Out|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+	<PushButton Name="UndoCheckoutChangesWillPB" Tag="[Pane]Undo Check Out|$Window|#1/[PushButton]Undo Checkout (Changes will be lost)|$CommandLink_1001|#1" />
+	<PushButton Name="DoNotUndoCheckoutPB" Tag="[Pane]Undo Check Out|$Window|#1/[PushButton]Do Not Undo Checkout|$CommandLink_1002|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConfirmDeletionDLG" Tag="[DialogBox]Confirm Deletion" ParentType="Pane" GUIType="UIA">
+
+  <Pane Name="ConfirmDeletionPANE" Tag="[Pane]Confirm Deletion|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Confirm Deletion|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Confirm Deletion|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Confirm Deletion|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="AreYouSureYouST" Tag="[Pane]Confirm Deletion|$Window|#1/[StaticText]Are you sure you want to delete this item?|$MainInstruction|#1" />
+  <PushButton Name="YesPB" Tag="[Pane]Confirm Deletion|$Window|#1/[PushButton]Yes|$CommandButton_6|#1" />
+  <PushButton Name="NoPB" Tag="[Pane]Confirm Deletion|$Window|#1/[PushButton]No|$CommandButton_7|#2" />
+  <TitleBar Name="ConfirmDeletionCTL" Tag="[TitleBar]Confirm Deletion|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Confirm Deletion|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

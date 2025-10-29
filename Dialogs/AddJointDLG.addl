@@ -1,0 +1,19 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddJointDLG" Tag="[Pane]Add Joint|$AddModifySimpleJointDlg" >
+
+
+	<PushButton Name="AddPropertyPB" Tag="[GroupBox]$grpboxConn|#1/[PushButton]$btnFindAdd1|#1" />
+	<PushButton Name="SpecFilterPB" Tag="[GroupBox]Fasteners|$grpboxPropMatches|#2/[PushButton]$btnFastenerFilter|#1" />
+	<CheckBox Name="BELL1CK" Tag="[GroupBox]$grpboxConn|#1/[Pane]$splitContainer1|#1/[Pane]#1/[ListBox]$clstboxEnd1|#1/[CheckBox]BELL|#1" />
+	<CheckBox Name="BV1CK" Tag="[GroupBox]$grpboxConn|#1/[Pane]$splitContainer1|#1/[Pane]#1/[ListBox]$clstboxEnd1|#1/[CheckBox]BV|#4" />
+
+	<ListBox Name="FastenersLB" Tag="[GroupBox]$grpboxPropMatches|#2/[ListBox]$clstboxFasteners|#1" />
+	<ListBox Name="End2LB" Tag="[GroupBox]Connection settings|$grpboxConn|#1/[Pane]$splitContainer1|#1/[Pane]#2/[ListBox]End 2:|$clstboxEnd2|#1" />
+	<ListBox Name="End1LB" Tag="[GroupBox]Connection settings|$grpboxConn|#1/[Pane]$splitContainer1|#1/[Pane]#1/[ListBox]End 1:|$clstboxEnd1|#1" />
+
+	<CheckBox Name="GasketCK" Tag="[GroupBox]Fasteners|$grpboxPropMatches|#2/[ListBox]$clstboxFasteners|#1/[CheckBox]Gasket|#1" />
+	<PushButton Name="DeletePB" Tag="[GroupBox]$grpboxConn|#1/[PushButton]Delete|$btnDelete1|#3" />
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btnCancel|#2" />
+	<PushButton Name="AddPB" Tag="[PushButton]Add|$btnOK|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

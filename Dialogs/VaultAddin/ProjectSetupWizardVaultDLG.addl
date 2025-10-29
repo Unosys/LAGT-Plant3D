@@ -1,0 +1,35 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardVaultDLG" Tag="[Pane]$CreateProjectWizard" ParentType="Plant3D">
+
+<StaticText Name="M_ProjNameLbl" Tag="[StaticText]$m_ProjNameLbl" />-->
+<CustomWin Name="M_wizardSetup" Tag="[CustomWin]$m_wizardSetup" />
+<GroupBox Name="PageWelcome" Tag="[GroupBox]$pageWelcome" />
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_wizardSetup|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1" />
+  <CheckBox Name="FromVaultServerCK" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[CheckBox]From vault server|$m_browseVaultPrjCB|#3" />
+  <PushButton Name="PushButton1PB" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[PushButton]**[1]|$m_btnVaultDir|#1" />
+  <TextField Name="VaultFolderPathTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[TextField]Vault folder path:|$m_vaultDirTB|#3" />
+  <StaticText Name="VaultFolderPathST" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[StaticText]Vault folder path:|$m_vaultLocLbl|#3" />
+  <CheckBox Name="M_checkBoxVaultPrj" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[CheckBox]Create this project in vault:|$m_checkBoxVaultPrj|#1" />
+  <PushButton Name="PushButton2PB" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[PushButton]**[2]|$m_btnProjDir|#2" />
+  <TextField Name="SpecifyTheDirectoryTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[TextField]Specify the directory where program-generated files are stored:|$m_editProjDir|#4" />
+  <StaticText Name="SpecifyTheDirectoryWhereST" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[StaticText]Specify the directory where program-generated files are stored:|$m_projDirLbl|#4" />
+  <TextField Name="EnterAnOptionalDescriptionTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[TextField]Enter an optional description:|$m_editDesc|#2" />
+  <StaticText Name="EnterAnOptionalDescriptionST" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[StaticText]Enter an optional description:|$m_projDescLbl|#2" />
+  <TextField Name="M_editName" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[TextField]Enter a name for this project:|$m_editName|#1" />
+  <StaticText Name="EnterANameForST" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[StaticText]Enter a name for this project:|$m_ProjNameLbl|#1" />
+  <PushButton Name="PushButton3PB" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[PushButton]**[3]|$m_btnTemplate|#3" />
+  <StaticText Name="SelectProjectXMLFileST" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[StaticText]Select project XML file:|$m_ProjectXMLLbl|#5" />
+  <TextField Name="SelectProjectXMLFileTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[TextField]Select project XML file:|$m_editTemplateFile|#5" />
+  <CheckBox Name="M_checkBoxCopySettings" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageWelcome|#1/[CheckBox]Copy settings from existing project|$m_checkBoxCopySettings|#2" />
+  <PushButton Name="Cancel" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Cancel|$m_buttonCancel|#3" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Next;|$m_buttonNext|#2" />
+  <PushButton Name="BackPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]&lt;&lt; Back|$m_buttonBack|#1" />
+  <TitleBar Name="ProjectSetupWizardPageCTL" Tag="[TitleBar]Project Setup Wizard (Page 1 of 6)|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup Wizard (Page 1 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup Wizard (Page 1 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 1 of 6)|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<RadioButton Name="ImperialRB" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageUnitSettings|#1/[RadioButton]$m_imperialRadioBtn|#1" />
+
+	<RadioButton Name="MetricRB" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pageUnitSettings|#1/[RadioButton]$m_metricRadioBtn|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

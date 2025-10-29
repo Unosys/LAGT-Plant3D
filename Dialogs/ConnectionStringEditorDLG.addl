@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConnectionStringEditorDLG" Tag="[Pane]$OLAPConnectionEditorForm" ParentType="ReportDesignerApplicationDLG">
+<CustomWin Name="BtnCancel" Tag="[CustomWin]$btnCancel" />
+<CustomWin Name="BtnOK" Tag="[CustomWin]$btnOK" />
+<CustomWin Name="CeAdvanced" Tag="[CustomWin]$ceAdvanced" />
+<CustomWin Name="PropertyGrid" Tag="[CustomWin]$propertyGrid" />
+<CustomWin Name="PropertyGridView" Tag="[CustomWin]$propertyGrid" />
+</Pane>

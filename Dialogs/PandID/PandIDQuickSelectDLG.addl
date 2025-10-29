@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDQuickSelectDLG" Tag="[DialogBox]Quick Select" ParentType="MainWin" GUIType="WIN32">
+
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$1|#2" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

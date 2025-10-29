@@ -1,0 +1,9 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.RenameDWG2DLG" Tag="[Pane]Rename DWG|$frmRenameDrawing" ParentType="ProjManUndocked" GUIType="UIA">
+  <PushButton Name="BtnOK" Tag="[Pane]Renaming will cause all external references to this drawing to be broken*|$m_panel_buttons/[PushButton]OK|$btnOK" />
+  <PushButton Name="BtnCancel" Tag="[Pane]Renaming will cause all external references to this drawing to be broken*|$m_panel_buttons/[PushButton]Cancel|$btnCancel" />
+  <GroupBox Name="M_gb_drawing_name" Tag="[GroupBox]Drawing name|$m_gb_drawing_name" />
+  <TextField Name="M_tb_filename" Tag="[GroupBox]Drawing name|$m_gb_drawing_name/[Pane]Renaming will cause all external references to this drawing to be broken*[1]|$m_panel_filename/[TextField]File name: |$m_tb_filename" />
+  <CheckBox Name="M_cb_override" Tag="[GroupBox]Drawing name|$m_gb_drawing_name/[Pane]Renaming will cause all external references to this drawing to be broken*[1]|$m_panel_filename/[CheckBox]Override|$m_cb_override" />
+  <TextField Name="M_tb_property_value" Tag="[GroupBox]Drawing name|$m_gb_drawing_name/[Pane]Renaming will cause all external references to this drawing to be broken*[2]|$m_panel_property_names/[Pane]$DrawingNamePropertyItem/[TextField]Test :|$m_tb_property_value" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Rename DWG|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

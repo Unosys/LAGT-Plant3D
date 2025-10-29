@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PermissionToDeleteFileErrorDLG" Tag="[DialogBox]$MessageForm" ParentType="Plant3D">
+<GroupBox Name="M_buttonsTableLayoutPanel" Tag="[GroupBox]$m_buttonsTableLayoutPanel" />
+<CustomWin Name="M_iconPicBox" Tag="[CustomWin]$m_iconPicBox" />
+<GroupBox Name="M_mainTableLayoutPanel" Tag="[GroupBox]$m_mainTableLayoutPanel" />
+<StaticText Name="M_msgLbl" Tag="[StaticText]$m_msgLbl" />
+<PushButton Name="M_okBtn" Tag="[PushButton]$m_okBtn" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

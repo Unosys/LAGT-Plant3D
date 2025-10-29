@@ -1,0 +1,10 @@
+<SpecEditorDLG Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlantDSpecEditorxSpecEditortabDLG" Tag="[MainWin]Spec Editor for AutoCAD Plant 3D *|$SpecAndCatalogV2Window" >
+
+	<PushButton Name="FamilyPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogComponents|#2/[PushButton]$FamilyTab|#1" />
+	<PushButton Name="SizePB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogComponents|#2/[PushButton]$SizeTab|#2" />
+	<Window Name="PartFamilyPropertiesWIN" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[PageList]$PropertyTab|#1/[Window]Part Family Properties|$PartFamilyPropertiesTab|#1" />
+	<StaticText Name="PartFamilyPropertiesST" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[PageList]$PropertyTab|#1/[Window]Part Family Properties|$PartFamilyPropertiesTab|#1/[StaticText]Part Family Properties|#1" />
+	<Window Name="PartSizePropertiesWIN" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[PageList]$PropertyTab|#1/[Window]Part Size Properties|$PartSizePropertiesTab|#2" />
+	<StaticText Name="PartSizeProperties1ST" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[PageList]$PropertyTab|#1/[Window]Part Size Properties|$PartSizePropertiesTab|#2/[StaticText]Part Size Properties|#1" />
+
+</SpecEditorDLG>

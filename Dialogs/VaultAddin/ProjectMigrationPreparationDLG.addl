@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectMigrationPreparationDLG" Tag="[DialogBox]ProjectMigrationPreparationDLG" ParentType="PROJECTMANAGERDLG">
+<CustomWin Name="DirectUIHWND1" Tag="[CustomWin][DirectUIHWND]$0|[DirectUIHWND]#1" IsNestedClass="True">
+	<CustomWin Name="CtrlNotifySink1" Tag="[CustomWin][CtrlNotifySink]$0[1]|[CtrlNotifySink]#1" IsNestedClass="True">
+		<PushButton Name="Next" Tag="[PushButton]$0|Next|#1" />
+	</CustomWin>
+	<CustomWin Name="CtrlNotifySink2" Tag="[CustomWin][CtrlNotifySink]$0[2]|[CtrlNotifySink]#2" IsNestedClass="True">
+		<PushButton Name="Cancel" Tag="[PushButton]$0|Cancel|#1" />
+	</CustomWin>
+</CustomWin>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

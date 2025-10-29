@@ -1,0 +1,40 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PCFINProcessDLG" Tag="[Window]PCF To Pipe|$Window_1|#1" ParentType="Plant3D" GUIType="UIA">
+  <TitleBar Name="PCFToPipeCTL" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <StaticText Name="PCFFiles1ST" Tag="[StaticText]PCF Files|#1" />
+  <StaticText Name="PCFFiles2ST" Tag="[StaticText]PCF Files|#1/[StaticText]PCF Files|#1" />
+  <StaticText Name="Status1ST" Tag="[StaticText]Status|#2" />
+  <StaticText Name="Status2ST" Tag="[StaticText]Status|#2/[StaticText]Status|#1" />
+  <StaticText Name="OverallProgress1ST" Tag="[StaticText]Overall Progress:|#3" />
+  <StaticText Name="OverallProgress2ST" Tag="[StaticText]Overall Progress:|#3/[StaticText]Overall Progress:|#1" />
+  <StaticText Name="three1MakingPipingForST" Tag="[StaticText](31%) Making Piping for PCF 10071111*|$FileProgressLabel|#4" />
+  <StaticText Name="eight9ConnectingPipingForST" Tag="[StaticText](31%) Making Piping for PCF 10071111*|$FileProgressLabel|#4/[StaticText](89%) Connecting piping for PCF 102011*|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[CustomWin]$OverallProgressBar|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[Pane]#1/[CustomWin]#1" />
+  <StaticText Name="one001ST" Tag="[Pane]#1/[CustomWin]#1/[StaticText]1001|$FileNameTB|#1" />
+  <StaticText Name="StaticText1ST" Tag="[Pane]#1/[CustomWin]#1/[StaticText] [1]|#2" />
+  <StaticText Name="StaticText2ST" Tag="[Pane]#1/[CustomWin]#1/[StaticText] [1]|#2/[StaticText] |#1" />
+  <Image Name="Image1IMG" Tag="[Pane]#1/[CustomWin]#1/[Image]$ProcessImage|#1" />
+  <StaticText Name="StaticText3ST" Tag="[Pane]#1/[CustomWin]#1/[StaticText] [2]|#3" />
+  <StaticText Name="StaticText4ST" Tag="[Pane]#1/[CustomWin]#1/[StaticText] [2]|#3/[StaticText] |#1" />
+  <CustomWin Name="CustomWin3WIN" Tag="[Pane]#1/[CustomWin]#2" />
+  <StaticText Name="one0011ST" Tag="[Pane]#1/[CustomWin]#2/[StaticText]10011|$FileNameTB|#1" />
+  <StaticText Name="StaticText5ST" Tag="[Pane]#1/[CustomWin]#2/[StaticText] [1]|#2" />
+  <StaticText Name="StaticText6ST" Tag="[Pane]#1/[CustomWin]#2/[StaticText] [1]|#2/[StaticText] |#1" />
+  <Image Name="Image2IMG" Tag="[Pane]#1/[CustomWin]#2/[Image]$ProcessImage|#1" />
+  <StaticText Name="StaticText7ST" Tag="[Pane]#1/[CustomWin]#2/[StaticText] [2]|#3" />
+  <StaticText Name="StaticText8ST" Tag="[Pane]#1/[CustomWin]#2/[StaticText] [2]|#3/[StaticText] |#1" />
+  <CustomWin Name="CustomWin4WIN" Tag="[Pane]#1/[CustomWin]#3" />
+  <StaticText Name="one00111ST" Tag="[Pane]#1/[CustomWin]#3/[StaticText]100111|$FileNameTB|#1" />
+  <StaticText Name="StaticText9ST" Tag="[Pane]#1/[CustomWin]#3/[StaticText] [1]|#2" />
+  <StaticText Name="StaticText10ST" Tag="[Pane]#1/[CustomWin]#3/[StaticText] [1]|#2/[StaticText] |#1" />
+  <Image Name="Image3IMG" Tag="[Pane]#1/[CustomWin]#3/[Image]$ProcessImage|#1" />
+  <StaticText Name="StaticText11ST" Tag="[Pane]#1/[CustomWin]#3/[StaticText] [2]|#3" />
+  <StaticText Name="StaticText12ST" Tag="[Pane]#1/[CustomWin]#3/[StaticText] [2]|#3/[StaticText] |#1" />
+  <ScrollBar Name="ScrollBarSB" Tag="[Pane]#1/[ScrollBar]$VerticalScrollBar|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$ProgressCancelBtn|#1" />
+  <StaticText Name="CloseST" Tag="[PushButton]Cancel|$ProgressCancelBtn|#1/[StaticText]Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

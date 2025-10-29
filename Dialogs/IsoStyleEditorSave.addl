@@ -1,0 +1,25 @@
+<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsoStyleEditorSave" Tag="[DialogBox]Iso Style Editor|#1" ParentType="MainWin" GUIType="UIA">
+
+		<PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Iso Style Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>-->
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsoStyleEditorSave" Tag="[MainWin]Iso Style Edito*|$Window_1" ParentType="Desktop" GUIType="UIA">
+
+	<DialogBox Name="IsoStyleEditorDLG" Tag="[DialogBox]Iso Style Editor|#1" />
+	<PushButton Name="OKPB" Tag="[DialogBox]Iso Style Editor|#1/[PushButton]OK|$2|#1" />
+	<Image Name="Image1IMG" Tag="[DialogBox]Iso Style Editor|#1/[Image]$20|#1" />
+	<StaticText Name="ChangesSavedSuccessfullyST" Tag="[DialogBox]Iso Style Editor|#1/[StaticText]Changes saved successfully*|$65535|#1" />
+	<TitleBar Name="IsoStyleEditor1CTL" Tag="[DialogBox]Iso Style Editor|#1/[TitleBar]Iso Style Editor|$TitleBar|#1" />
+	<PushButton Name="Close1PB" Tag="[DialogBox]Iso Style Editor|#1/[TitleBar]Iso Style Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<TitleBar Name="IsoStyleEditor2CTL" Tag="[TitleBar]Iso Style Editor - C:*|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Iso Style Editor - C:*|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Iso Style Editor - C:*|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Iso Style Editor - C:*|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Iso Style Editor - C:*|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="Close2PB" Tag="[TitleBar]Iso Style Editor - C:*|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

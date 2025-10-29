@@ -1,0 +1,19 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsometricCreationResultsDLG" Tag="[Pane]$IsometricResultsDetail" ParentType="Plant3D">
+  <PushButton Name="ConvertSplitPointsPB" Tag="[PushButton]Convert Split Points|$button_ImportSplitPoints|#3" />
+  <TreeView Name="TreeViewTV" Tag="[TreeView]$treeView_Messages|#1" />
+  <ScrollBar Name="HorizontalScrollBarSB" Tag="[TreeView]$treeView_Messages|#1/[ScrollBar]Horizontal Scroll Bar|$Horizontal ScrollBar|#2" />
+  <ScrollBar Name="VerticalScrollBarSB" Tag="[TreeView]$treeView_Messages|#1/[ScrollBar]Vertical Scroll Bar|$Vertical ScrollBar|#1" />
+  <PushButton Name="OpenLogFilePB" Tag="[PushButton]Open log file|$button_OpenMessageFile|#2" />
+  <PushButton Name="CopyToClipboardPB" Tag="[PushButton]Copy to Clipboard|$button_CopyToClipboard|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$button_Help|#5" />
+  <PushButton Name="Close1PB" Tag="[PushButton]Close|$button_Close|#4" />
+  <PopupList Name="ViewPL" Tag="[PopupList]View:|$comboBox_View|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]View:|$comboBox_View|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="ViewST" Tag="[StaticText]View:|$label_View|#1" />
+  <TitleBar Name="IsometricCreationResultsCTL" Tag="[TitleBar]Isometric Creation Results|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Isometric Creation Results|$TitleBar|#1/[CustomWin]System Menu Bar|$IsometricResultsDetail|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Isometric Creation Results|$TitleBar|#1/[CustomWin]System Menu Bar|$IsometricResultsDetail|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="Close2PB" Tag="[TitleBar]Isometric Creation Results|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

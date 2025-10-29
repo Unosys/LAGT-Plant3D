@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupSQLExpressDatabaseSetupDLG" Tag="[DialogBox]$EditProjectSettingsDlg" ParentType="Plant3D">
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="AddPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_databaseSetupUserControl|#1/[GroupBox]$m_xdbDataSroucesGroupBox|#2/[Pane]$m_xdbPanel|#1/[Pane]elementHost1|$m_xdbHost|#1/[Pane]elementHost1|#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PushButton]Add|$AddDataSourceBtn|#1" /><PushButton Name="RemovePB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_databaseSetupUserControl|#1/[GroupBox]$m_xdbDataSroucesGroupBox|#2/[Pane]$m_xdbPanel|#1/[Pane]elementHost1|$m_xdbHost|#1/[Pane]elementHost1|#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PushButton]Remove|$RomoveDataSourceBtn|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

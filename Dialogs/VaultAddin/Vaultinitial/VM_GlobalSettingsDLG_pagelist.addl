@@ -1,0 +1,5 @@
+﻿<VM_GlobalSettingsDLG Class="Autodesk.GUIHarness.Plant3D.Dialogs.VM_GlobalSettingsDLG_pagelist" Tag="[Pane]Global Settings|$AdminToolForm" ParentType="VaultPro">
+
+	<PageList Name="PageListPG" Tag="[Pane]$adminToolTabControl1/[PageList]$tabControl1" />
+
+</VM_GlobalSettingsDLG>

@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportToDLG" Tag="[DialogBox]Export To" >
+	<ComboBox Name="FileNameCB" Tag="[ComboBox]File name:|$13006|#1" />
+
+	<PushButton Name="SavePB" Tag="[PushButton]Save|$1|#7" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#8" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

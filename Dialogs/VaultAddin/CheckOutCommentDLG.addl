@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CheckOutCommentDLG" Tag="[Pane]$frmVaultCheckoutComment" ParentType="Pane">
+  <PushButton Name="OK" Tag="[PushButton]OK|$button1|#1" />
+  <TextField Name="TextFieldTF" Tag="[TextField]$m_commentTB|#1" />
+  <TitleBar Name="CheckOutCommentCTL" Tag="[TitleBar]Check Out Comment|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Check Out Comment|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultCheckoutComment|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Check Out Comment|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultCheckoutComment|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Check Out Comment|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

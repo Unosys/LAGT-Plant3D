@@ -1,0 +1,5 @@
+
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDStyleCanTBeDeletedDLG" Tag="[DialogBox]Style can't be deleted" ParentType="Pane">
+	<PushButton Name="OK" Tag="[PushButton]#1|$2" />
+	<StaticText Name="CentrifugalBlowerStyleIs" Tag="[StaticText]#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,8 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RenameFolderDLG" Tag="[Pane]Rename Folder|$frmRenameDrawing" ParentType="CustomWin" GUIType="UIA">
+
+	<PushButton Name="OKPB" Tag="[Pane]$m_panel_buttons|#1/[PushButton]OK|$btnOK|#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]$m_panel_buttons|#1/[PushButton]Cancel|$btnCancel|#2" />
+	<TextField Name="FolderNameTF" Tag="[GroupBox]$m_gb_drawing_name|#1/[Pane]$m_panel_filename|#1/[TextField]Folder name:|$m_tb_filename|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Rename Folder|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

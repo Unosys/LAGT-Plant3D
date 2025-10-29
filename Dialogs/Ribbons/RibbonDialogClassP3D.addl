@@ -1,0 +1,23 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RibbonDialogClassP3D" Tag="[CustomWin]Ribbon|$59419/[CustomWin]Ribbon|$16719/[CustomWin]Ribbon|$7/[Pane]#1" ParentType="Plant3D" GUIType="UIA">
+  <PushButton Name="IDMinimizeButtonPB" Tag="[PushButton]ID_MinimizeButton|$ID_MinimizeButton" />
+  <PushButton Name="MMinimizeButtonFlyoutPB" Tag="[PushButton]mMinimizeButtonFlyout|$mMinimizeButtonFlyout" />
+  <PushButton Name="HomePB" Tag="[PushButton]Home  |$PNP.ID_TabHomePiping" />
+  <PushButton Name="IsosPB" Tag="[PushButton]Isos|$PNP.ID_TabIsometrics" />
+  <PushButton Name="StructurePB" Tag="[PushButton]Structure|$PNP.ID_TabStructural" />
+  <PushButton Name="AnalysisPB" Tag="[PushButton]Analysis|$PNP.ID_TabAnalysis" />
+  <PushButton Name="ModelingPB" Tag="[PushButton]Modeling|$PNP.ID_TabModeling" />
+  <PushButton Name="VisualizePB" Tag="[PushButton]Visualize|$PNP.ID_TabRender" />
+  <PushButton Name="InsertPB" Tag="[PushButton]Insert|$PNP.ID_TabInsert" />
+  <PushButton Name="AnnotatePB" Tag="[PushButton]Annotate|$PNP.ID_TabAnnotate" />  
+  <PushButton Name="ManagePB" Tag="[PushButton]Manage|$PNP.ID_TabManage" />
+  <PushButton Name="OutputPB" Tag="[PushButton]Output|$PNP.ID_TabOutput3D" />
+  <PushButton Name="AddinsPB" Tag="[PushButton]Add-ins|$PNP.RBN_00012112" />
+  <PushButton Name="A360PB" Tag="[PushButton]A360|$PNP.ID_TabCloud" />
+  <PushButton Name="VaultPB" Tag="[PushButton]Vault|$PNP.ID_TabPnPVault" />
+  <PushButton Name="ExpressToolsPB" Tag="[PushButton]Express Tools|$EXPRESS.RBN_0047" />
+  <PushButton Name="FeaturedAppsPB" Tag="[PushButton]Featured Apps|$FEATUREDAPPS.RBN_190_37149" />
+  <PushButton Name="BIM360PB" Tag="[PushButton]BIM 360|$BIM360.RBN_200_9BE99" />
+  <PushButton Name="PerformancePB" Tag="[PushButton]Performance|$ACPERFMON.RBN_200_50D3E" />
+  <PushButton Name="CollaborationPB" Tag="[PushButton]Collaboration|$PNP.ID_TabPnPP360" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

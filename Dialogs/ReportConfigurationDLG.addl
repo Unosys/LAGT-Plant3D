@@ -1,0 +1,34 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportConfigurationDLG" Tag="[Pane]$ReportConfigurationForm" >
+
+	<Pane Name="PanePANE" Tag="[Pane]$m_mainTableLayoutPanel|#1" />
+	<StaticText Name="ReportConfigurationST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]$m_repConfigLbl|#1" />
+	<CheckBox Name="M_overrideFileChkBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[CheckBox]Overwrite existing file|$m_overrideFileChkBox|#1" />
+	<TextField Name="M_exportFilePathTxtBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[TextField]Export File Path:|$m_exportFilePathTxtBox|#1" />
+	<StaticText Name="ExportFilePathST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Export File Path:|$m_exportFilePathLbl|#4" />
+	<PopupList Name="M_repConfigCmbBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PopupList]$m_repConfigCmbBox|#1" />
+
+	<ComboBox Name="ReportConfigurationCB" Tag="[Pane]$m_mainTableLayoutPanel/[ComboBox]$m_repConfigCmbBox" />
+
+	<PushButton Name="DropDownButtonPB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PopupList]$m_repConfigCmbBox|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+	<StaticText Name="TargetST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Target|$m_targetAttrLbl|#3" />
+	<Pane Name="TargetPANE" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Target|$tableLayoutPanel1|#4" />
+	<PushButton Name="M_okBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Target|$tableLayoutPanel1|#4/[PushButton]OK|$m_okBtn|#1" />
+
+	<PushButton Name="M_cancelBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Target|$tableLayoutPanel1|#3/[PushButton]Cancel|$m_cancelBtn|#2" />
+
+	<Pane Name="ReportConfigurationPANE_1" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$panel1|#2" />
+	<RadioButton Name="RadioButton1RB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$panel1|#2/[RadioButton]$m_oneReportObjRadioBtn|#3" />
+	<RadioButton Name="M_oneReportDwgRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$panel1|#2/[RadioButton]$m_oneReportDwgRadioBtn|#2" />
+	<RadioButton Name="M_oneReportRadioBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]$panel1|#2/[RadioButton]$m_oneReportRadioBtn|#1" />
+
+	<PushButton Name="PushButton2PB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]$m_exportDirBrowseBtn" />
+	<PushButton Name="M_varsBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]$m_varsBtn" />
+	<CheckBox Name="M_showPrintOptionsChkBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[CheckBox]$m_showPrintOptionsChkBox" />
+	<CheckBox Name="AllReportsInOneCK" Tag="[Pane]$m_mainTableLayoutPanel|#1/[CheckBox]$m_allInOneChkBox" />
+	<PushButton Name="M_saveBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]$m_saveBtn" />
+	<PushButton Name="M_deleteBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]$m_deleteBtn" />
+	<ComboBox Name="TargetCB" Tag="[Pane]$m_mainTableLayoutPanel|#1/[ComboBox]Target|$m_targetCmbBox" />
+	<PushButton Name="M_editQryBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]$m_editQryBtn" />
+	<PushButton Name="M_editReportLayoutBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]$m_editReportLayoutBtn" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

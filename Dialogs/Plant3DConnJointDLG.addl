@@ -1,0 +1,26 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DConnJointDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="Plant3D" GUIType="UIA">
+  <TextField Name="RoundUpToNearestTF" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Wafer bolts|$groupBox7/[TextField]Round up to nearest:|$m_tbWaferBoltRounding" />
+  <TextField Name="DiameterTF" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Weld dots|$groupBox6/[TextField]Diameter:|$m_tbWeldDiameter" />
+  <TextField Name="GapSizeTF" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Weld gaps|$groupBox5/[TextField]Gap size:|$m_tbWeldgapSize" />
+  <CheckBox Name="M_cbUseWeldgaps" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Weld gaps|$groupBox5/[CheckBox]Use weld gaps|$m_cbUseWeldgaps" />
+  <TextField Name="TxtboxMinLength" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Pipe segments|$groupBox4/[TextField]Minimum length:|$txtboxMinLength" />
+  <PushButton Name="BtnDeleteCompound" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Compound joints|$groupBox3/[PushButton]Delete|$btnDeleteCompound" />
+  <PushButton Name="BtnModifyCompound" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Compound joints|$groupBox3/[PushButton]Modify*|$btnModifyCompound" />
+  <!--<PushButton Name="BtnAddCompound" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Compound joints|$groupBox3/[PushButton]Add*|$btnAddCompound" />-->
+  <PushButton Name="Add2PB" Tag="[Pane]$m_splitHorz|/[Pane]$332030|/[Pane]$m_splitVert|/[Pane]$330778|/[Pane]$m_jointsUserCtrl|/[GroupBox]Joint setup|$groupBox_JointSetup|/[GroupBox]Compound joints|$groupBox_CompoundJoints|/[PushButton]Add*|$btnAddCompound|" />
+  <Table Name="M_dataGridView1" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Compound joints|$groupBox3/[Table]DataGridView|$m_dataGridView2" />
+  <PushButton Name="M_btnDeleteSimple" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Simple joints|$groupBox2/[PushButton]Delete|$m_btnDeleteSimple" />
+  <Table Name="DataGridView2TBL" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Simple joints|$groupBox2/[Table]DataGridView|$m_dataGridView1" />
+  <!--<PushButton Name="M_btnModifySimple" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#2/[Pane]$m_jointsUserCtrl/[GroupBox]Joint setup|$groupBox1/[GroupBox]Simple joints|$groupBox2/[PushButton]Modify*|$m_btnModifySimple" />-->
+  <PushButton Name="Modify1PB" Tag="[Pane]$m_splitHorz|/[Pane]$262754|/[Pane]$m_splitVert|/[Pane]$132790|/[Pane]$m_jointsUserCtrl|/[GroupBox]Joint setup|$groupBox_JointSetup|/[GroupBox]Simple joints|$groupBox_SimpleJoints|/[PushButton]Modify*|$m_btnModifySimple|" />
+  <PushButton Name="Add1PB" Tag="[Pane]$m_splitHorz|/[Pane]$394682|/[Pane]$m_splitVert|/[Pane]$394668|/[Pane]$m_jointsUserCtrl|/[GroupBox]Joint setup|$groupBox_JointSetup|/[GroupBox]Simple joints|$groupBox_SimpleJoints|/[PushButton]Add*|$m_btnAddSimple" />
+  <PushButton Name="M_btnHelp" Tag="[Pane]$m_splitHorz/[Pane]$1247246/[PushButton]Help|$m_btnHelp" />
+  <PushButton Name="M_btnCancel" Tag="[Pane]$m_splitHorz/[Pane]$1247246/[PushButton]Cancel|$m_btnCancel" />
+  <PushButton Name="M_btnOk" Tag="[Pane]$m_splitHorz/[Pane]$1247246/[PushButton]OK|$m_btnOk" />
+  <PushButton Name="M_btnSave" Tag="[Pane]$m_splitHorz/[Pane]$1247246/[PushButton]Apply|$m_btnSave" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar/[PushButton]Close|$Close" />
+<TextField Name="M_tbWaferBoltRounding" Tag="[TextField]$m_tbWaferBoltRounding" />
+<TextField Name="M_tbWeldDiameter" Tag="[TextField]$m_tbWeldDiameter" />
+<TextField Name="M_tbWeldgapSize" Tag="[TextField]$m_tbWeldgapSize" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+</Pane>

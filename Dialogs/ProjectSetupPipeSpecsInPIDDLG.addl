@@ -1,0 +1,40 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupPipeSpecsInPIDDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#1" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#2" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#3" />
+  <TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Paths|#4" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#5" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#6" />
+  <TreeViewItem Name="SharedPlantContentTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Shared Plant Content|#7" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133758|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1" />
+  <GroupBox Name="PipeSpecsInPIDGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1" />
+  <StaticText Name="OrST" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[StaticText]or|$m_separateLineLabel|#3" />
+  <Pane Name="Or1PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[Pane]or[1]|$m_specDrivenPrjPictureBox|#2" />
+  <Pane Name="Or2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[Pane]or[2]|$m_standardPrjPictureBox|#1" />
+  <Link Name="LearnMoreLINK" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[Link]Learn More |$m_linkLabelLearnMore|#1" />
+  <StaticText Name="NotSureWhichToST" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[StaticText]Not sure which to choose?|$m_labelNotSure|#4" />
+  <StaticText Name="FindOutIfPIDST" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[StaticText]Find out if P*|$m_labelSpecDriven|#2" />
+  <StaticText Name="PIDPipeSpecValuesST" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[StaticText]P*|$m_labelStandard|#1" />
+  <RadioButton Name="RadioButton1RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[RadioButton]$m_radioBtnSpecDriven|#2" />
+  <RadioButton Name="RadioButton2RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$133764|#1/[Pane]$m_splitVert|#1/[Pane]$133752|#2/[Pane]$SpecDrivenPnIdProjectSettings|#1/[GroupBox]Pipe Specs in P*|$m_groupBoxPIDSpecs|#1/[RadioButton]$m_radioBtnStandard|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$133738|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$133738|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$133738|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$133738|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$133738|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

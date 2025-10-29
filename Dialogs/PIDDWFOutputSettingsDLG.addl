@@ -1,0 +1,15 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDDWFOutputSettingsDLG" Tag="[DialogBox]$DWFOutputSettingsDlg" ParentType="Plant3D">
+<PushButton Name="CancelBtn" Tag="[PushButton]$cancelBtn" />
+<PushButton Name="ClearAllBtn" Tag="[PushButton]$clearAllBtn" />
+<PushButton Name="HelpBtn" Tag="[PushButton]$helpBtn" />
+<TreeView Name="M_classTreeView" Tag="[TreeView]$m_classTreeView" />
+<Table Name="M_detailedPropsDataGridView" Tag="[Table]$m_detailedPropsDataGridView" />
+<GroupBox Name="ObjPropPage" Tag="[GroupBox]$objPropPage" />
+<CustomWin Name="ObjPropSettingsCtrl" Tag="[CustomWin]$objPropSettingsCtrl" />
+<PushButton Name="OkBtn" Tag="[PushButton]$okBtn" />
+<GroupBox Name="PropDetailsGroupBox" Tag="[GroupBox]$propDetailsGroupBox" />
+<PageList Name="PropTabControl" Tag="[PageList]$propTabControl" />
+<PushButton Name="RestoreToDefaultButton" Tag="[PushButton]$restoreToDefaultButton" />
+<PushButton Name="SelectAllBtn" Tag="[PushButton]$selectAllBtn" />
+<CheckBox Name="ShowItemsOnlyCheckBox" Tag="[CheckBox]$showItemsOnlyCheckBox" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

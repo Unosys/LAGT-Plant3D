@@ -1,0 +1,10 @@
+<MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DCatalogBuilderDLG" Tag="[MainWin]Welcome to Autodesk AutoCAD Plant 3D Catalog Builder|$Window_1" ParentType="Desktop" GUIType="UIA">
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close" />
+  <StaticText Name="CreateNew" Tag="[StaticText]$CreateNew" />
+  <StaticText Name="EditExisting" Tag="[StaticText]$EditExisting" />
+  <StaticText Name="CatalogsST" Tag="[StaticText]Catalogs|$TextBlock_2" />
+	<StaticText Name="BuildCatalogST" Tag="[StaticText]$BuildCatalog" />
+  <PushButton Name="Chevron" Tag="[PushButton]$Chevron" />
+<StaticText Name="HowToCreateA1ST" Tag="[StaticText]$Label_HowTo" />
+
+</MainWin>

@@ -1,0 +1,7 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AdvanceSteelXMLExportDLG" Tag="[DialogBox]Advance Steel XML Export|#1" ParentType="Plant3D" GUIType="WIN32">
+	<PushButton Name="ExportPB" Tag="[PushButton]$1|#4" />
+	<PushButton Name="CancelPB" Tag="[PushButton]$2|#5" />
+	<PushButton Name="SpecifyRotationAngle0PB" Tag="[PushButton]$2603|#1" />
+	  <TextField Name="OutputFileTF" Tag="[TextField]Output file:|$2601|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

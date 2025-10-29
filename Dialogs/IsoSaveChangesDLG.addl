@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsoSaveChangesDLG" Tag="[DialogBox]Save Changes*" ParentType="Plant3D">
+
+	<PushButton Name="SavePB" Tag="[Pane]$Window|#1/[PushButton]Save|$CommandLink_1002|#1" />
+	<PushButton Name="DiscardPB" Tag="[Pane]$Window|#1/[PushButton]Discard|$CommandLink_1001|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDPMUConnectionSucceededDLG" Tag="[DialogBox]Connection Succeeded" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="YourTestOfTheConnectionTo" Tag="[StaticText]Your test of the connection to the specified server has been successful. Please select the convert button to proceed.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

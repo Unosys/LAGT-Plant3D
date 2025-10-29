@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectPCFFileDLG" Tag="[DialogBox]Select PCF File" ParentType="IsometricDWGSettingsLivePreviewDLG">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<TextField Name="FileNameTextField" Tag="[TextField]$" />
+<PushButton Name="Help" Tag="[PushButton]$1038" />
+<PushButton Name="Open" Tag="[PushButton]$1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

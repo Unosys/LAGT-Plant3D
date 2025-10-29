@@ -1,0 +1,17 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardDLG" Tag="[Pane]Project Setup Wizard (Page 1 of 6)|$CreateProjectWizard" ParentType="Plant3D" GUIType="UIA">
+  <CheckBox Name="M_checkBoxVaultPrj" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[CheckBox]From vault server|$m_browseVaultPrjCB" />
+  <PushButton Name="PushButton1PB" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[PushButton]**[1]|$m_btnVaultDir" />
+  <TextField Name="VaultFolderPathTF" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[TextField]Vault folder path:|$m_vaultDirTB" />
+  <CheckBox Name="CreateThisProjectInCK" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[CheckBox]Create this project in vault:|$m_checkBoxVaultPrj" />
+  <PushButton Name="M_btnProjDir" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[PushButton]**[2]|$m_btnProjDir" />
+  <TextField Name="M_editProjDir" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[TextField]Specify the directory where program-generated files are stored:|$m_editProjDir" />
+  <TextField Name="M_editDesc" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[TextField]Enter an optional description:|$m_editDesc" />
+  <TextField Name="M_editName" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[TextField]Enter a name for this project:|$m_editName" />
+  <PushButton Name="M_btnTemplate" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[PushButton]**[3]|$m_btnTemplate" />
+  <TextField Name="M_editTemplateFile" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[TextField]Select project XML file:|$m_editTemplateFile" />
+  <CheckBox Name="M_checkBoxCopySettings" Tag="[Pane]$m_wizardSetup/[Pane]$pageWelcome/[CheckBox]Copy settings from existing project|$m_checkBoxCopySettings" />
+  <PushButton Name="M_buttonCancel" Tag="[Pane]$m_wizardSetup/[PushButton]Cancel|$m_buttonCancel" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup/[PushButton]Next &gt;&gt;|$m_buttonNext" />
+  <PushButton Name="M_buttonBack" Tag="[Pane]$m_wizardSetup/[PushButton]&lt;&lt; Back|$m_buttonBack" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 1 of 6)|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.UnableToOpenProjectDLG" Tag="[DialogBox]UnableToOpenProjectDLG" ParentType="Plant3D">
+<CustomWin Name="DirectUIHWND1" Tag="[CustomWin][DirectUIHWND]$0|[DirectUIHWND]#1" IsNestedClass="True">
+	<CustomWin Name="CtrlNotifySink1" Tag="[CustomWin][CtrlNotifySink]$0|[CtrlNotifySink]#1" IsNestedClass="True">
+		<PushButton Name="OK" Tag="[PushButton]$0|OK|#1" />
+	</CustomWin>
+</CustomWin>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

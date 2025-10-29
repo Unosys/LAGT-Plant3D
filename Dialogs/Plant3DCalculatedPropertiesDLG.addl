@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DCalculatedPropertiesDLG" Tag="[DialogBox]Plant 3D - Calculated Properties" ParentType="MainWin" GUIType="WIN32">
+
+
+
+	<Pane Name="Plant3DCalculatedPANE" GUIType="UIA" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1" />
+	<Pane Name="Pane1PANE" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1/[Pane]#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1/[Pane]#2" />
+	<Pane Name="Pane3PANE" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1/[Pane]#3" />
+	<Image Name="MainInstructionIconIMG" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+	<StaticText Name="CalculatedPropertiesAreNowST" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1/[StaticText]Calculated Properties are now available in Project Setup, and the PLANTDEFINECALCPROPERTIES command will be deprecated*|$MainInstruction|#1" />
+	<PushButton Name="OpenProjectSetuprecommendedPB" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1/[PushButton]Open Project Setup (recommended)|$CommandLink_1001|#1" />
+	<PushButton Name="UseTheOldPLANTDEFINECALCPROPERTIESPB" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1/[PushButton]Use the old PLANTDEFINECALCPROPERTIES dialog|$CommandLink_1002|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]Plant 3D - Calculated Properties|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

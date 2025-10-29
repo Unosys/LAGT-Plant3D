@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateIsogenMessageDLG" Tag="[Pane]Create Iso Message|$IsoMessageDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <PushButton Name="M_bt_help" Tag="[PushButton]Help|$m_bt_help|#3" />
+  <PushButton Name="M_bt_Cancel" Tag="[PushButton]Cancel|$m_bt_Cancel|#2" />
+  <PushButton Name="M_bt_OK" Tag="[PushButton]OK|$m_bt_OK|#1" />
+  <TextField Name="MessageTF" Tag="[TextField]Message:|$m_tb_MSG|#1" />
+  <StaticText Name="MessageST" Tag="[StaticText]Message:|$label2|#2" />
+  <CheckBox Name="M_cb_dimToMsg" Tag="[CheckBox]Draw dimension to message|$m_cb_dimToMsg|#1" />
+  <PopupList Name="EncloseMessageInPL" Tag="[PopupList]Enclose message in:|$m_cb_msg_Enc|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]Enclose message in:|$m_cb_msg_Enc|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="EncloseMessageInST" Tag="[StaticText]Enclose message in:|$label1|#1" />
+  <Pane Name="EncloseMessageInPANE" Tag="[Pane]Enclose message in:|$852616|#1" />
+  <TitleBar Name="CreateIsoMessageCTL" Tag="[TitleBar]Create Iso Message|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Iso Message|$TitleBar|#1/[CustomWin]System Menu Bar|$IsoMessageDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Iso Message|$TitleBar|#1/[CustomWin]System Menu Bar|$IsoMessageDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Iso Message|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

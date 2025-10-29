@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectVaultLocationDLG1" Tag="[Pane]Select Vault Location|$SelectEntityFromVaultDialog" ParentType="MainWin" >
+
+	<PushButton Name="CancelPB" Tag="[Pane]$tableLayoutPanel3|#2/[Pane]$tableLayoutPanelButtonBar|#2/[PushButton]Cancel|$cancel_button|#2" />
+	<PushButton Name="Open4PB" Tag="[Pane]$tableLayoutPanel3|#2/[Pane]$tableLayoutPanelButtonBar|#2/[PushButton]Open|$open_button|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+	<PushButton Name="NonReleasedBiasedPB" Tag="[Pane]$tableLayoutPanel3|#2/[Pane]$splitContainer1|#1/[Pane]#2/[Pane]$tableLayoutPanel6|#1/[Pane]$tableLayoutPanel4|#3/[Pane]Revision:|$tableLayoutPanel5|#2/[PushButton]Non-Released Biased|$releaseBiasedToggle_button|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,10 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VMSRV_CreatVaultDLG" Tag="[Pane]$CreateVaultForm" ParentType="VaultProServer">
+  <TextField Name="M_vaultNameTextBox" Tag="[TextField]$m_vaultNameTextBox" />
+  <PushButton Name="M_okButton" Tag="[PushButton]$m_okButton" />
+  <CheckBox Name="UseConfigurationCK" Tag="[GroupBox]$_groupBoxConfiguration/[Pane]$_tableLayoutPanelConfiguration/[CheckBox]$_checkBoxUseConfiguration" />
+  <PopupList Name="ConfigurationPL" Tag="[GroupBox]$_groupBoxConfiguration/[Pane]$_tableLayoutPanelConfiguration/[PopupList]$cbSelectConfig" />
+
+
+
+
+</Pane>

@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.FileRemoveDLG" Tag="[DialogBox]File remove"  ParentType="PROJECTMANAGERDLG">
+  <PushButton Name="OK" Tag="[PushButton]OK|$2|#1" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="RemovingAFileFromST" Tag="[StaticText]Removing a file from the project does not remove it from Vault*|$65535|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

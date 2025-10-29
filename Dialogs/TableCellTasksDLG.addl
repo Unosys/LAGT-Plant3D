@@ -1,0 +1,3 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.TableCellTasksDLG" Tag="[Pane]Table Cell|#1" ParentType="Pane">
+<CustomWin Name="OpenImage" Tag="[CustomWin]$DevExpress.XtraPrinting.Native.Lines.EditorPropertyLine+DropDownEdit" />
+</Pane>

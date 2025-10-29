@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDStandardsCentrifugalBlowerDLG" Tag="[DialogBox]$SelectStandardsDlg" >
+<PushButton Name="CancelButton" Tag="[PushButton]$cancelButton" />
+<CheckBox Name="CheckBoxDin" Tag="[CheckBox]$checkBoxDin" />
+<CheckBox Name="CheckBoxIsa" Tag="[CheckBox]$checkBoxIsa" />
+<CheckBox Name="CheckBoxIso" Tag="[CheckBox]$checkBoxIso" />
+<CheckBox Name="CheckBoxJis" Tag="[CheckBox]$checkBoxJis" />
+<CheckBox Name="CheckBoxPip" Tag="[CheckBox]$checkBoxPip" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<PushButton Name="OkButton" Tag="[PushButton]$okButton" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

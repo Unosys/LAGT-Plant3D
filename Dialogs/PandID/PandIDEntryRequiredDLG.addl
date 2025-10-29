@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDEntryRequiredDLG" Tag="[DialogBox]Entry required" ParentType="Pane">
+<PushButton Name="OK" Tag="[PushButton]$2" />
+<StaticText Name="PleaseEnterADWGTitleText" Tag="[StaticText]#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

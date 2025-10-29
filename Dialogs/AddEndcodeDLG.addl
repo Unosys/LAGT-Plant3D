@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddEndcodeDLG" Tag="[Pane]Add Endcode|$AddAndModifyEndcodeDlg" >
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btnCancel" />
+  <PushButton Name="BtnOK" Tag="[PushButton]OK|$btnOK" />
+  <TextField Name="TxtboxDesc" Tag="[TextField]Description:|$txtboxDesc|#2" />
+  <StaticText Name="LblDescription" Tag="[StaticText]Description:|$lblDescription|#2" />
+  <TextField Name="TxtboxEndcode" Tag="[TextField]Endcode name:|$txtboxEndcode|#1" />
+  <StaticText Name="LblEndcode" Tag="[StaticText]Endcode name:|$lblEndcode|#1" />
+  <TitleBar Name="AddEndcodeCTL" Tag="[TitleBar]Add Endcode|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Add Endcode|$TitleBar|#1/[CustomWin]System Menu Bar|$AddAndModifyEndcodeDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Add Endcode|$TitleBar|#1/[CustomWin]System Menu Bar|$AddAndModifyEndcodeDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Add Endcode|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

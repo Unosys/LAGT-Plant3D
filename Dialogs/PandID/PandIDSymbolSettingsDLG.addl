@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSymbolSettingsDLG" Tag="[DialogBox]Symbol Settings" ParentType="Pane">
+<CustomWin Name="ATL5C42D9901" Tag="[CustomWin][ATL:5C42D990]#1|[ATL:5C42D990]$6" />
+<ListBox Name="ListBox1" Tag="[ListBox]#1|$239" />
+<PushButton Name="OK" Tag="[PushButton]#1|$1" />
+<PushButton Name="Cancel" Tag="[PushButton]#2|$2" />
+<PushButton Name="Help" Tag="[PushButton]#3|$9" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

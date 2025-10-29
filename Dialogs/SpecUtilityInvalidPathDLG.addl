@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityInvalidPathDLG" Tag="[Window]Invalid Path|$Window_TaskDialog" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="ClosePB" Tag="[PushButton]$CloseButton" />
+<Image Name="ErrorImage" Tag="[Image]$ErrorImage" />
+<StaticText Name="HeaderTextBlock" Tag="[StaticText]$HeaderTextBlock" />
+<StaticText Name="MessageTexBlockt" Tag="[StaticText]$MessageTexBlockt" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

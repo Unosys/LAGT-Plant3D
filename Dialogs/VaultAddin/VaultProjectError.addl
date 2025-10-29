@@ -1,0 +1,5 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VaultProjectError" Tag="[DialogBox]Vault Project Error" ParentType="MainWin" GUIType="WIN32">
+	<PushButton Name="ClosePB" Tag="[Pane]$Window|#1/[PushButton]$CommandButton_8|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,26 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectTemplate" Tag="[DialogBox]Select template" ParentType="Plant3D">
+<ListView Name="ListView1" Tag="$1" />
+<Header Name="Header1" Tag="$0" />
+<PushButton Name="Name" Tag="Name" />
+<PushButton Name="DateModified" Tag="Date modified" />
+<PushButton Name="Type" Tag="Type" />
+<PushButton Name="Size" Tag="Size" />
+<ListBox Name="LookIn1" Tag="$13000" />
+<StaticText Name="LookInText" Tag="$13007" />
+<PopupList Name="LookIn2" Tag="$13001" />
+<StaticText Name="FileNameText" Tag="$13008" />
+<ComboBox Name="FileName" Tag="$13006" />
+<StaticText Name="FilesOfTypeText" Tag="$13009" />
+<PopupList Name="FilesOfType" Tag="$13002" />
+<PushButton Name="PreviousFolderAlt1" Tag="$13011" />
+<PushButton Name="UpOneLevelAlt2" Tag="$13003" />
+<PushButton Name="SearchTheWebAlt3" Tag="$13004" />
+<PushButton Name="DeleteDel" Tag="$13014" />
+<PushButton Name="CreateNewFolderAlt5" Tag="$13013" />
+<PushButton Name="Views" Tag="$13012" />
+<PushButton Name="Tools" Tag="$13005" />
+<PushButton Name="Open" Tag="$1" />
+<PushButton Name="Cancel" Tag="$2" />
+<StaticText Name="PreviewText" Tag="$13100" />
+<PushButton Name="Preview" Tag="$13101" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,8 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_DatabaseListFormDLG" Tag="[Pane]$SelectDatabaseDialog" ParentType="VC_LogInDLG">
+
+<PushButton Name="CancelPB" Tag="[PushButton]$cancelButton" />
+	<ListBox Name="SelectAVaultFromLB" Tag="[ListBox]$vaultListBox" />
+	<PushButton Name="OKPB" Tag="[PushButton]$okButton" />
+
+
+</Pane>

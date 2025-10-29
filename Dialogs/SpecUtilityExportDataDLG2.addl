@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityExportDataDLG2" Tag="[Window]Export Data|$ExcelExportWindow" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="OkPB" Tag="[PushButton]$OkButton" />
+<PushButton Name="CancelPB" Tag="[PushButton]$CancelButton" />
+<PushButton Name="HelpPB" Tag="[PushButton]$HelpButton" />
+<StaticText Name="Label2" Tag="[StaticText]$Label_2" />
+<PopupList Name="ComboBox1" Tag="[PopupList]$ComboBox_1" />
+<StaticText Name="Label3" Tag="[StaticText]$Label_3" />
+<TextField Name="FilePathTextBox" Tag="[TextField]$FilePathTextBox" />
+<PushButton Name="BrowsePB" Tag="[PushButton]$BrowseButton" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

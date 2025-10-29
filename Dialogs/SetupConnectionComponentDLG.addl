@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SetupConnectionComponentDLG" Tag="[Pane]$SetConnectionComponentDlg" >
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

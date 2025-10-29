@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DIsoStyleEditorDLG" Tag="[DialogBox]Plant 3D Iso Style Editor|#1" ParentType="Pane" GUIType="UIA">
+
+
+
+	<Pane Name="Plant3DIsoStylePANE" GUIType="UIA" Tag="[Pane]Plant 3D Iso Style Editor|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Plant 3D Iso Style Editor|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Plant 3D Iso Style Editor|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Plant 3D Iso Style Editor|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="YouHaveChangesThatST" Tag="[Pane]Plant 3D Iso Style Editor|$Window|#1/[StaticText]You have changes that must be saved before opening the Iso Style XML Editor*|$MainInstruction|#1" />
+  <StaticText Name="UnsavedIsoSettingChangesST" Tag="[Pane]Plant 3D Iso Style Editor|$Window|#1/[StaticText]Unsaved Iso setting changes made in Project Setup will be discarded if you make and save*|$ContentText|#2" />
+  <PushButton Name="SaveChangesInProjectPB" Tag="[Pane]Plant 3D Iso Style Editor|$Window|#1/[PushButton]Save Changes in Project Setup (Recommended)|$CommandLink_0|#1" />
+  <PushButton Name="DoNotOpenThePB" Tag="[Pane]Plant 3D Iso Style Editor|$Window|#1/[PushButton]Do Not Open the Iso Style XML Editor |$CommandLink_1|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

@@ -1,0 +1,15 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectFolderPropertiesDLG" Tag="[DialogBox]Project Folder Properties" ParentType="Plant3D">
+<PushButton Name="BtnTemplate" Tag="[PushButton]#2|$btnTemplate" />
+<PushButton Name="BtnLocation" Tag="[PushButton]#1|$btnLocation" />
+<TextField Name="DWGCreationTemplateForFold1" Tag="[TextField]#3|$txtTemplate" />
+<StaticText Name="DWGCreationTemplateForFold2" Tag="[StaticText]#3|$lblTemplate" />
+<TextField Name="StoreNewProjectDWGFilesIn1" Tag="[TextField]#2|$txtLocation" />
+<StaticText Name="StoreNewProjectDWGFilesIn2" Tag="[StaticText]#2|$lblLocation" />
+<CheckBox Name="PromptForTemplate" Tag="[CheckBox]#2|$chkPromptTemplate" />
+<CheckBox Name="CreateFoldersRelativeToPar" Tag="[CheckBox]#1|$chkRelative" />
+<TextField Name="FolderName" Tag="[TextField]#1|$txtFolderName" />
+<StaticText Name="FolderNameText" Tag="[StaticText]#1|$lblFolderName" />
+<PushButton Name="Help" Tag="[PushButton]#5|$btnHelp" />
+<PushButton Name="Cancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="OK" Tag="[PushButton]$btnOK" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

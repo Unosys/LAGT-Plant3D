@@ -1,0 +1,19 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateNotificationCatalogpartshavechangedDLG1" Tag="[Window]Spec Update Notification|$SpecUpdateNotificationWindow" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Spec Update Notification|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#1" />
+	<Image Name="Image1IMG" Tag="[Image]$ExclamationImage|#1" />
+	<StaticText Name="CatalogPartsHaveChangedST" Tag="[StaticText]Catalog parts have changed|$CatalogPartsChangedHeader|#1" />
+	<StaticText Name="OneOrMoreCatalogST" Tag="[StaticText]One or more catalog parts in your spec have changed in the catalog since this spec was created*|$CatalogPartsChangedContent|#2" />
+	<GroupBox Name="GroupBoxGB" Tag="[GroupBox]$SpecListViewExpander|#1" />
+	<PushButton Name="PushButtonPB" Tag="[GroupBox]$SpecListViewExpander|#1/[PushButton]$HeaderSite|#1" />
+	<StaticText Name="ShowDetailsST" Tag="[StaticText]Show Details|$ShowDetailsText|#3" />
+	<Image Name="Image2IMG" Tag="[Image]$BulletImage1|#2" />
+	<StaticText Name="UpdateSpecPartsToST" Tag="[StaticText]Update spec parts to match catalog parts|$UpdateSpecPartsOption|#4" />
+	<StaticText Name="ThePartsInYourST" Tag="[StaticText]The parts in your spec are updated to be consistent with the catalog parts*|$UpdateSpecPartsOptionContent|#5" />
+	<Image Name="Image3IMG" Tag="[Image]$BulletImage2|#3" />
+	<StaticText Name="DoNotUpdateSpecST" Tag="[StaticText]Do not update spec parts|$DoNotUpdateSpecPartsOption|#6" />
+	<StaticText Name="NoChangesWillBeST" Tag="[StaticText]No changes will be made to the spec parts*|$DoNotUpdateSpecPartsOptionContent|#7" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

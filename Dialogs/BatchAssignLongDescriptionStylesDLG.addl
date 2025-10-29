@@ -1,0 +1,11 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.BatchAssignLongDescriptionStylesDLG" Tag="[Window]Batch Assign Long Description Styles|$LongDescriptionBatchWindow" >
+ 
+	<PushButton Name="Cancel2PB" Tag="[PushButton]Cancel|$Cancel|#2" />
+	<PushButton Name="AddPB" Tag="[GroupBox]Select spec files|$SelectSpecFilesGroupBox|#2/[PushButton]Add|$AddButton|#1" />
+	<ComboBox Name="FileNameCB" Tag="[DialogBox]Open|#1/[ComboBox]FiLongDescriptionfamilyStylePLle name:|$1148|#1" />
+	<PushButton Name="OpenPB" Tag="[DialogBox]Open|#1/[PushButton]Open|$1|#1" />
+	<PopupList Name="LongDescriptionfamilyStylePL" Tag="[GroupBox]Select long description styles|$SelectLDStylesGroupBox|#1/[PopupList]Long description (family) style:|$LDFamilyComboBox|#1" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OK|#1" />
+	<PopupList Name="LongDescriptionsizeStylePL" Tag="[GroupBox]Select long description styles|$SelectLDStylesGroupBox|#1/[PopupList]Long description (size) style:|$LDSizeComboBox|#2" />
+
+</Window>

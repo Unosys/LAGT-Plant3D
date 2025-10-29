@@ -1,0 +1,3 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CatalogBuilderPartFamiliesExistTaskDLG" Tag="[MainWin]Catalog Builder - Part Families Exist|$Window_1" ParentType="Desktop" GUIType="UIA">
+  <PushButton Name="CancelPB" Tag="[PushButton]$Button_1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,7 @@
+<DialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BrowseForSharedContentFolderDLG" Tag="[DialogBox]Browse For Folder|Select Folder" ParentType="ModifySharedContentFolderDLG" GUIType="UIA">
+  <PushButton Name="OK" Tag="[PushButton]OK|$1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Browse For Folder|$TitleBar/[PushButton]Close|$Close" />
+	<TextField Name="FolderTF" Tag="[TextField]Folder:|$1152|#1" />
+	<PushButton Name="SelectFolderPB" Tag="[PushButton]Select Folder|$1|#1" />
+</DialogBox >

@@ -1,0 +1,25 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDEditAnnotationDLG" Tag="[Pane]$AnnotationDlg" ParentType="Plant3D">
+  <GroupBox Name="AutodeskProcessPowerPnIDGUIUtilGSPreviewCtrlA" Tag="[Group]$m_panelPreview" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+  <PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+  <PushButton Name="M_btnOK" Tag="[PushButton]$m_btnOK" />
+  <CheckBox Name="M_checkPreview" Tag="[CheckBox]$m_checkPreview" />
+  <GroupBox Name="M_EditPanel" Tag="[Group]$m_EditPanel" />
+  <StaticText Name="M_label" Tag="[StaticText]$m_EditPanel" />
+  <StaticText Name="M_label2" Tag="[StaticText]$m_EditPanel" />
+  <StaticText Name="M_label3" Tag="[StaticText]$m_EditPanel" />
+  <StaticText Name="M_labelStyleName" Tag="[StaticText]$m_labelStyleName" />
+  <GroupBox Name="M_panelPreview" Tag="[Group]$m_panelPreview" />
+  <GroupBox Name="M_tableLayoutPanel" Tag="[Group]$m_tableLayoutPanel" />
+  <TextField Name="M_textBox" Tag="[TextField]$m_EditPanel" />
+  <TextField Name="M_textBox2" Tag="[TextField]$m_EditPanel" />
+  <TextField Name="M_textBox3" Tag="[TextField]$m_EditPanel" />
+  <GroupBox Name="Panel1" Tag="[Group]$m_EditPanel" />
+  <GroupBox Name="Panel12" Tag="[Group]$m_EditPanel" />
+  <GroupBox Name="Panel13" Tag="[Group]$m_EditPanel" />
+  <GroupBox Name="Panel2" Tag="[Group]$panel2" />
+  <ComboBox Name="Size" Tag="[ComboBox]$m_EditPanel" />
+  <ComboBox Name="Size2" Tag="[ComboBox]$m_EditPanel" />
+  <TextField Name="SizeTextField" Tag="[TextField]$Size:" />
+  <TextField Name="SizeTextField4" Tag="[TextField]$Size:" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

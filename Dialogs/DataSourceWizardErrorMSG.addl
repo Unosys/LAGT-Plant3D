@@ -1,0 +1,5 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataSourceWizardErrorMSG" Tag="[DialogBox]Error" ParentType="Pane" GUIType="UIA">
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$135894|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Error|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

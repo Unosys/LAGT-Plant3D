@@ -1,0 +1,32 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardSpecifyPIDSettingsVaultDLG" Tag="[Pane]$CreateProjectWizard" ParentType="Plant3D">
+<!--<PushButton Name="M_btnPIDDwgDir" Tag="[PushButton]$m_btnPIDDwgDir" />
+<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonNext" Tag="[PushButton]$m_buttonNext" />
+<TextField Name="M_editPIDDwgDir" Tag="[TextField]$m_editPIDDwgDir" />
+<ListBox Name="M_listboxTemplate" Tag="[ListBox]$m_listboxTemplate" />
+<StaticText Name="M_NotesLbl" Tag="[StaticText]$m_NotesLbl" />
+<StaticText Name="M_PIDDwgsDirLbl" Tag="[StaticText]$m_PIDDwgsDirLbl" />
+<StaticText Name="M_PIDStandardsLbl" Tag="[StaticText]$m_PIDStandardsLbl" />
+ //<CustomWin Name ="M_wizardSetup" Tag="$m_wizardSetup" />
+<GroupBox Name="PagePIDSettings" Tag="[GroupBox]$pagePIDSettings" />-->
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_wizardSetup|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1" />
+  <StaticText Name="NoteAllSymbolsWillST" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1/[StaticText]Note: All symbols will be drawn in inches*|$m_NotesLbl|#3" />
+  <ListBox Name="SelectThePIDSymbologyLB" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1/[ListBox]Select the PID symbology standard to be used:|$m_listboxTemplate|#1" />
+  <ListBoxItem Name="PIPLBI" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1/[ListBox]Select the PID symbology standard to be used:|$m_listboxTemplate|#1/[ListBoxItem]PIP|#1" />
+  <ListBoxItem Name="ISALBI" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1/[ListBox]Select the PID symbology standard to be used:|$m_listboxTemplate|#1/[ListBoxItem]ISA|#2" />
+  <StaticText Name="SelectThePIDSymbologyST" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1/[StaticText]Select the P*|$m_PIDStandardsLbl|#2" />
+  <PushButton Name="PushButtonPB" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1/[PushButton]**|$m_btnPIDDwgDir|#1" />
+  <TextField Name="SpecifyTheDirectoryWhereTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1/[TextField]Specify the directory where PID drawings are stored:|$m_editPIDDwgDir|#1" />
+  <StaticText Name="SpecifyTheDirectoryWhereST" Tag="[Pane]$m_wizardSetup|#1/[Pane]$pagePIDSettings|#1/[StaticText]Specify the directory where P*|$m_PIDDwgsDirLbl|#1" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Next|$m_buttonNext|#2" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Cancel|$m_buttonCancel|#3" />
+  <PushButton Name="BackPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]&lt;&lt; Back|$m_buttonBack|#1" />
+  <TitleBar Name="ProjectSetupWizardPageCTL" Tag="[TitleBar]Project Setup Wizard (Page 3 of 6)|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup Wizard (Page 3 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup Wizard (Page 3 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 3 of 6)|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

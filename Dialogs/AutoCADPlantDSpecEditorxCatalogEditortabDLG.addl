@@ -1,0 +1,25 @@
+<SpecEditorDLG Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlantDSpecEditorxCatalogEditortabDLG" Tag="[MainWin]$SpecAndCatalogV2Window" ParentType="Desktop" >
+	<PushButton Name="SavePB" Tag="[ToolBar]$ToolBar|#1/[PushButton]$SaveButton|#3" />
+	<PushButton Name="FamilyPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogComponents|#2/[PushButton]$FamilyTab|#1" />
+	<PushButton Name="SizePB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogComponents|#2/[PushButton]$SizeTab|#2" />
+
+	<PushButton Name="PropertyEditorPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[PushButton]$PropertyEditorButton" />
+	<PushButton Name="SaveToCatalogPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[PushButton]$SaveToCatalogBtn" />
+	<PushButton Name="ManageSizePB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[PushButton]$ManageSizeBtn" />
+	<PushButton Name="RemoveFromCatalogPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[PushButton]$DelComponent|#5" />
+	<PushButton Name="CreateComponentPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[PushButton]$CreateComponentBtn|#1" />
+	<PushButton Name="DropdownPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[PushButton]$DropdownBtn" />
+	<PushButton Name="DuplicateComponentPB" Tag="[Windows]*/[PushButton]$DupComponent" />
+
+	<PushButton Name="PushButton31PB" Tag="[CustomWin]$UserControl_TabContainer|#2/[PushButton]$DropdownBtn|#3" />
+	<PushButton Name="PopUpButton" Tag="[CustomWin]$UserControl_CatalogEditor/[CustomWin]$UserControl_1/[PushButton]$PopUpButton|#2" />
+	<PushButton Name="ImportFromExcel" Tag="[ToolBar]$ToolBar|#1/[PushButton]$ImportFromExcel|#7" />
+	<Image Name="SizePreivewImage" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_PartSizeProps|#1/[Image]$SizePreivewImage|#1" />
+	<PushButton Name="AddPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[PushButton]$Button_3|#1" />
+	<PushButton Name="DuplicatePB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[PushButton]$Button_2|#2" />
+	<PushButton Name="RemovePB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[PushButton]$Button_1|#3" />
+	<!--<TextField Name="MatchingPipeODTF" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_PartSizeProps|#1/[ListView]$dataGrid|#2/[ListViewItem]#2/[CustomWin]#2/[TextField]$dataGrid_Required_double_TextBoxTemplate|#1" />-->
+	<TextField Name="MatchingPipeODTF" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_PartSizeProps|#1/[ListView]$dataGrid|#2/[ListViewItem]#3/[CustomWin]#2/[TextField]$dataGrid_Required_double_TextBoxTemplate|#1" />
+	<ScrollBar Name="ScrollBar1SB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[Pane]$PartFamilyPropsScrollViewer|#1/[ScrollBar]$VerticalScrollBar|#1" />
+
+</SpecEditorDLG>

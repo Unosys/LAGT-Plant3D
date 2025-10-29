@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.GetRevisionDLG" Tag="[DialogBox]$frmVaultGetRevision" ParentType="Plant3D">
+<GroupBox Name="M_BottomPanel" Tag="[GroupBox]$m_BottomPanel" />
+<PushButton Name="M_BtnCancel" Tag="[PushButton]$m_BtnCancel" />
+<PushButton Name="M_BtnComment" Tag="[PushButton]$m_BtnComment" />
+<PushButton Name="M_BtnDownload" Tag="[PushButton]$m_BtnDownload" />
+<PushButton Name="M_BtnDownloadAndCheckOut" Tag="[PushButton]$m_BtnDownloadAndCheckOut" />
+<ComboBox Name="M_ComboBoxSelectRevision" Tag="[ComboBox]$m_ComboBoxSelectRevision" />
+<StaticText Name="M_LblSelectRevision" Tag="[StaticText]$m_LblSelectRevision" />
+<GroupBox Name="M_TopPanel" Tag="[GroupBox]$m_TopPanel" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

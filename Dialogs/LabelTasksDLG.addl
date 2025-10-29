@@ -1,0 +1,5 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.LabelTasksDLG" Tag="[Pane]#1" ParentType="Pane">
+<CustomWin Name="FormatString" Tag="[CustomWin]$DevExpress.XtraPrinting.Native.Lines.EditorPropertyLine+DropDownEdit" />
+<CustomWin Name="DataBanding" Tag="[CustomWin]$DevExpress.XtraPrinting.Native.Lines.EditorPropertyLine+DropDownEdit" />
+<CustomWin Name="None" Tag="[CustomWin]$DevExpress.XtraPrinting.Native.Lines.EditorPropertyLine+DropDownEdit" />
+</Pane>

@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SetMatchingValuesDLG" Tag="[Pane]$SetJointPropertyRangeDlg" ParentType="ModifyJointDLG">
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOK" Tag="[PushButton]$btnOK" />
+<Table Name="DataGridView1" Tag="[Table]$dataGridView1" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="LblRanges" Tag="[StaticText]$lblRanges" />
+  <PushButton Name="MatchingValuesPB" Tag="[GroupBox]Connection settings|$grpboxConn|/[PushButton]Matching Values*|$btnSetRange1|" />
+  <Table Name="DataGridViewTBL" Tag="[GroupBox]Connection settings|$grpboxConn|/[Table]DataGridView|$dgProperty|" />
+
+
+</Pane>

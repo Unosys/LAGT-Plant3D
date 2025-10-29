@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.COGValidationDLG" Tag="[Pane]Center Of Gravity Validation|$CenterOfGravityValidationDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <Pane Name="PositionMayNotBePANE" Tag="[Pane]Position may not be accurate due to:|$pictureBox1|#1" />
+  <StaticText Name="PositionMayNotBeST" Tag="[StaticText]Position may not be accurate due to:|$m_titleLabel|#1" />
+  <StaticText Name="MissingWeightValuesST" Tag="[StaticText]Missing weight values :|$3015876|#2" />
+  <Link Name="Elbow14204LINK" Tag="[Link]Elbow 1(4204)|$2949636|#1" />
+  <StaticText Name="StaticTextST" Tag="[StaticText],|$1771108|#3" />
+  <Link Name="Pipe14212LINK" Tag="[Link]Pipe 1(4212)|$2294444|#2" />
+  <StaticText Name="MissingLinearWeightValuesST" Tag="[StaticText]Missing linear weight values :|$1248216|#4" />
+  <Link Name="Pipe24212LINK" Tag="[Link]Pipe 2(4212)|$1705882|#3" />
+  <TitleBar Name="CenterOfGravityValidationCTL" Tag="[TitleBar]Center Of Gravity Validation|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Center Of Gravity Validation|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

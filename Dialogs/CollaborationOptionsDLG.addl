@@ -1,0 +1,33 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CollaborationOptionsDLG" Tag="[Window]Collaboration Options|$Window_1"  ParentType="MainWin">
+  <TitleBar Name="CollaborationOptionsCTL" Tag="[TitleBar]Collaboration Options|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Collaboration Options|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Collaboration Options|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Collaboration Options|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <GroupBox Name="ProjectUpdatesFromTeamGB" Tag="[GroupBox]Project updates from team members|$GroupBox_1|#1" />
+  <StaticText Name="ProjectUpdatesFromTeamST" Tag="[GroupBox]Project updates from team members|$GroupBox_1|#1/[StaticText]Project updates from team members|#1" />
+  <StaticText Name="CheckForUpdates1ST" Tag="[GroupBox]Project updates from team members|$GroupBox_1|#1/[StaticText]Check for updates:|$Label_1|#2" />
+  <StaticText Name="CheckForUpdates2ST" Tag="[GroupBox]Project updates from team members|$GroupBox_1|#1/[StaticText]Check for updates:|$Label_1|#2/[StaticText]Check for updates:|#1" />
+  <PopupList Name="CheckForUpdatesPL" Tag="[GroupBox]Project updates from team members|$GroupBox_1|#1/[PopupList]Check for updates:|$CheckForUpdatesComboBox|#1" />
+  <CheckBox Name="AskMeBeforeApplyingCK" Tag="[GroupBox]Project updates from team members|$GroupBox_1|#1/[CheckBox]Ask me before applying updates|$AskBeforeUpdatingCheckBox|#1" />
+  <GroupBox Name="CheckInCheckOutGB" Tag="[GroupBox]Check in*|$GroupBox_2|#2" />
+  <StaticText Name="CheckInCheckOutST" Tag="[GroupBox]Check in*|$GroupBox_2|#2/[StaticText]Check in*|#1" />
+  <StaticText Name="CheckOutDrawings1ST" Tag="[GroupBox]Check in*|$GroupBox_2|#2/[StaticText]Check out drawings:|$Label_2|#2" />
+  <StaticText Name="CheckOutDrawings2ST" Tag="[GroupBox]Check in*|$GroupBox_2|#2/[StaticText]Check out drawings:|$Label_2|#2/[StaticText]Check out drawings:|#1" />
+  <PopupList Name="CheckOutDrawingsPL" Tag="[GroupBox]Check in*|$GroupBox_2|#2/[PopupList]Check out drawings:|$CheckOutOptionsComboBox|#1" />
+  <StaticText Name="CheckInDrawings1ST" Tag="[GroupBox]Check in*|$GroupBox_2|#2/[StaticText]Check in drawings:|$Label_3|#3" />
+  <StaticText Name="CheckInDrawings2ST" Tag="[GroupBox]Check in*|$GroupBox_2|#2/[StaticText]Check in drawings:|$Label_3|#3/[StaticText]Check in drawings:|#1" />
+  <PopupList Name="CheckInDrawingsPL" Tag="[GroupBox]Check in*|$GroupBox_2|#2/[PopupList]Check in drawings:|$CheckInOptionsComboBox|#2" />
+  <GroupBox Name="AdvancedGB" Tag="[GroupBox]Advanced|$GroupBox_3|#3" />
+  <StaticText Name="AdvancedST" Tag="[GroupBox]Advanced|$GroupBox_3|#3/[StaticText]Advanced|#1" />
+  <CheckBox Name="SpecifyWorkingFolderForCK" Tag="[GroupBox]Advanced|$GroupBox_3|#3/[CheckBox]Specify working folder for new collaboration projects|$SpecifyWorkingFolderCheckBox|#1" />
+  <PushButton Name="PushButtonPB" Tag="[GroupBox]Advanced|$GroupBox_3|#3/[PushButton]**|$BrowseButton|#1" />
+  <StaticText Name="StaticTextST" Tag="[GroupBox]Advanced|$GroupBox_3|#3/[PushButton]**|$BrowseButton|#1/[StaticText]**|#1" />
+  <TextField Name="AdvancedTF" Tag="[GroupBox]Advanced|$GroupBox_3|#3/[TextField]Advanced|$WorkingFolderTextBox|#1" />
+  <Pane Name="PanePANE" Tag="[GroupBox]Advanced|$GroupBox_3|#3/[TextField]Advanced|$WorkingFolderTextBox|#1/[Pane]$PART_ContentHost|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$HelpButton|#3" />
+  <StaticText Name="HelpST" Tag="[PushButton]Help|$HelpButton|#3/[StaticText]Help|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#2" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelButton|#2/[StaticText]Cancel|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$OKButton|#1" />
+  <StaticText Name="OKST" Tag="[PushButton]OK|$OKButton|#1/[StaticText]OK|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

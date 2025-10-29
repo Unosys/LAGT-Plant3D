@@ -1,0 +1,11 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ValidationErrorsDLG" Tag="[Pane]Validation Errors|$ValidationInfoForm|#2" ParentType="ReportConfigurationDLG" GUIType="UIA">
+  <Pane Name="M_mainTableLayoutPanel" Tag="[Pane]$m_mainTableLayoutPanel|#1" />
+  <ListBox Name="M_errorListBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[ListBox]The following fields are not valid:|$m_errorListBox|#1" />
+  <ListBoxItem Name="QueryEmptyLBI" Tag="[Pane]$m_mainTableLayoutPanel|#1/[ListBox]The following fields are not valid:|$m_errorListBox|#1/[ListBoxItem]Query: Empty |#1" />
+  <ListBoxItem Name="ReportLayoutEmptyLBI" Tag="[Pane]$m_mainTableLayoutPanel|#1/[ListBox]The following fields are not valid:|$m_errorListBox|#1/[ListBoxItem]Report layout: Empty |#2" />
+  <StaticText Name="M_descriptionLbl" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]The following fields are not valid:|$m_descriptionLbl|#1" />
+  <PushButton Name="M_oKBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[PushButton]OK|$m_oKBtn|#1" />
+  <Pane Name="M_iconPicBox" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]The following fields are not valid:|$m_iconPicBox|#1" />
+  <TitleBar Name="ValidationErrorsCTL" Tag="[TitleBar]Validation Errors|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Validation Errors|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

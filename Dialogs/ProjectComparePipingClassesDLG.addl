@@ -1,0 +1,137 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectComparePipingClassesDLG" Tag="[Window]Project Compare|$Window_1" ParentType="MainWin" GUIType="UIA">
+	<TitleBar Name="ProjectCompareCTL" Tag="[TitleBar]Project Compare|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Compare|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Project Compare|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="Close1PB" Tag="[TitleBar]Project Compare|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<StaticText Name="CurrentProjectST" Tag="[StaticText]Current Project:|$TextBlock_1|#1" />
+	<StaticText Name="DefaultProjectST" Tag="[StaticText]DefaultProject|$TargetProjectTextBlock|#2" />
+	<StaticText Name="ComparedToST" Tag="[StaticText]Compared to:|$TextBlock_6|#3" />
+	<PushButton Name="PushButton1PB" Tag="[PushButton]$SwapProjectsButton|#1" />
+	<StaticText Name="SampleProjectST" Tag="[StaticText]SampleProject|$SourceProjectTextBlock|#4" />
+	<StaticText Name="CompareSummaryST" Tag="[StaticText]Compare Summary|$TextBox_1|#5" />
+	<TreeView Name="TreeViewTV" Tag="[TreeView]$ProjectCategoriesTreeView|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory1TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#1" />
+	<StaticText Name="ProjectST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#1/[StaticText]Project|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory2TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#2" />
+	<PushButton Name="PushButton2PB" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#2/[PushButton]$Expander|#1" />
+	<StaticText Name="PIDST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#2/[StaticText]P*|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory3TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#2/[TreeViewItem]Autodesk*|#1" />
+	<StaticText Name="Blocks1ST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#2/[TreeViewItem]Autodesk*|#1/[StaticText]Blocks|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory4TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#2/[TreeViewItem]Autodesk*|#2" />
+	<StaticText Name="Classes1ST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#2/[TreeViewItem]Autodesk*|#2/[StaticText]Classes|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory5TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3" />
+	<PushButton Name="PushButton3PB" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3/[PushButton]$Expander|#1" />
+	<StaticText Name="Piping3DST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3/[StaticText]Piping(3D)|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory6TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#1" />
+	<StaticText Name="Classes2ST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#1/[StaticText]Classes|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory7TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#2" />
+	<StaticText Name="LayerColorSettingsST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#2/[StaticText]Layer *|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory8TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#3" />
+	<StaticText Name="SupportFiles1ST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#3/[StaticText]Support Files|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory9TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4" />
+	<PushButton Name="PushButton4PB" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4/[PushButton]$Expander|#1" />
+	<StaticText Name="IsometricsST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4/[StaticText]Isometrics|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory10TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#1" />
+	<StaticText Name="Blocks2ST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#1/[StaticText]Blocks|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory11TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#2" />
+	<StaticText Name="IsoStylesST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#2/[StaticText]Iso Styles|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory12TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#3" />
+	<StaticText Name="SupportFiles2ST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#3/[StaticText]Support Files|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory13TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#5" />
+	<PushButton Name="PushButton5PB" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#5/[PushButton]$Expander|#1" />
+	<StaticText Name="OrthosST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#5/[StaticText]Orthos|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory14TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#5/[TreeViewItem]Autodesk*|#1" />
+	<StaticText Name="OrthoCubeLibraryST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#5/[TreeViewItem]Autodesk*|#1/[StaticText]OrthoCube Library|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory15TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#6" />
+	<PushButton Name="PushButton6PB" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#6/[PushButton]$Expander|#1" />
+	<StaticText Name="PipeSpecsST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#6/[StaticText]Pipe Specs|#1" />
+	<TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory16TVI" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#6/[TreeViewItem]Autodesk*|#1" />
+	<StaticText Name="SpecSheetsST" Tag="[TreeView]$ProjectCategoriesTreeView|#1/[TreeViewItem]Autodesk*|#6/[TreeViewItem]Autodesk*|#1/[StaticText]Spec Sheets|#1" />
+	<Thumb Name="ThumbCTL" Tag="[Thumb]$GridSplitter_1|#1" />
+	<CustomWin Name="CustomWin1WIN" Tag="[CustomWin]$UserControl_1|#1" />
+	<StaticText Name="Piping3DClassesST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Piping(3D) Classes|$TextBlock_1|#1" />
+	<Pane Name="PanePANE" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1" />
+	<CustomWin Name="CustomWin2WIN" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1" />
+	<GroupBox Name="ModifiedGB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[GroupBox]Modified|#1" />
+	<CustomWin Name="CustomWin3WIN" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1" />
+	<StaticText Name="DiffersFromCurrentProjectST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[StaticText]Differs from Current Project|#1" />
+	<StaticText Name="ClassesExistInBothST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[StaticText]Classes exist in both projects, but have different properties*|#2" />
+	<GroupBox Name="GroupBox1GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#1" />
+	<PushButton Name="PushButton7PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#1/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="PipingAndEquipment1ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#1/[PushButton]$ExpanderButton|#1/[StaticText]Piping and Equipment|#2" />
+	<StaticText Name="StaticTextST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#1/[PushButton]$ExpanderButton|#1/[StaticText]#1" />
+	<PushButton Name="PushButton8PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#1/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton9PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#1/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox2GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#2" />
+	<PushButton Name="PushButton10PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#2/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="EquipmentST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#2/[PushButton]$ExpanderButton|#1/[StaticText]Equipment|#1" />
+	<StaticText Name="PipingAndEquipment2ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#2/[PushButton]$ExpanderButton|#1/[StaticText]Piping and Equipment|#2" />
+	<PushButton Name="PushButton11PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#2/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton12PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#2/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox3GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#3" />
+	<PushButton Name="PushButton13PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#3/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="PipeRunComponent1ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#3/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#1" />
+	<StaticText Name="PipingAndEquipment3ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#3/[PushButton]$ExpanderButton|#1/[StaticText]Piping and Equipment|#2" />
+	<PushButton Name="PushButton14PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#3/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton15PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#3/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox4GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#4" />
+	<PushButton Name="PushButton16PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#4/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="ElbowST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#4/[PushButton]$ExpanderButton|#1/[StaticText]Elbow|#1" />
+	<StaticText Name="PipeRunComponent2ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#4/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#2" />
+	<PushButton Name="PushButton17PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#4/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton18PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#4/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox5GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#5" />
+	<PushButton Name="PushButton19PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#5/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="FlangeST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#5/[PushButton]$ExpanderButton|#1/[StaticText]Flange|#1" />
+	<StaticText Name="PipeRunComponent3ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#5/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#2" />
+	<PushButton Name="PushButton20PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#5/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton21PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#5/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox6GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#6" />
+	<PushButton Name="PushButton22PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#6/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="InstrumentST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#6/[PushButton]$ExpanderButton|#1/[StaticText]Instrument|#1" />
+	<StaticText Name="PipeRunComponent4ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#6/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#2" />
+	<PushButton Name="PushButton23PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#6/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton24PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#6/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox7GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#7" />
+	<PushButton Name="PushButton25PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#7/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="NozzleST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#7/[PushButton]$ExpanderButton|#1/[StaticText]Nozzle|#1" />
+	<StaticText Name="PipeRunComponent5ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#7/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#2" />
+	<PushButton Name="PushButton26PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#7/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton27PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#7/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox8GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#8" />
+	<PushButton Name="PushButton28PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#8/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="PipeST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#8/[PushButton]$ExpanderButton|#1/[StaticText]Pipe|#1" />
+	<StaticText Name="PipeRunComponent6ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#8/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#2" />
+	<PushButton Name="PushButton29PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#8/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton30PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#8/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox9GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#9" />
+	<PushButton Name="PushButton31PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#9/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="ReducerST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#9/[PushButton]$ExpanderButton|#1/[StaticText]Reducer|#1" />
+	<StaticText Name="PipeRunComponent7ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#9/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#2" />
+	<PushButton Name="PushButton32PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#9/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton33PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#9/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox10GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#10" />
+	<PushButton Name="PushButton34PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#10/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="SupportST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#10/[PushButton]$ExpanderButton|#1/[StaticText]Support|#1" />
+	<StaticText Name="PipeRunComponent8ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#10/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#2" />
+	<PushButton Name="PushButton35PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#10/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton36PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#10/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox11GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#11" />
+	<PushButton Name="PushButton37PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#11/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="ValveST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#11/[PushButton]$ExpanderButton|#1/[StaticText]Valve|#1" />
+	<StaticText Name="PipeRunComponent9ST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#11/[PushButton]$ExpanderButton|#1/[StaticText]Pipe Run Component|#2" />
+	<PushButton Name="PushButton38PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#11/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton39PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#11/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<GroupBox Name="GroupBox12GB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#12" />
+	<PushButton Name="PushButton40PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#12/[PushButton]$ExpanderButton|#1" />
+	<StaticText Name="StructureMemberST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#12/[PushButton]$ExpanderButton|#1/[StaticText]Structure Member|#1" />
+	<StaticText Name="SteelStructureST" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#12/[PushButton]$ExpanderButton|#1/[StaticText]Steel Structure|#2" />
+	<PushButton Name="PushButton41PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#12/[PushButton]$ExpanderButton|#1/[PushButton]#1" />
+	<PushButton Name="PushButton42PB" Tag="[CustomWin]$UserControl_1|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]#1/[CustomWin]#1/[GroupBox]$Expander|#12/[PushButton]$ExpanderButton|#1/[PushButton]#2" />
+	<PushButton Name="Close2PB" Tag="[PushButton]Close|$CloseButton|#3" />
+	<StaticText Name="CloseST" Tag="[PushButton]Close|$CloseButton|#3/[StaticText]Close|#1" />
+	<PushButton Name="SyncReviewPB" Tag="[PushButton]Sync Review|$SyncButton|#2" />
+	<StaticText Name="SyncReviewST" Tag="[PushButton]Sync Review|$SyncButton|#2/[StaticText]Sync Review|$TextBlock_4|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

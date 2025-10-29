@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSettingsCheckOut" Tag="[MainWin]Project Settings Check Out" ParentType="Desktop">
+
+	<PushButton Name="CheckOutNowPB" Tag="[Pane]$Window|#1/[PushButton]Check out now|$CommandLink_1001|#1" />
+	<PushButton Name="OpenReadonlyPB" Tag="[Pane]$Window|#1/[PushButton]Open read-only|$CommandLink_1002|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

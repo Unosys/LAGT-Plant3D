@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.FilesAreCheckedOutDLG" Tag="[DialogBox]Files Are Checked Out|#1"  ParentType="PROJECTMANAGERDLG"  GUIType="WIN32">
+<!--<PushButton Name="OK" Tag="[PushButton]$2|#1" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]$20|[Icon]#1" />
+<StaticText Name="YouCannotDetachThisProject" Tag="[StaticText]$65535|#1" />-->
+<PushButton Name="OK" Tag="[PushButton]OK|$2|#1" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="YouCannotDetachThisST" Tag="[StaticText]You cannot detach this project from Vault while files are checked out*|$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

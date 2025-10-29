@@ -1,0 +1,26 @@
+<Autodesk.GUIHarness.MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlant3DCatalogBuilderApplicationDLG" Tag="[MainWin]Autodesk AutoCAD Plant 3D Catalog Builder (C:*|$Window" ParentType="Desktop" GUIType="UIA">
+	<PushButton Name="MaximizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Maximize|#2" />
+	<RadioButton Name="FittingsBtn" Tag="[RadioButton]Part Family Details:[2]|$FittingsBtn|#2" />
+	<RadioButton Name="FastenersBtn" Tag="[RadioButton]Part Family Details:[1]|$FastenersBtn|#1" />
+	<StaticText Name="BoltSet1ST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BoltSet|#2/[StaticText]BoltSet|#1" />
+	<PushButton Name="IdNewFamily" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#2/[CustomWin]$ID_PartFamilyPanel|#1/[ListBox]$mRibbonPanelView|#1/[ListViewItem]#2/[CustomWin]New|$ID_NewFamily_RibbonItemControl|#1/[PushButton]New|$ID_NewFamily|#1" />
+	<PushButton Name="IdExportToExcel" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#4/[CustomWin]Catalog|$ID_CatalogPanel|#1/[ListBox]Catalog|$mRibbonPanelView|#1/[ListViewItem]#2/[CustomWin]Export*|$ID_ExportToExcel_RibbonItemControl|#1/[PushButton]Export*|$ID_ExportToExcel|#1" />
+	<PushButton Name="IdNew" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[ListBox]Catalog Template|$mRibbonPanelView|#1/[ListViewItem]#2/[CustomWin]New|$ID_New_RibbonItemControl|#1/[PushButton]New|$ID_New|#1" />
+	<RadioButton Name="RadioButton3" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[RadioButton]Graphics[3]|$RadioButton_3|#3" />
+	<PushButton Name="SelectPreviewImageBtn" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[PushButton]**[2]|$SelectPreviewImageBtn|#2" />
+	<StaticText Name="CrossST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Cross|#2/[StaticText]Cross|#1" />
+	<RadioButton Name="RadioButton2" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[RadioButton]Graphics[2]|$RadioButton_2|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<RadioButton Name="RadioButton1" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[RadioButton]Graphics[1]|$RadioButton_1|#1" />
+	<PushButton Name="SelectDwgBtn" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[PushButton]**|$SelectDwgBtn|#1" />
+	<PushButton Name="SelectPytonBtn" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[PushButton]**[1]|$SelectPytonBtn|#1" />
+	<PushButton Name="IdSaveAs" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[ListBox]Catalog Template|$mRibbonPanelView|#1/[ListViewItem]#8/[CustomWin]Save As|$ID_SaveAs_RibbonItemControl|#1/[PushButton]Save As|$ID_SaveAs|#1" />
+	<PushButton Name="DeletePB" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#2/[CustomWin]$ID_PartFamilyPanel|#1/[ListBox]$mRibbonPanelView|#1/[ListViewItem]#6/[CustomWin]Delete|$ID_DeleteFamily_RibbonItemControl|#1/[PushButton]Delete|$ID_DeleteFamily|#1" />
+	<PushButton Name="IdSettings" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer/[ListBox]$mMainTabPanels|#1/[ListViewItem]#5/[CustomWin]Advanced|$ID_AdvancedPanel|#1/[ListBox]Advanced|$mRibbonPanelView|#1/[ListViewItem]#2/[CustomWin]Settings|$ID_Settings_RibbonItemControl|#1/[PushButton]$ID_Settings" />
+	<PushButton Name="IdDeleteFamily" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#2/[CustomWin]$ID_PartFamilyPanel|#1/[ListBox]$mRibbonPanelView|#1/[ListViewItem]#6/[CustomWin]Delete|$ID_DeleteFamily_RibbonItemControl|#1/[PushButton]Delete|$ID_DeleteFamily|#1" />
+	<StaticText Name="StaticText1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[PushButton]**[1]|$SelectPytonBtn|#1/[StaticText]**|#1" />
+	<PushButton Name="IdBuildCatalog" Tag="[ListBox]#2/[ListViewItem]#1/[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[ListBox]$mMainTabPanels|#1/[ListViewItem]#4/[CustomWin]Catalog|$ID_CatalogPanel|#1/[ListBox]Catalog|$mRibbonPanelView|#1/[ListViewItem]#4/[CustomWin]Build*|$ID_BuildCatalog_RibbonItemControl|#1/[PushButton]Build*|$ID_BuildCatalog|#1" />
+
+
+	
+</Autodesk.GUIHarness.MainWin>

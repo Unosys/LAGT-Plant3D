@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSynchronizedToVault2DLG" Tag="[DialogBox]ProjectSynchronizedToVault2DLG" ParentType="PROJECTMANAGERDLG">
+<CustomWin Name="DirectUIHWND1" Tag="[CustomWin][DirectUIHWND]$0|[DirectUIHWND]#1" IsNestedClass="True">
+	<CustomWin Name="CtrlNotifySink1" Tag="[CustomWin][CtrlNotifySink]$0[1]|[CtrlNotifySink]#1" IsNestedClass="True">
+		<CustomWin Name="ReferToTheLogfileAtAHre" Tag="[CustomWin][SysLink]$0|[SysLink]Refer to the logfile at &lt;a href=?C:\CAONIMA.txt?&gt;here&lt;?a&gt;.????To ensure you have the latest files from the project, Refresh fr*|[SysLink]#1" />
+	</CustomWin>
+	<CustomWin Name="CtrlNotifySink2" Tag="[CustomWin][CtrlNotifySink]$0[2]|[CtrlNotifySink]#2" IsNestedClass="True">
+		<PushButton Name="OK" Tag="[PushButton]$0|OK|#1" />
+	</CustomWin>
+</CustomWin>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

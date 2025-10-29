@@ -1,0 +1,57 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SignInDLG" Tag="[Window]Sign in|#1" ParentType="MainWin" GUIType="UIA">
+
+
+  <TitleBar Name="SignInCTL" Tag="[TitleBar]Sign in|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Sign in|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Sign in|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Sign in|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <GroupBox Name="GroupBoxGB" Tag="[GroupBox]#1" />
+  <CustomWin Name="SignIn1WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin3WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#3" />
+  <CustomWin Name="CustomWin4WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#3/[CustomWin]#1" />
+  <StaticText Name="STAGINGST" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#3/[CustomWin]#1/[StaticText]STAGING|#1" />
+  <CustomWin Name="CustomWin5WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin6WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin7WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2" />
+  <CustomWin Name="CustomWin8WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#2" />
+  <CustomWin Name="CustomWin9WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1" />
+  <CustomWin Name="CustomWin10WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#5" />
+  <CustomWin Name="CustomWin11WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin12WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin13WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin14WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#3" />
+  <CustomWin Name="SignIn2WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#3/[CustomWin]Sign in|#1" />
+  <StaticText Name="SignInST" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#3/[CustomWin]Sign in|#1/[StaticText]Sign in|#1" />
+  <CustomWin Name="CustomWin15WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2" />
+  <CustomWin Name="CustomWin16WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#2" />
+  <CustomWin Name="CustomWin17WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#2/[CustomWin]#1" />
+  <CustomWin Name="CustomWin18WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1" />
+  <CustomWin Name="CustomWin19WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1" />
+  <CustomWin Name="CustomWin20WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#4" />
+  <CustomWin Name="CustomWin21WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#6" />
+  <CustomWin Name="CustomWin22WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#7" />
+  <CustomWin Name="CustomWin23WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#2" />
+  <CustomWin Name="CustomWin24WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1" />
+  <StaticText Name="StaticTextST" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[StaticText]#1" />
+  <StaticText Name="EmailST" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[StaticText]#1/[StaticText]Email|#1" />
+  <TextField Name="TextFieldTF" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[TextField]#1" />
+  <CustomWin Name="CustomWin25WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#8" />
+  <CustomWin Name="CustomWin26WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#9" />
+  <CustomWin Name="CustomWin27WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#3" />
+  <PushButton Name="NextButtonPB" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#3/[PushButton]Next button|#1" />
+  <CustomWin Name="CustomWin28WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#10" />
+  <CustomWin Name="CustomWin29WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#11" />
+  <CustomWin Name="CustomWin30WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#4" />
+  <CustomWin Name="CustomWin31WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#4/[CustomWin]#2" />
+  <CustomWin Name="CustomWin32WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#4/[CustomWin]#1" />
+  <StaticText Name="NEWTOAUTODESKST" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#4/[CustomWin]#1/[StaticText]NEW TO AUTODESK? |#1" />
+  <Link Name="CREATEACCOUNTLINK" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#4/[CustomWin]#1/[Link]CREATE ACCOUNT|#1" />
+  <StaticText Name="CREATEACCOUNTST" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#4/[CustomWin]#1/[Link]CREATE ACCOUNT|#1/[StaticText]CREATE ACCOUNT|#1" />
+  <CustomWin Name="CustomWin33WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#4/[CustomWin]#3" />
+  <CustomWin Name="CustomWin34WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#1/[CustomWin]#12" />
+  <CustomWin Name="CustomWin35WIN" Tag="[GroupBox]#1/[CustomWin]Sign in|#1/[CustomWin]#1/[CustomWin]#1/[CustomWin]#2/[CustomWin]#3" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

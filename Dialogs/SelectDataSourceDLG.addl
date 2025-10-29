@@ -1,0 +1,42 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectDataSourceDLG" Tag="[Pane]$SelectDataSource" ParentType="AddPropertyDLG">
+<!--<PushButton Name="M_cancelBtn" Tag="[PushButton]$m_cancelBtn" />
+<PushButton Name="M_helpBtn" Tag="[PushButton]$m_helpBtn" />
+<StaticText Name="M_objectCategoryLabel" Tag="[StaticText]$m_objectCategoryLabel" />
+<TreeView Name="M_objectDefinitionTreeView" Tag="[TreeView]$m_objectDefinitionTreeView" />
+<StaticText Name="M_objectPropertyLabel" Tag="[StaticText]$m_objectPropertyLabel" />
+<ListBox Name="M_objectPropertyListBox" Tag="[ListBox]$m_objectPropertyListBox" />
+<GroupBox Name="M_objectTabPage" Tag="[GroupBox]$m_objectTabPage" />
+<PushButton Name="M_OKBtn" Tag="[PushButton]$m_OKBtn" />
+<PageList Name="M_propertyTabs" Tag="[PageList]$m_propertyTabs" />
+<CustomWin Name="SplitContainer1" Tag="[CustomWin]$splitContainer1" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$splitContainer1" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$splitContainer1" />-->
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_helpBtn|#3" />
+  <PushButton Name="M_cancelBtn" Tag="[PushButton]Cancel|$m_cancelBtn|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_OKBtn|#1" />
+  <PageList Name="PageListPG" Tag="[PageList]$m_propertyTabs|#1" />
+  <Window Name="ClassPropertiesWIN" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1" />
+  <Pane Name="ClassPropertiesPANE" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1" />
+  <Pane Name="Pane1PANE" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1" />
+  <Pane Name="Pane2PANE" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$13373774|#1" />
+  <TreeView Name="CategoriesTV" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$13373774|#1/[TreeView]Categories:|$m_objectDefinitionTreeView|#1" />
+  <ScrollBar Name="Categories1SB" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$13373774|#1/[TreeView]Categories:|$m_objectDefinitionTreeView|#1/[ScrollBar]Categories:[1]|$Horizontal ScrollBar|#2" />
+  <ScrollBar Name="Categories2SB" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$13373774|#1/[TreeView]Categories:|$m_objectDefinitionTreeView|#1/[ScrollBar]Categories:[2]|$Vertical ScrollBar|#1" />
+  <StaticText Name="CategoriesST" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$13373774|#1/[StaticText]Categories:|$m_objectCategoryLabel|#1" />
+  <Pane Name="Pane3PANE" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2" />
+  <ListBox Name="PropertiesLB" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1" />
+  <ListBoxItem Name="ClassNameLBI" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Class Name|#1" />
+  <ListBoxItem Name="DescriptionLBI" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Description|#2" />
+  <ListBoxItem Name="ManufacturerLBI" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Manufacturer|#3" />
+  <ListBoxItem Name="ModelNumberLBI" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Model Number|#4" />
+  <ListBoxItem Name="SupplierLBI" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Supplier|#5" />
+  <ListBoxItem Name="CommentLBI" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2/[ListBox]Properties:|$m_objectPropertyListBox|#1/[ListBoxItem]Comment|#6" />
+  <StaticText Name="PropertiesST" Tag="[PageList]$m_propertyTabs|#1/[Window]Class Properties|#1/[Pane]Class Properties|$m_objectTabPage|#1/[Pane]$splitContainer1|#1/[Pane]$11079236|#2/[StaticText]Properties:|$m_objectPropertyLabel|#1" />
+  <Window Name="ProjectPropertiesWIN" Tag="[PageList]$m_propertyTabs|#1/[Window]Project Properties|#2" />
+  <Window Name="DrawingPropertiesWIN" Tag="[PageList]$m_propertyTabs|#1/[Window]Drawing Properties|#3" />
+  <TitleBar Name="SelectDataSourceCTL" Tag="[TitleBar]Select Data Source|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Select Data Source|$TitleBar|#1/[CustomWin]System Menu Bar|$SelectDataSource|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Select Data Source|$TitleBar|#1/[CustomWin]System Menu Bar|$SelectDataSource|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Data Source|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

@@ -1,0 +1,34 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDMapExternalPropertiesDLG" Tag="[Window]Map External Properties|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+
+	<TitleBar Name="MapExternalPropertiesCTL" Tag="[TitleBar]Map External Properties|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Map External Properties|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Map External Properties|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Map External Properties|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Map External Properties|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Map External Properties|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<StaticText Name="ExternalDataReferenceST" Tag="[StaticText]External Data Reference|$DataReferenceTextBlock|#1" />
+	<ListView Name="ExternalDataReferenceLV" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1" />
+	<ListViewItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItem1LVI" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#1" />
+	<CustomWin Name="ItemAutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItemColumnDisplay1WIN" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#1/[CustomWin]Item: Autodesk*|#1" />
+	<StaticText Name="Plant3DClassST" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#1/[CustomWin]Item: Autodesk*|#1/[StaticText]Plant 3D Class|$dataGrid_nameCellTextBlock|#1" />
+	<CustomWin Name="ItemAutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItemColumnDisplay2WIN" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#1/[CustomWin]Item: Autodesk*|#2" />
+	<TextField Name="TextField1TF" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#1/[CustomWin]Item: Autodesk*|#2/[TextField]$dataGrid_valueCell2TextBox|#1" />
+	<Pane Name="Pane1PANE" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#1/[CustomWin]Item: Autodesk*|#2/[TextField]$dataGrid_valueCell2TextBox|#1/[Pane]$PART_ContentHost|#1" />
+	<ListViewItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItem2LVI" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#2" />
+	<CustomWin Name="ItemAutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItemColumnDisplay3WIN" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#2/[CustomWin]Item: Autodesk*|#1" />
+	<StaticText Name="ReferenceDataSourceST" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#2/[CustomWin]Item: Autodesk*|#1/[StaticText]Reference Data Source|$dataGrid_nameCellTextBlock|#1" />
+	<CustomWin Name="ItemAutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItemColumnDisplay4WIN" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#2/[CustomWin]Item: Autodesk*|#2" />
+	<PushButton Name="AddDataSourcePB" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#2/[CustomWin]Item: Autodesk*|#2/[PushButton]Add Data Source*|$AddDataSourceBtn|#1" />
+	<StaticText Name="AddDataSourceST" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#2/[CustomWin]Item: Autodesk*|#2/[PushButton]Add Data Source*|$AddDataSourceBtn|#1/[StaticText]Add Data Source*|#1" />
+	<ListViewItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItem3LVI" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#3" />
+	<CustomWin Name="ItemAutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItemColumnDisplay5WIN" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#3/[CustomWin]Item: Autodesk*|#1" />
+	<StaticText Name="ReferencedTableST" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#3/[CustomWin]Item: Autodesk*|#1/[StaticText]Referenced Table|$dataGrid_nameCellTextBlock|#1" />
+	<CustomWin Name="ItemAutodeskProcessPowerProjectManagerUIProjectSetupExternalDatabaseDataGridRowSourceItemColumnDisplay6WIN" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#3/[CustomWin]Item: Autodesk*|#2" />
+	<TextField Name="TextField2TF" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#3/[CustomWin]Item: Autodesk*|#2/[TextField]$dataGrid_valueCell2TextBox|#1" />
+	<Pane Name="Pane2PANE" Tag="[ListView]External Data Reference|$DataReferenceDataGrid|#1/[ListViewItem]Autodesk*|#3/[CustomWin]Item: Autodesk*|#2/[TextField]$dataGrid_valueCell2TextBox|#1/[Pane]$PART_ContentHost|#1" />
+	<PushButton Name="MapPropertiesPB" Tag="[PushButton]Map Properties|$MapPropertiesBtn|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

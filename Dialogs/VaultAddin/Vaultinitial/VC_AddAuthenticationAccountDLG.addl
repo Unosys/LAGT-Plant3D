@@ -1,0 +1,21 @@
+﻿<Autodesk.GUIHarness.Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_AddAuthenticationAccountDLG" Tag="[Pane]$UserAccountsDialog" ParentType="VC_NewUserDLG">
+
+  <ListBox Name="ListBoxLB" Tag="[Pane]$m_authTableLayoutPanel/[ListBox]$m_accountsCheckedListBox" />
+  <CheckBox Name="WindowsAuthenticationCK" Tag="[Pane]$m_authTableLayoutPanel/[ListBox]$m_accountsCheckedListBox/[CheckBox]Windows Authentication" />
+  <CheckBox Name="VaultAccountCK" Tag="[Pane]$m_authTableLayoutPanel/[ListBox]$m_accountsCheckedListBox/[CheckBox]Vault Account" />
+  <CheckBox Name="AutodeskIDCK" Tag="[Pane]$m_authTableLayoutPanel/[ListBox]$m_accountsCheckedListBox/[CheckBox]Autodesk ID" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_authTableLayoutPanel/[Pane]$m_buttonsPanel/[PushButton]$m_cancelButton" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_authTableLayoutPanel/[Pane]$m_buttonsPanel/[PushButton]$m_okButton" />
+
+
+  <!--Windows Authentication-->
+  <PushButton Name="SelectDomainUserPB" Tag="[Pane]$m_authTableLayoutPanel/[Pane]$m_settingsPanel/[Pane]$WinAccountSettingsControl/[Pane]$panel1/[PushButton]$m_browseDomainUsrButton" />
+  <!--Vault Account-->
+  <TextField Name="ConfirmPasswordTF" Tag="[Pane]$m_authTableLayoutPanel/[Pane]$m_settingsPanel/[Pane]$VaultAccountSettingsControl/[Pane]$panel1/[TextField]$m_confirmPasswordTextEdit" />
+  <TextField Name="PasswordTF" Tag="[Pane]$m_authTableLayoutPanel/[Pane]$m_settingsPanel/[Pane]$VaultAccountSettingsControl/[Pane]$panel1/[TextField]$m_passwordTextEdit" />
+  <TextField Name="UserNameTF" Tag="[Pane]$m_authTableLayoutPanel/[Pane]$m_settingsPanel/[Pane]$VaultAccountSettingsControl/[Pane]$panel1/[TextField]$m_loginNameTextEdit" />
+  <!--Autodesk ID-->
+  <TextField Name="AutodeskIDCredentialsTF" Tag="[Pane]$m_authTableLayoutPanel/[Pane]$m_settingsPanel/[Pane]$ADSKIdAccountSettingsControl/[Pane]$panel1/[TextField]$m_emailTextEdit" />
+
+
+</Autodesk.GUIHarness.Pane>

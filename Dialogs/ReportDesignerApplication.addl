@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportDesignerApplication" Tag="[Pane]$XRDesignFormExBase">
+	  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

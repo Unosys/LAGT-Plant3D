@@ -1,0 +1,13 @@
+<DataLinkPropertiesDLG Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataLinkPropertiesDLG_PandID" Tag="[DialogBox]Data Link Properties|#1" ParentType="Window" GUIType="UIA">
+
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$1|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+	<!--<PageList Name="PageListPG" Tag="[PageList]$12320|#1" />-->
+	<ListView Name="SelectTheDataYouLV" Tag="[PageList]$12320|#1/[Window]#1/[DialogBox]#1/[ListView]$1000|#1" />
+	<Window Name="ProviderWIN" Tag="[PageList]$12320|#1/[Window]Provider|#1" />
+	
+	<ComboBox Name="oneSelectOrEnterCB" Tag="[PageList]$12320|#1/[Window]Connection|#2/[DialogBox]Connection|#1/[ComboBox]$1023|#1" />
+	<PushButton Name="NextPB" Tag="[PageList]$12320|#1/[Window]#1/[DialogBox]#1/[PushButton]$233|#1" />
+
+</DataLinkPropertiesDLG>

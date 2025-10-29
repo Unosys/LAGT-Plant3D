@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SymbolSettingErrorBlockDLG" Tag="[DialogBox]Error" ParentType="SymbolSettingsDLG">
+<PushButton Name="OK" Tag="[PushButton]#1|$2" />
+<StaticText Name="PleaseSpecifyTheBlockText" Tag="[StaticText]#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

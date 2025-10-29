@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDNoAvailableProjectPartsErrorDLG" Tag="[DialogBox]Error" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="NoAvailableProjectPartsTex" Tag="[StaticText]No available Project Parts.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

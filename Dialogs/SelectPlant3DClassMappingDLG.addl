@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectPlant3DClassMappingDLG" Tag="[Pane]$Select3DClassMappingDlg" >
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Btn_Cancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$Btn_Ok|#1" />
+
+	<TreeView Name="Plant3DClassTV" Tag="[TreeView]$m_treeClasses|#1" />
+
+	<TreeViewItem Name="PipingAndEquipmentTVI" Tag="[TreeView]$m_treeClasses|#1/[TreeViewItem]#2" />
+	<TreeViewItem Name="EquipmentTVI" Tag="[TreeView]$m_treeClasses|#1/[TreeViewItem]#2/[TreeViewItem]#1" />
+	<TreeViewItem Name="P3dLineGroupTVI" Tag="[TreeView]$m_treeClasses|#1/[TreeViewItem]P3d Line Group|#1" />
+
+	<CheckBox Name="MapToAllSubtypesCK" Tag="[Pane]$panel1|#1/[CheckBox]$m_chkBoxMapAll|#1" />
+
+
+</Pane>

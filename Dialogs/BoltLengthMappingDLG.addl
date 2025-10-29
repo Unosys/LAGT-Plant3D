@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BoltLengthMappingDLG" Tag="[Window]Bolt Length Mapping|$StandardBoltLengthEditMappingDialog" ParentType="MainWin" GUIType="UIA">
+
+
+
+  <PushButton Name="AddBoltStandardPB" Tag="[PushButton]$btAddBoltStandard" />
+  <StaticText Name="AddBoltStandardST" Tag="[PushButton]$btAddBoltStandard|#1/[StaticText]_Add Bolt Standard*|#1" />
+  <PushButton Name="RemoveBoltStandardPB" Tag="[PushButton]$btRemBoltStandard" />
+  
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

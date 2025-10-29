@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecifyPropertyDLG" Tag="[Window]Specify Property|$Window_SingleLineProperties" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OKButton|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

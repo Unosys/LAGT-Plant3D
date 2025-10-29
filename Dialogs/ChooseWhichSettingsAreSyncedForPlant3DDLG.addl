@@ -1,0 +1,14 @@
+﻿<DialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChooseWhichSettingsAreSyncedForPlant3DDLG" Tag="[DialogBox]Choose Which Settings are Synced" ParentType="MainWin" GUIType="WIN32">
+  <StaticText Name="IncludeTheFollowingSettingsST" Tag="[StaticText]Include the following settings:|$39990|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$1|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$57670|#3" />
+  <CheckBox Name="OptionsCK" Tag="[CheckBox]Options|$38762|#1" />
+  <CheckBox Name="CustomizationFilesCK" Tag="[CheckBox]Customization files|$38763|#2" />
+  <CheckBox Name="PrinterSupportFilesCK" Tag="[CheckBox]Printer support files|$38764|#3" />
+  <CheckBox Name="CustomHatchPatternsCK" Tag="[CheckBox]Custom hatch patterns|$38765|#4" />
+  <CheckBox Name="ToolPalettesCK" Tag="[CheckBox]Tool palettes|$38766|#5" />
+  <CheckBox Name="DrawingTemplateFilesCK" Tag="[CheckBox]Drawing template files|$38767|#6" />
+  <StaticText Name="SettingsThatRequireAST" Tag="[StaticText]Settings that require a restart of the application:|$14539|#2" />
+  <CheckBox Name="CustomFontsShapesAndCK" Tag="[CheckBox]Custom fonts, shapes and linetypes|$38768|#7" />
+</DialogBox>

@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDAddSelectionListDLG" Tag="[Window]$AddListCategoryDlg" >
+
+	<TextField Name="NewSelectionListNameTF" Tag="[TextField]New selection list name:|$NameTextBox|#1" />
+	<CheckBox Name="CreateSharedSelectionListCK" Tag="[CheckBox]Create shared selection list|$ShareCheckBox|#1" />
+	<PushButton Name="OKPB" Tag="[PushButton]$OKBtn" />
+	<PushButton Name="CancelPB" Tag="[PushButton]$CancelBtn" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

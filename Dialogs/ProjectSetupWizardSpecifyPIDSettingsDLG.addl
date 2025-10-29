@@ -1,0 +1,11 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardSpecifyPIDSettingsDLG" Tag="[Pane]Project Setup Wizard (Page 3 of 6)|$CreateProjectWizard" ParentType="Plant3D" GUIType="UIA">
+  <ListBox Name="M_listboxTemplate" Tag="[Pane]$m_wizardSetup/[Pane]$pagePIDSettings/[ListBox]Select the PID symbology standard to be used:|$m_listboxTemplate" />
+  <ListBoxItem Name="PIPLBI" Tag="[Pane]$m_wizardSetup/[Pane]$pagePIDSettings/[ListBox]Select the PID symbology standard to be used:|$m_listboxTemplate/[ListBoxItem]PIP" />
+  <ListBoxItem Name="ISALBI" Tag="[Pane]$m_wizardSetup/[Pane]$pagePIDSettings/[ListBox]Select the PID symbology standard to be used:|$m_listboxTemplate/[ListBoxItem]ISA" />
+  <PushButton Name="M_btnPIDDwgDir" Tag="[Pane]$m_wizardSetup/[Pane]$pagePIDSettings/[PushButton]**|$m_btnPIDDwgDir" />
+  <TextField Name="M_editPIDDwgDir" Tag="[Pane]$m_wizardSetup/[Pane]$pagePIDSettings/[TextField]Specify the directory where PID drawings are stored:|$m_editPIDDwgDir" />
+  <PushButton Name="M_buttonCancel" Tag="[Pane]$m_wizardSetup/[PushButton]Cancel|$m_buttonCancel" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup/[PushButton]Next &gt;&gt;|$m_buttonNext" />
+  <PushButton Name="M_buttonBack" Tag="[Pane]$m_wizardSetup/[PushButton]&lt;&lt; Back|$m_buttonBack" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 3 of 6)|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

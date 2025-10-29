@@ -1,0 +1,145 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantCustomParts" Tag="[Pane]$ControlAxSourcingSite" ParentType="CustomWin" GUIType="UIA">
+	<Pane Name="Pane1PANE" Tag="[Pane]#1" />
+	<CustomWin Name="CustomWin1WIN" Tag="[Pane]#1/[CustomWin]#1" />
+	<CustomWin Name="CustomWin2WIN" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1" />
+	<StaticText Name="PartType1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[StaticText]Part Type:|$dlb_PartClassComboBox|#1" />
+	<StaticText Name="PartType2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[StaticText]Part Type:|$dlb_PartClassComboBox|#1/[StaticText]_Part Type:|#1" />
+	<ComboBox Name="PartTypeCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[ComboBox]Part Type:|$dcb_PartClassComboBox|#1" />
+	<GroupBox Name="GraphicsGB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1" />
+	<StaticText Name="GraphicsST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[StaticText]Graphics|#1" />
+	<PageList Name="PageListPG" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[PageList]$dtc_GeometryType|#1" />
+	<Window Name="Plant3DShapeWIN" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[PageList]$dtc_GeometryType|#1/[Window]Plant 3D Shape|$dti_GeometryType_Shape|#1" />
+	<StaticText Name="Plant3DShapeST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[PageList]$dtc_GeometryType|#1/[Window]Plant 3D Shape|$dti_GeometryType_Shape|#1/[StaticText]Plant _3D Shape|#1" />
+	<Image Name="Image1IMG" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[PageList]$dtc_GeometryType|#1/[Window]Plant 3D Shape|$dti_GeometryType_Shape|#1/[Image]$dim_Preview_Shape|#1" />
+	<PushButton Name="ShapeBrowserPB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[PageList]$dtc_GeometryType|#1/[Window]Plant 3D Shape|$dti_GeometryType_Shape|#1/[PushButton]Shape Browser*|$dbt_ShapeBrowser|#1" />
+	<Window Name="AutoCADBlockWIN" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[PageList]$dtc_GeometryType|#1/[Window]AutoCAD Block|$dti_GeometryType_Block|#2" />
+	<StaticText Name="AutoCADBlockST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[GroupBox]Graphics|$dgb_GeometryType|#1/[PageList]$dtc_GeometryType|#1/[Window]AutoCAD Block|$dti_GeometryType_Block|#2/[StaticText]_AutoCAD Block|#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1" />
+	<StaticText Name="PartPropertiesST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[StaticText]Part Properties|$m_Title|#1" />
+	<Image Name="Image2IMG" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Image]$m_Image|#1" />
+	<Pane Name="Pane3PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1" />
+	<StaticText Name="CustomPartType1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Custom Part Type|$dlb_pp_CustomPartType|#1" />
+	<StaticText Name="CustomPartType2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Custom Part Type|$dlb_pp_CustomPartType|#1/[StaticText]Custom Part Type|#1" />
+	<ComboBox Name="CustomPartTypeCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[ComboBox]Custom Part Type|$dcb_pp_CustomPartType|#1" />
+	<StaticText Name="Unit1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Unit|$dlb_pp_shapeGeoUnit|#2" />
+	<StaticText Name="Unit2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Unit|$dlb_pp_shapeGeoUnit|#2/[StaticText]Unit|#1" />
+	<ComboBox Name="UnitCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[ComboBox]Unit|$dcb_pp_shapeGeoUnit|#2" />
+	<StaticText Name="Size1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Size|$dlb_pp_shapeSize|#3" />
+	<StaticText Name="Size2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Size|$dlb_pp_shapeSize|#3/[StaticText]Size|#1" />
+	<ComboBox Name="SizeCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[ComboBox]Size|$dcb_pp_shapeSize|#3" />
+	<StaticText Name="Spec1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Spec|$dlb_pp_RequiredSpecList|#4" />
+	<StaticText Name="Spec2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Spec|$dlb_pp_RequiredSpecList|#4/[StaticText]Spec|#1" />
+	<ComboBox Name="SpecCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[ComboBox]Spec|$dcb_pp_RequiredSpecList|#4" />
+	<StaticText Name="Tag1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Tag|$dlb_pp_shapeTag|#5" />
+	<StaticText Name="Tag2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Tag|$dlb_pp_shapeTag|#5/[StaticText]Tag|#1" />
+	<ComboBox Name="TagCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[ComboBox]Tag|$dcb_pp_shapeTag|#5" />
+	<StaticText Name="IsoSymbolSKEY1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Iso Symbol SKEY|$dlb_pp_isoSkey|#6" />
+	<StaticText Name="IsoSymbolSKEY2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Iso Symbol SKEY|$dlb_pp_isoSkey|#6/[StaticText]Iso Symbol SKEY|#1" />
+	<TextField Name="IsoSymbolSKEYTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[TextField]Iso Symbol SKEY|$dcb_pp_isoSkey|#1" />
+	<Pane Name="Pane4PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[TextField]Iso Symbol SKEY|$dcb_pp_isoSkey|#1/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="IsoSymbolType1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Iso Symbol Type|$dlb_pp_isoType|#7" />
+	<StaticText Name="IsoSymbolType2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[StaticText]Iso Symbol Type|$dlb_pp_isoType|#7/[StaticText]Iso Symbol Type|#1" />
+	<TextField Name="IsoSymbolTypeTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[TextField]Iso Symbol Type|$dcb_pp_isoType|#2" />
+	<Pane Name="Pane5PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#1/[TextField]Iso Symbol Type|$dcb_pp_isoType|#2/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="PortPropertiesST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[StaticText]Port Properties|$m_Title|#2" />
+	<Image Name="Image3IMG" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Image]$m_Image|#2" />
+	<Pane Name="Pane6PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2" />
+	<StaticText Name="NumberOfPorts1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Number of ports|$dlb_pp_NumberOfPorts|#1" />
+	<StaticText Name="NumberOfPorts2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Number of ports|$dlb_pp_NumberOfPorts|#1/[StaticText]Number of ports|#1" />
+	<ComboBox Name="NumberOfPortsCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[ComboBox]Number of ports|$dcb_pp_NumberOfPorts|#1" />
+	<StaticText Name="AllPortsAreThe1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]All Ports are the same|$dlb_pp_SetAllSame|#2" />
+	<StaticText Name="AllPortsAreThe2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]All Ports are the same|$dlb_pp_SetAllSame|#2/[StaticText]All Ports are the same|#1" />
+	<CheckBox Name="CheckBoxCK" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[CheckBox]$dcp_pp_SetAllSame|#1" />
+	<StaticText Name="PortName1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Port Name|$dlb_pp_PortName|#3" />
+	<StaticText Name="PortName2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Port Name|$dlb_pp_PortName|#3/[StaticText]Port Name|#1" />
+	<ComboBox Name="PortNameCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[ComboBox]Port Name|$dcb_pp_PortName|#2" />
+	<StaticText Name="NominalDiameter1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Nominal Diameter|$dlb_pp_portNominalDiameter|#4" />
+	<StaticText Name="NominalDiameter2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Nominal Diameter|$dlb_pp_portNominalDiameter|#4/[StaticText]Nominal Diameter|#1" />
+	<ComboBox Name="NominalDiameterCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[ComboBox]Nominal Diameter|$dcb_pp_portNominalDiameter|#3" />
+	<StaticText Name="EndType1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]End Type|$dlb_pp_portEndType|#5" />
+	<StaticText Name="EndType2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]End Type|$dlb_pp_portEndType|#5/[StaticText]End Type|#1" />
+	<ComboBox Name="EndTypeCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[ComboBox]End Type|$dcb_pp_portEndType|#4" />
+	<StaticText Name="EngagementLength1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Engagement Length|$dlb_pp_portEngagementLength|#6" />
+	<StaticText Name="EngagementLength2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Engagement Length|$dlb_pp_portEngagementLength|#6/[StaticText]Engagement Length|#1" />
+	<TextField Name="EngagementLengthTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Engagement Length|$dtb_pp_portEngagementLength|#1" />
+	<Pane Name="Pane7PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Engagement Length|$dtb_pp_portEngagementLength|#1/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="Facing1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Facing|$dlb_pp_portFacing|#7" />
+	<StaticText Name="Facing2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Facing|$dlb_pp_portFacing|#7/[StaticText]Facing|#1" />
+	<TextField Name="FacingTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Facing|$dtb_pp_portFacing|#2" />
+	<Pane Name="Pane8PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Facing|$dtb_pp_portFacing|#2/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="FlangeThickness1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Flange Thickness|$dlb_pp_portFlangeThickness|#8" />
+	<StaticText Name="FlangeThickness2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Flange Thickness|$dlb_pp_portFlangeThickness|#8/[StaticText]Flange Thickness|#1" />
+	<TextField Name="FlangeThicknessTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Flange Thickness|$dtb_pp_portFlangeThickness|#3" />
+	<Pane Name="Pane9PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Flange Thickness|$dtb_pp_portFlangeThickness|#3/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="PressureClass1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Pressure Class|$dlb_pp_portPressureClass|#9" />
+	<StaticText Name="PressureClass2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Pressure Class|$dlb_pp_portPressureClass|#9/[StaticText]Pressure Class|#1" />
+	<TextField Name="PressureClassTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Pressure Class|$dtb_pp_portPressureClass|#4" />
+	<Pane Name="Pane10PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Pressure Class|$dtb_pp_portPressureClass|#4/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="Schedule1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Schedule|$dlb_pp_portSchedule|#10" />
+	<StaticText Name="Schedule2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Schedule|$dlb_pp_portSchedule|#10/[StaticText]Schedule|#1" />
+	<TextField Name="ScheduleTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Schedule|$dtb_pp_portSchedule|#5" />
+	<Pane Name="Pane11PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Schedule|$dtb_pp_portSchedule|#5/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="WallThickness1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Wall Thickness|$dlb_pp_portWallThickness|#11" />
+	<StaticText Name="WallThickness2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[StaticText]Wall Thickness|$dlb_pp_portWallThickness|#11/[StaticText]Wall Thickness|#1" />
+	<TextField Name="WallThicknessTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Wall Thickness|$dtb_pp_portWallThickness|#6" />
+	<Pane Name="Pane12PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#2/[TextField]Wall Thickness|$dtb_pp_portWallThickness|#6/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="DimensionsST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[StaticText]Dimensions|$m_Title|#3" />
+	<Image Name="Image4IMG" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Image]$m_Image|#3" />
+	<Pane Name="Pane13PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3" />
+	<StaticText Name="D11ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]D1|#1" />
+	<StaticText Name="D12ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]D1|#1/[StaticText]D1|#1" />
+	<TextField Name="D1TF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]D1|#1" />
+	<Pane Name="Pane14PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]D1|#1/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="D21ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]D2|#2" />
+	<StaticText Name="D22ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]D2|#2/[StaticText]D2|#1" />
+	<TextField Name="D2TF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]D2|#2" />
+	<Pane Name="Pane15PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]D2|#2/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="L1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]L|#3" />
+	<StaticText Name="L2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]L|#3/[StaticText]L|#1" />
+	<TextField Name="LTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]L|#3" />
+	<Pane Name="Pane16PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]L|#3/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="LS1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]LS|#4" />
+	<StaticText Name="LS2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]LS|#4/[StaticText]LS|#1" />
+	<TextField Name="LSTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]LS|#4" />
+	<Pane Name="Pane17PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]LS|#4/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="H11ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]H1|#5" />
+	<StaticText Name="H12ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]H1|#5/[StaticText]H1|#1" />
+	<TextField Name="H1TF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]H1|#5" />
+	<Pane Name="Pane18PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]H1|#5/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="H21ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]H2|#6" />
+	<StaticText Name="H22ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]H2|#6/[StaticText]H2|#1" />
+	<TextField Name="H2TF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]H2|#6" />
+	<Pane Name="Pane19PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]H2|#6/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="W11ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]W1|#7" />
+	<StaticText Name="W12ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]W1|#7/[StaticText]W1|#1" />
+	<TextField Name="W1TF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]W1|#7" />
+	<Pane Name="Pane20PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]W1|#7/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="W21ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]W2|#8" />
+	<StaticText Name="W22ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]W2|#8/[StaticText]W2|#1" />
+	<TextField Name="W2TF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]W2|#8" />
+	<Pane Name="Pane21PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]W2|#8/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="OF1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]OF|#9" />
+	<StaticText Name="OF2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]OF|#9/[StaticText]OF|#1" />
+	<TextField Name="OFTF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]OF|#9" />
+	<Pane Name="Pane22PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]OF|#9/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="B11ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]B1|#10" />
+	<StaticText Name="B12ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]B1|#10/[StaticText]B1|#1" />
+	<TextField Name="B1TF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]B1|#10" />
+	<Pane Name="Pane23PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]B1|#10/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="B21ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]B2|#11" />
+	<StaticText Name="B22ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[StaticText]B2|#11/[StaticText]B2|#1" />
+	<TextField Name="B2TF" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]B2|#11" />
+	<Pane Name="Pane24PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#3/[TextField]B2|#11/[Pane]$PART_ContentHost|#1" />
+	<StaticText Name="ValveOperatorST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[StaticText]Valve Operator|$m_Title|#4" />
+	<Image Name="Image5IMG" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Image]$m_Image|#4" />
+	<Pane Name="Pane25PANE" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#4" />
+	<StaticText Name="Operator1ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#4/[StaticText]Operator|$dlb_pp_ValveOperator|#1" />
+	<StaticText Name="Operator2ST" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#4/[StaticText]Operator|$dlb_pp_ValveOperator|#1/[StaticText]Operator|#1" />
+	<ComboBox Name="OperatorCB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#4/[ComboBox]Operator|$dcb_pp_ValveOperator|#1" />
+	<PushButton Name="PushButtonPB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[Pane]$ScrollViewer_9|#4/[PushButton]$dbt_pp_ValveOperator|#1" />
+	<ScrollBar Name="ScrollBar1SB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[ScrollBar]$VerticalScrollBar|#1" />
+	<ScrollBar Name="ScrollBar2SB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[Pane]$dsv_MiddleRight|#1/[ScrollBar]$HorizontalScrollBar|#2" />
+	<PushButton Name="InsertInModelPB" Tag="[Pane]#1/[CustomWin]#1/[CustomWin]$Window_1|#1/[PushButton]Insert in Model|$dbt_PartInsertPart|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

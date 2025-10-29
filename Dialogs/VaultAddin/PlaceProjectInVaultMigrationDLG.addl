@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlaceProjectInVaultMigrationDLG" Tag="[DialogBox]PlaceProjectInVaultMigrationDLG" ParentType="Plant3D">
+<PushButton Name="Yes" Tag="[PushButton]$6" />
+<PushButton Name="No" Tag="[PushButton]$7" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

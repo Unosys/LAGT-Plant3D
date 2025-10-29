@@ -1,0 +1,40 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.TextExportOptionsDLG" Tag="[Pane]Text Export Options|$LinesForm|#1" GUIType="UIA">
+  <Pane Name="PnlButtonsPANE" Tag="[Pane]pnlButtons|$pnlButtons|#2" />
+  <!--<PushButton Name="BtnCancel" Tag="[Pane]pnlButtons|$pnlButtons|#2/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="BtnOK" Tag="[Pane]pnlButtons|$pnlButtons|#2/[PushButton]OK|$btnOK|#1" />-->
+  <PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]OK|$btnOK|#1" />
+
+
+  <Pane Name="Pane1PANE" Tag="[Pane]$3867470|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1" />
+  <StaticText Name="EncodingST" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[StaticText]Encoding:|$5703046|#1" />
+  <PopupList Name="EncodingPL" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1" />
+  <StaticText Name="Windows1252ST" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[StaticText]Windows-1252|#1" />
+  <PushButton Name="Open1PB" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[PushButton]Open|#1" />
+  <ListBox Name="Windows1252LB" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[ListBox]Windows-1252|#1" />
+  <ListBoxItem Name="Windows1252LBI" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[ListBox]Windows-1252|#1/[ListBoxItem]Windows-1252|#1" />
+  <ListBoxItem Name="UsasciiLBI" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[ListBox]Windows-1252|#1/[ListBoxItem]us-ascii|#6" />
+  <ListBoxItem Name="Utf16LBI" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[ListBox]Windows-1252|#1/[ListBoxItem]utf-16|#5" />
+  <ListBoxItem Name="Utf16BELBI" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[ListBox]Windows-1252|#1/[ListBoxItem]utf-16BE|#4" />
+  <ListBoxItem Name="Utf7LBI" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[ListBox]Windows-1252|#1/[ListBoxItem]utf-7|#3" />
+  <ListBoxItem Name="Utf8LBI" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[ListBox]Windows-1252|#1/[ListBoxItem]utf-8|#2" />
+  <ListBoxItem Name="Utf32LBI" Tag="[Pane]$3867470|#1/[Pane]$4326562|#1/[PopupList]Encoding:|$4391990|#1/[ListBox]Windows-1252|#1/[ListBoxItem]utf-32|#7" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$3867470|#1/[Pane]$3278220|#2" />
+  <StaticText Name="TextExportModeST" Tag="[Pane]$3867470|#1/[Pane]$3278220|#2/[StaticText]Text export mode:|$2032860|#1" />
+  <PopupList Name="TextExportModePL" Tag="[Pane]$3867470|#1/[Pane]$3278220|#2/[PopupList]Text export mode:|$2885186|#1" />
+  <StaticText Name="TextST" Tag="[Pane]$3867470|#1/[Pane]$3278220|#2/[PopupList]Text export mode:|$2885186|#1/[StaticText]Text|#1" />
+  <PushButton Name="Open2PB" Tag="[Pane]$3867470|#1/[Pane]$3278220|#2/[PopupList]Text export mode:|$2885186|#1/[PushButton]Open|#1" />
+  <ListBox Name="TextLB" Tag="[Pane]$3867470|#1/[Pane]$3278220|#2/[PopupList]Text export mode:|$2885186|#1/[ListBox]Text|#1" />
+  <ListBoxItem Name="ValueLBI" Tag="[Pane]$3867470|#1/[Pane]$3278220|#2/[PopupList]Text export mode:|$2885186|#1/[ListBox]Text|#1/[ListBoxItem]Value|#2" />
+  <ListBoxItem Name="TextLBI" Tag="[Pane]$3867470|#1/[Pane]$3278220|#2/[PopupList]Text export mode:|$2885186|#1/[ListBox]Text|#1/[ListBoxItem]Text|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$3867470|#1/[Pane]$5048066|#3" />
+  <StaticText Name="TextSeparatorST" Tag="[Pane]$3867470|#1/[Pane]$5048066|#3/[StaticText]Text separator:|$4195058|#1" />
+  <ComboBox Name="TextSeparatorCB" Tag="[Pane]$3867470|#1/[Pane]$5048066|#3/[ComboBox]Text separator:|$4260796|#1" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$3867470|#1/[Pane]$4588110|#4" />
+  <CheckBox Name="QuoteStringsWithSeparatorsCK" Tag="[Pane]$3867470|#1/[Pane]$4588110|#4/[CheckBox]Quote strings with separators|$4195710|#1" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$3867470|#1/[Pane]$1967646|#5" />
+  <StaticText Name="StaticTextST" Tag="[Pane]$3867470|#1/[Pane]$1967646|#5/[StaticText]$4588024|#1" />
+  <TitleBar Name="TextExportOptionsCTL" Tag="[TitleBar]Text Export Options|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Text Export Options|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

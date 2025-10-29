@@ -1,0 +1,303 @@
+2023-11-17 12:48:41.0365|Starting export process. AutoCAD Version: 24.2.0.0. Application Version: 0.1.71.4
+
+2023-11-17 12:48:41.6696|WARNING: XMP_67705 Component rotation will be rounded from 179.568973375316 to 180
+
+2023-11-17 12:48:41.7036|SymbolRegistrationNumber for XMP_151432 is empty
+
+2023-11-17 12:48:41.7136|SymbolRegistrationNumber for XMP_151437 is empty
+
+2023-11-17 12:48:41.8186|SymbolRegistrationNumber for XMP_5402 is empty
+
+2023-11-17 12:48:41.8276|SymbolRegistrationNumber for XMP_5405 is empty
+
+2023-11-17 12:48:41.8556|SymbolRegistrationNumber for AS_1 is empty
+
+2023-11-17 12:48:41.8716|SymbolRegistrationNumber for XMP_5410_CA is empty
+
+2023-11-17 12:48:41.8716|SymbolRegistrationNumber for XMP_5420 is empty
+
+2023-11-17 12:48:41.8836|SymbolRegistrationNumber for XMP_5423 is empty
+
+2023-11-17 12:48:41.8836|SymbolRegistrationNumber for XMP_5450 is empty
+
+2023-11-17 12:48:41.9036|SymbolRegistrationNumber for AS_2 is empty
+
+2023-11-17 12:48:41.9156|SymbolRegistrationNumber for XMP_5453_CA is empty
+
+2023-11-17 12:48:41.9156|SymbolRegistrationNumber for XMP_5472 is empty
+
+2023-11-17 12:48:41.9286|SymbolRegistrationNumber for XMP_5474 is empty
+
+2023-11-17 12:48:41.9286|SymbolRegistrationNumber for XMP_5478 is empty
+
+2023-11-17 12:48:41.9286|SymbolRegistrationNumber for XMP_5497 is empty
+
+2023-11-17 12:48:41.9476|SymbolRegistrationNumber for XMP_5499 is empty
+
+2023-11-17 12:48:41.9606|SymbolRegistrationNumber for AS_3 is empty
+
+2023-11-17 12:48:41.9606|SymbolRegistrationNumber for XMP_53776_CA is empty
+
+2023-11-17 12:48:42.0016|Pipeline 1113 from 67606 to 151425 coordinates: (50,250,0) (102.5,250,0)
+
+2023-11-17 12:48:42.0016|Vertices for 1113
+
+2023-11-17 12:48:42.0016| (50,250,0)
+
+2023-11-17 12:48:42.0016| (102.5,250,0)
+
+2023-11-17 12:48:42.0096|Pipeline 1231 from 151405 to 3870 coordinates: (217.514336543084,270,0) (273.268970095681,337.445909830595,0)
+
+2023-11-17 12:48:42.0096|Vertices for 1231
+
+2023-11-17 12:48:42.0096| (217.514336543084,270,0)
+
+2023-11-17 12:48:42.0096| (230,270,0)
+
+2023-11-17 12:48:42.0096| (230,357.5,0)
+
+2023-11-17 12:48:42.0096| (273.268970095681,357.5,0)
+
+2023-11-17 12:48:42.0096| (273.268970095681,337.445909830595,0)
+
+2023-11-17 12:48:42.0096|Pipeline 1229 from 151420 to 151415 coordinates: (127.5,250,0) (197.514336543084,250,0)
+
+2023-11-17 12:48:42.0096|Vertices for 1229
+
+2023-11-17 12:48:42.0096| (127.5,250,0)
+
+2023-11-17 12:48:42.0096| (197.514336543084,250,0)
+
+2023-11-17 12:48:42.0096|Pipeline 1250 from 1159 to 1269 coordinates: (494.999889047553,230,0) (494.999889047553,262.494994798609,0)
+
+2023-11-17 12:48:42.0096|Vertices for 1250
+
+2023-11-17 12:48:42.0096| (494.999889047553,230,0)
+
+2023-11-17 12:48:42.0226| (494.999889047553,262.494994798609,0)
+
+2023-11-17 12:48:42.0226|Pipeline 1301 from 1262 to N/A coordinates: (217.514336543084,250,0) (222.499889047553,200,0)
+
+2023-11-17 12:48:42.0226|Vertices for 1301
+
+2023-11-17 12:48:42.0226| (217.514336543084,250,0)
+
+2023-11-17 12:48:42.0226| (222.499889047553,250,0)
+
+2023-11-17 12:48:42.0226| (222.499889047553,200,0)
+
+2023-11-17 12:48:42.0226|Pipeline 1270 from 1159 to 1147 coordinates: (402.499889047553,230,0) (402.499889047553,304.96,0)
+
+2023-11-17 12:48:42.0226|Vertices for 1270
+
+2023-11-17 12:48:42.0226| (402.499889047553,230,0)
+
+2023-11-17 12:48:42.0226| (402.499889047553,304.96,0)
+
+2023-11-17 12:48:42.0226|Pipeline 1204 from 1147 to 1265 coordinates: (397.499889047553,310,0) (310.093811332981,310,0)
+
+2023-11-17 12:48:42.0226|Vertices for 1204
+
+2023-11-17 12:48:42.0226| (397.499889047553,310,0)
+
+2023-11-17 12:48:42.0386| (310.093811332981,310,0)
+
+2023-11-17 12:48:42.0386|Pipeline 1141 from 3864 to 67818 coordinates: (285.00333367011,259.999940072775,0) (302.5,230,0)
+
+2023-11-17 12:48:42.0386|Vertices for 1141
+
+2023-11-17 12:48:42.0386| (285.00333367011,259.999940072775,0)
+
+2023-11-17 12:48:42.0386| (285.00333367011,230,0)
+
+2023-11-17 12:48:42.0386| (302.5,230,0)
+
+2023-11-17 12:48:42.0386|Pipeline 1102 from 78010 to 151432 coordinates: (326.249889047553,230,3.67394039744206E-15) (362.499889047553,230,2.4840796630105E-19)
+
+2023-11-17 12:48:42.0386|Vertices for 1102
+
+2023-11-17 12:48:42.0386| (326.249889047553,230,3.67394039744206E-15)
+
+2023-11-17 12:48:42.0386| (362.499889047553,230,2.4840796630105E-19)
+
+2023-11-17 12:48:42.0386|Pipeline 67814 from 67818 to 78010 coordinates: (302.5,230,0) (316.249889047553,230,-3.67394039744206E-15)
+
+2023-11-17 12:48:42.0386|Vertices for 67814
+
+2023-11-17 12:48:42.0386| (302.5,230,0)
+
+2023-11-17 12:48:42.0536| (316.249889047553,230,-3.67394039744206E-15)
+
+2023-11-17 12:48:42.0536|Pipeline 1317 from 1159 to 1377 coordinates: (390.000000170644,230,0) (390.000000170644,225,0)
+
+2023-11-17 12:48:42.0536|Vertices for 1317
+
+2023-11-17 12:48:42.0536| (390.000000170644,230,0)
+
+2023-11-17 12:48:42.0536| (390.000000170644,225,0)
+
+2023-11-17 12:48:42.0536|Pipeline 1106 from 1159 to 1131 coordinates: (415.000000148767,230,0) (415.000000148767,245,0)
+
+2023-11-17 12:48:42.0536|Vertices for 1106
+
+2023-11-17 12:48:42.0536| (415.000000148767,230,0)
+
+2023-11-17 12:48:42.0536| (415.000000148767,245,0)
+
+2023-11-17 12:48:42.0536|Pipeline 1159 from 151437 to 34606 coordinates: (377.499889047553,230,0) (675,230,0)
+
+2023-11-17 12:48:42.0536|Vertices for 1159
+
+2023-11-17 12:48:42.0536| (377.499889047553,230,0)
+
+2023-11-17 12:48:42.0696| (675,230,0)
+
+2023-11-17 12:48:42.0696|Pipeline 5462 from 1159 to 5470 coordinates: (577.500000006563,230,0) (577.500000006563,246.306747590702,0)
+
+2023-11-17 12:48:42.0696|Vertices for 5462
+
+2023-11-17 12:48:42.0696| (577.500000006563,230,0)
+
+2023-11-17 12:48:42.0696| (577.500000006563,246.306747590702,0)
+
+2023-11-17 12:48:42.0696|Pipeline 1128 from N/A to 1127 coordinates: (172.499889047553,200,0) (197.514336543084,270,0)
+
+2023-11-17 12:48:42.0696|Vertices for 1128
+
+2023-11-17 12:48:42.0696| (172.499889047553,200,0)
+
+2023-11-17 12:48:42.0696| (172.499889047553,270,0)
+
+2023-11-17 12:48:42.0696| (197.514336543084,270,0)
+
+2023-11-17 12:48:42.0696|Pipeline 1183 from 1173 to 1310 coordinates: (494.999889047553,282.513789223874,0) (310.093811332981,325,0)
+
+2023-11-17 12:48:42.0696|Vertices for 1183
+
+2023-11-17 12:48:42.0856| (494.999889047553,282.513789223874,0)
+
+2023-11-17 12:48:42.0856| (494.999889047553,325,0)
+
+2023-11-17 12:48:42.0856| (310.093811332981,325,0)
+
+2023-11-17 12:48:42.0856|Pipeline 5426 from N/A to 5432 coordinates: (562.5,151.25,0) (503.75,282.513789223874,0)
+
+2023-11-17 12:48:42.0856|Vertices for 5426
+
+2023-11-17 12:48:42.0856| (562.5,151.25,0)
+
+2023-11-17 12:48:42.0856| (562.5,287.5,0)
+
+2023-11-17 12:48:42.0856| (503.75,287.5,0)
+
+2023-11-17 12:48:42.0856| (503.75,282.513789223874,0)
+
+2023-11-17 12:48:42.0856|Pipeline 131416 from N/A to 131411 coordinates: (525.0614,152.98,0) (525.061435665488,262.494994798609,0)
+
+2023-11-17 12:48:42.0856|Vertices for 131416
+
+2023-11-17 12:48:42.1006| (525.0614,152.98,0)
+
+2023-11-17 12:48:42.1006| (525.061435665488,262.494994798609,0)
+
+2023-11-17 12:48:42.1176|Pipeline 1159 branch 0 1317 (from)
+
+2023-11-17 12:48:42.1176|Pipeline 1159 branch 1 1270 (from)
+
+2023-11-17 12:48:42.1176|Pipeline 1159 branch 2 1106 (from)
+
+2023-11-17 12:48:42.1176|Pipeline 1159 branch 3 1250 (from)
+
+2023-11-17 12:48:42.1176|Pipeline 1159 branch 4 5462 (from)
+
+2023-11-17 12:48:42.1626|ERROR: Cannot obtain value of the property: PnID of the Asset: 
+
+2023-11-17 12:48:44.0263|SymbolRegistrationNumber for XMP_67606 is empty
+
+2023-11-17 12:48:44.0553|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1143. Error:
+
+
+2023-11-17 12:48:44.0823|SymbolRegistrationNumber for XMP_5408 is empty
+
+2023-11-17 12:48:44.1073|SymbolRegistrationNumber for XMP_67826 is empty
+
+2023-11-17 12:48:44.1073|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1185. Error:
+
+
+2023-11-17 12:48:44.1253|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1096. Error:
+
+
+2023-11-17 12:48:44.1403|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1239. Error:
+
+
+2023-11-17 12:48:44.1563|SymbolRegistrationNumber for XMP_1287 is empty
+
+2023-11-17 12:48:44.1563|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1192. Error:
+
+
+2023-11-17 12:48:44.1653|ERROR: Error has occured during searching for the elements with direct connection Row ID == 1192. Error:
+
+
+2023-11-17 12:48:44.2023|ERROR: Failed to find only one node without connected segments.
+
+2023-11-17 12:48:44.2193|SymbolRegistrationNumber for XMP_1194 is empty
+
+2023-11-17 12:48:44.2193|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1114. Error:
+
+
+2023-11-17 12:48:44.2773|SymbolRegistrationNumber for XMP_67818 is empty
+
+2023-11-17 12:48:44.3303|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1164. Error:
+
+
+2023-11-17 12:48:44.4053|SymbolRegistrationNumber for XMP_1159_T0 is empty
+
+2023-11-17 12:48:44.4163|SymbolRegistrationNumber for XMP_1159_T1 is empty
+
+2023-11-17 12:48:44.4163|SymbolRegistrationNumber for XMP_1159_T2 is empty
+
+2023-11-17 12:48:44.4473|SymbolRegistrationNumber for XMP_1159_T3 is empty
+
+2023-11-17 12:48:44.4473|SymbolRegistrationNumber for XMP_1159_T4 is empty
+
+2023-11-17 12:48:44.4643|SymbolRegistrationNumber for XMP_171603 is empty
+
+2023-11-17 12:48:44.4643|ERROR: Cannot obtain value of the property: PnID of the Asset: 
+
+2023-11-17 12:48:44.4823|SymbolRegistrationNumber for XMP_34606 is empty
+
+2023-11-17 12:48:44.5293|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1303. Error:
+
+
+2023-11-17 12:48:44.5453|SymbolRegistrationNumber for XMP_67824 is empty
+
+2023-11-17 12:48:44.5453|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 1120. Error:
+
+
+2023-11-17 12:48:44.5453|ERROR: Error has occured during searching for the elements with direct connection Row ID == 1120. Error:
+
+
+2023-11-17 12:48:44.5743|SymbolRegistrationNumber for XMP_174905 is empty
+
+2023-11-17 12:48:44.5923|SymbolRegistrationNumber for XMP_67724 is empty
+
+2023-11-17 12:48:44.6105|SymbolRegistrationNumber for XMP_67674 is empty
+
+2023-11-17 12:48:44.6105|SymbolRegistrationNumber for XMP_53770 is empty
+
+2023-11-17 12:48:44.6235|SymbolRegistrationNumber for XMP_144701 is empty
+
+2023-11-17 12:48:44.6355|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 5428. Error:
+
+
+2023-11-17 12:48:44.6355|ERROR: Error has occured during searching for the elements with direct connection Row ID == 5428. Error:
+
+
+2023-11-17 12:48:44.6545|SymbolRegistrationNumber for XMP_131423 is empty
+
+2023-11-17 12:48:44.6545|ERROR: Error has occured during fetching line segment attributes of pipeline group Row ID == 29332. Error:
+
+
+2023-11-17 12:48:44.6545|ERROR: Error has occured during searching for the elements with direct connection Row ID == 29332. Error:
+
+

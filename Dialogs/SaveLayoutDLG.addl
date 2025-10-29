@@ -1,0 +1,30 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveLayoutDLG" Tag="[DialogBox]Save Layout|#1" ParentType="Pane" GUIType="UIA">
+  <ToolBar Name="AddressCProgramFilesAutodeskAutoCAD2015PLNT3D" Tag="[ToolBar]$" />
+  <CustomWin Name="AutoCAD2015" Tag="[CustomWin]$" />
+  <CustomWin Name="Autodesk" Tag="[CustomWin]$" />
+  <PushButton Name="Cancel" Tag="[PushButton]$2" />
+  <ComboBox Name="ComboBox" Tag="[ComboBox]$" />
+  <ComboBox Name="ComboBox2" Tag="[ComboBox]$" />
+  <CustomWin Name="Computer" Tag="[CustomWin]$" />
+  <CustomWin Name="Desktop" Tag="[CustomWin]$" />
+  <PushButton Name="HideFolders" Tag="[PushButton]$" />
+  <ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$" />
+  <ScrollBar Name="HorizontalScrollBar2" Tag="[ScrollBar]$" />
+  <CustomWin Name="LocalDiskC" Tag="[CustomWin]$" />
+  <CustomWin Name="PLNT3D" Tag="[CustomWin]$" />
+  <CustomWin Name="ProgramFiles" Tag="[CustomWin]$" />
+  <CustomWin Name="CustomWin" Tag="[CustomWin]$" />
+  <PushButton Name="PushToolItem" Tag="[PushButton]$" />
+  <PushButton Name="PushToolItem3" Tag="[PushButton]$" />
+  <PushButton Name="PushToolItem4" Tag="[PushButton]$" />
+  <PushButton Name="PushToolItem5" Tag="[PushButton]$" />
+  <PushButton Name="PushToolItem6" Tag="[PushButton]$" />
+  <PushButton Name="Save" Tag="[PushButton]$1" />
+  <TextField Name="TextField" Tag="[TextField]$" />
+  <ToolBar Name="ToolBar" Tag="[ToolBar]$" />
+  <ToolBar Name="ToolBar2" Tag="[ToolBar]$" />
+  <ToolBar Name="ToolBar4" Tag="[ToolBar]$" />
+  <TreeView Name="Tree" Tag="[TreeView]$" />
+  <ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$" />
+  <ScrollBar Name="VerticalScrollBar2" Tag="[ScrollBar]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

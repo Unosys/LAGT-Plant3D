@@ -1,0 +1,14 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateSettingsDLG" Tag="[Pane]Spec Update Settings|$SpecUpdateSettingDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnClose|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnApply|#1" />
+  <GroupBox Name="PipeSpecUpdatesGB" Tag="[GroupBox]Pipe Spec Updates|$groupBox1|#1" />
+  <StaticText Name="CheckForUpdatesST" Tag="[GroupBox]Pipe Spec Updates|$groupBox1|#1/[StaticText]Check for updates:|$m_lableHours|#1" />
+  <PopupList Name="CheckForUpdatesPL" Tag="[GroupBox]Pipe Spec Updates|$groupBox1|#1/[PopupList]Check for updates:|$m_comboBoxHours|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[GroupBox]Pipe Spec Updates|$groupBox1|#1/[PopupList]Check for updates:|$m_comboBoxHours|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="CheckNowPB" Tag="[GroupBox]Pipe Spec Updates|$groupBox1|#1/[PushButton]Check Now*|$m_btnCheckUpdate|#1" />
+  <CheckBox Name="AskMeBeforeApplyingCK" Tag="[GroupBox]Pipe Spec Updates|$groupBox1|#1/[CheckBox]Ask me before applying updates|$m_chkAutomatic|#1" />
+  <TitleBar Name="SpecUpdateSettingsCTL" Tag="[TitleBar]Spec Update Settings|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Spec Update Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$SpecUpdateSettingDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Spec Update Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$SpecUpdateSettingDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Spec Update Settings|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

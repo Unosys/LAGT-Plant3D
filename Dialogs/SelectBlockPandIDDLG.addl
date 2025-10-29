@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectBlockPandIDDLG" Tag="[DialogBox]Select Block" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="Cancel" Tag="[PushButton]$m_btnCancel" />
+<StaticText Name="Preview" Tag="[StaticText]#1|$m_groupBox" />
+<CustomWin Name="AutodeskProcessPowerPnPProje" Tag="[Autodesk.ProcessPower.PnPProjectSetup.GSPreviewCtrl]#1" />
+<ListBox Name="AvailableBlocks" Tag="[ListBox]#1|$m_listBox" />
+<StaticText Name="AvailableBlocksText" Tag="[StaticText]#1|$m_labelBlkList" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

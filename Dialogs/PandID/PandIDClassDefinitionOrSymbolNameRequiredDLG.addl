@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDClassDefinitionOrSymbolNameRequiredDLG" Tag="[Pane]Class Definition or Symbol Name Required|$SymbolSettingErrorMessageDlg|#1" >
+  <RadioButton Name="RadioButton1RB" Tag="[Pane]$panel1|#1/[RadioButton]$continueAddRadioBtn|#2" />
+  <RadioButton Name="RadioButton2RB" Tag="[Pane]$panel1|#1/[RadioButton]$resolveRadioBtn|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]$panel1|#1/[PushButton]Cancel |$cancelBtn|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]$panel1|#1/[PushButton]OK|$okBtn|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Class Definition or Symbol Name Required|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+  
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

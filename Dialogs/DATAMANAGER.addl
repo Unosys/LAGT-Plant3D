@@ -1,0 +1,50 @@
+<Pane  Class="Autodesk.GUIHarness.Plant3D.Dialogs.DATAMANAGER" Tag="[Pane]$ControlAxSourcingSite" ParentType="CustomWin" GUIType="UIA">
+
+
+	<PushButton Name="PushButton1PB" Tag="[PushButton]$m_btnSearch|#1" />
+	<PopupList Name="PopupListPL" Tag="[PopupList]$m_dataModeCombo|#1" />
+	<PushButton Name="DropDownButtonPB" Tag="[PopupList]$m_dataModeCombo|#1/[PushButton]$DropDown|#1" />
+	<Pane Name="Pane1PANE" Tag="[Pane]$panel1|#1" />
+	<PushButton Name="PushButton2PB" Tag="[Pane]$panel1|#1/[PushButton]$m_btnChevron|#1" />
+	<TextField Name="TextField1TF" Tag="[Pane]$panel1|#1/[TextField]$m_textBoxSearch|#1" />
+	<ToolBar Name="ImportToolStrip1TB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1" />
+	<CustomWin Name="CustomWin1WIN" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1/[CustomWin]#1" />
+	<PushButton Name="RefreshPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1/[PushButton]Refresh|#1" />
+	<PushButton Name="SynchronizePIDSymbolsAndPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1/[PushButton]Synchronize PID Symbols and Annotations|#2" />
+	<PushButton Name="HideBlankColumnsPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1/[PushButton]Hide Blank Columns|#3" />
+	<PushButton Name="ClearFilterPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1/[PushButton]Clear Filter|#4" />
+	<CustomWin Name="CustomWin2WIN" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1/[CustomWin]#2" />
+	<PushButton Name="ZoomPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1/[PushButton]Zoom|#5" />
+	<PushButton Name="ShowSelectedPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripExport|#1/[PushButton]Show Selected|#6" />
+	<ToolBar Name="ImportToolStrip2TB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2" />
+	<CustomWin Name="CustomWin3WIN" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[CustomWin]#1" />
+	<PushButton Name="PrintPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[PushButton]#1" />
+	<PushButton Name="ExportPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[PushButton]#2" />
+	<CustomWin Name="CustomWin4WIN" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[CustomWin]#2" />
+	<PushButton Name="ImportPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[PushButton]#3" />
+	<PushButton Name="AcceptPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[PushButton]#4" />
+	<PushButton Name="RejectPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[PushButton]#5" />
+	<PushButton Name="AcceptAllPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[PushButton]Accept All|#6" />
+	<PushButton Name="RejectAllPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[PushButton]Reject All|#7" />
+	<PushButton Name="HideRevisionCloudsPB" Tag="[Pane]$panel1|#1/[ToolBar]$m_toolStripImport|#2/[PushButton]Hide Revision Clouds|#8" />
+	<Pane Name="Pane2PANE" Tag="[Pane]$m_dataGridPanel|#2" />
+	<Pane Name="Pane3PANE" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3" />
+	<Pane Name="Pane4PANE" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_dataGridPanel|#1" />
+	<Table Name="DataGridViewTBL" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_dataGridPanel|#1/[Table]DataGridView|$m_pnIDDataGridView|#1" />
+	<Pane Name="Pane5PANE" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2" />
+	<Pane Name="Pane6PANE" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2/[Pane]$m_datagridRowSpinner|#1" />
+	<PushButton Name="PushButton3PB" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2/[Pane]$m_datagridRowSpinner|#1/[PushButton]$m_lastRowBtn|#4" />
+	<PushButton Name="Of0PB" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2/[Pane]$m_datagridRowSpinner|#1/[PushButton]of 0|$m_nextRowBtn|#3" />
+	<StaticText Name="Of0ST" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2/[Pane]$m_datagridRowSpinner|#1/[StaticText]of 0|$m_rowCountLabel|#2" />
+	<TextField Name="TextField2TF" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2/[Pane]$m_datagridRowSpinner|#1/[TextField]$m_recordIndexTextBox|#1" />
+	<StaticText Name="RecordST" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2/[Pane]$m_datagridRowSpinner|#1/[StaticText]Record|$label1|#1" />
+	<PushButton Name="Record1PB" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2/[Pane]$m_datagridRowSpinner|#1/[PushButton]Record|$m_previousRowBtn|#2" />
+	<PushButton Name="Record2PB" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_gridView|#3/[Pane]$m_hScrollPanel|#2/[Pane]$m_datagridRowSpinner|#1/[PushButton]Record|$m_firstRowBtn|#1" />
+	<Pane Name="Pane7PANE" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$splitter1|#2" />
+	<Pane Name="Pane8PANE" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_treeView|#1" />
+	<Pane Name="Pane9PANE" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_treeView|#1/[Pane]$m_treeViewPanel|#1" />
+	<Pane Name="Pane10PANE" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_treeView|#1/[Pane]$m_treeViewPanel|#1/[Pane]$m_comboBoxViewTpye|#1" />
+	<TreeView Name="TreeViewTV" Tag="[Pane]$m_dataGridPanel|#2/[Pane]$m_treeView|#1/[Pane]$m_treeViewPanel|#1/[TreeView]$m_pnidTreeView|#1" />
+
+
+</Pane>

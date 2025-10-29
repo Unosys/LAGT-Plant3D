@@ -1,0 +1,57 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AdvancedIsoCreationOptionsDLG" Tag="[Pane]Advanced Iso Creation Options|$QuickIsoOptions|#1" ParentType="Pane" GUIType="UIA">
+
+
+	<GroupBox Name="OffsetLocationGB" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5" />
+	<StaticText Name="ZST" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[StaticText]Z:|$label_Z|#6" />
+	<TextField Name="ZTF" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[TextField]Z:|$textBox_Z|#4" />
+	<StaticText Name="DEGST" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[StaticText]DEG*|$label_Deg|#2" />
+	<StaticText Name="YST" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[StaticText]Y:|$label_Y|#5" />
+	<TextField Name="YTF" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[TextField]Y:|$textBox_Y|#3" />
+	<StaticText Name="XST" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[StaticText]X:|$label_X|#4" />
+	<StaticText Name="DistanceST" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[StaticText]Distance:|$label_OffsetDistance|#3" />
+	<StaticText Name="RotationST" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[StaticText]Rotation:|$label_OffsetRotation|#1" />
+	<TextField Name="RotationTF" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[TextField]Rotation:|$textBox_Deg|#1" />
+	<TextField Name="XTF" Tag="[GroupBox]Offset location|$groupBox_OverrideLocation|#5/[TextField]X:|$textBox_X|#2" />
+	<GroupBox Name="DrawingCongestionSplittingGB" Tag="[GroupBox]Drawing congestion splitting|$groupBox_Congestion|#1" />
+	<Pane Name="PanePANE" Tag="[GroupBox]Drawing congestion splitting|$groupBox_Congestion|#1/[Pane]$congestionLevelPanel|#1" />
+	<StaticText Name="MoreST" Tag="[GroupBox]Drawing congestion splitting|$groupBox_Congestion|#1/[Pane]$congestionLevelPanel|#1/[StaticText]More|$label_More|#3" />
+	<StaticText Name="LessST" Tag="[GroupBox]Drawing congestion splitting|$groupBox_Congestion|#1/[Pane]$congestionLevelPanel|#1/[StaticText]Less|$label_Less|#2" />
+	<Scale Name="LessSC" Tag="[GroupBox]Drawing congestion splitting|$groupBox_Congestion|#1/[Pane]$congestionLevelPanel|#1/[Scale]Less|$trackBar_CongestionSplitting|#1" />
+	<StaticText Name="LevelOfCongestionToST" Tag="[GroupBox]Drawing congestion splitting|$groupBox_Congestion|#1/[Pane]$congestionLevelPanel|#1/[StaticText]Level of congestion to split Iso at:|$label_Level|#1" />
+	<CheckBox Name="CreateSplitPointsAutomaticallyCK" Tag="[GroupBox]Drawing congestion splitting|$groupBox_Congestion|#1/[CheckBox]Create split points automatically|$checkBox_CreateSplitAutomatically|#1" />
+	<GroupBox Name="AdvancedSettingsOverridesGB" Tag="[GroupBox]Advanced settings *|$groupBox_AdvancedSettings|#4" />
+	<CheckBox Name="OverrideDefaultNorthArrowCK" Tag="[GroupBox]Advanced settings *|$groupBox_AdvancedSettings|#4/[CheckBox]Override default North Arrow direction|$checkBox_OverrideNorthArrow|#4" />
+	<CheckBox Name="ReverseIsoStartAndCK" Tag="[GroupBox]Advanced settings *|$groupBox_AdvancedSettings|#4/[CheckBox]Reverse Iso start and end points|$checkBox_ReverseStartEnd|#3" />
+	<CheckBox Name="IgnoreIsoAnnotationsFromCK" Tag="[GroupBox]Advanced settings *|$groupBox_AdvancedSettings|#4/[CheckBox]Ignore Iso annotations from model|$checkBox_IgnoreAnnotations|#2" />
+	<PopupList Name="PopupListPL" Tag="[GroupBox]Advanced settings *|$groupBox_AdvancedSettings|#4/[PopupList]$comboBox_NorthArrowDir|#1" />
+	<PushButton Name="DropDownButton1PB" Tag="[GroupBox]Advanced settings *|$groupBox_AdvancedSettings|#4/[PopupList]$comboBox_NorthArrowDir|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+	<CheckBox Name="IgnoreBreakPointsFromCK" Tag="[GroupBox]Advanced settings *|$groupBox_AdvancedSettings|#4/[CheckBox]Ignore Break Points from model|$checkBox_IgnoreBreakPoints|#1" />
+	<GroupBox Name="ExportSettingsGB" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2" />
+	<CheckBox Name="CreatePCFPerIsoCK" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[CheckBox]Create PCF per Iso Sheet*|$pcfOutputCheckbox|#1" />
+	<StaticText Name="PCFOutputST" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[StaticText]PCF Output:|$label3|#1" />
+	<CheckBox Name="SpoolCK" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[CheckBox]Spool|$checkBox_ExportSpool|#5" />
+	<CheckBox Name="WeldCK" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[CheckBox]Weld|$checkBox_ExportWeld|#3" />
+	<CheckBox Name="CutPieceCK" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[CheckBox]Cut Piece|$checkBox_ExportCutPiece|#4" />
+	<CheckBox Name="BOMCK" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[CheckBox]BOM|$checkBox_ExportBOM|#2" />
+	<PopupList Name="FormatPL" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[PopupList]Format:|$comboBox_ExportFormat|#1" />
+	<PushButton Name="DropDownButton2PB" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[PopupList]Format:|$comboBox_ExportFormat|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+	<StaticText Name="FormatST" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[StaticText]Format:|$label2|#3" />
+	<StaticText Name="ExportTablesOnIsoST" Tag="[GroupBox]Export settings|$groupBox_ExportSettings|#2/[StaticText]Export tables on Iso creation:|$label1|#2" />
+	<GroupBox Name="OverrideIsoSplittingGB" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3" />
+	<CheckBox Name="SplitIsoWhenPropertyCK" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3/[CheckBox]Split Iso when property changes:|$checkBox_SplitIso|#1" />
+	<ListBox Name="ListBoxLB" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3/[ListBox]$checkedListBox_PropertyNames|#1" />
+	<ScrollBar Name="VerticalScrollBarSB" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3/[ListBox]$checkedListBox_PropertyNames|#1/[ScrollBar]Vertical Scroll Bar|$Vertical ScrollBar|#1" />
+	<ListBoxItem Name="LineNumberLBI" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3/[ListBox]$checkedListBox_PropertyNames|#1/[ListBoxItem]Line number|#1" />
+	<ListBoxItem Name="ServiceLBI" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3/[ListBox]$checkedListBox_PropertyNames|#1/[ListBoxItem]Service|#2" />
+	<ListBoxItem Name="SpecLBI" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3/[ListBox]$checkedListBox_PropertyNames|#1/[ListBoxItem]Spec|#3" />
+	<ListBoxItem Name="NominalDiameterLBI" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3/[ListBox]$checkedListBox_PropertyNames|#1/[ListBoxItem]Nominal diameter|#4" />
+	<ListBoxItem Name="MaterialLBI" Tag="[GroupBox]Override Iso splitting|$groupBox_Splitting|#3/[ListBox]$checkedListBox_PropertyNames|#1/[ListBoxItem]Material|#5" />
+	<PushButton Name="HelpPB" Tag="[PushButton]Help|$button_help|#3" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$button_cancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$button_OK|#1" />
+	<TitleBar Name="AdvancedIsoCreationOptionsCTL" Tag="[TitleBar]Advanced Iso Creation Options|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Advanced Iso Creation Options|$TitleBar|#1/[CustomWin]System Menu Bar|$QuickIsoOptions|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Advanced Iso Creation Options|$TitleBar|#1/[CustomWin]System Menu Bar|$QuickIsoOptions|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Advanced Iso Creation Options|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

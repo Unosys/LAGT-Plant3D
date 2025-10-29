@@ -1,0 +1,7 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DeletePIDPainterStyleDLG" Tag="[DialogBox]Delete P*|#1" ParentType="Pane" GUIType="UIA">
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7|#2" />
+  <StaticText Name="AreYouSureYouST" Tag="[StaticText]Are you sure you want to delete &quot;Color by Service&quot; ?|$65535|#1" />
+  <TitleBar Name="DeletePIDPainterStyleCTL" Tag="[TitleBar]Delete P*|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Delete P*|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

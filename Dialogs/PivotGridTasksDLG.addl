@@ -1,0 +1,4 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PivotGridTasksDLG" Tag="[Pane]PivotGridTasksDLG|#1" ParentType="Pane">
+<CustomWin Name="RunDesigner" Tag="[CustomWin]$DevExpress.XtraReports.Design.LinkLine" />
+<CustomWin Name="DevExpressXtraPrintingNative" Tag="[CustomWin]$DevExpress.XtraPrinting.Native.Lines.EditorPropertyLine+DropDownEdit" />
+</Pane>

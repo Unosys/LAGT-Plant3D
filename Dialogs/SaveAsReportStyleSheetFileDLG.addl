@@ -1,0 +1,48 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveAsReportStyleSheetFileDLG" Tag="[DialogBox]Save As" ParentType="StylesEditorDLG">
+<CustomWin Name="AddressBandRoot" Tag="[CustomWin]$Address Band Root" />
+<ToolBar Name="AddressCProgramFilesAutodeskAutoCAD2015PLNT3D" Tag="[ToolBar]$" />
+<CustomWin Name="AutoCAD2015" Tag="[CustomWin]$" />
+<CustomWin Name="Autodesk" Tag="[CustomWin]$" />
+<CustomWin Name="BreadcrumbParent" Tag="[CustomWin]$Breadcrumb Parent" />
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<ComboBox Name="ComboBox" Tag="[ComboBox]$" />
+<ComboBox Name="ComboBox2" Tag="[ComboBox]$" />
+<CustomWin Name="Computer" Tag="[CustomWin]$" />
+<CustomWin Name="CtrlNotifySink" Tag="[CustomWin]$CtrlNotifySink" />
+<CustomWin Name="CtrlNotifySink2" Tag="[CustomWin]$CtrlNotifySink" />
+<CustomWin Name="CtrlNotifySink3" Tag="[CustomWin]$CtrlNotifySink" />
+<CustomWin Name="Desktop" Tag="[CustomWin]$" />
+<CustomWin Name="DirectUIHWND" Tag="[CustomWin]$DirectUIHWND" />
+<CustomWin Name="DirectUIHWND2" Tag="[CustomWin]$DirectUIHWND" />
+<CustomWin Name="DirectUIHWND3" Tag="[CustomWin]$DirectUIHWND" />
+<CustomWin Name="DUIViewWndClassName" Tag="[CustomWin]$DUIViewWndClassName" />
+<CustomWin Name="FloatNotifySink" Tag="[CustomWin]$FloatNotifySink" />
+<CustomWin Name="FloatNotifySink2" Tag="[CustomWin]$FloatNotifySink" />
+<PushButton Name="HideFolders" Tag="[PushButton]$" />
+<ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$" />
+<ScrollBar Name="HorizontalScrollBar2" Tag="[ScrollBar]$" />
+<CustomWin Name="LocalDiskC" Tag="[CustomWin]$" />
+<CustomWin Name="NamespaceTreeControl" Tag="[CustomWin]$" />
+<CustomWin Name="PLNT3D" Tag="[CustomWin]$" />
+<CustomWin Name="ProgramFiles" Tag="[CustomWin]$" />
+<CustomWin Name="CustomWin" Tag="[CustomWin]$" />
+<PushButton Name="PushToolItem" Tag="[PushButton]$" />
+<PushButton Name="PushToolItem3" Tag="[PushButton]$" />
+<PushButton Name="PushToolItem4" Tag="[PushButton]$" />
+<PushButton Name="PushToolItem5" Tag="[PushButton]$" />
+<PushButton Name="PushToolItem6" Tag="[PushButton]$" />
+<CustomWin Name="ReBarWindow32" Tag="[CustomWin]$ReBarWindow32" />
+<PushButton Name="Save" Tag="[PushButton]$1" />
+<CustomWin Name="SearchBox" Tag="[CustomWin]$Search Box" />
+<CustomWin Name="SearchEditBoxWrapperClass" Tag="[CustomWin]$SearchEditBoxWrapperClass" />
+<CustomWin Name="ShellView" Tag="[CustomWin]$" />
+<TextField Name="TextField" Tag="[TextField]$" />
+<ToolBar Name="ToolBar" Tag="[ToolBar]$" />
+<ToolBar Name="ToolBar2" Tag="[ToolBar]$" />
+<ToolBar Name="ToolBar4" Tag="[ToolBar]$" />
+<CustomWin Name="TravelBand" Tag="[CustomWin]$TravelBand" />
+<TreeView Name="Tree" Tag="[TreeView]$" />
+<CustomWin Name="UniversalSearchBand" Tag="[CustomWin]$UniversalSearchBand" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$" />
+<CustomWin Name="WorkerW" Tag="[CustomWin]$WorkerW" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

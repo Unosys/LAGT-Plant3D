@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDCloseProjectDrawingsDLG" Tag="[DialogBox]Close Project Drawings" ParentType="CustomWin">
+  <Pane Name="CloseProjectDrawingsPANE" GUIType="UIA" Tag="[Pane]Close Project Drawings|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Close Project Drawings|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Close Project Drawings|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Close Project Drawings|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="OneOrMoreDrawingsST" Tag="[Pane]Close Project Drawings|$Window|#1/[StaticText]One or more drawings of the current project are still open*|$MainInstruction|#1" />
+  <PushButton Name="OKPB" Tag="[Pane]Close Project Drawings|$Window|#1/[PushButton]OK|$CommandButton_1|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]Close Project Drawings|$Window|#1/[PushButton]Cancel|$CommandButton_2|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

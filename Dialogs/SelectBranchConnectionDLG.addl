@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectBranchConnectionDLG" Tag="[Window]Select Branch Connection|$SelectBranchConnectionWindow" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Select Branch Connection|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$okBtn|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$cancelBtn|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDStyleAlreadyExistsInDrawingErrorDLG" Tag="[DialogBox]Error" >
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="StyleTestAlreadyExistsInD" Tag="[StaticText]Style Test already exists in drawing!|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

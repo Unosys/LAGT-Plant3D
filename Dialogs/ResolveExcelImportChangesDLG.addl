@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ResolveExcelImportChangesDLG" Tag="[Pane]$ResolveExcelImportChanges" >
+
+	<PushButton Name="CancelPB" Tag="[Pane]$m_Panel_Bottom|#3/[PushButton]Cancel|$m_btn_Cancel|#2" />
+
+</Autodesk.GUIHarness.Pane>

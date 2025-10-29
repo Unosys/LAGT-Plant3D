@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportReportDataDLG" Tag="[DialogBox]Export Report Data" ParentType="Plant3D">
+<PushButton Name="Help" Tag="[PushButton]#4|$m_btHelp" />
+<StaticText Name="NoteEachSelectedReportIs" Tag="[StaticText]#3|$m_lbNote" />
+<PushButton Name="Cancel" Tag="[PushButton]$m_btCancel" />
+<PushButton Name="Browse" Tag="[PushButton]$m_btBrowse" />
+<PushButton Name="Export" Tag="[PushButton]$m_btExport" />
+<TextField Name="ExportFile" Tag="[TextField]#1|$m_tbFileName" />
+<StaticText Name="ExportFileText" Tag="[StaticText]#2|$m_lbExportFile" />
+<StaticText Name="ReportsText" Tag="[StaticText]#1|$m_lbReports" />
+<ListBox Name="Reports" Tag="[ListBox]#1|$m_checkedListBox" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,6 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.MapTitleBlockAttributesDLG" Tag="[Pane]$IsometricMapTBAttributesDlg" >
+
+<PushButton Name="M_cancelBtn" Tag="[PushButton]$m_cancelBtn" />
+
+<PushButton Name="M_okBtn" Tag="[PushButton]$m_okBtn" />
+</Pane>

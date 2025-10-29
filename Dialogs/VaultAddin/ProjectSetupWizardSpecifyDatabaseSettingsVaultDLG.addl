@@ -1,0 +1,55 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardSpecifyDatabaseSettingsVaultDLG" Tag="[Pane]$CreateProjectWizard" ParentType="Plant3D">
+<!--<StaticText Name="M_authentLbl" Tag="[StaticText]$m_authentLbl" />
+<PushButton Name="M_btnDbGenName" Tag="[PushButton]$m_btnDbGenName" />
+<PushButton Name="M_btnTestConnection" Tag="[PushButton]$m_btnTestConnection" />
+<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+<PushButton Name="M_buttonNext" Tag="[PushButton]$m_buttonNext" />
+<ComboBox Name="M_comboAuthent" Tag="[ComboBox]$m_comboAuthent" />
+<ComboBox Name="M_comboServer" Tag="[ComboBox]$m_comboServer" />
+<TextField Name="M_comboServerTextField" Tag="[TextField]$m_comboServer" />
+<StaticText Name="M_dbNameLabel" Tag="[StaticText]$m_dbNameLabel" />
+<StaticText Name="M_dbPageLbl" Tag="[StaticText]$m_dbPageLbl" />
+<StaticText Name="M_helpLbl" Tag="[StaticText]$m_helpLbl" />
+<Link Name="M_linkHelpLbl" Tag="[Link]$m_linkHelpLbl" />
+<StaticText Name="M_pwdLbl" Tag="[StaticText]$m_pwdLbl" />
+<StaticText Name="M_serverNameLbl" Tag="[StaticText]$m_serverNameLbl" />
+<TextField Name="M_tbDbName" Tag="[TextField]$m_tbDbName" />
+<TextField Name="M_tbPwd" Tag="[TextField]$m_tbPwd" />
+<TextField Name="M_tbUsrName" Tag="[TextField]$m_tbUsrName" />
+<TextField Name="M_tbVaultRootFolder" Tag="[TextField]$m_tbVaultRootFolder" />
+<StaticText Name="M_usrNameLbl" Tag="[StaticText]$m_usrNameLbl" />
+<StaticText Name="M_VaultRootLbl" Tag="[StaticText]$m_VaultRootLbl" />
+<StaticText Name="M_winAuthMsgLbl" Tag="[StaticText]$m_winAuthMsgLbl" />
+ --><!--//<CustomWin Name ="M_wizardSetup" Tag="$m_wizardSetup" />-->
+<GroupBox Name="PageDBSettings" Tag="[GroupBox]$pageDBSettings" />
+  <Pane Name="PanePANE" Tag="[Pane]$m_wizardSetup|#1" />
+  <Pane Name="ReportNominalDiametersOfPANE" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1" />
+  <StaticText Name="UsersWillNotBeST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]Users will not be required to enter any credentials when they*|$m_winAuthMsgLbl|#6" />
+  <StaticText Name="VaultFolderPathST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]Vault folder path:|$m_VaultRootLbl|#2" />
+  <TextField Name="VaultFolderPathTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[TextField]Vault folder path:|$m_tbVaultRootFolder|#1" />
+  <Link Name="LearnMoreLINK" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[Link]Learn More|$m_linkHelpLbl|#1" />
+  <TextField Name="PasswordTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[TextField]Password:|$m_tbPwd|#4" />
+  <StaticText Name="PasswordST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]Password:|$m_pwdLbl|#8" />
+  <TextField Name="UserNameTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[TextField]User name:|$m_tbUsrName|#3" />
+  <StaticText Name="UserNameST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]User name:|$m_usrNameLbl|#7" />
+  <PopupList Name="AuthenticationPL" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[PopupList]Authentication:|$m_comboAuthent|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[PopupList]Authentication:|$m_comboAuthent|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="AuthenticationST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]Authentication:|$m_authentLbl|#5" />
+  <PushButton Name="M_btnDbGenName" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[PushButton]Test Name|$m_btnDbGenName|#2" />
+  <TextField Name="DatabaseNamePrefixTF" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[TextField]Database name prefix:|$m_tbDbName|#2" />
+  <StaticText Name="DatabaseNamePrefixST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]Database name prefix:|$m_dbNameLabel|#4" />
+  <StaticText Name="DoYouHaveAnST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]Do you have an existing project that you would like to convert to SQL Server?|$m_helpLbl|#9" />
+  <StaticText Name="SQLServerNameST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]SQL Server name:|$m_serverNameLbl|#3" />
+  <PushButton Name="TestConnectionPB" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[PushButton]Test Connection|$m_btnTestConnection|#1" />
+  <ComboBox Name="M_comboServer" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[ComboBox]SQL Server name:|$m_comboServer|#1" />
+  <StaticText Name="AProjectMasterDatabaseST" Tag="[Pane]$m_wizardSetup|#1/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings|#1/[StaticText]A project master database will be created in the specified SQL Server*|$m_dbPageLbl|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Cancel|$m_buttonCancel|#3" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup|#1/[PushButton]Next &gt;&gt;|$m_buttonNext|#2" />
+  <PushButton Name="BackPB" Tag="[Pane]$m_wizardSetup|#1/[PushButton]&lt;&lt; Back|$m_buttonBack|#1" />
+  <TitleBar Name="ProjectSetupWizardPageCTL" Tag="[TitleBar]Project Setup Wizard (Page 5 of 6)|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup Wizard (Page 5 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup Wizard (Page 5 of 6)|$TitleBar|#1/[CustomWin]System Menu Bar|$CreateProjectWizard|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="M_buttonCancel" Tag="[TitleBar]Project Setup Wizard (Page 5 of 6)|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecAndCatalogMigrationRequireTaskDLG" Tag="[MainWin]Spec and Catalog Migration Required|$Window_1" >
+
+  <TitleBar Name="SpecAndCatalogMigrationCTL" Tag="[TitleBar]Spec and Catalog Migration Required|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Spec and Catalog Migration Required|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Spec and Catalog Migration Required|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="Close1PB" Tag="[TitleBar]Spec and Catalog Migration Required|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <Image Name="ImageIMG" Tag="[Image]$image1|#1" />
+  <StaticText Name="SpecAndCatalogFiles1ST" Tag="[StaticText]Spec and Catalog files being opened were created with a previous version of Autodesk AutoCAD Plant 3D|$textBlock1|#1" />
+  <StaticText Name="SpecAndCatalogFiles2ST" Tag="[StaticText]Spec and Catalog files must be migrated to the current version before they can be used*|$textBlock2|#2" />
+  <StaticText Name="UseTheMigrateSpecsST" Tag="[StaticText]Use the Migrate Specs *|$textBlock3|#3" />
+  <GroupBox Name="ShowDetailsGB" Tag="[GroupBox]Show details|$expanderFiles|#1" />
+  <PushButton Name="ShowDetailsPB" Tag="[GroupBox]Show details|$expanderFiles|#1/[PushButton]Show details|$HeaderSite|#1" />
+  <StaticText Name="ShowDetailsST" Tag="[GroupBox]Show details|$expanderFiles|#1/[PushButton]Show details|$HeaderSite|#1/[StaticText]Show details|#1" />
+  <PushButton Name="Close2PB" Tag="[PushButton]Close|$button1|#1" />
+  <StaticText Name="CloseST" Tag="[PushButton]Close|$button1|#1/[StaticText]Close|#1" />
+
+</Autodesk.GUIHarness.MainWin>

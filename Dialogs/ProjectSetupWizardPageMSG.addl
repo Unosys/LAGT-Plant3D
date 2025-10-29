@@ -1,0 +1,6 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardPageMSG" Tag="[DialogBox]Project Setup Wizard (Page 1 of 6)" ParentType="Pane" GUIType="UIA">
+
+  <PushButton Name="Yes" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="NO" Tag="[PushButton]No|$7|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

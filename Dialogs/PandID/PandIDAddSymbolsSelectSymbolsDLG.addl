@@ -1,0 +1,23 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDAddSymbolsSelectSymbolsDLG" Tag="[Pane]$SelectSymbolDlg" >
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label2" Tag="[StaticText]$label2" />
+<StaticText Name="Label3" Tag="[StaticText]$label3" />
+<PushButton Name="M_AddBtn" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]Selected Blocks: [2]|$tableLayoutPanel2|#3/[PushButton]$m_AddBtn" />
+<StaticText Name="M_AvaibleBlockPreviewStatic" Tag="[StaticText]$m_AvaibleBlockPreviewStatic" />
+<GroupBox Name="M_AvaiblePrevewGroupBox" Tag="[GroupBox]$m_AvaiblePrevewGroupBox" />
+<ListBox Name="M_AvailableBlockLB" Tag="[ListBox]$m_AvailableBlockLB" />
+<PushButton Name="M_BrowseBtn" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]Selected Blocks: [1]|$panel4|#2/[PushButton]$m_BrowseBtn" />
+<PushButton Name="M_HelpBtn" Tag="[PushButton]$m_HelpBtn" />
+<PushButton Name="M_NextBtn" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]No preview available|$panel3|#4/[PushButton]$m_NextBtn" />
+<PushButton Name="M_RemoveBtn" Tag="[PushButton]$m_RemoveBtn" />
+<ListBox Name="M_SelectedBlockLB" Tag="[ListBox]$m_SelectedBlockLB" />
+<StaticText Name="M_SelectedBlockPreviewStatic" Tag="[StaticText]$m_SelectedBlockPreviewStatic" />
+<ComboBox Name="M_SelectedDrawingCB" Tag="[ComboBox]$m_SelectedDrawingCB" />
+<TextField Name="M_SelectedDrawingCBTextField" Tag="[TextField]$m_SelectedDrawingCB" />
+<GroupBox Name="M_SelectedPrevewGroupBox" Tag="[GroupBox]$m_SelectedPrevewGroupBox" />
+<GroupBox Name="Panel3" Tag="[GroupBox]$panel3" />
+<GroupBox Name="Panel4" Tag="[GroupBox]$panel4" />
+<GroupBox Name="TableLayoutPanel1" Tag="[GroupBox]$tableLayoutPanel1" />
+<GroupBox Name="TableLayoutPanel2" Tag="[GroupBox]$tableLayoutPanel2" />
+<GroupBox Name="TableLayoutPanel3" Tag="[GroupBox]$tableLayoutPanel3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

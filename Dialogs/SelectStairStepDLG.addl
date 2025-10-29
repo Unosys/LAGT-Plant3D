@@ -1,0 +1,21 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectStairStepDLG" Tag="[DialogBox]Select Step" ParentType="StairSettingsDLG" GUIType="UIA">
+  <StaticText Name="TreadStandardST" Tag="[StaticText]Tread standard:|$2540|#1" />
+  <ListBox Name="TreadStandardLB" Tag="[ListBox]Tread standard:|$1074|#1" />
+  <StaticText Name="StaticTextST" Tag="[StaticText]$-1|#2" />
+  <StaticText Name="TreadShapeST" Tag="[StaticText]Tread shape:|$2541|#3" />
+  <ListBox Name="TreadShapeLB" Tag="[ListBox]Tread shape:|$1259|#2" />
+  <GroupBox Name="DimensionsGB" Tag="[GroupBox]Dimensions|$2545|#1" />
+  <StaticText Name="SizeST" Tag="[StaticText]Size:|$2550|#4" />
+  <TextField Name="SizeTF" Tag="[TextField]Size:|$1000|#1" />
+  <StaticText Name="Height1ST" Tag="[StaticText]Height (1):|$2547|#5" />
+  <TextField Name="Height1TF" Tag="[TextField]Height (1):|$1001|#2" />
+  <StaticText Name="Width2ST" Tag="[StaticText]Width (2):|$2548|#6" />
+  <TextField Name="Width2TF" Tag="[TextField]Width (2):|$1002|#3" />
+  <StaticText Name="Chamfer3ST" Tag="[StaticText]Chamfer (3):|$2549|#7" />
+  <TextField Name="Chamfer3TF" Tag="[TextField]Chamfer (3):|$1003|#4" />
+  <PushButton Name="AddPB" Tag="[PushButton]Add|$2542|#2" />
+  <PushButton Name="RemovePB" Tag="[PushButton]Remove|$2543|#1" />
+  <PushButton Name="OK" Tag="[PushButton]OK|$1|#3" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#4" />
+  <PushButton Name="Help" Tag="[PushButton]Help|$3|#5" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

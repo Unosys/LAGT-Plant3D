@@ -1,0 +1,10 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectExcelFilesValidatingDLG" Tag="[Window]$Window_1" ParentType="Desktop" GUIType="UIA">
+  <DialogBox Name="DialogBoxDLG" Tag="[DialogBox]#1" />
+  <PushButton Name="OKPB" Tag="[DialogBox]#1/[PushButton]OK|$2|#1" />
+  <StaticText Name="NoExcelInstallationWasST" Tag="[DialogBox]#1/[StaticText]No Excel installation was found|$65535|#1" />
+  <TitleBar Name="TitleBarCTL" Tag="[DialogBox]#1/[TitleBar]$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[DialogBox]#1/[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <StaticText Name="ValidatingST" Tag="[StaticText]Validating|$MainText|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]$MainProgessBar|#1" />
+  <StaticText Name="StaticTextST" Tag="[StaticText]$CurrentOperationText|#2" />
+</Window>

@@ -1,0 +1,73 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupPathsDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1" />
+  <TreeView Name="M_treeView" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#2" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#3" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#4" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#5" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="EndConnectionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]End Connections|#1" />
+  <TreeViewItem Name="LineSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Line Settings|#2" />
+  <TreeViewItem Name="ExportAndImportSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Export and Import Settings|#3" />
+  <TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Paths|#4" />
+  <TreeViewItem Name="DataManagerConfigurationTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]Data Manager Configuration|#5" />
+  <TreeViewItem Name="PIDClassDefinitionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2/[TreeViewItem]P*|#6" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$25625834|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1" />
+  <GroupBox Name="PathsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1" />
+  <PushButton Name="PushButton1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[PushButton]**[1]|$m_btnDrawingDwtTemplate|#3" />
+  <PushButton Name="PushButton2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[PushButton]**[2]|$m_btnProjectDwgDir|#1" />
+  <TextField Name="M_textBoxDrawingDwtTemplate" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[TextField]Drawing template file (DWT):|$m_textBoxDrawingDwtTemplate|#4" />
+  <TextField Name="PIDDWGDirectoryTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[TextField]PID DWG directory:|$m_textBoxProjectDwgDirectory|#1" />
+  <StaticText Name="DrawingTemplateFileDWTST" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[StaticText]Drawing template file (DWT):|$m_labelPnidDwtFileName|#4" />
+  <StaticText Name="PIDDWGDirectoryST" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[StaticText]P*|$m_lablePnidDwgDwgDirectory|#1" />
+  <TextField Name="SymbolsAndStylesTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[TextField]Symbols and styles:|$m_textBoxProjSymbolStyles|#3" />
+  <StaticText Name="SymbolsAndStylesST" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[StaticText]Symbols and styles:|$m_labelPssFile|#3" />
+  <StaticText Name="ProjectPackageST" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[StaticText]Project package:|$m_labelSchemaDcfx|#2" />
+  <PushButton Name="ReloadPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[PushButton]Reload|$m_btnClassSchema|#2" />
+  <TextField Name="ProjectPackageTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$25100524|#1/[Pane]$m_splitVert|#1/[Pane]$10617086|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[TextField]Project package:|$m_textBoxSchema|#2" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="M_btnOk" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$3346566|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+  <!--<CustomWin Name="Control" Tag="[CustomWin]$" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnClassSchema" Tag="[PushButton]$m_btnClassSchema" />
+<PushButton Name="M_btnDrawingDwtTemplate" Tag="[PushButton]$m_btnDrawingDwtTemplate" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnProjectDwgDir" Tag="[PushButton]$m_btnProjectDwgDir" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<GroupBox Name="M_groupBox" Tag="[GroupBox]$m_groupBox" />
+<StaticText Name="M_labelPnidDwtFileName" Tag="[StaticText]$m_labelPnidDwtFileName" />
+<StaticText Name="M_labelPssFile" Tag="[StaticText]$m_labelPssFile" />
+<StaticText Name="M_labelSchemaDcfx" Tag="[StaticText]$m_labelSchemaDcfx" />
+<StaticText Name="M_lablePnidDwgDwgDirectory" Tag="[StaticText]$m_lablePnidDwgDwgDirectory" />
+<CustomWin Name="M_pathsUserControl" Tag="[CustomWin]$m_pathsUserControl" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TextField Name="M_textBoxDrawingDwtTemplate" Tag="[TextField]$m_textBoxDrawingDwtTemplate" />
+<TextField Name="M_textBoxProjectDwgDirectory" Tag="[TextField]$m_textBoxProjectDwgDirectory" />
+<TextField Name="M_textBoxProjSymbolStyles" Tag="[TextField]$m_textBoxProjSymbolStyles" />
+<TextField Name="M_textBoxSchema" Tag="[TextField]$m_textBoxSchema" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />-->
+</Pane>

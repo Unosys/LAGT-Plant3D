@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DOrthoGenerationDLG1" Tag="[Window]Plant 3D - Ortho Generation|$OrthoUpdateDlg" ParentType="MainWin" GUIType="UIA">
+
+
+	<CheckBox Name="CheckBox1CK" Tag="[CustomWin]$StartPage|#1/[CheckBox]$OptionCheckBox|#1" />
+	<CheckBox Name="CheckBox2CK" Tag="[CustomWin]$StartPage|#1/[CheckBox]$OptionCheckBox|#2" />
+
+	<PushButton Name="CancelPB" Tag="[CustomWin]$StartPage|#1/[PushButton]Cancel|$CancelButton|#2" />
+	<PushButton Name="UpdatePB" Tag="[CustomWin]$StartPage|#1/[PushButton]Update|$UpdateButton|#1" />
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+
+	<PushButton Name="Close2PB" Tag="[CustomWin]$SuccessPage|#1/[PushButton]$CloseButton|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

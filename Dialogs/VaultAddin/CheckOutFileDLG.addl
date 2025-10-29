@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CheckOutFileDLG" Tag="[DialogBox]$frmVaultCheckoutFile" ParentType="Plant3D">
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_cancelBtn" Tag="[PushButton]$m_cancelBtn" />
+<PushButton Name="M_commentBtn" Tag="[PushButton]$m_commentBtn" />
+<CheckBox Name="M_downloadLatestCB" Tag="[CheckBox]$m_downloadLatestCB" />
+<PushButton Name="M_okBtn" Tag="[PushButton]$m_okBtn" />
+<GroupBox Name="Panel1" Tag="[GroupBox]$panel1" />
+<GroupBox Name="Panel2" Tag="[GroupBox]$panel2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

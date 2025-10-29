@@ -1,0 +1,11 @@
+﻿<ProductTestSuite.CommonFiles.AdDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LinceseGetStartedDLG" Tag="[MainWin]IE WebBrowser|$IEWebBrowserDlg" ParentType="Desktop" GUIType="UIA">
+
+
+	<PushButton Name="Select2PB" Tag="[GroupBox]$IEWebBrowserDlg.browser|#1/[GroupBox]#1/[Pane]#1/[Pane]#1/[Pane]#1/[ListBox]#1/[ListBoxItem]#2/[PushButton]#1" />
+
+	<TextField Name="ServerNameTF" Tag="[GroupBox]$IEWebBrowserDlg.browser|#1/[GroupBox]#1/[Pane]#1/[Pane]#1/[Pane]#1/[TextField]#1" />
+
+	<PushButton Name="DonePB" Tag="[GroupBox]$IEWebBrowserDlg.browser|#1/[GroupBox]#1/[Pane]#1/[Pane]#1/[Pane]#1/[PushButton]#2" />
+
+
+</ProductTestSuite.CommonFiles.AdDialogBox>

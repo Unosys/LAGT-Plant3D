@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VariablesDLG" Tag="[Pane]Variables|$VariablesInfoForm|#1" ParentType="ReportConfigurationDLG" GUIType="UIA">
+  <PushButton Name="M_okBtn" Tag="[PushButton]OK|$m_okBtn|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]$m_tableLayoutPanel|#1" />
+  <StaticText Name="PNPPDTDWGST" Tag="[Pane]$m_tableLayoutPanel|#1/[StaticText]*PN*|$m_varsLbl|#2" />
+  <StaticText Name="ProjectNameCreatedST" Tag="[Pane]$m_tableLayoutPanel|#1/[StaticText]= Project name created by Autodesk AutoCAD P*|$m_varsDescripLbl|#3" />
+  <StaticText Name="TheFollowingCharactersCantST" Tag="[Pane]$m_tableLayoutPanel|#1/[StaticText]The following characters can’t be used: *|$m_helpLbl|#4" />
+  <StaticText Name="AvailableVariablesForExportST" Tag="[Pane]$m_tableLayoutPanel|#1/[StaticText]Available variables for “Export file path” are:|$m_helpIntroductionLbl|#1" />
+  <TitleBar Name="VariablesCTL" Tag="[TitleBar]Variables|$TitleBar|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Variables|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Variables|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Variables|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Pane>

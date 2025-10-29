@@ -1,0 +1,8 @@
+[
+{"DlgName":"BrowseForFolderVaultDLG","Release":"2017","Feature":"VaultAddin","Execute":true,"Status":"FAIL","IsBaseProduct":false,"BaseProduct":"","Children":[],"InventorUI":null},
+{"DlgName":"UserConflictDLG","Release":"2017","Feature":"VaultAddin","Execute":true,"Status":"FAIL","IsBaseProduct":false,"BaseProduct":"","Children":[],"InventorUI":null},
+{"DlgName":"VaultErrorDLG","Release":"2017","Feature":"VaultAddin","Execute":true,"Status":"FAIL","IsBaseProduct":false,"BaseProduct":"","Children":[],"InventorUI":null},
+{"DlgName":"VaultLogOutDLG","Release":"2017","Feature":"VaultAddin","Execute":true,"Status":"FAIL","IsBaseProduct":false,"BaseProduct":"","Children":[],"InventorUI":null},
+{"DlgName":"ReviseDLG","Release":"2017","Feature":"VaultAddin","Execute":true,"Status":"FAIL","IsBaseProduct":false,"BaseProduct":"","Children":[],"InventorUI":null},
+{"DlgName":"CheckOutCommentDLG","Release":"2017","Feature":"VaultAddin","Execute":true,"Status":"FAIL","IsBaseProduct":false,"BaseProduct":"","Children":[],"InventorUI":null},
+{"DlgName":"ProjectSetupWizardSpecifyDatabaseSettingsVaultDLG","Release":"2017","Feature":"VaultAddin","Execute":true,"Status":"FAIL","IsBaseProduct":false,"BaseProduct":"","Children":[],"InventorUI":null}]

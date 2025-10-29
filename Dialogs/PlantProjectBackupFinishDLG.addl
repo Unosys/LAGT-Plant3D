@@ -1,0 +1,5 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectBackupFinishDLG" Tag="[Window]Plant 3D - Project Backup|$PrjBackUpDlog" >
+	<PushButton Name="Close2PB" Tag="[CustomWin]$SuccessPage|#1/[PushButton]Close|$CloseButton|#2" />
+	<PushButton Name="OpenBackupLocationPB" Tag="[CustomWin]$SuccessPage|#1/[PushButton]Open Backup Location|$OpenButton|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

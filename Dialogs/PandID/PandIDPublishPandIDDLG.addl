@@ -1,0 +1,54 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDPublishPandIDDLG" Tag="[DialogBox]Publish" ParentType="Plant3D">
+<StaticText Name="SheetListText" Tag="[StaticText]Sheet List:|#1|$6032" />
+<PopupList Name="SheetList" Tag="[PopupList]Sheet List:|#1|$6039" />
+<PushButton Name="LoadSheetList" Tag="[PushButton]Load Sheet List|#1|$4557" />
+<PushButton Name="SaveSheetList" Tag="[PushButton]Save Sheet List|#2|$4558" />
+<StaticText Name="PublishToText" Tag="[StaticText]Publish to:|#5|$6033" />
+<PopupList Name="PublishTo1" Tag="[PopupList]Publish to:|#2|$6040" />
+<CheckBox Name="AutomaticallyLoadAllOpenDr" Tag="[CheckBox]Automatically load all open drawings|#1|$5159" />
+<PushButton Name="AddSheets" Tag="[PushButton]Add Sheets|#4|$4553" />
+<PushButton Name="RemoveSheets" Tag="[PushButton]Remove Sheets|#5|$4554" />
+<PushButton Name="MoveSheetUp" Tag="[PushButton]Move Sheet Up|#6|$4555" />
+<PushButton Name="MoveSheetDown" Tag="[PushButton]Move Sheet Down|#7|$4556" />
+<PushButton Name="Preview" Tag="[PushButton]Preview|#8|$4552" />
+<PushButton Name="PublishOptions" Tag="[PushButton]Publish Options|#3|$4568" />
+<ListView Name="PublishOptionsInformation" Tag="[ListView]Publish Options Information|#1|$4551" />
+<Header Name="Header1" Tag="[Header]#1|$0" />
+<PushButton Name="SheetName" Tag="[PushButton]Sheet Name|#1" />
+<PushButton Name="N3DDWF" Tag="[PushButton]3D DWF|#2" />
+<PushButton Name="PageSetup" Tag="[PushButton]Page Setup|#3" />
+<PushButton Name="Status" Tag="[PushButton]Status|#4" />
+<CheckBox Name="CheckBox1" Tag="[CheckBox]#1|$-5" />
+<CheckBox Name="CheckBox2" Tag="[CheckBox]#2|$-6" />
+<ListView Name="PublishTo2" Tag="[ListView]Publish to:|#2|$5167" />
+<Header Name="Header2" Tag="[Header]#1|$0" />
+<PushButton Name="PushButton1" Tag="#1" />
+<PushButton Name="PushButton2" Tag="#2" />
+<CustomWin Name="PublishTo3" Tag="[CustomWin][GrayFrame]Publish to:|[GrayFrame]#1|[GrayFrame]$4209" />
+<StaticText Name="NumberOfCopiesText" Tag="[StaticText]Number of copies:|#15|$4559" />
+<TextField Name="NumberOfCopies1" Tag="[TextField]Number of copies:|#1|$4560" />
+<UpDown Name="NumberOfCopies2" Tag="[UpDown]Number of copies:|#1|$4561" />
+<StaticText Name="PrecisionText" Tag="[StaticText]Precision:|#16|$4203" />
+<PopupList Name="Precision" Tag="[PopupList]Precision:|#3|$5158" />
+<CheckBox Name="IncludePlotStamp" Tag="[CheckBox]Include plot stamp|#2|$4579" />
+<CheckBox Name="PublishInBackground" Tag="[CheckBox]Publish in background|#3|$13347" />
+<CheckBox Name="OpenInViewerWhenDone" Tag="[CheckBox]Open in viewer when done|#4|$5160" />
+<PushButton Name="PlotStampSettings" Tag="[PushButton]Plot Stamp Settings|#9|$4582" />
+<PushButton Name="CurrentlyPublishingInDefaul" Tag="[PushButton]Currently publishing in default order.?Click to publish in reverse order.|#10|$4644" />
+<PushButton Name="Static" Tag="[PushButton]Static|#11|$4569" />
+<PushButton Name="Publish" Tag="[PushButton]Publish|#12|$4570" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|#13|$2" />
+<PushButton Name="Help" Tag="[PushButton]Help|#14|$9" />
+<StaticText Name="PublishOutputText" Tag="[StaticText]Publish Output|#14|$4550" />
+<StaticText Name="PublishOptionsInformationTex" Tag="[StaticText]Publish Options Information|#2|$4204" />
+<StaticText Name="LocationText" Tag="[StaticText]Location:|#3|$13348" />
+<StaticText Name="FileTypeText" Tag="[StaticText]File type:|#6|$13349" />
+<StaticText Name="NamingText" Tag="[StaticText]Naming:|#8|$13351" />
+<StaticText Name="LayerInformationText" Tag="[StaticText]Layer information:|#10|$13352" />
+<StaticText Name="MergeControlText" Tag="[StaticText]Merge control:|#12|$13353" />
+<StaticText Name="CDocumentsAndSettingsNsar" Tag="[StaticText]C:\Documents and Settings\nsarch\my documents\|#4|$13350" />
+<StaticText Name="SingleSheetFileText" Tag="[StaticText]Single-sheet file|#7|$13354" />
+<StaticText Name="NAText" Tag="[StaticText]N?A|#9|$13355" />
+<StaticText Name="DonTIncludeText" Tag="[StaticText]Don't include|#11|$13356" />
+<StaticText Name="LinesOverwriteText" Tag="[StaticText]Lines overwrite|#13|$13357" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,11 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoPLANTToDMappingClassMappingDLG" Tag="[Window]AutoPLANT to Plant 3D Mapping|$SpecMigration_EditMapping" ParentType="SpecEditorDLG" GUIType="UIA">
+  <StaticText Name="ClassMappingST" Tag="[PageList]$MainTabControl|#1/[Window]$ClassMappings/[StaticText]#1" />
+	<StaticText Name="GeometryMappingST" Tag="[PageList]$MainTabControl|#1/[Window]$GeomMappings/[StaticText]#1" />
+	<StaticText Name="PropertyTranslationST" Tag="[PageList]$MainTabControl|#1/[Window]$UtilityMappings/[StaticText]#1" />
+
+
+
+	<PushButton Name="AddScriptButton" Tag="[PageList]$MainTabControl|#1/[Window]Geometry Mapping|$GeomMappings|#3/[CustomWin]$SpecMigration_EditClassMapping|#1/[PushButton]+[2]|$AddScriptButton|#1" />-->
+	<PushButton Name="PushButton1PB" Tag="[PageList]$MainTabControl|#1/[Window]Class Mapping|$ClassMappings|#3/[CustomWin]$SpecMigration_EditClassMapping|#1/[PushButton]+|$AddButton|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#2" />
+</Window>

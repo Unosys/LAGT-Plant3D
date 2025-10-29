@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveAsCatalogBuilderExcelformatDLG" Tag="[DialogBox]Export to*" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+	<ComboBox Name="FileNameCB" Tag="[Pane]#2/[Pane]Explorer Pane|$main|#1/[Pane]Folder Layout Pane|$FolderLayoutContainer|#1/[Pane]Details Pane|$BackgroundClear|#3/[ComboBox]File name:|$FileNameControlHost|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

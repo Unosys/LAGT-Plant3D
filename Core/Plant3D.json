@@ -1,0 +1,628 @@
+﻿[
+
+  {
+    "DlgName": "Plant3DExternalDatabaseManagerDLG",
+    "ENU": "Plant 3D - External Database Manager",
+    "JPN": "Plant 3D - 外部データベース マネージャ",
+    "DEU": "Plant 3D - Manager für externe Datenbanken",
+    "FRA": "Plant 3D – Gestionnaire de base de données externe",
+    "CHS": "Plant 3D - 外部数据库管理器",
+    "KOR": "Plant 3D - 외부 데이터베이스 관리자",
+    "RUS": "Plant 3D — Диспетчер внешних баз данных"
+
+  },
+  {
+    "DlgName": "RegistryEditor",
+    "ENU": "Registry Editor",
+    "JPN": "レジストリ エディター",
+    "DEU": "Registrierungs*Editor",
+    "FRA": "Éditeur du Registre",
+    "CHS": "注册表编辑器",
+    "KOR": "레지스트리 편집기",
+    "RUS": "Редактор реестра"
+
+  },
+  {
+    "DlgName": "IsoStyleEditorSave",
+    "ENU": "Iso Style Editor",
+    "JPN": "アイソメ図スタイル エディタ",
+    "DEU": "ISO-Stil-Editor",
+    "RUS": "Редактор стилей ISO",
+    "CHS": "Iso 样式编辑器",
+    "FRA": "Éditeur de styles Iso"
+  },
+  {
+    "DlgName": "ExportDLG",
+    "ENU": "Export",
+    "JPN": "エクスポート",
+    "DEU": "Export",
+    "CHS": "导出",
+    "FRA": "Exporter",
+    "KOR": "내보내기"
+  },
+  {
+    "DlgName": "SelectPlant3DClassMappingDLG",
+    "ENU": "Select Plant3D Class Mapping",
+    "JPN": "Plant 3D クラス マッピングを選択",
+    "KOR": "Plant 3D 클래스 매핑 선택",
+    "RUS": "Выбор сопоставления класса Plant 3D",
+    "FRA": "Sélectionner le mappage de classe Plant 3D",
+    "CHS": "选择 Plant 3D 类别映射",
+    "DEU": "Plant 3D-Klassenzuordnung auswählen"
+
+  },
+  {
+    "DlgName": "UnrecognizedCharactersInLengthDLG",
+    "ENU": "Invalid Entry",
+    "CHS": "无效输入",
+    "JPN": "無効な入力",
+    "KOR": "잘못된 입력",
+    "DEU": "Ungültige Eingabe",
+    "RUS": "Недопустимая запись",
+    "FRA": "Entrée incorrecte"
+
+  },
+  {
+    "DlgName": "PrivacySettingsDLG",
+    "ENU": "Privacy Settings",
+    "JPN": "プライバシー設定",
+    "DEU": "Datenschutzeinstellungen",
+    "FRA": "Paramètres de confidentialité",
+    "CHS": "隐私设置",
+    "ITA": "Impostazioni relative alla privacy",
+    "CHT": "隱私權設定",
+    "ESP": "Configuración de privacidad",
+    "KOR": "개인정보 보호 설정",
+    "RUS": "Параметры конфиденциальности",
+    "CSY": "Nastavení ochrany osobních údajů",
+    "PLK": "Ustawienia prywatności",
+    "PTB": "Configurações de privacidade",
+    "HUN": "Adatvédelmi beállítások"
+  },
+  {
+    "DlgName": "OpenImageDLG",
+    "ENU": "Open",
+    "RUS": "Открытие"
+  },
+  {
+    "DlgName": "OpenDLG",
+    "ENU": "Open",
+    "JPN": "開く",
+    "DEU": "Öffnen",
+    "FRA": "Ouvrir",
+    "CHS": "打开",
+    "ITA": "Apri",
+    "CHT": "開啟",
+    "ESP": "Abrir",
+    "KOR": "열기",
+    "RUS": "Открытие|Открыть",
+    "CSY": "Otevřít",
+    "PLK": "Otwórz|Otwieranie",
+    "PTB": "Abrir",
+    "HUN": "Megnyitás"
+  },
+  {
+    "DlgName": "BackgroundImage",
+    "ENU": "Background Image",
+    "JPN": "背景イメージ",
+    "DEU": "Hintergrundbild",
+    "FRA": "Image d'arrière-plan",
+    "CHS": "背景图片",
+    "KOR": "배경 이미지",
+    "RUS": "Фоновое изображение"
+
+  },
+  {
+    "DlgName": "Administrator",
+    "ENU": "Administrator",
+    "JPN": "Administrator",
+    "DEU": "Administrator",
+    "FRA": "Administrateur",
+    "CHS": "Administrator",
+    "KOR": "Administrator",
+    "RUS": "Администратор"
+
+  },
+  {
+    "DlgName": "OrthoCreationinProcessDLG",
+    "ENU": "Ortho Creation in Process",
+    "JPN": "オルソ図の作成処理中",
+    "DEU": "Orthogonale Zeichnung wird erstellt",
+    "FRA": "Création ortho en cours",
+    "CHS": "正在创建正交",
+    "KOR": "직교 작성 진행 중",
+    "RUS": "Создание *Орто*в процессе"
+
+  },
+  {
+    "DlgName": "ValveOperator",
+    "ENU": "Valve Operator",
+    "JPN": "バルブ オペレータ",
+    "DEU": "Armaturenantrieb",
+    "FRA": "Opérateur de la vanne",
+    "CHS": "阀操作器",
+    "KOR": "밸브 작동기",
+    "RUS": "Привод арматуры"
+  },
+  {
+    "DlgName": "SignInProfile",
+    "ENU": "Sign in - Profile 1 - Microsoft​ Edge",
+    "JPN": "サイン イン - プロファイル 1 - Microsoft​ Edge",
+    "DEU": "Anmelden - Profil 1 – Microsoft​ Edge",
+    "FRA": "Connexion - Profile 1 - Microsoft​ Edge",
+    "CHS": "登录 - 曲线 1 - Microsoft​ Edge",
+    "KOR": "로그인 - 종단 1 - Microsoft​ Edge",
+    "RUS": "Вход - Профиль 1 - Microsoft​ Edge"
+  },
+  {
+    "DlgName": "FolderAlreadyExistsDLG",
+    "ENU": "Folder Already Exists",
+    "JPN": "フォルダは既に存在しています",
+    "DEU": "Ordner ist bereits vorhanden",
+    "FRA": "Le dossier existe déjà",
+    "CHS": "文件夹已存在",
+    "KOR": "폴더가 이미 있음",
+    "RUS": "Папка уже существует"
+  },
+  {
+    "DlgName": "ViewisUptoDateDLG",
+    "ENU": "View is Up to Date",
+    "JPN": "ビューは最新状態です",
+    "DEU": "Ansicht ist auf dem neuesten Stand",
+    "FRA": "La vue est à jour",
+    "CHS": "视图是最新的",
+    "KOR": "뷰가 최신 상태임",
+    "RUS": "Вид обновлен"
+  },
+  {
+    "DlgName": "ProjectRefreshFromVaultMSG",
+    "ENU": "Project Refresh from Vault Incomplete",
+    "JPN": "プロジェクトの * からの更新が不完全",
+    "DEU": "Projektaktualisierung aus * unvollständig",
+    "FRA": "Actualisation du projet à partir de * non terminée",
+    "CHS": "尚未完成从 * 刷新项目",
+    "KOR": "*에서 프로젝트 갱신 실패",
+    "RUS": "Обновление проекта из * не завершено"
+  },
+  {
+    "DlgName": "VaultProjectError",
+    "ENU": "Vault Project Error",
+    "JPN": "Vault プロジェクト エラー",
+    "DEU": "Vault-Projektfehler",
+    "FRA": "Erreur de projet Vault",
+    "CHS": "Vault 项目错误",
+    "KOR": "Vault 프로젝트 오류",
+    "RUS": "Ошибка проекта хранилища"
+  },
+  {
+    "DlgName": "PipingPipeSpecNotLoaded",
+    "ENU": "Piping - Pipe Spec Not Loaded",
+    "JPN": "配管 - 配管のスペックがロードされていません",
+    "DEU": "Rohrsystem - Rohrklasse nicht geladen",
+    "FRA": "Tuyauterie - Spécification des tuyauteries non chargée.",
+    "CHS": "管道 - 管道等级库未加载",
+    "KOR": "파이프 - 파이프 사양이 로드되지 않음",
+    "RUS": "Трубопровод — миникаталог трубы не загружен"
+  },
+  {
+    "DlgName": "PipeSpecs",
+    "ENU": "Pipe Specs",
+    "JPN": "配管スペック",
+    "DEU": "Rohrklassen",
+    "FRA": "Spécifications des tuyauteries",
+    "CHS": "管道等级库",
+    "KOR": "파이프 사양",
+    "RUS": "Мини-каталоги труб"
+  },
+  {
+    "DlgName": "DataLinkPropertiesDLG",
+    "ENU": "Data Link Properties",
+    "JPN": "データ リンク プロパティ",
+    "DEU": "Datenverknüpfungseigenschaften",
+    "FRA": "Propriétés des liaisons de données",
+    "CHS": "数据链接属性",
+    "KOR": "데이터 링크 특성",
+    "RUS": "Свойства канала передачи данных"
+  },
+  {
+    "DlgName": "ImportData",
+    "ENU": "Import Data",
+    "JPN": "データの読み込み",
+    "DEU": "Daten importieren",
+    "FRA": "Importer des données",
+    "CHS": "输入数据",
+    "KOR": "데이터 가져오기",
+    "RUS": "Импорт данных"
+  },
+  {
+    "DlgName": "ThemeSet",
+    "ENU": "Classic",
+    "JPN": "Classic",
+    "DEU": "Classic",
+    "FRA": "Classic",
+    "CHS": "Classic",
+    "ITA": "Classic",
+    "CHT": "Classic",
+    "ESP": "Classic",
+    "KOR": "Classic",
+    "RUS": "Classic",
+    "CSY": "Classic",
+    "PLK": "Classic",
+    "PTB": "Classic",
+    "HUN": "Classic"
+  },
+  {
+    "DlgName": "PortName",
+    "ENU": "Port Name",
+    "JPN": "ポート名",
+    "DEU": "Anschlussname",
+    "FRA": "Nom du port",
+    "CHS": "端口名称",
+    "KOR": "포트 이름",
+    "RUS": "Имя порта|Название порта"
+  },
+  {
+    "DlgName": "Administration",
+    "ENU": "Ad&ministration",
+    "JPN": "管理(&M)",
+    "DEU": "&Verwaltung",
+    "FRA": "&Verwaltung",
+    "CHS": "管理(&M)",
+    "KOR": "관리(&M)",
+    "RUS": "&Управление"
+  },
+  {
+    "DlgName": "VC_AutodeskCustomerInvolvementDLG",
+    "ENU": "Data collection and use",
+    "JPN": "データ収集および使用",
+    "DEU": "Datenerfassung und -verwendung",
+    "FRA": "Collecte des données et utilisation",
+    "CHS": "数据收集和使用",
+    "ITA": "Raccolta e utilizzo dati",
+    "CHT": "資料收集和使用",
+    "ESP": "Recopilación y uso de datos",
+    "KOR": "데이터 수집 및 사용",
+    "RUS": "Сбор и использование данных",
+    "CSY": "Shromažďování a používání dat",
+    "PLK": "Gromadzenie i użycie danych",
+    "PTB": "Coleta e uso de dados",
+    "HUN": "Adatok gyűjtése és felhasználása"
+  },
+  {
+    "DlgName": "GlobalSettings",
+    "ENU": "&Global Settings",
+    "JPN": "グローバル設定(&G)",
+    "DEU": "&Globale Einstellungen",
+    "FRA": "Paramètres &généraux",
+    "CHS": "全局设置(&G)",
+    "KOR": "전역 설정(&G)",
+    "RUS": "&Глобальные параметры"
+  },
+  {
+    "DlgName": "Users",
+    "ENU": "Users",
+    "JPN": "ユーザ",
+    "DEU": "Benutzer",
+    "FRA": "Utilisateurs",
+    "CHS": "用户",
+    "KOR": "사용자",
+    "RUS": "Пользователи"
+  },
+  {
+    "DlgName": "New",
+    "ENU": "New...",
+    "JPN": "新規作成...",
+    "DEU": "Neu...",
+    "FRA": "Créer...",
+    "CHS": "新建...",
+    "KOR": "새로 만들기...",
+    "RUS": "Создать..."
+  },
+  {
+    "DlgName": "Options",
+    "ENU": "&Options...",
+    "JPN": "옵션(&O)...",
+    "DEU": "&Optionen...",
+    "FRA": "Options&...",
+    "CHS": "选项(&O)...",
+    "KOR": "옵션(&O)...",
+    "RUS": "&Параметры..."
+  },
+  {
+    "DlgName": "Light",
+    "ENU": "Light",
+    "JPN": "ライト",
+    "DEU": "Hell",
+    "FRA": "Clair",
+    "CHS": "浅色",
+    "KOR": "밝음",
+    "RUS": "Светлая"
+  },
+  {
+    "DlgName": "Dark",
+    "ENU": "Dark",
+    "JPN": "ダーク",
+    "DEU": "Dunkel",
+    "FRA": "Foncé",
+    "CHS": "深色",
+    "KOR": "어두움",
+    "RUS": "Темная"
+  },
+  {
+    "DlgName": "Classic",
+    "ENU": "Classic",
+    "JPN": "クラシック",
+    "DEU": "Klassisch",
+    "FRA": "Classique",
+    "CHS": "深色",
+    "KOR": "클래식",
+    "RUS": "Классическая"
+  },
+  {
+    "DlgName": "Tools",
+    "ENU": "&Tools",
+    "JPN": "ツール(&T)",
+    "DEU": "E&xtras",
+    "FRA": "&Outils",
+    "CHS": "工具(&T)",
+    "KOR": "도구(&T)",
+    "RUS": "Се&рвис"
+  },
+  {
+    "DlgName": "ProjectExplorer",
+    "ENU": "Project Explorer ($)",
+    "JPN": "プロジェクト エクスプローラ($)",
+    "DEU": "Projekt*Explorer ($)",
+    "FRA": "Explorateur de projets ($)",
+    "CHS": "项目管理器($)",
+    "KOR": "프로젝트 탐색기($)",
+    "RUS": "Проводник проекта ($)"
+  },
+  {
+    "DlgName": "DrawingRecovery",
+    "ENU": "Drawing Recovery",
+    "JPN": "図面修復",
+    "DEU": "Zeichnungswiederherstellung",
+    "FRA": "Récupération du dessin",
+    "CHS": "图形修复",
+    "ITA": "Recupero disegni",
+    "CHT": "圖檔修復",
+    "ESP": "Recuperación del dibujo",
+    "KOR": "도면 복구",
+    "RUS": "Восстановление чертежа",
+    "CSY": "Restaurování výkresu",
+    "PLK": "Naprawianie rysunku",
+    "PTB": "Recuperação de desenho",
+    "HUN": "Rajz helyreállítása"
+  },
+  {
+    "DlgName": "DuplicateMapping",
+    "ENU": "Duplicate Mapping",
+    "JPN": "重複するマッピング",
+    "DEU": "Doppelte Zuordnung",
+    "FRA": "Mappage en double",
+    "CHS": "映射重复",
+    "KOR": "중복 매핑",
+    "RUS": "Дублированное сопоставление"
+  },
+  {
+    "DlgName": "ProjectSettingsLocked",
+    "ENU": "Project Settings Locked",
+    "JPN": "プロジェクト設定はロックされました",
+    "DEU": "Projekteinstellungen gesperrt",
+    "FRA": "Paramètres de projet verrouillés",
+    "CHS": "项目设置已锁定",
+    "KOR": "잠긴 프로젝트 설정",
+    "RUS": "Параметры проекта заблокированы"
+  },
+    {
+        "DlgName": "SaveTemplateTo",
+        "ENU": "Save Template To*",
+        "JPN": "テンプレートの保存先...",
+        "DEU": "*Speichern*",
+        "FRA": "*Enregistrer*",
+        "CHS": "*保存*",
+        "KOR": "*저장*",
+        "RUS": "*Сохранить*"
+    },
+    {
+        "DlgName": "SharedViews",
+        "ENU": "Shared Views",
+        "JPN": "共有ビュー",
+        "DEU": "Freigegebene Ansichten",
+        "FRA": "Vues partagées",
+        "CHS": "共享视图",
+        "KOR": "공유 뷰",
+        "RUS": "Общие виды"
+    },
+    {
+        "DlgName": "Properties",
+        "ENU": "Properties",
+        "JPN": "プロパティ",
+        "DEU": "Eigenschaften",
+        "FRA": "Propriétés",
+        "CHS": "特性",
+        "KOR": "특성",
+        "RUS": "Свойства"
+    },
+    {
+        "DlgName": "AboutAutodeskVaultProfessional",
+        "ENU": "&About Autodesk Vault Professional",
+        "JPN": "Autodesk Vault Professional バージョン情報(&A)",
+        "DEU": "&Info über Autodesk Vault Professional",
+        "FRA": "A pr&opos d'Autodesk Vault Professional",
+        "CHS": "关于 Autodesk Vault Professional(&O)",
+        "KOR": "Autodesk Vault Professional 정보(&A)",
+        "RUS": "&О программе Autodesk Vault Professional"
+    },
+    {
+        "DlgName": "WindowsAuthentication",
+        "ENU": "Windows Authentication",
+        "JPN": "Windows 認証",
+        "DEU": "Windows-Authentifizierung",
+        "FRA": "Authentification Windows",
+        "CHS": "Windows 身份验证",
+        "KOR": "Windows 인증",
+        "RUS": "Проверка подлинности Windows"
+    },
+    {
+        "DlgName": "VaultAccount",
+        "ENU": "Vault Account",
+        "JPN": "Vault アカウント",
+        "DEU": "Vault-Konto",
+        "FRA": "Compte Vault",
+        "CHS": "Vault 帐户",
+        "KOR": "Vault 계정",
+        "RUS": "Учетная запись Vault"
+    },
+    {
+        "DlgName": "AutodeskID",
+        "ENU": "Autodesk ID",
+        "JPN": "",
+        "DEU": "",
+        "FRA": "",
+        "CHS": "",
+        "KOR": "",
+        "RUS": ""
+    },
+    {
+        "DlgName": "TaginUse",
+        "ENU": "Tag in Use",
+        "JPN": "使用中のタグ",
+        "DEU": "Tag wird verwendet.",
+        "FRA": "Etiquette en cours d'utilisation",
+        "CHS": "使用中的位号",
+        "KOR": "태그 사용 중",
+        "RUS": "Идентификатор используется"
+    },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  },
+  {
+    "DlgName": "",
+    "ENU": "",
+    "JPN": "",
+    "DEU": "",
+    "FRA": "",
+    "CHS": "",
+    "KOR": "",
+    "RUS": ""
+  }
+]

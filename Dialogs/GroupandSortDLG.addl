@@ -1,0 +1,23 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.GroupandSortDLG"  Tag="[Pane]Group and Sort|$groupAndSortDockPanel1" ParentType="Pane" GUIType="UIA">
+
+  <Pane Name="Pane1PANE" Tag="[Pane]$groupAndSortDockPanel1_Container|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[TreeView]$4000830|#1" />
+  <ScrollBar Name="ScrollBarSB" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[TreeView]$4000830|#1/[ScrollBar]scroll bar|$38604110|#1" />
+  <CustomWin Name="HeaderPanelWIN" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[TreeView]$4000830|#1/[CustomWin]Header Panel|#2" />
+  <Header Name="FieldNameCTL" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[TreeView]$4000830|#1/[CustomWin]Header Panel|#2/[Header]Field Name|#4" />
+  <Header Name="SortOrderCTL" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[TreeView]$4000830|#1/[CustomWin]Header Panel|#2/[Header]Sort Order|#1" />
+  <Header Name="ShowHeaderCTL" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[TreeView]$4000830|#1/[CustomWin]Header Panel|#2/[Header]Show Header|#2" />
+  <Header Name="ShowFooterCTL" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[TreeView]$4000830|#1/[CustomWin]Header Panel|#2/[Header]Show Footer|#3" />
+  <CustomWin Name="DataPanelWIN" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[TreeView]$4000830|#1/[CustomWin]Data Panel|#1" />
+  <GroupBox Name="DockTopGB" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[GroupBox]Dock Top|$3804370|#1" />
+  <ToolBar Name="ToolsTB" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[GroupBox]Dock Top|$3804370|#1/[ToolBar]Tools|$3673210|#1" />
+  <PushButton Name="AddAGroupPB" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[GroupBox]Dock Top|$3804370|#1/[ToolBar]Tools|$3673210|#1/[PushButton]Add a Group|#1" />
+  <PushButton Name="AddASortPB" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[GroupBox]Dock Top|$3804370|#1/[ToolBar]Tools|$3673210|#1/[PushButton]Add a Sort|#2" />
+  <PushButton Name="DeletePB" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[GroupBox]Dock Top|$3804370|#1/[ToolBar]Tools|$3673210|#1/[PushButton]Delete|#3" />
+  <PushButton Name="MoveUpPB" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[GroupBox]Dock Top|$3804370|#1/[ToolBar]Tools|$3673210|#1/[PushButton]Move Up|#4" />
+  <PushButton Name="MoveDownPB" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[GroupBox]Dock Top|$3804370|#1/[ToolBar]Tools|$3673210|#1/[PushButton]Move Down|#5" />
+  <MenuItem Name="ItemMI" Tag="[Pane]$groupAndSortDockPanel1_Container|#1/[Pane]$20451112|#1/[GroupBox]Dock Top|$3804370|#1/[ToolBar]Tools|$3673210|#1/[MenuItem]Item|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Group and Sort|#1/[PushButton]Close|#4" />
+
+</Pane>

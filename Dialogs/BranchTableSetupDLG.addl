@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.BranchTableSetupDLG" Tag="[Window]Branch Table Setup|$BranchTableSetupWindow" >
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OKButton|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#2" />
+	<PushButton Name="ApplyPB" Tag="[PushButton]Apply|$ApplyButton|#3" />
+
+</Autodesk.GUIHarness.Window>

@@ -1,0 +1,78 @@
+﻿<CustomWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjManUndocked" Tag="[CustomWin]PROJECTMANAGER" ParentType="MainWin" GUIType="WIN32">
+
+
+	<!--SourceFiles-->
+	
+	<CustomWin Name="PROJECTMANAGER1WIN" Tag="[CustomWin]#1" />
+	<TreeView Name="TreeViewTV" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$1|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1" />
+	<TreeViewItem Name="DefaultProjectTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$1|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1" />
+	<TreeViewItem Name="PIDDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$1|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]P*|#1" />
+	<TreeViewItem Name="Plant3DDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$1|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]Plant 3D Drawings|#2" />
+	<TreeViewItem Name="PipeSpecsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$1|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]$1049010|#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]Pipe Specs|#3" />
+	<TreeViewItem Name="one00HC01TVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$1|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]$1049010|#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]Pipe Specs|#3/[TreeViewItem]100HC01|#1" />
+	<TreeViewItem Name="RelatedFilesTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$1|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]$4653870|#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Default Project|#1/[TreeViewItem]Related Files|#4" />
+	<PopupList Name="CurrentProjectPL" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$1|#1/[Pane]$ControlAxSourcingSite|#1/[PopupList]Current Project:|$m_comboPrjFiles|#1" />
+
+	<MenuItem Name="OpenMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Open|#1" />
+	<MenuItem Name="OpenReadonlyMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Open Read-only|#2" />
+	<MenuItem Name="AddWorkHistoryMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Add Work History*|#3" />
+	<MenuItem Name="RemoveDrawingMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Remove Drawing|#4" />
+	<MenuItem Name="RenameDrawingMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Rename Drawing*|#5" />
+	<MenuItem Name="LocateDrawingMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Locate Drawing*|#6" />
+	<MenuItem Name="RefreshXrefListMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Refresh Xref List|#7" />
+	<MenuItem Name="XrefIntoCurrentDWGMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Xref into current DWG|#8" />
+	<MenuItem Name="DataManagerMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Data Manager*|#9" />
+	<MenuItem Name="PublishMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Publish*|#10" />
+	<MenuItem Name="ValidateMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Validate*|#11" />
+	<MenuItem Name="ExportToAutoCADMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Export to AutoCAD*|#12" />
+	<MenuItem Name="DrawingAutogenPropertiesMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Drawing Autogen Properties*|#13" />
+	<MenuItem Name="PropertiesMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Properties*|#14" />
+
+
+	<!--OrthoTreeView-->
+
+	<TreeView Name="OrthoTreeViewTV" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1" />
+	<TreeViewItem Name="OrthoDefaultProjectTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="OrthographicDrawingsTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]#1" />
+	<TreeViewItem Name="OrthoViewPortTVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]Orthographic Drawings|#1/[TreeViewItem]OrthoViewPort|#1" />
+	<TreeViewItem Name="UnnamedView1TVI" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]$2|#1/[Pane]$ControlAxSourcingSite|#1/[Pane]$splitContainer1|#1/[Pane]#1/[Pane]$m_collapsiblePanelTreeView|#1/[TreeView]$m_treeView|#1/[TreeViewItem]#1/[TreeViewItem]Orthographic Drawings|#1/[TreeViewItem]OrthoViewPort|#1/[TreeViewItem]#1" />
+	
+	<MenuItem Name="OrthoValidateViewsMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Validate Views|#1" />
+	<MenuItem Name="OrthoUpdateViewsMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Update Views|#2" />
+	<MenuItem Name="OrthoUpdateAnnotationsMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Update Annotations|#3" />
+	<MenuItem Name="OrthoOpenMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Open|#4" />
+	<MenuItem Name="OrthoOpenReadonlyMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Open Read-only|#5" />
+	<MenuItem Name="OrthoRemoveDrawingMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Remove Drawing|#6" />
+	<MenuItem Name="OrthoRenameDrawingMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Rename Drawing*|#7" />
+	<MenuItem Name="OrthoPublishMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Publish*|#8" />
+	<MenuItem Name="OrthoPropertiesMI" Tag="[Menu]$contextMenuStrip1|#1/[MenuItem]Properties*|#9" />
+
+	<!--Other-->
+	<Menu Name="VaultDropDownMNU" GUIType="UIA" Tag="[Menu]VaultDropDown|#1" />
+	<Menu Name="DropDownMNU" GUIType="UIA" Tag="[Menu]DropDown|#2" />
+
+	<PushButton Name="OpenPB" Tag="[CustomWin]#1/[CustomWin]#1/[CustomWin]#1/[Pane]$ControlAxSourcingSite|#1/[PopupList]$m_comboPrjFiles|#1/[PushButton]Open|#1" />
+
+	<!--Collaboration-->
+	<MenuItem Name="CloseProjectMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Close Project|#1" />
+	<MenuItem Name="ProjectCollaborationMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Project Collaboration|#2" />
+	<MenuItem Name="CheckInMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Check In*|#3" />
+	<MenuItem Name="CheckOutMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Check Out*|#4" />
+	<MenuItem Name="UndoCheckOutMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Undo Check Out*|#5" />
+	<MenuItem Name="RefreshFromProjectMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Refresh from Project|#6" />
+	<MenuItem Name="CleanupCachedFilesMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Cleanup Cached Files|#7" />
+	<MenuItem Name="OptionsMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Options*|#8" />
+	<!--<MenuItem Name="DataManagerMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Data Manager|#9" />
+	<MenuItem Name="PublishMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Publish*|#10" />-->
+	<MenuItem Name="ValidateProjectMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Validate Project|#11" />
+	<MenuItem Name="ValidationSettingsMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Validation Settings*|#12" />
+	<MenuItem Name="ValidationSummaryMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Validation Summary|#13" />
+	<MenuItem Name="ProjectAdministrationMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Project Administration|#14" />
+	<MenuItem Name="AuditProjectMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Audit Project|#15" />
+	<MenuItem Name="AuditDatabaseMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Audit Database|#16" />
+	<MenuItem Name="CreateProjectBackupMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Create Project Backup|#17" />
+	<MenuItem Name="ProjectCompareMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Project Compare*|#18" />
+	<MenuItem Name="ProjectSetupMI" Tag="[Menu]$m_ProjectNodeContextMenuStrip|#1/[MenuItem]Project Setup*|#19" />
+	
+</CustomWin>
+

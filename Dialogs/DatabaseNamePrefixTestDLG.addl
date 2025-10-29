@@ -1,0 +1,8 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DatabaseNamePrefixTestDLG" Tag="[DialogBox]Database Name Prefix Test" ParentType="Plant3D" GUIType="WIN32">
+  <Pane Name="DatabaseNamePrefixTestPANE" GUIType="UIA" Tag="[Pane]Database Name Prefix Test|$Window|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]Database Name Prefix Test|$Window|#1/[Pane]#1" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Database Name Prefix Test|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="SuccessST" Tag="[Pane]Database Name Prefix Test|$Window|#1/[StaticText]Success|$MainInstruction|#1" />
+  <StaticText Name="TheNameCanBeST" Tag="[Pane]Database Name Prefix Test|$Window|#1/[StaticText]The name can be used and is available*|$ContentText|#2" />
+  <PushButton Name="ClosePB" Tag="[Pane]Database Name Prefix Test|$Window|#1/[PushButton]Close|$CommandButton_8|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

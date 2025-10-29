@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SizeMappingDLG" Tag="[Pane]Size Mapping|$SizeMappingDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <PushButton Name="Btn_DeleteRow" Tag="[PushButton]Delete Row|$Btn_DeleteRow|#2" />
+  <PushButton Name="Btn_AddRow" Tag="[PushButton]Add Row|$Btn_AddRow|#1" />
+  <Table Name="DataGridView_SizeMapping" Tag="[Table]DataGridView|$DataGridView_SizeMapping|#1" />  
+  <PushButton Name="Btn_Help" Tag="[PushButton]Help|$Btn_Help|#5" />
+  <PushButton Name="Btn_Cancel" Tag="[PushButton]Cancel|$Btn_Cancel|#4" />
+  <PushButton Name="Btn_OK" Tag="[PushButton]OK|$Btn_OK|#3" />
+  <RadioButton Name="SelectA3DSize1RB" Tag="[RadioButton]Select a 3D size for each PID size*[1]|$RadioBtn_Metric|#2" />
+  <RadioButton Name="SelectA3DSize2RB" Tag="[RadioButton]Select a 3D size for each PID size*[2]|$RadioBtn_Imperial|#1" />
+  <StaticText Name="ShowST" Tag="[StaticText]Show:|$label2|#2" />
+  <StaticText Name="SelectA3DSizeST" Tag="[StaticText]Select a 3D size for each P*|$label1|#1" />
+  <TitleBar Name="SizeMappingCTL" Tag="[TitleBar]Size Mapping|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Size Mapping|$TitleBar|#1/[CustomWin]System Menu Bar|$SizeMappingDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Size Mapping|$TitleBar|#1/[CustomWin]System Menu Bar|$SizeMappingDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Size Mapping|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

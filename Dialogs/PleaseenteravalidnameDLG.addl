@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PleaseenteravalidnameDLG" Tag="[DialogBox]#1" ParentType="AutoPLANTToDMappingClassMappingDLG" GUIType="UIA">
+
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="PleaseEnterAValidST" Tag="[StaticText]Please enter a valid name*|$65535|#1" />
+  <TitleBar Name="TitleBarCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

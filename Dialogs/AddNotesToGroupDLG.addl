@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddNotesToGroupDLG" Tag="[Window]Add Notes To Group|$AddNotesToGroupWindow"   ParentType="SpecEditorDLG">
+<PushButton Name="ApplyPB" Tag="[PushButton]$Apply" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]$Help" />
+<StaticText Name="GroupName" Tag="[StaticText]$GroupName" />
+<TextField Name="GroupNotes" Tag="[TextField]$GroupNotes" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

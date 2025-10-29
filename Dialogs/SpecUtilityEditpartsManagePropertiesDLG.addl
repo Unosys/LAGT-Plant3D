@@ -1,0 +1,10 @@
+﻿<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityEditpartsManagePropertiesDLG" Tag="[Window]Spec Property Editor|$PropertyEditor" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel_Button|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OK_Button|#1" />
+
+	<Window Name="ManagePropertiesWIN" Tag="[PageList]$MainTabControl|#1/[Window]Manage Properties|$ManagePropsTab|#2" />
+
+</Window>

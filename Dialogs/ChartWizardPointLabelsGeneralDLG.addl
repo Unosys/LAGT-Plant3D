@@ -1,0 +1,34 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardPointLabelsGeneralDLG" Tag="[Pane]$WizardFormBase" ParentType="ReportDesignerApplicationDLG">
+  <GroupBox Name="BarSeriesLabelOptionsControl" Tag="[GroupBox]$BarSeriesLabelOptionsControl" />
+  <GroupBox Name="ChartPanel" Tag="[GroupBox]$chartPanel" />
+  <GroupBox Name="ChartPanelControl1" Tag="[GroupBox]$panelControl12" />
+  <GroupBox Name="ChartPanelControl12" Tag="[GroupBox]$grWizardParentControl" />
+  <GroupBox Name="ChartPanelControl2" Tag="[GroupBox]$chartPanelControl2" />
+  <GroupBox Name="ChartPanelControl3" Tag="[GroupBox]$chartPanelControl3" />
+  <GroupBox Name="ChartPanelControl6" Tag="[GroupBox]$chartPanelControl6" />
+  <GroupBox Name="ChartPanelIndent" Tag="[GroupBox]$chartPanelIndent" />
+  <GroupBox Name="ChartPanelMode" Tag="[GroupBox]$chartPanelMode" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox" Tag="[TextField]$ceTextColor" />
+  <GroupBox Name="GeneralControl" Tag="[GroupBox]$generalControl" />
+  <GroupBox Name="GrWizardPanel" Tag="[GroupBox]$grWizardPanel" />
+  <GroupBox Name="LabelControl" Tag="[GroupBox]$LabelControl" />
+  <GroupBox Name="OverlappingSettingsControl" Tag="[GroupBox]$overlappingSettingsControl" />
+  <GroupBox Name="PanelControl12" Tag="[GroupBox]$panelControl12" />
+  <GroupBox Name="PanelControl15" Tag="[GroupBox]$panelControl15" />
+  <GroupBox Name="PanelControlIndent" Tag="[GroupBox]$panelControlIndent" />
+  <GroupBox Name="PanelNavigation" Tag="[GroupBox]$panelNavigation" />
+  <GroupBox Name="PnlHintOffset" Tag="[GroupBox]$pnlHintOffset" />
+  <GroupBox Name="PnlOptions" Tag="[GroupBox]$pnlOptions" />
+  <GroupBox Name="PnlParent" Tag="[GroupBox]$pnlParent" />
+  <GroupBox Name="PnlPosition" Tag="[GroupBox]$pnlPosition" />
+  <GroupBox Name="PnlResolveOverlappingSettings" Tag="[GroupBox]$pnlResolveOverlappingSettings" />
+  <GroupBox Name="SepAntialiasing" Tag="[GroupBox]$sepAntialiasing" />
+  <GroupBox Name="SepColor" Tag="[GroupBox]$sepColor" />
+  <GroupBox Name="SepOverlappingSettings" Tag="[GroupBox]$sepOverlappingSettings" />
+  <GroupBox Name="SepPosition" Tag="[GroupBox]$sepPosition" />
+  <GroupBox Name="SepTextSettings" Tag="[GroupBox]$sepTextSettings" />
+  <GroupBox Name="SeriesLabelsControl" Tag="[GroupBox]$SeriesLabelsControl" />
+  <GroupBox Name="TabPanel" Tag="[GroupBox]$tabPanel" />
+  <GroupBox Name="TextSettingsControl" Tag="[GroupBox]$textSettingsControl" />
+  <GroupBox Name="WorkPanel" Tag="[GroupBox]$workPanel" />
+</Pane>

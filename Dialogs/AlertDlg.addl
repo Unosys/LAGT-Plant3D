@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AlertDlg" Tag="[DialogBox]$MessageBox" ParentType="Plant3D">
+<PushButton Name="Yes" Tag="$6" />
+<PushButton Name="No" Tag="$7" />
+<CustomWin Name="Icon1" Tag="[Icon]$20" />
+<StaticText Name="DrawingHasnTBeenSavedAnd" Tag="$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

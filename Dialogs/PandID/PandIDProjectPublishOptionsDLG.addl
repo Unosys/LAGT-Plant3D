@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectPublishOptionsDLG" Tag="[DialogBox]Project Publish Options" ParentType="DialogBox">
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]#1|[Icon]$4790" />
+<StaticText Name="CurrentUserNsarchText" Tag="[StaticText]Current user: nsarch|#1|$4791" />
+<CustomWin Name="CurrentUserNsarch" Tag="[CustomWin][ATL:5C4ED990]Current user: nsarch|[ATL:5C4ED990]#1|[ATL:5C4ED990]$4653" />
+<ListBox Name="ListBox1" Tag="[ListBox]#1|$239" />
+<PushButton Name="PushButton1" Tag="[PushButton]#1|$244" />
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$1" />
+<PushButton Name="Cancel" Tag="[PushButton]Cancel|#2|$2" />
+<PushButton Name="Help" Tag="[PushButton]Help|#3|$9" />
+<CustomWin Name="CustomWinName" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$692097040|#1" />
+<PushButton Name="PushButton1PB" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$692097040|#1/[PushButton]$1039|#1" />
+<PopupList Name="PopupListPL" Tag="[CustomWin]$4653|#1/[ListBox]$239|#1/[CustomWin]$692097040|#1/[PopupList]$1002|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

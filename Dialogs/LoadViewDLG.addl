@@ -1,0 +1,13 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.LoadViewDLG" Tag="[Pane]Load View|$frmLoadViewDetails" ParentType="Plant3D" GUIType="UIA">
+  <ListBox Name="ViewList" Tag="[ListBox]View List:|$m_viewListBox" />
+  <PushButton Name="Help" Tag="[PushButton]Help|$m_helpBtn" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$m_cancelBtn" />
+  <PushButton Name="OK" Tag="[PushButton]OK|$m_OKBtn" />
+  <PushButton Name="Delete" Tag="[PushButton]Delete|$m_deleteBtn" />
+  <Table Name="Scale3" Tag="[GroupBox]View Details|$mViewDetailsGrpBox/[Table]DataGridView|$m_dataGridView_geomInfo" />
+  <Pane Name="PanePANE" Tag="[GroupBox]View Details|$mViewDetailsGrpBox/[Pane]$m_collapsiblePanel_geomInfo" />
+  <TextField Name="Scale" Tag="[GroupBox]View Details|$mViewDetailsGrpBox/[TextField]Scale:|$m_scaleTextBox" />
+  <TextField Name="OrthographicView" Tag="[GroupBox]View Details|$mViewDetailsGrpBox/[TextField]Orthographic View:|$m_orthoViewNameTextBox" />
+  <StaticText Name="OrthographicViewText" Tag="[GroupBox]View Details|$mViewDetailsGrpBox/[StaticText]Orthographic View:|$mViewLbl" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Load View|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

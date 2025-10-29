@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecConversionReportDLG" Tag="[Window]Spec Conversion Report|$SpecMigrationErrorReportWindow" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="Close2PB" Tag="[PushButton]Close|$Cancel|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

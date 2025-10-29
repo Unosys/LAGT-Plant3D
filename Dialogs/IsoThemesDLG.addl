@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsoThemesDLG" Tag="[Pane]$IsoThemesDlg" ParentType="Plant3D">
+ 	<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+	<!--<PageList Name="PageListPG" Tag="[PageList]$tabThemes|#1" />-->
+	<Pane Name="DefaultThemePANE" Tag="[PageList]$tabThemes|#1/[Pane]$tabDefault|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

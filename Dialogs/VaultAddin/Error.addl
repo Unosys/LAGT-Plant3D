@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Error" Tag="[DialogBox]Error" ParentType="VaultLogInDLG">
+<CustomWin Name="TableLayoutPanel1" Tag="[CustomWin][System.Windows.Forms.TableLayoutPanel]$tableLayoutPanel1|[System.Windows.Forms.TableLayoutPanel]#1" IsNestedClass="True">
+	<StaticText Name="UserUser1DoesNotHaveAdequ1" Tag="[StaticText]$m_errorText|User User1 does not have adequate permissions to log into Vault.|#1" />
+	<CustomWin Name="UserUser1DoesNotHaveAdequ2" Tag="[CustomWin][System.Windows.Forms.TableLayoutPanel]$tableLayoutPanel2|[System.Windows.Forms.TableLayoutPanel]User User1 does not have adequate permissions to log into Vault.|[System.Windows.Forms.TableLayoutPanel]#1" IsNestedClass="True">
+		<PushButton Name="OK" Tag="[PushButton]$button1|OK|#1" />
+	</CustomWin>
+	<CustomWin Name="M_errorIcon" Tag="[CustomWin][System.Windows.Forms.PictureBox]$m_errorIcon|[System.Windows.Forms.PictureBox]#1" />
+</CustomWin>
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

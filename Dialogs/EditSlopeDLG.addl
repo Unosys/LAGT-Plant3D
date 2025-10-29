@@ -1,0 +1,29 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.EditSlopeDLG" Tag="[Pane]Edit Slope|$PipeSlopeToolDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <StaticText Name="StartAndEndPointsST" Tag="[StaticText]Start and End Points:|$m_lb_Instruction|#1" />
+  <StaticText Name="one5000000ST" Tag="[StaticText]1500*|$m_lb_length|#2" />
+  <PushButton Name="M_bt_help" Tag="[PushButton]Help|$m_bt_help|#5" />
+  <StaticText Name="LengthST" Tag="[StaticText]Length:|$m_lb_Len|#3" />
+  <PushButton Name="M_bt_Cancel" Tag="[PushButton]Cancel|$m_bt_Cancel|#4" />
+  <PushButton Name="M_bt_OK" Tag="[PushButton]OK|$m_bt_OK|#3" />
+  <GroupBox Name="ElevationSettingsGB" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1" />
+  <TextField Name="SlopedegreesTF" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[TextField]Slope(degrees):|$m_tb_Slope|#5" />
+  <TextField Name="RunTF" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[TextField]Run:|$m_tb_Run|#4" />
+  <TextField Name="RiseTF" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[TextField]Rise:|$m_tb_Rise|#3" />
+  <TextField Name="EndElevationTF" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[TextField]End Elevation:|$m_tb_End_Elv|#2" />
+  <TextField Name="StartElevationTF" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[TextField]Start Elevation:|$m_tb_Sta_Elv|#1" />
+  <PopupList Name="CalculationPL" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[PopupList]Calculation:|$m_cb_Calculation|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[PopupList]Calculation:|$m_cb_Calculation|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <StaticText Name="SlopedegreesST" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[StaticText]Slope(degrees):|$label6|#6" />
+  <StaticText Name="RunST" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[StaticText]Run:|$label5|#5" />
+  <StaticText Name="RiseST" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[StaticText]Rise:|$label4|#4" />
+  <StaticText Name="EndElevationST" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[StaticText]End Elevation:|$label3|#3" />
+  <StaticText Name="StartElevationST" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[StaticText]Start Elevation:|$label2|#2" />
+  <StaticText Name="CalculationST" Tag="[GroupBox]Elevation Settings|$m_gb_Elv_Set|#1/[StaticText]Calculation:|$label1|#1" />
+  <Pane Name="LengthPANE" Tag="[Pane]Length:|$m_pb_EffectPic|#1" />
+  <PushButton Name="M_bt_EndPt" Tag="[PushButton]Length:[1]|$m_bt_EndPt|#2" />
+  <PushButton Name="M_bt_StaPt" Tag="[PushButton]Length:[2]|$m_bt_StaPt|#1" />
+  <TitleBar Name="EditSlopeCTL" Tag="[TitleBar]Edit Slope|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Edit Slope|$TitleBar|#1/[CustomWin]System Menu Bar|$PipeSlopeToolDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Edit Slope|$TitleBar|#1/[CustomWin]System Menu Bar|$PipeSlopeToolDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Edit Slope|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

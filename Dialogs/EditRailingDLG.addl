@@ -1,0 +1,33 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.EditRailingDLG" Tag="[DialogBox]Edit Railing" ParentType="Plant3D">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<StaticText Name="FB14x4" Tag="[StaticText]$FB 1/4 x 4" />
+<StaticText Name="FirstPost5" Tag="[StaticText]$" />
+<TextField Name="FirstPost5TextField" Tag="[TextField]$" />
+<GroupBox Name="Geometry" Tag="[GroupBox]$" />
+<StaticText Name="Handrail" Tag="[StaticText]$" />
+<StaticText Name="HandrailHeight1" Tag="[StaticText]$" />
+<TextField Name="HandrailHeight1TextField" Tag="[TextField]$" />
+<PushButton Name="Help" Tag="[PushButton]$" />
+<StaticText Name="KickPlate" Tag="[StaticText]$" />
+<StaticText Name="KickPlateHeight4" Tag="[StaticText]$" />
+<TextField Name="KickPlateHeight4TextField" Tag="[TextField]$" />
+<StaticText Name="Label" Tag="[StaticText]$" />
+<CheckBox Name="MiddleRailContinuous" Tag="[CheckBox]$" />
+<PushButton Name="OK" Tag="[PushButton]$1" />
+<StaticText Name="PIPE2STD" Tag="[StaticText]$" />
+<StaticText Name="PIPE2STD2" Tag="[StaticText]$PIPE2STD" />
+<StaticText Name="PIPE2STD3" Tag="[StaticText]$PIPE2STD" />
+<StaticText Name="Post" Tag="[StaticText]$" />
+<PushButton Name="PushButton" Tag="[PushButton]$1033" />
+<PushButton Name="PushButton2" Tag="[PushButton]$1035" />
+<PushButton Name="PushButton3" Tag="[PushButton]$1039" />
+<PushButton Name="PushButton4" Tag="[PushButton]$1037" />
+<StaticText Name="SecondPost6" Tag="[StaticText]$" />
+<TextField Name="SecondPost6TextField" Tag="[TextField]$" />
+<GroupBox Name="Shape" Tag="[GroupBox]$" />
+<StaticText Name="x1stMidRail" Tag="[StaticText]$" />
+<StaticText Name="x1stMidRailHeight2" Tag="[StaticText]$" />
+<TextField Name="x1stMidRailHeight2TextField" Tag="[TextField]$" />
+<StaticText Name="x2ndMidRailHeight3" Tag="[StaticText]$" />
+<TextField Name="x2ndMidRailHeight3TextField" Tag="[TextField]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,4 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUpdateResultsDLG" Tag="[Pane]$NoUpdatesAvailableDlg" ParentType="Plant3D">
+<StaticText Name="Label_MainText" Tag="[StaticText]$label_MainText" />
+<PushButton Name="M_btnClose" Tag="[PushButton]$m_btnClose" />
+</Pane>

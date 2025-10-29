@@ -1,0 +1,8 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DOptionsDLG" Tag="[DialogBox]Options">
+
+    <PushButton Name="OKPB" Tag="[PushButton]OK|$1" />
+    <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2" />
+    <PushButton Name="ApplyPB" Tag="[PushButton]Apply|$1410" />
+	<PageList Name="Tab1PG" Tag="[PageList]Tab1|$1796|#1" />
+	<PushButton Name="HiddenMessagesSettingsPB" Tag="[DialogBox]#1/[PushButton]Hidden Messages Settings|$1840" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

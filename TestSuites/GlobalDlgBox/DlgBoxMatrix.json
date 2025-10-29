@@ -1,0 +1,112 @@
+[
+    {
+        "DlgName": "PandIDOverrideValveOperatorDLG",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "Plant3DExcelImportDLG_Collaboration",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "Plant3DExcelImportDLG_Collaboration1",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "Plant3DOrthoGenerationDLG_Collaboration",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "PlantProjectBackupDLG_Collaboration",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "SelectPipeSupport",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "SpecUtilitySaveChangesDLG",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "UndoCheckOutProjectDLG",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "YouhavePipeSpecsCheckedOutDLG",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    },
+    {
+        "DlgName": "SelectLongDescriptionStyleFileDLG",
+        "Release": "2023",
+        "Feature": "",
+        "Execute": true,
+        "Status": "FAIL",
+        "IsBaseProduct": false,
+        "BaseProduct": "",
+        "Children": [],
+        "InventorUI": null
+    }
+]

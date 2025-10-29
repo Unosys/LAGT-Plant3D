@@ -1,0 +1,15 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenCollaborationProject" Tag="[Window]Open Collaboration Project|$Window_1" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="OpenCollaborationProjectCTL" Tag="[TitleBar]Open Collaboration Project|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Open Collaboration Project|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Open Collaboration Project|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Open Collaboration Project|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]$UserControl_1|#1" />
+  <StaticText Name="WeNeedYouToST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]We need you to login to your*|$TextBlock_1|#1" />
+  <Image Name="ImageIMG" Tag="[CustomWin]$UserControl_1|#1/[Image]$Image_1|#1" />
+  <StaticText Name="WhyCollaborationProjectsAreST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Why?*|$TextBlock_2|#2" />
+  <PushButton Name="LearnMoreAboutWorkingPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Learn more about working with BIM 360 Projects|$Button_LearnMore|#2" />
+  <StaticText Name="LearnMoreAboutWorkingST" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Learn more about working with BIM 360 Projects|$Button_LearnMore|#2/[StaticText]Learn more about working with BIM 360 Projects|#1" />
+  <PushButton Name="LoginPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Login|$Button_GetStarted|#1" />
+  <StaticText Name="LoginST" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Login|$Button_GetStarted|#1/[StaticText]Login|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

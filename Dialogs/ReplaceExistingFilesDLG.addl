@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReplaceExistingFilesDLG" Tag="[DialogBox]Replace Existing Files" >
+
+	<PushButton Name="ExportAndReplacePB" Tag="[Pane]Replace Existing Files|$Window|#1/[PushButton]Export and Replace|$CommandLink_1001|#1" />
+	<PushButton Name="DontReplacePB" Tag="[Pane]Replace Existing Files|$Window|#1/[PushButton]Don't Replace|$CommandLink_1002|#2" />
+	<PushButton Name="ExportButKeepBothPB" Tag="[Pane]Replace Existing Files|$Window|#1/[PushButton]Export, but keep both files|$CommandLink_1003|#3" />
+	<CheckBox Name="DoThisForTheCK" Tag="[Pane]Replace Existing Files|$Window|#1/[CheckBox]Do this for the next 0 conflicts|$VerificationCheckBox|#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]Replace Existing Files|$Window|#1/[PushButton]Cancel|$CommandButton_2|#4" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

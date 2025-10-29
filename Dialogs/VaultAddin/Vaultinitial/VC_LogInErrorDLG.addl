@@ -1,0 +1,6 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_LogInErrorDLG" Tag="[Pane]$CommonMessageBox" ParentType="VaultPro">
+	
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar/[PushButton]$Close" />
+	<PushButton Name="OKPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$tableLayoutPanel2/[PushButton]$button1" />
+
+</Pane>

@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ActuatorBrowserDLG" Tag="[DialogBox]$ActuatorBrowserDLG" ParentType="Plant3D">
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOk" Tag="[PushButton]$btnOk" />
+<GroupBox Name="GroupBox" Tag="[GroupBox]$groupBox" />
+<ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$treeView" />
+<TreeView Name="TreeView" Tag="[TreeView]$treeView" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

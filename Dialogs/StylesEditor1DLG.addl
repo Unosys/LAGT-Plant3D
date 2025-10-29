@@ -1,0 +1,74 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.StylesEditor1DLG" Tag="[DialogBox]$StylesEditor1DLG" ParentType="ToolBoxDLG">
+  <CustomWin Name="StylesEditor9" Tag="[DevExpress.XtraEditors.PanelControl]$pnlPreview" />
+  <CustomWin Name="PnlPreview1" Tag="pnlPreview" />
+  <CustomWin Name="PnlPreview2" Tag="pnlPreview" />
+  <CustomWin Name="PropertyGrid1" Tag="[DevExpress.XtraReports.Design.PropertyGridUserControl]$propertyGrid" />
+  <CustomWin Name="PropertyGrid13" Tag="[DevExpress.XtraReports.Design.PropertyGridUserControl+CustomPropertyGridControl]$propertyGridControl" />
+  <CustomWin Name="DevExpressXtraVerticalGridVG" Tag="[DevExpress.XtraVerticalGrid.VGridVertScrollBar]#1" />
+  <ScrollBar Name="ScrollBar" Tag="scroll bar" />
+  <PushButton Name="LineUp4" Tag="Line Up" />
+  <PushButton Name="PageUp" Tag="Page Up" />
+  <CustomWin Name="Position" Tag="Position" />
+  <PushButton Name="PageDown" Tag="Page Down" />
+  <PushButton Name="LineDown" Tag="Line Down" />
+  <CustomWin Name="CustomWin1" Tag="#1" />
+  <CustomWin Name="CustomWin2" Tag="#1" />
+  <ScrollBar Name="ScrollBar1" Tag="scroll bar" />
+  <PushButton Name="LineUp1" Tag="Line Up" />
+  <PushButton Name="PageUp1" Tag="Page Up" />
+  <CustomWin Name="Position1" Tag="Position" />
+  <PushButton Name="PageDown1" Tag="Page Down" />
+  <PushButton Name="LineDown1" Tag="Line Down" />
+  <CustomWin Name="DevExpressXtraBarsBarDockCon1" Tag="[DevExpress.XtraBars.BarDockControl]#2" />
+  <CustomWin Name="DevExpressXtraBarsBarDockCon2" Tag="[DevExpress.XtraBars.BarDockControl]#1" />
+  <CustomWin Name="DevExpressXtraBarsControlsD" Tag="[DevExpress.XtraBars.Controls.DockedBarControl]#1" />
+  <ToolBar Name="Tools" Tag="Tools" />
+  <PushButton Name="Categorized" Tag="Categorized" />
+  <PushButton Name="Alphabetical" Tag="Alphabetical" />
+  <ToolBar Name="Tools1" Tag="Tools" />
+  <PushButton Name="Categorized1" Tag="Categorized" />
+  <PushButton Name="Alphabetical1" Tag="Alphabetical" />
+  <CustomWin Name="PropertyGrid14" Tag="propertyGrid1" />
+  <CustomWin Name="CustomWin3" Tag="#1" />
+  <ScrollBar Name="ScrollBar2" Tag="scroll bar" />
+  <PushButton Name="LineUp2" Tag="Line Up" />
+  <PushButton Name="PageUp2" Tag="Page Up" />
+  <CustomWin Name="Position2" Tag="Position" />
+  <PushButton Name="PageDown2" Tag="Page Down" />
+  <PushButton Name="LineDown2" Tag="Line Down" />
+  <ToolBar Name="Tools2" Tag="Tools" />
+  <PushButton Name="Categorized2" Tag="Categorized" />
+  <PushButton Name="Alphabetical2" Tag="Alphabetical" />
+  <CustomWin Name="DataField2" Tag="[DevExpress.XtraEditors.ListBoxControl]$lboxStyles" />
+  <PushButton Name="Close" Tag="[PushButton]$btnCancel" />
+  <CustomWin Name="StylesEditor21" Tag="[DevExpress.XtraEditors.LabelControl]$bottomLine" />
+  <CustomWin Name="StylesEditor11" Tag="[DevExpress.XtraReports.Native.LayoutItemButton]Styles Editor[1]" />
+  <CustomWin Name="StylesEditor22" Tag="[DevExpress.XtraReports.Native.LayoutItemButton]Styles Editor[2]" />
+  <CustomWin Name="StylesEditor3" Tag="[DevExpress.XtraReports.Native.LayoutItemButton]Styles Editor[3]" />
+  <CustomWin Name="StylesEditor4" Tag="[DevExpress.XtraReports.Native.LayoutItemButton]Styles Editor[4]" />
+  <CustomWin Name="StylesEditor12" Tag="[DevExpress.XtraEditors.LabelControl]Styles Editor[1]" />
+  <CustomWin Name="StylesEditor6" Tag="[DevExpress.XtraReports.Native.LayoutItemButton]Styles Editor[6]" />
+  <CustomWin Name="StylesEditor5" Tag="[DevExpress.XtraReports.Native.LayoutItemButton]Styles Editor[5]" />
+  <CustomWin Name="StylesEditor10" Tag="Styles Editor" />
+  <CustomWin Name="CustomWin4" Tag="#1" />
+  <CustomWin Name="StylesEditor" Tag="Styles Editor" />
+  <CustomWin Name="DataField1" Tag="DataField[1]" />
+  <ListBox Name="DataField3" Tag="DataField" />
+  <CustomWin Name="DataField" Tag="DataField" />
+  <CustomWin Name="FieldCaption" Tag="FieldCaption" />
+  <CustomWin Name="PageInfo" Tag="PageInfo" />
+  <CustomWin Name="Title" Tag="Title" />
+  <CustomWin Name="CustomWin5" Tag="#1" />
+  <ScrollBar Name="ScrollBar3" Tag="scroll bar" />
+  <PushButton Name="LineUp3" Tag="Line Up" />
+  <PushButton Name="PageUp3" Tag="Page Up" />
+  <CustomWin Name="Position3" Tag="Position" />
+  <PushButton Name="PageDown3" Tag="Page Down" />
+  <PushButton Name="LineDown3" Tag="Line Down" />
+  <ToolBar Name="Tools3" Tag="Tools" />
+  <PushButton Name="Categorized3" Tag="Categorized" />
+  <PushButton Name="Alphabetical3" Tag="Alphabetical" />
+  <CustomWin Name="PnlPreview3" Tag="pnlPreview" />
+  <CustomWin Name="PnlPreview4" Tag="pnlPreview" />
+  <CustomWin Name="DataField24" Tag="DataField[2]" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

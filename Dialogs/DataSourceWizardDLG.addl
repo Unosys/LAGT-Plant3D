@@ -1,0 +1,39 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataSourceWizardDLG" Tag="[Pane]Data Source Wizard|$WizardView" >
+
+
+	<RadioButton Name="NoRB" Tag="[Pane]$ChooseJsonConnectionPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$radioGroupCreateNewConnection|#1/[RadioButton]#1" />
+	<RadioButton Name="YesRB" Tag="[Pane]$ChooseJsonConnectionPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$radioGroupCreateNewConnection|#1/[RadioButton]#2" />
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Data Source Wizard|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<PushButton Name="PreviousPB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[PushButton]$buttonPrevious|#1" />
+	<PushButton Name="NextPB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[PushButton]Next|$buttonNext|#2" />
+	<PushButton Name="FinishPB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[PushButton]Finish|$buttonFinish|#3" />
+
+	<ListBox Name="ListBox2LB" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1" />
+
+	<ListBoxItem Name="EntityFrameworkLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Entity Framework|#1" />
+	<ListBoxItem Name="ObjectLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Object|#2" />
+	<ListBoxItem Name="ExcelFileLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Excel File|#3" />
+	<ListBoxItem Name="JSONLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]JSON|#4" />
+	<ListBoxItem Name="DataFederationLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Data Federation|#5" />
+	<ListBoxItem Name="MicrosoftSQLServerLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Microsoft SQL Server|#6" />
+	<ListBoxItem Name="MicrosoftAccess97LBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Microsoft Access 97|#7" />
+	<ListBoxItem Name="MicrosoftAccess2007LBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Microsoft Access 2007|#8" />
+	<ListBoxItem Name="MicrosoftSQLServerCELBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Microsoft SQL Server CE|#9" />
+	<ListBoxItem Name="OracleLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Oracle|#10" />
+	<ListBoxItem Name="AmazonRedshiftLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Amazon Redshift|#11" />
+	<ListBoxItem Name="GoogleBigQueryLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Google BigQuery|#12" />
+	<ListBoxItem Name="TeradataLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Teradata|#13" />
+	<ListBoxItem Name="FirebirdLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Firebird|#14" />
+	<ListBoxItem Name="IBMDB2LBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]IBM DB2|#15" />
+	<ListBoxItem Name="MySQLLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]MySQL|#16" />
+	<ListBoxItem Name="PervasivePSQLLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]Pervasive PSQL|#17" />
+	<ListBoxItem Name="PostgreSQLLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]PostgreSQL|#18" />
+	<ListBoxItem Name="SAPHANALBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]SAP HANA|#19" />
+	<ListBoxItem Name="SAPSybaseAdvantageLBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]SAP Sybase Advantage|#20" />
+	<ListBoxItem Name="SAPSybaseASELBI" Tag="[Pane]$ChooseDataProviderPageView|#1/[Pane]$layoutControlBase|#1/[Pane]$panelBaseContent|#2/[Pane]$layoutControlContent|#1/[ListBox]$galleryDataSourceProviderType|#1/[ListBox]#1/[ListBoxItem]SAP Sybase ASE|#21" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

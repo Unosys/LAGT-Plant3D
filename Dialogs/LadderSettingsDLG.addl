@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LadderSettingsDLG" Tag="[DialogBox]Ladder Settings" ParentType="Plant3D">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="OK" Tag="[PushButton]$1" />
+<PushButton Name="Help" Tag="[PushButton]$3" />
+<PageList Name="PageList" Tag="[PageList]$2533" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

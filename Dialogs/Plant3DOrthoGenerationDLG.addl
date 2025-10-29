@@ -1,0 +1,15 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DOrthoGenerationDLG" Tag="[MainWin]Plant 3D - Ortho Generation|$Window_1" >
+	e="UIA">
+
+
+
+
+
+	<PushButton Name="UpdateViewAnywayPB" Tag="[Pane]$Window|#1/[PushButton]$CommandLink_1001|#1" />
+	<PushButton Name="DoNotUpdateViewPB" Tag="[Pane]View is Up to Date|$Window|#1/[PushButton]$CommandLink_1002|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]View is Up to Date|$Window|#1/[PushButton]$CommandButton_2|#3" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]View is Up to Date|$TitleBar|#1/[PushButton]$Close|#1" />
+	
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

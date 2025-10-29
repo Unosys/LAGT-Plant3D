@@ -1,0 +1,19 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DTagSelectProjectPropertyDLG" Tag="[Pane]$SelectProjectPropertyDlg" >
+
+  <Pane Name="Pane1PANE" Tag="[Pane]$splitContainer1|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$splitContainer1|#1/[Pane]$1839340|#1" />
+  <StaticText Name="CategoryST" Tag="[Pane]$splitContainer1|#1/[Pane]$1839340|#1/[StaticText]Category:|$m_lblCategory|#1" />
+  <ListBox Name="CategoryLB" Tag="[Pane]$splitContainer1|#1/[Pane]$1839340|#1/[ListBox]Category:|$m_listBoxCategory|#1" />
+  <ListBoxItem Name="GeneralLBI" Tag="[Pane]$splitContainer1|#1/[Pane]$1839340|#1/[ListBox]Category:|$m_listBoxCategory|#1/[ListBoxItem]General|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$splitContainer1|#1/[Pane]$3149820|#2" />
+  <ListBox Name="DrawingPropertiesLB" Tag="[Pane]$splitContainer1|#1/[Pane]$3149820|#2/[ListBox]Drawing Properties:|$m_listBoxDrawingProperty|#1" />
+  <StaticText Name="DrawingPropertiesST" Tag="[Pane]$splitContainer1|#1/[Pane]$3149820|#2/[StaticText]Drawing Properties:|$m_lblDrawingText|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#3" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOK|#1" />
+  <TitleBar Name="SelectDrawingPropertyCTL" Tag="[TitleBar]Select Drawing Property|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Select Drawing Property|$TitleBar|#1/[CustomWin]System Menu Bar|$SelectDrawingPropertyDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Select Drawing Property|$TitleBar|#1/[CustomWin]System Menu Bar|$SelectDrawingPropertyDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Drawing Property|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

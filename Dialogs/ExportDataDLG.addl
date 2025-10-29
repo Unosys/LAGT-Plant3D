@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ExportDataDLG" Tag="[Pane]Export Data|$PnPExportDataDlg" ParentType="Window" GUIType="UIA">
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_buttonCancel|#3" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$m_buttonOK|#2" />
+	<PushButton Name="BrowsePB" Tag="[PushButton]Browse*|$m_buttonBrowse|#1" />
+	<TextField Name="EnterFileNameAndTF" Tag="[TextField]Enter file name and location for exported data:|$m_textBoxFile|#1" />
+	<PopupList Name="SelectExportSettingsPL" Tag="[PopupList]$m_comboBoxSettings|#1" />
+	<PushButton Name="OpenPB" Tag="[PopupList]Select export settings:|$m_comboBoxSettings|#1/[PushButton]Open|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Export Data|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

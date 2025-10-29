@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenBackgroundImageDLG" Tag="[DialogBox]Open*" ParentType="Pane">
+
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

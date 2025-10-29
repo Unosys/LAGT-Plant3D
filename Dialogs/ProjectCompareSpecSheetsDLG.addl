@@ -1,0 +1,89 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectCompareSpecSheetsDLG" Tag="[Window]Project Compare|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+  <TitleBar Name="ProjectCompareCTL" Tag="[TitleBar]Project Compare|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Compare|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Compare|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="Close1PB" Tag="[TitleBar]Project Compare|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <StaticText Name="CurrentProjectDefaultProjectST" Tag="[StaticText]Current Project:      DefaultProject|$TextBlock_1|#1" />
+  <PushButton Name="PushButton1PB" Tag="[PushButton]$Button_1|#1" />
+  <StaticText Name="ComparedToSampleProjectST" Tag="[StaticText]Compared to:      SampleProject|$TextBlock_2|#2" />
+  <StaticText Name="CompareSummaryST" Tag="[StaticText]Compare Summary|$TextBox_1|#3" />
+  <TreeView Name="TreeViewTV" Tag="[TreeView]$TreeView_1|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory1TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#1" />
+  <StaticText Name="ProjectST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#1/[StaticText]Project|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory2TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#2" />
+  <PushButton Name="PushButton2PB" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#2/[PushButton]$Expander|#1" />
+  <StaticText Name="PIDST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#2/[StaticText]P*|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory3TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#2/[TreeViewItem]Autodesk*|#1" />
+  <StaticText Name="Classes1ST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#2/[TreeViewItem]Autodesk*|#1/[StaticText]Classes|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory4TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#3" />
+  <PushButton Name="PushButton3PB" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#3/[PushButton]$Expander|#1" />
+  <StaticText Name="Piping3DST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#3/[StaticText]Piping(3D)|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory5TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#1" />
+  <StaticText Name="Classes2ST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#1/[StaticText]Classes|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory6TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#2" />
+  <StaticText Name="LayerColorSettingsST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#3/[TreeViewItem]Autodesk*|#2/[StaticText]Layer *|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory7TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4" />
+  <PushButton Name="PushButton4PB" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4/[PushButton]$Expander|#1" />
+  <StaticText Name="IsometricsST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4/[StaticText]Isometrics|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory8TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#1" />
+  <StaticText Name="BlocksST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#1/[StaticText]Blocks|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory9TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#2" />
+  <StaticText Name="IsoStylesST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#2/[StaticText]Iso Styles|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory10TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#3" />
+  <StaticText Name="SupportFilesST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#4/[TreeViewItem]Autodesk*|#3/[StaticText]Support Files|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory11TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#5" />
+  <PushButton Name="PushButton5PB" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#5/[PushButton]$Expander|#1" />
+  <StaticText Name="OrthosST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#5/[StaticText]Orthos|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory12TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#5/[TreeViewItem]Autodesk*|#1" />
+  <StaticText Name="OrthoCubeLibraryST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#5/[TreeViewItem]Autodesk*|#1/[StaticText]OrthoCube Library|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory13TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#6" />
+  <StaticText Name="MiscST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#6/[StaticText]Misc|#1" />
+  <TreeViewItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareCompareWindowProjectCategory14TVI" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#7" />
+  <StaticText Name="SpecSheets1ST" Tag="[TreeView]$TreeView_1|#1/[TreeViewItem]Autodesk*|#7/[StaticText]Spec Sheets|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]$UserControl_1|#1" />
+  <StaticText Name="SpecSheets2ST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Spec Sheets|$TextBlock_1|#1" />
+  <PushButton Name="PushButton6PB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]$Button_2|#2" />
+  <PushButton Name="PushButton7PB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]$Button_1|#1" />
+  <ListBox Name="ListBoxLB" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1" />
+  <GroupBox Name="ModifiedGB" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1" />
+  <ListBoxItem Name="CS150LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]*/[ListBoxItem]#1" />
+  <StaticText Name="CS150ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#1/[StaticText]CS150|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource2LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#2" />
+  <StaticText Name="CS1500ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#2/[StaticText]CS1500|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource3LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#3" />
+  <StaticText Name="CS2500ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#3/[StaticText]CS2500|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource4LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#4" />
+  <StaticText Name="CS300ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#4/[StaticText]CS300|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource5LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#5" />
+  <StaticText Name="CS600ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#5/[StaticText]CS600|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource6LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#6" />
+  <StaticText Name="CS900ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#6/[StaticText]CS900|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource7LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#7" />
+  <StaticText Name="PlaceHolderImperialST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#7/[StaticText]PlaceHolder Imperial|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource8LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#8" />
+  <StaticText Name="PlaceHolderMetricST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#8/[StaticText]PlaceHolder Metric|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource9LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#9" />
+  <StaticText Name="SS150ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#9/[StaticText]SS150|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource10LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#10" />
+  <StaticText Name="SS1500ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#10/[StaticText]SS1500|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource11LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#11" />
+  <StaticText Name="SS2500ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#11/[StaticText]SS2500|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource12LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#12" />
+  <StaticText Name="SS300ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#12/[StaticText]SS300|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource13LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#13" />
+  <StaticText Name="SS600ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#13/[StaticText]SS600|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectCompareConflictSource14LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#14" />
+  <StaticText Name="SS900ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListView_1|#1/[GroupBox]Modified|#1/[ListBoxItem]Autodesk*|#14/[StaticText]SS900|#1" />
+  <StaticText Name="DetailsST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Details|$TextBlock_4|#2" />
+  <StaticText Name="PipingSpecFileST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Piping Spec file*|$TextBlock_5|#3" />
+  <PushButton Name="SetupComparePB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Setup Compare|$Button_5|#3" />
+  <StaticText Name="SetupCompareST" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Setup Compare|$Button_5|#3/[StaticText]Setup Compare|#1" />
+  <Thumb Name="ThumbCTL" Tag="[Thumb]$GridSplitter_1|#1" />
+  <PushButton Name="Close2PB" Tag="[PushButton]Close|$Button_4|#3" />
+  <StaticText Name="CloseST" Tag="[PushButton]Close|$Button_4|#3/[StaticText]Close|#1" />
+  <PushButton Name="SyncReviewPB" Tag="[PushButton]Sync Review|$Button_2|#2" />
+  <StaticText Name="SyncReviewST" Tag="[PushButton]Sync Review|$Button_2|#2/[StaticText]Sync Review|$TextBlock_4|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

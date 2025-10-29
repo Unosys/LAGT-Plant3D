@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.LaunchingAutodeskVaultProfessionalWarningDLG" Tag="[DialogBox]Autodesk Vault Stand Alone Client" ParentType="MainWin" GUIType="WIN32">
+  <Pane Name="AutodeskVaultStandAlonePANE" GUIType="UIA" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="AutodeskVaultST" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1/[StaticText]Autodesk Vault|$MainInstruction|#1" />
+  <StaticText Name="DoNotUseAutodeskST" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1/[StaticText]Do not use Autodesk Vault Client to check out or check in files if you can use Project Manager instead*|$ContentText|#2" />
+  <PushButton Name="LaunchAutodeskVaultPB" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1/[PushButton]Launch Autodesk Vault|$CommandLink_1001|#1" />
+  <PushButton Name="DoNotLaunchAutodeskPB" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1/[PushButton]Do Not Launch Autodesk Vault|$CommandLink_2|#2" />
+  <CheckBox Name="AlwaysLaunchAutodeskVaultCK" Tag="[Pane]Autodesk Vault Stand Alone Client|$Window|#1/[CheckBox]Always launch Autodesk Vault*|$VerificationCheckBox|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

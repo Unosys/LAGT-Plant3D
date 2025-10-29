@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BrowseForFolderVaultDLG" Tag="[DialogBox]Browse For Folder" ParentType="Pane">
+
+	<PushButton Name="OpenPB" Tag="[PushButton]Open|$1|#7" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#8" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

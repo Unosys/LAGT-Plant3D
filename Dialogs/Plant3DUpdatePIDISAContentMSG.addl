@@ -1,0 +1,10 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DUpdatePIDISAContentMSG" Tag="[DialogBox]Plant 3D - Update * ISA Content" ParentType="MainWin" GUIType="WIN32">
+
+
+
+	<PushButton Name="UpdateThisProjectsISAPB" Tag="[Pane]Plant 3D - Update P*|$Window|#1/[PushButton]Update this project's ISA content|$CommandLink_1001|#1" />
+	<PushButton Name="DontUpdatePB" Tag="[Pane]Plant 3D - Update P*|$Window|#1/[PushButton]Don't update|$CommandLink_1002|#2" />
+	<PushButton Name="CancelPB" Tag="[Pane]Plant 3D - Update P*|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

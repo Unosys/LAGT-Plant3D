@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DSelectBlockDrawingDLG" Tag="[DialogBox]*Select Block*" ParentType="SymbolSettingsDLG">
+<!--<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<TextField Name="FileNameTextField" Tag="[TextField]$1001" />
+<PushButton Name="Open" Tag="[PushButton]$1" />-->
+  <ComboBox Name="FileNameTextField" Tag="[ComboBox]File name:|$13006|#1" />
+  <PushButton Name="Open" Tag="[PushButton]Open|$1|#9" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#10" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

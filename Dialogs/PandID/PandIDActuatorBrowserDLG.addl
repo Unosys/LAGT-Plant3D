@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDActuatorBrowserDLG" Tag="[Window]Actuator Browser|$ClassBrowserDlg" >
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OKBtn|#1" />
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+	<TreeView Name="TreeViewTV" Tag="[TreeView]$ClassTreeView|#1" />
+	<TreeViewItem Name="BackPressureRegulatorTVI" Tag="[TreeView]$ClassTreeView|#1/[TreeViewItem]#1" />
+	<Image Name="Image1IMG" Tag="[TreeView]$ClassTreeView|#1/[TreeViewItem]#1/[Image]$NodeImg|#1" />
+	<StaticText Name="BackPressureRegulatorST" Tag="[TreeView]$ClassTreeView|#1/[TreeViewItem]#1/[StaticText]$NodeText|#1" />
+	<TreeViewItem Name="BackPressureRegulatorWithTVI" Tag="[TreeView]$ClassTreeView|#1/[TreeViewItem]Back Pressure Regulator With External Tap|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

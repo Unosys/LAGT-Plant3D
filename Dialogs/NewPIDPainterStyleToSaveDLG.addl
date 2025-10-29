@@ -1,0 +1,5 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.NewPIDPainterStyleToSaveDLG" Tag="[Pane]$AddPainterStyleDlg" >
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btn_Cancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$btn_OK|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

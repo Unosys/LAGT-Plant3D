@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.FileSetToReadOnlyDLG" Tag="[DialogBox]AutoCAD Plant 3D|#1" ParentType="Pane" GUIType="UIA">
+  <PushButton Name="OK" Tag="[PushButton]OK|$2|#1" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]AutoCAD Plant 3D|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

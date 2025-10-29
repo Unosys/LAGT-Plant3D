@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectXMLFileErrorDLG" Tag="[DialogBox]Error" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="TheFileYouSelectedIsNotA" Tag="[StaticText]The file you selected is not a AutoCAD Plant 3D Project XML file. Please try again.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,36 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddPropertyPropertyChanges" Tag="[Window]Add Property|$IsometricAddProperty" ParentType="MainWin" GUIType="UIA">
+
+
+	<TitleBar Name="AddPropertyCTL" Tag="[TitleBar]Add Property|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Add Property|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Add Property|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<!--<PageList Name="PageListPG" Tag="[PageList]$AddPropertyTabControl" />-->
+	<Window Name="Plant3DWIN" Tag="[PageList]$AddPropertyTabControl/[Window]$TabItem_1|#1" />
+	<StaticText Name="Plant3DST" Tag="[PageList]$AddPropertyTabControl/[Window]$TabItem_1|#1/[StaticText]#1" />
+	<Window Name="PCFWIN" Tag="[PageList]$AddPropertyTabControl/[Window]$TabItem_2|#2" />
+	<StaticText Name="PCFST" Tag="[PageList]$AddPropertyTabControl/[Window]$TabItem_2|#2/[StaticText]#1" />
+	<Window Name="SymbolsWIN" Tag="[PageList]$AddPropertyTabControl/[Window]$SymbolsTabItem|#3" />
+	<StaticText Name="Symbols1ST" Tag="[PageList]$AddPropertyTabControl/[Window]$SymbolsTabItem|#3/[StaticText]#1" />
+	<StaticText Name="Symbols2ST" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[StaticText]Symbols:|$TextBlock_6|#2" />
+	<ListBox Name="SymbolsLB" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1" />
+	<ListBoxItem Name="CenterlineLBI" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Centerline ℄|#1" />
+	<CheckBox Name="CheckBox1CK" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Centerline ℄|#1/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CenterlineST" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Centerline ℄|#1/[StaticText]Centerline ℄|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="DiameterLBI" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Diameter ∅|#2" />
+	<CheckBox Name="CheckBox2CK" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Diameter ∅|#2/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="DiameterST" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Diameter ∅|#2/[StaticText]Diameter ∅|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="DatumPointLBI" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Datum Point ☼|#3" />
+	<CheckBox Name="CheckBox3CK" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Datum Point ☼|#3/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="DatumPointST" Tag="[PageList]$AddPropertyTabControl/[Window]Symbols|$SymbolsTabItem|#3/[ListBox]Symbols:|$SymbolListBox|#1/[ListBoxItem]Datum Point ☼|#3/[StaticText]Datum Point ☼|$PropertyNameTextBlock|#1" />
+	<PushButton Name="AddPropertyPB" Tag="[PushButton]Add Property|$AddPropertyBtn|#1" />
+	<StaticText Name="AddPropertyST" Tag="[PushButton]Add Property|$AddPropertyBtn|#1/[StaticText]Add Property|$strContent|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+	<StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelBtn|#2/[StaticText]Cancel|$strContent|#1" />
+
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

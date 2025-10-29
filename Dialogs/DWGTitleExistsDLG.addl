@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DWGTitleExistsDLG" Tag="[DialogBox]DWG Title Exists" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]OK|$2|@(154,52)" />
+<StaticText Name="DWGTitleAlreadyExistsPlea" Tag="[StaticText]DWG title already exists. Please enter a different DWG title.|$65535|@(160,18)" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

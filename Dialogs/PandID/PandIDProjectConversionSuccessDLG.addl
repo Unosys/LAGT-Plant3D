@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectConversionSuccessDLG" Tag="[DialogBox]Project Conversion Success" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="YourProjectHasBeenSuccessf" Tag="[StaticText]Your project has been successfully converted to SQL Express server database.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

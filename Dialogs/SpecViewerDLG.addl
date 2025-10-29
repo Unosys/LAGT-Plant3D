@@ -1,0 +1,30 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecViewerDLG" Tag="[DialogBox]SpecViewerDLG" ParentType="Plant3D">
+<CustomWin Name="AfxControlBar90u1" Tag="[CustomWin][AfxControlBar*u]$59423|[AfxControlBar*u]#1" />
+<CustomWin Name="AfxWnd90u1" Tag="[AfxWnd*u]$16720" />
+<CustomWin Name="PipeSpecViewer" Tag="[CustomWin][AfxWnd*u]Pipe Spec Viewer|[AfxWnd*u]$8" />
+<CustomWin Name="SpecViewerESW" Tag="[Autodesk.ProcessPower.PnP3dSpecUI.SpecViewerESW]$SpecViewerESW" />
+<CustomWin Name="M_SplitContainer" Tag="[System.Windows.Forms.SplitContainer]$m_SplitContainer" />
+<CustomWin Name="SystemWindowsFormsSplitterP1" Tag="[System.Windows.Forms.SplitterPanel]#1" />
+<CustomWin Name="M_Panel_Top" Tag="[System.Windows.Forms.Panel]$m_Panel_Top" />
+<CustomWin Name="HwndWrapperDefaultDomain611" Tag="[HwndWrapper[DefaultDomain;;6116536c-93b1-4868-9b53-3d8c5b6f3510]]$0" />
+<CustomWin Name="M_SpecViewerTitleBar" Tag="[Autodesk.ProcessPower.PnP3dSpecUI.SpecViewerTitleBar]$m_SpecViewerTitleBar" />
+<PopupList Name="Spec" Tag="[PopupList]Spec:|$m_comboBox" />
+<StaticText Name="SpecText" Tag="[StaticText]Spec:|$m_label" />
+<CustomWin Name="SystemWindowsFormsSplitterP2" Tag="[System.Windows.Forms.SplitterPanel]#2" />
+<CustomWin Name="M_Panel_Bottom" Tag="[System.Windows.Forms.Panel]$m_Panel_Bottom" />
+<CustomWin Name="M_tableLayoutPanel" Tag="[System.Windows.Forms.TableLayoutPanel]$m_tableLayoutPanel" />
+<CustomWin Name="M_PreviewPicBox" Tag="[System.Windows.Forms.PictureBox]$m_PreviewPicBox" />
+<StaticText Name="PartDetails1" Tag="[StaticText]Part details|$m_DetailGroupBox" />
+<StaticText Name="PartTypeText" Tag="[StaticText]Part Type:|$m_Label_PartType" />
+<StaticText Name="EndConnectionText" Tag="[StaticText]End Connection:|$m_Label_EndCon" />
+<StaticText Name="MaterialGradeText" Tag="[StaticText]Material Grade:|$m_Label_MaterialGrade" />
+<StaticText Name="RatingText" Tag="[StaticText]Rating:|$m_Label_Rating" />
+<CustomWin Name="PartDetails2" Tag="[CustomWin][System.Windows.Forms.Panel]Part details|[System.Windows.Forms.Panel]$m_panel_btn" />
+<PushButton Name="CreateToolPalette" Tag="[PushButton]Create Tool Palette|$m_btnCreate" />
+<PushButton Name="InsertInModel" Tag="[PushButton]Insert in Model|$m_btnInsert" />
+<PushButton Name="AddToToolPalette" Tag="[PushButton]Add to Tool Palette|$m_btnAdd" />
+<CustomWin Name="M_Panel_Bottom_PartsListView" Tag="[System.Windows.Forms.Panel]$m_Panel_Bottom_PartsListView" />
+<CustomWin Name="SystemWindowsFormsIntegrati" Tag="[System.Windows.Forms.Integration.ElementHost]#1" />
+<CustomWin Name="HwndWrapperDefaultDomainDe1" Tag="[HwndWrapper[DefaultDomain;;de14b149-fb4b-45af-ad48-0d6dce44329f]]$0" />
+<CustomWin Name="M_PartSizesTitleBar" Tag="[Autodesk.ProcessPower.PnP3dSpecUI.PartSizesTitleBar]$m_PartSizesTitleBar" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

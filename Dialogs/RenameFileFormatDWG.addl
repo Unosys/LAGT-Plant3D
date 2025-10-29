@@ -1,0 +1,15 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RenameFileFormatDWG" Tag="[DialogBox]Rename DWG" ParentType="Plant3D">
+<CustomWin Name="DrawingName1" Tag="[CustomWin][System.Windows.Forms.Panel]Drawing name|[System.Windows.Forms.Panel]#1|[System.Windows.Forms.Panel]$m_panel_buttons" />
+<PushButton Name="OK" Tag="[PushButton]$btnOK" />
+<PushButton Name="Cancel" Tag="[PushButton]$btnCancel" />
+<StaticText Name="DrawingName2" Tag="[StaticText]Drawing name|#1|$m_gb_drawing_name" />
+<StaticText Name="RenamingWillCauseAllExtern1" Tag="[StaticText]Renaming will cause all external references to this drawing to be broken.|#1|$m_warnTextLabel" />
+<CustomWin Name="RenamingWillCauseAllExtern2" Tag="[CustomWin][System.Windows.Forms.Panel]Renaming will cause all external references to this drawing to be broken.[1]|[System.Windows.Forms.Panel]#1|[System.Windows.Forms.Panel]$m_panel_property_names" />
+<CustomWin Name="DrawingNamePropertyItem" Tag="[CustomWin][Autodesk.ProcessPower.ProjectManagerUI.DrawingNamePropertyItem]#1|[Autodesk.ProcessPower.ProjectManagerUI.DrawingNamePropertyItem]$DrawingNamePropertyItem" />
+<TextField Name="Test" Tag="[TextField]Test :|#1|$m_tb_property_value" />
+<StaticText Name="TestText" Tag="[StaticText]Test :|#1|$m_lb_name" />
+<CustomWin Name="RenamingWillCauseAllExtern3" Tag="[CustomWin][System.Windows.Forms.Panel]Renaming will cause all external references to this drawing to be broken.[2]|[System.Windows.Forms.Panel]#2|[System.Windows.Forms.Panel]$m_panel_filename" />
+<TextField Name="FileName" Tag="[TextField]File name:|#1|$m_tb_filename" />
+<CheckBox Name="Override" Tag="[CheckBox]Override|#1|$m_cb_override" />
+<StaticText Name="FileNameText" Tag="[StaticText]File name:|#1|$lblFileName" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

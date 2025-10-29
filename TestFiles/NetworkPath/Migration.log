@@ -1,0 +1,219 @@
+--------------------------------------------------------------------------------
+Project Migration started at Time 11:16:39 AM on 12/20/2010
+[Backup]
+Option not selected. No files were backed up.
+[Migration]
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\Project.xml" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\PIP_Metric_PnIdPart.xml" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\ProcessPower.dcf" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\projSymbolStyle.dwg" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\PID DWG\Section - I\L-PID1201.dwg" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\PID DWG\Section - I\D-PID1401.dwg" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\PID DWG\Section - I\D-PID1405.dwg" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\PID DWG\Section - I\D-PID1407.dwg" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\Metric_PipingPart.xml" was migrated
+Success: File "C:\Users\t_ghana\Desktop\P&ID 2010 - Grizzly\Praj-\Piping.dcf" was migrated
+Migration successfully completed!
+Project Migration ended at Time 11:17:11 AM on 12/20/2010
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Project Migration started at Time 3:13:41 PM on 3/10/2011
+[Backup]
+Option not selected. No files were backed up.
+[Migration]
+Success: File "e:\networkpath\pip_metric_pnidpart.xml" was migrated
+Success: File "e:\networkpath\processpower.dcf" was migrated
+Success: File "e:\networkpath\metric_pipingpart.xml" was migrated
+Success: File "e:\networkpath\piping.dcf" was migrated
+Success: File "e:\networkpath\isopart.xml" was migrated
+Success: File "e:\networkpath\iso.dcf" was migrated
+Success: File "e:\networkpath\metric_orthopart.xml" was migrated
+Success: File "e:\networkpath\ortho.dcf" was migrated
+Migration successfully completed!
+Project Migration ended at Time 3:14:26 PM on 3/10/2011
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Project Migration started at Time 6:02:51 PM on 11/21/2013
+[Backup]
+Option not selected. No files were backed up.
+[Migration]
+Success: File "S:\Test Files\Plant3D\NetworkPath\PIP_Metric_PnIdPart.xml" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\ProcessPower.dcf" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\projSymbolStyle.dwg" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\PID DWG\Section - I\D-PID1401.dwg" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\PID DWG\Section - I\D-PID1405.dwg" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\PID DWG\Section - I\D-PID1407.dwg" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\PID DWG\Section - I\L-PID1201.dwg" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Metric_PipingPart.xml" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Piping.dcf" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\100HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\100HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\100HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\100HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\10HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\10HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\10HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\10HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\160HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\160HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\160HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\160HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\16HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\16HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\16HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\16HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\1HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\1HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\1HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\1HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\250HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\250HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\250HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\250HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\25HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\25HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\25HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\25HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\2HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\2HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\2HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\2HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\320HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\320HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\320HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\320HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\400HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\400HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\400HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\400HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\40HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\40HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\40HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\40HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\64HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\64HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\64HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\64HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\6HC01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\6HC01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\6HS01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\6HS01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\AWWA C110.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\AWWA C110.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS150 Flanged.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS150 Flanged.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS150.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS150.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS1500.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS1500.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS2500.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS2500.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS300.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS300.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS600.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS600.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS900.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\CS900.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\DI Class 150.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\DI Class 150.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\DI Class 250.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\DI Class 250.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Grooved Class 150.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Grooved Class 150.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Grooved Class 300.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Grooved Class 300.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PlaceHolder Imperial.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PlaceHolder Imperial.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PlaceHolder Metric.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PlaceHolder Metric.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CA1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CA1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CB2S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CB2S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CJ1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CJ1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CK1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CK1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CL1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CL1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CM1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CM1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CS1B01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CS1B01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CS1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01CS1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01SA0B01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01SA0B01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01SA0B02.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01SA0B02.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01SA0B03.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01SA0B03.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01SA0B05.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN01SA0B05.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN03CA1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN03CA1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN03CJ1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN03CJ1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN06CA1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN06CA1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN06CB2S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN06CB2S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN09CB1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN09CB1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN09SP1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN09SP1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN15CL1S01.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN15CL1S01.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN15CM1S01 .pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\PN15CM1S01 .pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Sch 40 PVC.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Sch 40 PVC.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Sch 80 CPVC.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Sch 80 CPVC.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Sch 80 PVC.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Sch 80 PVC.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS150.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS150.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS1500.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS1500.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS2500.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS2500.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS300.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS300.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS600.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS600.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS900.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\SS900.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Test.pspx" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Spec Sheets\Test.pspc" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\IsoPart.xml" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Iso.dcf" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Metric_OrthoPart.xml" was migrated
+Success: File "S:\Test Files\Plant3D\NetworkPath\Ortho.dcf" was migrated
+Migration successfully completed!
+Project Migration ended at Time 6:05:28 PM on 11/21/2013
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Project Migration started at Time 3:21:53 AM on 1/12/2015
+[Backup]
+Option not selected. No files were backed up.
+[Migration]
+Success: File "s:\Test Files\Plant3D\NetworkPath\PIP_Metric_PnIdPart.xml" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\ProcessPower.dcf" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\PID DWG\Section - I\D-PID1401.dwg" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\PID DWG\Section - I\D-PID1405.dwg" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\PID DWG\Section - I\D-PID1407.dwg" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\PID DWG\Section - I\L-PID1201.dwg" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\Metric_PipingPart.xml" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\Piping.dcf" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\IsoPart.xml" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\Iso.dcf" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\Metric_OrthoPart.xml" was migrated
+Success: File "s:\Test Files\Plant3D\NetworkPath\Ortho.dcf" was migrated
+Migration successfully completed!
+Project Migration ended at Time 3:22:28 AM on 1/12/2015
+--------------------------------------------------------------------------------
+

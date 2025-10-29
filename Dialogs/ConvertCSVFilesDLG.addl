@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConvertCSVFilesDLG" Tag="[Window]Convert CSV Files|$SpecMigrationConversionWindow" ParentType="MainWin" GUIType="UIA">
+	<PushButton Name="ConvertPB" Tag="[PushButton]Convert|$Convert|#4" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#5" />
+	<PushButton Name="PushButtonPB" Tag="[PushButton]$EllipsisButton|#3" />
+	<TextField Name="SelectTheFolderForTF" Tag="[TextField]Select the folder for the converted specs and catalogs:|$MigratedFolderTextBox|#1" />
+	<RadioButton Name="SelectTheSpecFolderRB" Tag="[RadioButton]Select the spec folder contatining csv files to be converted:|$SpecRadioButton|#1" />
+	<RadioButton Name="ConvertSelectedFilesToRB" Tag="[RadioButton]Convert selected files to:|$CatalogRadioButton|#2" />
+	<PushButton Name="AddPB" Tag="[PushButton]Add|$AddButton|#1" />
+	<PushButton Name="RemovePB" Tag="[PushButton]Remove|$RemoveButton|#2" />
+	<ListView Name="SelectTheSpecFolderLV" Tag="[ListView]Select the spec folder contatining csv files to be converted:|$FileNamesListView|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

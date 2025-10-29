@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VCSRV_LogInServerDLG" Tag="[Pane]$SignInForm" ParentType="VaultProServer" GUIType="UIA">
+
+  <PopupList Name="AuthenticationPL" Tag="[Pane]$tableLayoutPanel1/[PopupList]$loginTypeComboBox" />
+  <TextField Name="PasswordTF" Tag="[Pane]$tableLayoutPanel1/[TextField]$m_passwordTextBox" />
+  <TextField Name="UserNameTF" Tag="[Pane]$tableLayoutPanel1/[TextField]$m_userNameTextBox" />
+
+
+
+  <PushButton Name="CancelPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$panel2/[PushButton]$m_cancelButton" />
+  <PushButton Name="OKPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$panel2/[PushButton]$m_okButton" />
+
+
+
+
+
+</Pane>

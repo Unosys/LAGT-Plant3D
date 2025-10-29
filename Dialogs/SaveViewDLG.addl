@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SaveViewDLG" Tag="[Pane]Save View|$frmSaveViewDetails" ParentType="Plant3D" GUIType="UIA">
+  <ListBox Name="ViewList" Tag="[ListBox]View List:|$m_viewListBox" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$m_btnCancel" />
+  <PushButton Name="OK" Tag="[PushButton]OK|$m_btnOK" />
+  <TextField Name="ViewName" Tag="[TextField]View Name:|$m_viewNameTxtBox" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Save View|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

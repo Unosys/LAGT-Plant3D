@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CustomizeResetDLG" Tag="[DialogBox]Customize">
+
+	<PushButton Name="CancelPB" Tag="[PushButton]#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataCollectionAndUseDLG" Tag="[DialogBox]Data collection and use" ParentType="MainWin" GUIType="WIN32">
+
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$1|#1" />
+  <StaticText Name="DataCollectionAndUseST" Tag="[StaticText]Data collection and use|$1002|#1" />
+  <StaticText Name="AutodeskAnalyticsProgramsHelpST" Tag="[StaticText]Autodesk analytics programs help us understand how our customers use our products and services so we can personalize your experience and build better online, mobile, and desktop applications*|$1003|#2" />
+  <CheckBox Name="IAgreeToDataCK" Tag="[CheckBox]I agree to data collection in desktop products for Autodesk analytics programs*|$1004|#1" />
+  <Link Name="LearnMoreLINK" GUIType="UIA" Tag="[Link]Learn more|$1005|#1" />
+  <Link Name="Link1LINK" Tag="[Link]Learn more|$1005|#1/[Link]#1" />
+  <Link Name="AutodesksPrivacyStatementLINK" GUIType="UIA" Tag="[Link]Autodesk's Privacy Statement|$1006|#2" />
+  <Link Name="Link2LINK" Tag="[Link]Autodesk's Privacy Statement|$1006|#2/[Link]#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

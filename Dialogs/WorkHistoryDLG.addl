@@ -1,0 +1,21 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.WorkHistoryDLG" Tag="[DialogBox]Work History" ParentType="Plant3D">
+<PushButton Name="Help" Tag="[PushButton]#3|$btnHelp" />
+<PushButton Name="Cancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="OK" Tag="[PushButton]$btnOK" />
+<PopupList Name="Status" Tag="[PopupList]$cboStatus" />
+<StaticText Name="Details" Tag="[StaticText]#2|$gpDetails" />
+<StaticText Name="ProjectText" Tag="[StaticText]#1|$lblProject1" />
+<StaticText Name="DefaultProjectText" Tag="[StaticText]#2|$lblProject" />
+<StaticText Name="FileText" Tag="[StaticText]#3|$lblFile1" />
+<StaticText Name="CDocumentsAndSettingsNsar" Tag="[StaticText]#4|$lblFile" />
+<StaticText Name="UserText" Tag="[StaticText]#5|$lblUser1" />
+<StaticText Name="NsarchText" Tag="[StaticText]#6|$lblUser" />
+<StaticText Name="BeginEditText" Tag="[StaticText]#7|$lblBeginEdit1" />
+<StaticText Name="N220200942502PMText" Tag="[StaticText]#8|$lblBeginEdit" />
+<StaticText Name="EndEditText" Tag="[StaticText]#9|$lblEndEdit1" />
+<StaticText Name="NAText" Tag="[StaticText]#10|$lblEndEdit" />
+<StaticText Name="WorkHistory" Tag="[StaticText]#1|$gpWorkHistory" />
+<StaticText Name="StatusText" Tag="[StaticText]#1|$lblStatus" />
+<StaticText Name="NotesText" Tag="[StaticText]#2|$lblNotes" />
+<TextField Name="Notes" Tag="[TextField]#1|$tbNotes" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

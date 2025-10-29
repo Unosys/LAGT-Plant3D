@@ -1,0 +1,34 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupPathsDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="MainWin" GUIType="UIA">
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$1509842|#2/[PushButton]$m_btnCancel|#3" />
+
+  <PushButton Name="M_btnClassSchema" Tag="[Pane]$m_splitHorz|#1/[Pane]$5898448|#1/[Pane]$m_splitVert|#1/[Pane]$4524392|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[PushButton]$m_btnClassSchema" />
+<PushButton Name="M_btnDrawingDwtTemplate" Tag="[PushButton]$m_btnDrawingDwtTemplate" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOk" Tag="[Pane]$m_splitHorz|#1/[Pane]$3998772|#2/[PushButton]OK|$m_btnOk|#2" />
+<PushButton Name="M_btnProjectDwgDir" Tag="[PushButton]$m_btnProjectDwgDir" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<GroupBox Name="M_groupBox" Tag="[GroupBox]$m_groupBox" />
+<StaticText Name="M_labelPnidDwtFileName" Tag="[StaticText]$m_labelPnidDwtFileName" />
+<StaticText Name="M_labelPssFile" Tag="[StaticText]$m_labelPssFile" />
+<StaticText Name="M_labelSchemaDcfx" Tag="[StaticText]$m_labelSchemaDcfx" />
+<StaticText Name="M_lablePnidDwgDwgDirectory" Tag="[StaticText]$m_lablePnidDwgDwgDirectory" />
+<CustomWin Name="M_pathsUserControl" Tag="[CustomWin]$m_pathsUserControl" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TextField Name="M_textBoxDrawingDwtTemplate" Tag="[Pane]$m_splitHorz|#1/[Pane]$5898448|#1/[Pane]$m_splitVert|#1/[Pane]$4524392|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[TextField]Drawing template file (DWT):|$m_textBoxDrawingDwtTemplate|#4" />
+  <TextField Name="DrawingTemplateFileDWT1TF" Tag="[Pane]$m_splitHorz|#1/[Pane]$1705280|#1/[Pane]$m_splitVert|#1/[Pane]$853292|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[TextField]$m_textBoxP3dDwtPath|#3" />
+  <TextField Name="DrawingTemplateFileDWT2TF" Tag="[Pane]$m_splitHorz|#1/[Pane]$16581128|#1/[Pane]$m_splitVert|#1/[Pane]$2295856|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[TextField]$m_textBoxPnIdDwtPath|#1" />
+
+  <TextField Name="M_textBoxProjectDwgDirectory" Tag="[Pane]$m_splitHorz|#1/[Pane]$10620054|#1/[Pane]$m_splitVert|#1/[Pane]$2036110|#2/[Pane]$m_pathsUserControl|#1/[GroupBox]Paths|$m_groupBox|#1/[TextField]PID DWG directory:|$m_textBoxProjectDwgDirectory|#1" />
+	<TextField Name="PIDDWGPTF" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_pathsUserControl|#1/[GroupBox]$m_groupBoxProjectPath|#1/[TextField]$m_textBoxPnIdDwgPath|#3" />
+
+
+
+	<TextField Name="M_textBoxProjSymbolStyles" Tag="[TextField]$m_textBoxProjSymbolStyles" />
+<TextField Name="M_textBoxSchema" Tag="[TextField]$m_textBoxSchema" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.NewAutomationSchemeDLG" Tag="[Pane]$NewAutomationSchemeDlg" >
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_bt_Cancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$m_bt_OK|#1" />
+
+	<TextField Name="NameTF" Tag="[TextField]Name:|$m_tb_name|#1" />
+
+</Pane>

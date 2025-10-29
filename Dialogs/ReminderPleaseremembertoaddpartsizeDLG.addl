@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReminderPleaseremembertoaddpartsizeDLG" Tag="[DialogBox]Reminder|#1" ParentType="Window" GUIType="UIA">
+
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="PleaseRememberToAddST" Tag="[StaticText]Please remember to add part size*|$65535|#1" />
+  <TitleBar Name="ReminderCTL" Tag="[TitleBar]Reminder|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Reminder|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

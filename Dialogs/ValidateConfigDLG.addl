@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ValidateConfigDLG" Tag="[DialogBox]$frmDWGValidationSettings" ParentType="Plant3D">
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnOK" Tag="[PushButton]$btnOK" />
+<GroupBox Name="GbDescription" Tag="[GroupBox]$gbDescription" />
+<GroupBox Name="GbErrorReporting" Tag="[GroupBox]$gbErrorReporting" />
+<StaticText Name="LblDescription" Tag="[StaticText]$lblDescription" />
+<StaticText Name="LblErrorReporting" Tag="[StaticText]$lblErrorReporting" />
+<TreeView Name="TreeView2" Tag="[TreeView]$treeView2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

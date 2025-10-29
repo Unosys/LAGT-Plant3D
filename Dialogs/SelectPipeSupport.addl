@@ -1,0 +1,10 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectPipeSupport" Tag="[Window]Select Pipe Support|$ShapeBrowserWindow" >
+
+
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$Button_1|#4" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_2|#5" />
+
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

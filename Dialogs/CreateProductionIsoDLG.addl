@@ -1,0 +1,28 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateProductionIsoDLG" Tag="[Pane]Create Production Iso|$ProductionIsoCreate|#1" ParentType="Plant3D" GUIType="UIA">
+  <GroupBox Name="DisplayLinesGB" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1" />
+  <CheckBox Name="CheckBox_DrawingLines" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]`|$checkBox_DrawingLines|#1" />
+  <CheckBox Name="CheckBox_ProjectLines" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]$checkBox_ProjectLines|#2" />
+  <CheckBox Name="CheckBox_filter" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[CheckBox]$checkBox_filter|#3" />
+  <StaticText Name="LineNumbersST" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[StaticText]Line Numbers:|$label_CreateFromLines|#1" />
+  <ListBox Name="LineNumbersLB" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[ListBox]Line Numbers:|$checkedListBox_Lines|#1" />
+  <PushButton Name="Button_filteractive" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[PushButton]Line Numbers:|$button_filteractive|#1" />
+  <TextField Name="TextFieldTF" Tag="[GroupBox]Display lines|$groupBox_DisplayLines|#1/[TextField]$textBox_Filter|#1" />
+  <GroupBox Name="OutputSettingsGB" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2" />
+  <StaticText Name="RevisionNumberST" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[StaticText]Revision number:|$label_RevisionNumber|#4" />
+  <TextField Name="RevisionNumberTF" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[TextField]Revision number:|$textBox_RevisionNumber|#1" />
+  <PushButton Name="Button_Options" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[PushButton]Advanced*|$button_Options|#1" />
+  <StaticText Name="SaveIsosToST" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[StaticText]Save Isos to:|$m_labelIsosCreateIn|#2" />
+  <StaticText Name="CUsersAdministratorAppDataRoamingAutodeskAutodeskAutoCADPlant3DST" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[StaticText]C:*|$m_labelIsometricsPath|#3" />
+  <CheckBox Name="CheckBox_OverwriteExisting" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[CheckBox]Overwrite if existing|$checkBox_OverwriteExisting|#2" />
+  <CheckBox Name="CheckBox_CreateDWF" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[CheckBox]Create DWF|$checkBox_CreateDWF|#1" />
+  <StaticText Name="IsoStyleST" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[StaticText]Iso Style:|$m_isoTypeLabel|#1" />
+  <PopupList Name="IsoStylePL" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[PopupList]Iso Style:|$comboBox_IsoType|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[GroupBox]Output settings|$m_groupBoxOutputSettings|#2/[PopupList]Iso Style:|$comboBox_IsoType|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="M_buttonCancel" Tag="[PushButton]Cancel|$m_buttonCancel|#2" />
+  <PushButton Name="M_buttonCreate" Tag="[PushButton]Create|$m_buttonCreate|#1" />
+  <PushButton Name="M_buttonHelp" Tag="[PushButton]Help|$m_buttonHelp|#3" />
+  <TitleBar Name="CreateProductionIsoCTL" Tag="[TitleBar]Create Production Iso|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Create Production Iso|$TitleBar|#1/[CustomWin]System Menu Bar|$ProductionIsoCreate|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Create Production Iso|$TitleBar|#1/[CustomWin]System Menu Bar|$ProductionIsoCreate|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Create Production Iso|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

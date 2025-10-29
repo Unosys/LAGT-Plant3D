@@ -1,0 +1,795 @@
+<DLGNAME>Plant3DPipingErrorsDLG</DLGNAME>
+	<STEPS>
+	Create new project (Imperial)
+	Click 'Copy Drawing to Project' icon in the 'PROJECTMANAGER' palette and select the attached FFE-5.DWG.
+	Click OK in the 'Project Data Merged' dialog.
+	Open the FFE-5 drawing.
+	Send '_SELECT' command. 
+	Send '_all' option.
+	Send Enter.
+	Send '_PROPERTIES'
+	Select 'Pipe (1)' dropdown item in Properties palette.
+	Change the size from 3" to 6" in the 'PLANT3D->Size' section - a Plant 3D Piping Errors appears
+	</STEPS>
+<DLGNAME>IsometricCreationResults</DLGNAME>
+	<STEPS>
+	Create new project
+	Create drawing under Plant 3D Drawings node and open it
+	Route a new line and assign tag 
+	(click 'Route New Line…' under 'Home/Part Insertion' ribbon palette, type a number in the Assign Tag dialog, click Assign, and draw a pipe)
+	Send '_PLANTQUICKISO' command
+	Send 'Line' option
+	Click 'Create' button
+	Once the information bubble appears in the status bar click the 'Click to view isometric creation details' link"
+	</STEPS>
+<DLGNAME>SpecandCatalogs-ConversionCompleteDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'File/Convert/CADWorx Specs…' menu.
+	4. Click 'Add' and open a *.spc file
+	5. Enter valid data into all 3 text boxes to enable 'Convert' button.
+	6. Click 'Convert' button.
+	</STEPS>
+<DLGNAME>AutoPLANTtoDMappingGeometryMappingDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'File/Convert/Settings/AutoPLANT Settings…' menu.
+	4. Select 'Geometry Mapping' tab
+	</STEPS>
+<DLGNAME>AutoPLANTtoDMappingPropertyTranslationDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'File/Convert/Settings/AutoPLANT Settings…' menu.
+	4. Select 'Property Translation' tab
+	</STEPS>
+<DLGNAME>CADWorxtoPlantDMappingGeometryMappingDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'File/Convert/Settings/CADWorx Settings…' menu.
+	4. Select 'Geometry Mapping' tab
+	</STEPS>
+<DLGNAME>CADWorxtoPlantDMappingPropertyTranslationDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'File/Convert/Settings/CADWorx Settings…' menu.
+	4. Select 'Property Translation' tab
+	</STEPS>
+<DLGNAME>CSVtoPlantDMappingGeometryMappingDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'File/Convert/Settings/CSV Settings…' menu.
+	4. Select 'Geometry Mapping' tab
+	</STEPS>
+<DLGNAME>CSVtoPlantDMappingPropertyTranslationDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'File/Convert/Settings/CSV Settings…' menu.
+	4. Select 'Property Translation' tab
+	</STEPS>
+<DLGNAME>ErrorOfficeExcelisnotInstalledDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	0. No MS Excel is installed.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Open a spec.
+	4. With 'Spec Editor' tab selected click the 'Export to Excel' icon.
+	</STEPS>
+<DLGNAME>SpecUtilityExportDataDLG1</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	0. MS Excel is installed.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Open a spec.
+	4. With 'Spec Editor' tab selected click the 'Export to Excel' icon.
+	</STEPS>
+<DLGNAME>ImportFailedTheExcelFileisnotanexportedCatalogDataFileDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Open a spec.
+	4. Select 'Catalog Editor' tab. 
+	5. Selected click the 'Import from Excel' icon.
+	5. Select and open a XLS file with exported Specs data (e.g. TEST.XLS from the test kit.)
+	</STEPS>
+<DLGNAME>AutoCADPlantDSpecEditorxBranchTableEditortabDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'Branch Table Editor' tab. 
+	</STEPS>
+<DLGNAME>CatalogPropertiesSizesDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Select 'Catalog Editor' tab. 
+	4. Click the "square" icon in the  'Piping Component Editor' palette caption. 
+	5. Select 'Sizes' tab.
+	</STEPS>
+<DLGNAME>SpecUtilityEditpartsEditPropertiesDLG</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Open a spec.
+	4. Select 'Spec Editor' tab. 
+	5. Select a part under Spec Sheet palette.
+	6. Click 'Edit Parts…' button.
+	7. Select 'Edit Properties' tab.
+	</STEPS>
+<DLGNAME>CreateNewComponentDLG2</DLGNAME>
+	<STEPS>
+	DISCLAIMER: Steps are auto generated, if unclear please move the bug to 'More Info' and steps will be udpated.
+	1. Launch AutoCAD Plant 3D Spec Editor 201x
+	2. Close 'Welcome to…' screen.
+	3. Open a spec.
+	4. Select 'Catalog Editor' tab. 
+	5. Select 'General Properties' tab in the 'Piping Component Editor' palette.
+	6. Click 'Create New Component' button.
+	7. Select 'Use Custom Geometry' radio button.
+	</STEPS>
+<DLGNAME>ReportEditorAlphabeticalDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click the 'ReportHeader [one band per report]' in the working area and click the small arrow icon to expand a menu.
+	Click 'Edit and Reorder Bands...' link from the menu.
+	Click 'Alphabetical' icon."
+	</STEPS>
+<DLGNAME>FormatStringEditorCustomDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Double Click 'Label' in the 'Tool Box', place it in the working area and click the small arrow icon to expand the menu related to Label.
+	Click ellipses '...' button next the 'Format String' menu.
+	Select 'Custom' tab."
+	</STEPS>
+<DLGNAME>FormatStringEditorGeneralCustomDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Label' in the 'Tool Box', place it in the working area and click the small arrow icon to expand the menu related to Label.
+	Click ellipses '...' button next the 'Format String' menu.
+	Select 'Custom' tab.
+	Select 'General' in the 'Category' column"
+	</STEPS>
+<DLGNAME>PropertyEditorLayoutLoadDataFromXMLDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Double Click 'Pivot Grid' in the 'Tool Box', place it in the working area and click the small arrow icon to expand the menu related to Pivot Grid.
+	Click the 'Run Designer' link in the menu.
+	Click the 'Layout' icon under 'Main' group.
+	Select 'Load Data from XML' tab."
+	</STEPS>
+<DLGNAME>PropertyEditorPrintingSettingsBehaviorDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Double Click 'Pivot Grid' in the 'Tool Box', place it in the working area and click the small arrow icon to expand the menu related to Pivot Grid.
+	Click the 'Run Designer' link in the menu.
+	Click the 'Printing Settings' icon under 'Printing' group.
+	Select 'Behaviour' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesTopNOptionsDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series' .
+	Select 'Top N Options' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesPointOptionsDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series' .
+	Select 'Point Options' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesLegendPointOptionsDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series' .
+	Select 'Legend Point Options' tab."
+	</STEPS>
+<DLGNAME>ChartWizardDataSeriesBindingDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Data' .
+	Select 'Series Binding' tab."
+	</STEPS>
+<DLGNAME>ChartWizardDataAutoCreatedSeriesDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Data' .
+	Select 'Auto-created Series' tab."
+	</STEPS>
+<DLGNAME>ChartWizardDiagramElementsDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Diagram' .
+	Select 'Elements' tab."
+	</STEPS>
+<DLGNAME>ChartWizardDiagramScrollAndZoomDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Diagram' .
+	Select 'Scroll & Zoom' tab."
+	</STEPS>
+<DLGNAME>ChartWizardPanesAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Panes' .
+	Select 'Appearance' tab."
+	</STEPS>
+<DLGNAME>ChartWizardPanesBorderDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Panes' .
+	Select 'Border' tab."
+	</STEPS>
+<DLGNAME>ChartWizardPanesShadowDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Panes' .
+	Select 'Shadow' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesGeneralRangeDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown
+	Select 'Range' tab under the 'General' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesGeneralScrollingRangeDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown
+	Select 'Scrolling Range' tab under the 'General' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxisYGeneralFormatDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisY' from the dropdown
+	Select 'Format' tab under the 'General' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxisYGeneralRangeDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisY' from the dropdown
+	Select 'Range' tab under the 'General' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxisYGeneralScrollingRangeDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisY' from the dropdown
+	Select 'Scrolling Range' tab under the 'General' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesElementsTickmarksDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown
+	Select 'Tickmarks' tab under the 'Elements' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesElementsGridLinesDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown
+	Select 'Grid Lines' tab under the 'Elements' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesLabelsCustomDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown.
+	Select 'Custom' tab under the 'Labels' tab.
+	Click 'Add' button"
+	</STEPS>
+<DLGNAME>ChartWizardAxesStripsLimitsDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown.
+	Select 'Strips' tab.
+	Click 'Add' button.
+	Select 'Limits' tab under 'Strips' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesStripsAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown.
+	Select 'Strips' tab.
+	Click 'Add' button.
+	Select 'Appearance' tab under 'Strips' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesConstantLinesAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown.
+	Select 'Constant Lines' tab.
+	Click 'Add' button.
+	Select 'Appearance' tab under 'Constant Lines' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesConstantLinesTitleDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown.
+	Select 'Constant Lines' tab.
+	Click 'Add' button.
+	Select 'Title' tab under 'Constant Lines' tab."
+	</STEPS>
+<DLGNAME>ChartWizardAxesScaleBreaksCustomDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown.
+	Select 'Custom ' tab under 'Scale Breaks' tab.
+	Click 'Add' button."
+	</STEPS>
+<DLGNAME>ChartWizardAxesScaleBreaksAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Axes' .
+	Select 'Primary AxisX' from the dropdown.
+	Select 'Appearance' tab under 'Scale Breaks' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesViewsAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series Views' .
+	Select 'Appearance' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesViewsBorderDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series Views' .
+	Select 'Border' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesViewsShadowDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series Views' .
+	Select 'Shadow' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesViewsFibonacciIndicatorsDataDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series Views' .
+	Select 'Fibonacci Indicators' tab.
+	Click 'Add' button.
+	Click 'OK' button.
+	Select 'Data' tab under 'Fibonacci Indicators' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesViewsFibonacciIndicatorsAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series Views' .
+	Select 'Fibonacci Indicators' tab.
+	Click 'Add' button.
+	Click 'OK' button.
+	Select 'Appearance' tab under 'Fibonacci Indicators' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesViewsFibonacciIndicatorsLabelsDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series Views' .
+	Select 'Fibonacci Indicators' tab.
+	Click 'Add' button.
+	Click 'OK' button.
+	Select 'Labels' tab under 'Fibonacci Indicators' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesViewsTrendlinesAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series Views' .
+	Select 'Trendlines' tab.
+	Click 'Add' button.
+	Select 'Appearance' tab under 'Trendlines' tab."
+	</STEPS>
+<DLGNAME>ChartWizardSeriesViewsRegressionLinesDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Series Views' .
+	Select 'Regression Lines' tab."
+	</STEPS>
+<DLGNAME>ChartWizardPointLabelsLinesDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Point Labels' .
+	Select 'Line' tab."
+	</STEPS>
+<DLGNAME>ChartWizardPointLabelsAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Point Labels' .
+	Select 'Appearance' tab."
+	</STEPS>
+<DLGNAME>ChartWizardPointLabelsBorderDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Point Labels' .
+	Select 'Border' tab."
+	</STEPS>
+<DLGNAME>ChartWizardPointLabelsShadowDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Point Labels' .
+	Select 'Shadow' tab."
+	</STEPS>
+<DLGNAME>ChartWizardChartTitlesGeneralDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Chart Titles' .
+	Click 'Add' button
+	Select 'General' tab."
+	</STEPS>
+<DLGNAME>ChartWizardLegendAppearanceDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Legend' .
+	Select 'Appearance' tab."
+	</STEPS>
+<DLGNAME>ChartWizardLegendMarkerDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Legend' .
+	Select 'Marker' tab."
+	</STEPS>
+<DLGNAME>ChartWizardLegendTextDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Legend' .
+	Select Text' tab."
+	</STEPS>
+<DLGNAME>ChartWizardLegendBorderDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Legend' .
+	Select 'Border' tab."
+	</STEPS>
+<DLGNAME>ChartWizardLegendShadowDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears.
+	Select 'Legend' .
+	Select 'Shadow' tab."
+	</STEPS>
+<DLGNAME>SeriesCollectionEditorPropertiesDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Chart' in the 'Tool Box', place it in the working area and  - a Chart Wizard appears. 
+	Click 'Cancel to close the Chart Wizard.
+	Click the small arrow icon to expand the menu related to the chart.
+	Click the 'Series...' from the menu.
+	Select 'Properties' tab"
+	</STEPS>
+<DLGNAME>ScriptErrorsDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Undock the 'Script Errors' palette."
+	</STEPS>
+<DLGNAME>Cross-bandLineTasksDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Cross-band Line' in the 'Tool Box', place it in the working area and click the small arrow icon to expand the menu related to Cross-band Line."
+	</STEPS>
+<DLGNAME>Cross-bandBoxTasksDLG</DLGNAME>
+	<STEPS>
+	Launch 'AutoCAD Plant Report Creator 2012'
+	Select a project in 'Project' dropdown
+	Select an item (except the 'New...') from 'Report Configuration' dropdown 
+	Select 'Edit...' button
+	Click the 'Edit report layout…' button
+	Click CTRL+N to create a New Report (OR from ribbon 'Report Designer ribbon tab->Report panel->New Report')
+	Click 'Cross-band Box' in the 'Tool Box', place it in the working area and click the small arrow icon to expand the menu related to Cross-band Box."
+	</STEPS>

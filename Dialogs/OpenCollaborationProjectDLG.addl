@@ -1,0 +1,10 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenCollaborationProjectDLG" Tag="[Window]Open Collaboration Project|$Window_1" ParentType="MainWin" GUIType="UIA">
+ <PushButton Name="ClosePB" Tag="[TitleBar]Collaboration for Plant 3D|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<PushButton Name="OpenProjectPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Open Project|$Button_Next|#1" />
+	<TextField Name="SearchTF" Tag="[CustomWin]$UserControl_1|#1/[CustomWin]$SearchProjectCtrl|#1/[TextField]$SearchText|#1" />
+	<CustomWin Name="SearchWIN" Tag="[CustomWin]$UserControl_1|#1/[CustomWin]$SearchProjectCtrl|#1" />
+	<ListBoxItem Name="AutoProject" Tag="[CustomWin]$UserControl_1|#1/[ListBox]$ListBox_PlantProjects|#1/[ListBoxItem]#1" />
+
+	<ListBox Name="ChooseAPlantProjectLB" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Loading Plant projects from 'LOC'*|$ListBox_PlantProjects|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

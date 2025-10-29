@@ -1,0 +1,18 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectCollaborationLoginDLG" Tag="[Window]Plant Project Collaboration|$Window_1" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="CollaborationForPlant3DCTL" Tag="[TitleBar]Collaboration for Plant 3D|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Collaboration for Plant 3D|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Collaboration for Plant 3D|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar/[PushButton]$Close" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]$UserControl_1|#1" />
+  <StaticText Name="ShareYourProjectWithST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Share your project with the cloud*|$TextBlock_1|#1" />
+  <PushButton Name="LearnMoreAboutWorkingPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Learn more about working with BIM 360 Projects|$Button_LearnMore|#2" />
+  <StaticText Name="LearnMoreAboutWorkingST" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Learn more about working with BIM 360 Projects|$Button_LearnMore|#2/[StaticText]Learn more about working with BIM 360 Projects|#1" />
+  <PushButton Name="LoginPB" Tag="[CustomWin]$UserControl_1/[PushButton]Login|$Button_GetStarted" />
+  <StaticText Name="LoginST" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Login|$Button_GetStarted|#1/[StaticText]Login|#1" />
+  <Image Name="Image1IMG" Tag="[CustomWin]$UserControl_1|#1/[Image]$Image_1|#1" />
+  <Image Name="Image2IMG" Tag="[CustomWin]$UserControl_1|#1/[Image]$Image_2|#2" />
+  <Image Name="Image3IMG" Tag="[CustomWin]$UserControl_1|#1/[Image]$Image_3|#3" />
+  <StaticText Name="oneChooseABIMST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]1*|$TextBlock_2|#2" />
+  <StaticText Name="twoUploadACopyST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]2*|$TextBlock_3|#3" />
+  <StaticText Name="threeInviteYourTeamST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]3*|$TextBlock_4|#4" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

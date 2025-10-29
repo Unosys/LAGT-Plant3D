@@ -1,0 +1,10 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.EditBlockDefinitionDLG" Tag="[DialogBox]Edit Block Definition" ParentType="MainWin" GUIType="WIN32">
+
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$1|#2" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#3" />
+	<ListBox Name="BlockToCreateOrLB" Tag="[ListBox]Block to create or edit|$1003|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

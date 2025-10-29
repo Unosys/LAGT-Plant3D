@@ -1,0 +1,7 @@
+﻿<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenfromVaultErrorDLG" Tag="[DialogBox]#1" ParentType="CustomWin" GUIType="WIN32">-->
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenfromVaultErrorDLG" Tag="[Window]$Window_1" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+	<StaticText Name="CouldNotLoadFileST" Tag="[StaticText]Could not load file or assembly 'Autodesk*|$65535|#1" />
+	<PushButton Name="Close1PB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+</Window>

@@ -1,0 +1,27 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AttachExternalReferencesDLG" Tag="[Pane]Attach External References|$frmVaultAttachReferences" ParentType="MainWin" GUIType="UIA">
+  <StaticText Name="zeroFiles0ST" Tag="[StaticText]0 files *|$m_labelCheckFilesInfo|#2" />
+  <StaticText Name="SelectTheDrawingsToST" Tag="[StaticText]Select the drawings to be referenced:|$m_labelSelectDrawings|#1" />
+  <GroupBox Name="DetailsGB" Tag="[GroupBox]Details|$groupBox4|#4" />
+  <GroupBox Name="PreviewGB" Tag="[GroupBox]Preview|$groupBox3|#1" />
+  <GroupBox Name="SelectTheDrawingsTo1GB" Tag="[GroupBox]Select the drawings to be referenced:[1]|$groupBox2|#3" />
+  <CheckBox Name="PromptForInsertionPointCK" Tag="[GroupBox]Select the drawings to be referenced:[1]|$groupBox2|#3/[CheckBox]Prompt for insertion point, rotation, and scale |$m_cbCLIPrompt|#1" />
+  <RadioButton Name="RadioButton1RB" Tag="[GroupBox]Select the drawings to be referenced:[1]|$groupBox2|#3/[RadioButton]$m_radioOverlay|#2" />
+  <RadioButton Name="RadioButton2RB" Tag="[GroupBox]Select the drawings to be referenced:[1]|$groupBox2|#3/[RadioButton]$m_radioAttach|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#3" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <PushButton Name="AttachPB" Tag="[PushButton]Attach|$m_btnAttach|#1" />
+  <GroupBox Name="SelectTheDrawingsTo2GB" Tag="[GroupBox]Select the drawings to be referenced:[2]|$groupBox1|#2" />
+  <TextField Name="TextFieldTF" Tag="[GroupBox]Select the drawings to be referenced:[2]|$groupBox1|#2/[TextField]$m_textBoxSearch|#1" />
+  <TreeView Name="TreeViewTV" Tag="[GroupBox]Select the drawings to be referenced:[2]|$groupBox1|#2/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="Proj2TVI" Tag="[GroupBox]Select the drawings to be referenced:[2]|$groupBox1|#2/[TreeView]$m_treeView|#1/[TreeViewItem]Proj2|#1" />
+  <TreeViewItem Name="PIDDrawingsTVI" Tag="[GroupBox]Select the drawings to be referenced:[2]|$groupBox1|#2/[TreeView]$m_treeView|#1/[TreeViewItem]Proj2|#1/[TreeViewItem]P*|#1" />
+  <TreeViewItem Name="Plant3DDrawingsTVI" Tag="[GroupBox]Select the drawings to be referenced:[2]|$groupBox1|#2/[TreeView]$m_treeView|#1/[TreeViewItem]Proj2|#1/[TreeViewItem]Plant 3D Drawings|#2" />
+  <TreeViewItem Name="OrthographicDrawingsTVI" Tag="[GroupBox]Select the drawings to be referenced:[2]|$groupBox1|#2/[TreeView]$m_treeView|#1/[TreeViewItem]Proj2|#1/[TreeViewItem]Orthographic Drawings|#3" />
+  <TreeViewItem Name="RelatedFilesTVI" Tag="[GroupBox]Select the drawings to be referenced:[2]|$groupBox1|#2/[TreeView]$m_treeView|#1/[TreeViewItem]Proj2|#1/[TreeViewItem]Related Files|#4" />
+  <TitleBar Name="AttachExternalReferencesCTL" Tag="[TitleBar]Attach External References|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Attach External References|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultAttachReferences|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Attach External References|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultAttachReferences|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Attach External References|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Attach External References|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Attach External References|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

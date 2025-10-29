@@ -1,0 +1,12 @@
+<!--<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PathNameErrorDLG" Tag="[DialogBox]Path Name Error" ParentType="Plant3D">
+<StaticText Name="Label" Tag="[StaticText]$" />
+<StaticText Name="NotaValidPathNameSelected" Tag="[StaticText]$" />
+<PushButton Name="OK" Tag="[PushButton]$2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>-->
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.PathNameErrorDLG" Tag="[DialogBox]Path Name Error" ParentType="ModifySharedContentFolderDLG" GUIType="UIA">
+  <PushButton Name="OK" Tag="[PushButton]OK|$2|#1" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="NotAValidPathST" Tag="[StaticText]Not a valid path name selected*|$65535|#1" />
+  <TitleBar Name="PathNameErrorCTL" Tag="[TitleBar]Path Name Error|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Path Name Error|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Window>

@@ -1,0 +1,9 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectReferenceModelsDLG" Tag="[Pane]Select Reference Models|$frmSelectRefModels" ParentType="Plant3D" GUIType="UIA">
+  <TextField Name="M_textBox" Tag="[GroupBox]Details|$groupBox2/[TextField]$m_textBox" />
+  <PushButton Name="M_btnHelp" Tag="[PushButton]Help|$m_btnHelp" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]Cancel|$m_btnCancel" />
+  <PushButton Name="M_btnOK" Tag="[PushButton]OK|$m_btnOK" />
+  <TreeView Name="ProjectModelsTV" Tag="[TreeView]Project models:|$m_treeView" />
+  <TreeViewItem Name="four15201564910AMTVI" Tag="[TreeView]Project models:|$m_treeView/[TreeViewItem]4_15_2015 6_49_10 AM" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Reference Models|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

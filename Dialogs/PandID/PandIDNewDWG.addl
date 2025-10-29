@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDNewDWG" Tag="[Pane]New DWG|$frmNewDWG_Revised" ParentType="Plant3D">
+  <PushButton Name="OK" Tag="[Pane]$m_panel_buttons/[PushButton]OK|$btnOK" />
+  <PushButton Name="Help" Tag="[Pane]$m_panel_buttons/[PushButton]Help|$btnHelp" />
+  <PushButton Name="Cancel" Tag="[Pane]$m_panel_buttons/[PushButton]Cancel|$btnCancel" />
+  <GroupBox Name="DrawingProperties" Tag="[GroupBox]Drawing properties|$m_gb_drawing_properties" />
+  <TextField Name="AuthorText" Tag="[GroupBox]Drawing properties|$m_gb_drawing_properties/[TextField]Author:|$m_textBoxAuthor" />
+  <StaticText Name="Author" Tag="[GroupBox]Drawing properties|$m_gb_drawing_properties/[StaticText]Author:|$m_StaticAuthor" />
+  <GroupBox Name="DrawingName" Tag="[GroupBox]Drawing name|$m_gb_drawing_name" />
+  <Pane Name="M_panel_filenamePane2PANE" Tag="[GroupBox]Drawing name|$m_gb_drawing_name/[Pane]$m_panel_filename" />
+  <TextField Name="FileName" Tag="[GroupBox]Drawing name|$m_gb_drawing_name/[Pane]$m_panel_filename/[TextField]File name: |$m_tb_filename" />
+  <StaticText Name="FileNameText" Tag="[GroupBox]Drawing name|$m_gb_drawing_name/[Pane]$m_panel_filename/[StaticText]File name: |$lblFileName" />
+  <GroupBox Name="ProjectProperties2" Tag="[GroupBox]Project properties|$m_gb_project_properties" />
+  <PushButton Name="M_dwt_BrowseButtonPushButtonPB" Tag="[GroupBox]Project properties|$m_gb_project_properties/[PushButton]...|$m_dwtBrowseButton" />
+  <StaticText Name="FolderPathText" Tag="[GroupBox]Project properties|$m_gb_project_properties/[StaticText]Folder path: |$lblFolderPath" />
+  <TextField Name="DWGTemplateText" Tag="[GroupBox]Project properties|$m_gb_project_properties/[TextField]DWG template:|$tbDWGTemplate" />
+  <TextField Name="FolderPath" Tag="[GroupBox]Project properties|$m_gb_project_properties/[TextField]Folder path: |$tbFolderPath" />
+  <StaticText Name="DWGTemplate" Tag="[GroupBox]Project properties|$m_gb_project_properties/[StaticText]DWG template:|$lblDWGTemplate" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

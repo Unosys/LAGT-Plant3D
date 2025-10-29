@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPIDDLG" Tag="[DialogBox]AutoCAD P&amp;ID*" ParentType="Plant3D">
+<PushButton Name="BtnOK" Tag="[PushButton]$m_OKButton" />
+<PushButton Name="OK" Tag="[PushButton]#1|$m_OKButton" />
+<CheckBox Name="DoNotShowMeThisAgain" Tag="[CheckBox]#1|$m_notShowAgainChkBox" />
+<CustomWin Name="ALogFileForAcceptAndReje" Tag="[CustomWin][SwfLinkLabel]#1|[SwfLinkLabel]$m_helperLinkLabel" />
+<CustomWin Name="M_iconPicture" Tag="[CustomWin][System.Windows.Forms.PictureBox]#1|[System.Windows.Forms.PictureBox]$m_iconPicture" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

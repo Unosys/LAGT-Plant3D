@@ -1,0 +1,8 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectBackupDLG" Tag="[Window]Plant 3D - Project Backup|$PrjBackUpDlog" >
+
+	<PushButton Name="CancelPB" Tag="[CustomWin]$StartPage|#1/[PushButton]Cancel|$CancelButton|#3" />
+	<PushButton Name="BackupProjectPB" Tag="[CustomWin]$StartPage|#1/[PushButton]Backup Project|$BackupButton|#2" />
+	<PushButton Name="PushButtonPB" Tag="[CustomWin]$StartPage|#1/[PushButton]$BtnChange|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Plant 3D - Project Backup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

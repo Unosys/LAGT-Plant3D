@@ -1,0 +1,18 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConversionInProcessDLG" Tag="[DialogBox]Sharing Project to the Cloud" ParentType="PlantProjectCollaborationUploadingProcessDLG" GUIType="UIA">
+
+
+
+  <Pane Name="SharingProjectToThePANE" Tag="[Pane]Sharing Project to the Cloud|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[Pane]#2" />
+  <Pane Name="Pane3PANE" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[Pane]#3" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="WeAreCurrentlySharingST" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[StaticText]We are currently sharing your project to the cloud*|$MainInstruction|#1" />
+  <StaticText Name="StoppingThisProcessWillST" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[StaticText]Stopping this process will make your new Collaboration project in the cloud incomplete, and you should not use it*|$ContentText|#2" />
+  <PushButton Name="ContinueSharingMyProjectPB" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[PushButton]Continue Sharing my Project|$CommandLink_1001|#1" />
+  <PushButton Name="StopSharingMyProjectPB" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[PushButton]Stop Sharing my Project|$CommandLink_1002|#2" />
+  <PushButton Name="CancelPB" Tag="[Pane]Sharing Project to the Cloud|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+  <TitleBar Name="SharingProjectToTheCTL" Tag="[TitleBar]Sharing Project to the Cloud|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Sharing Project to the Cloud|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

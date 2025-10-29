@@ -1,0 +1,38 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenCollaborationProject2DLG" Tag="[Window]Open Collaboration Project|$Window_1" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="OpenCollaborationProjectCTL" Tag="[TitleBar]Open Collaboration Project|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Open Collaboration Project|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Open Collaboration Project|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Open Collaboration Project|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]$UserControl_1|#1" />
+  <PushButton Name="OpenProjectPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Open Project|$Button_Next|#1" />
+  <StaticText Name="OpenProjectST" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Open Project|$Button_Next|#1/[StaticText]Open Project|#1" />
+  <Image Name="ImageIMG" Tag="[CustomWin]$UserControl_1|#1/[Image]$Image_1|#1" />
+  <StaticText Name="StaticText1ST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]&gt;[1]|$TextBlock_3|#1" />
+  <PopupList Name="PopupList1PL" Tag="[CustomWin]$UserControl_1|#1/[PopupList]$ComboBox_1|#1" />
+  <StaticText Name="StaticText2ST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]&gt;[2]|$TextBlock_7|#2" />
+  <PopupList Name="PopupList2PL" Tag="[CustomWin]$UserControl_1|#1/[PopupList]$ComboBox_2|#2" />
+  <StaticText Name="ChooseAPlantProjectST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Choose a Plant project:|$TextBlock_2|#3" />
+  <ListBox Name="ChooseAPlantProjectLB" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject1LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[1]|#1" />
+  <StaticText Name="CHS0001ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[1]|#1/[StaticText]CHS_0001|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject2LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[2]|#2" />
+  <StaticText Name="CHSMetric001ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[2]|#2/[StaticText]CHS_Metric_001|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject3LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[3]|#3" />
+  <StaticText Name="DEU0001ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[3]|#3/[StaticText]DEU_0001|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject4LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[4]|#4" />
+  <StaticText Name="FRA001ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[4]|#4/[StaticText]FRA_001|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject5LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[5]|#5" />
+  <StaticText Name="ImperialST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[5]|#5/[StaticText]Imperial|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject6LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[6]|#6" />
+  <StaticText Name="ImperialENU03ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[6]|#6/[StaticText]Imperial_ENU_03|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject7LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[7]|#7" />
+  <StaticText Name="ImperialENU04ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[7]|#7/[StaticText]Imperial_ENU_04|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject8LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[8]|#8" />
+  <StaticText Name="ImperialENU05ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[8]|#8/[StaticText]Imperial_ENU_05|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject9LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[9]|#9" />
+  <StaticText Name="JPN1ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[9]|#9/[StaticText]JPN__1|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject10LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[10]|#10" />
+  <StaticText Name="KOR0001ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[10]|#10/[StaticText]KOR_0001|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocProject11LBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[11]|#11" />
+  <StaticText Name="RUS0001ST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a Plant project:|$ListBox_PlantProjects|#1/[ListBoxItem]Autodesk*[11]|#11/[StaticText]RUS_0001|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

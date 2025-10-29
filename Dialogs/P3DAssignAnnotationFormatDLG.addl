@@ -1,0 +1,30 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DAssignAnnotationFormatDLG" Tag="[Pane]$TagformatSetupDlg" ParentType="Plant3D">
+
+  <PushButton Name="M_btnMoreless" Tag="[PushButton]$m_btnMoreless|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOK|#2" />
+  <Pane Name="PanePANE" Tag="[Pane]$panel1|#1" />
+  <Pane Name="UniquePANE" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1" />
+  <TextField Name="TextField1TF" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[TextField]$m_tboxDelimiter|#2" />
+  <TextField Name="TextField2TF" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[TextField]$m_tboxField|#1" />
+  <PushButton Name="M_btnExpression" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnExpression|#4" />
+  <PushButton Name="M_btnProject" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnProject|#3" />
+  <PushButton Name="M_btnDraw" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnDraw|#2" />
+  <PushButton Name="M_btnClass" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnClass|#1" />
+  <StaticText Name="DelimiterST" Tag="[Pane]$panel1|#1/[StaticText]Delimiter|$m_lblDelimiterText|#1" />
+  <StaticText Name="FieldST" Tag="[Pane]$panel1|#1/[StaticText]Field|$m_lblFieldText|#2" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]Cancel|$m_btnCancel|#3" />
+  <CustomWin Name="NumberOfSubparts1WIN" Tag="[CustomWin]Number of Subparts:|$m_numOfSubparts|#1" />
+  <CustomWin Name="SpinnerWIN" Tag="[CustomWin]Number of Subparts:|$m_numOfSubparts|#1/[CustomWin]Spinner|$30084538|#2" />
+  <PushButton Name="ForwardPB" Tag="[CustomWin]Number of Subparts:|$m_numOfSubparts|#1/[CustomWin]Spinner|$30084538|#2/[PushButton]Forward|$SmallIncrement|#1" />
+  <PushButton Name="BackwardPB" Tag="[CustomWin]Number of Subparts:|$m_numOfSubparts|#1/[CustomWin]Spinner|$30084538|#2/[PushButton]Backward|$SmallDecrement|#2" />
+  <CustomWin Name="NumberOfSubparts2WIN" Tag="[CustomWin]Number of Subparts:|$m_numOfSubparts|#1/[CustomWin]Number of Subparts:|$m_numOfSubparts|#1" />
+  <StaticText Name="NumberOfSubpartsST" Tag="[StaticText]Number of Subparts:|$m_lblSubpartsText|#3" />
+  <StaticText Name="OvalTagStyleST" Tag="[StaticText]Oval Tag Style|$m_labelClass|#2" />
+  <StaticText Name="AnnotationNameST" Tag="[StaticText]Annotation Name:|$m_lblClassText|#1" />
+  <TitleBar Name="AssignAnnotationFormatCTL" Tag="[TitleBar]Assign Annotation Format|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Assign Annotation Format|$TitleBar|#1/[CustomWin]System Menu Bar|$TagformatSetupDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Assign Annotation Format|$TitleBar|#1/[CustomWin]System Menu Bar|$TagformatSetupDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Assign Annotation Format|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

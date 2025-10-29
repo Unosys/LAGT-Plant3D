@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecEditorImportFailedDLG" Tag="[DialogBox]Import Failed|#1" ParentType="SpecEditorDLG" GUIType="UIA">
+
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="TheExcelFileIsST" Tag="[StaticText]The Excel File is not an exported Spec Data File*|$65535|#1" />
+  <TitleBar Name="ImportFailedCTL" Tag="[TitleBar]Import Failed|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Import Failed|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

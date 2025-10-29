@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ValveOperatorMappingWarningDLG" Tag="[DialogBox]#1" ParentType="MainWin" GUIType="UIA">
+
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

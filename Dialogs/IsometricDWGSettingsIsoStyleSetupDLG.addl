@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.IsometricDWGSettingsIsoStyleSetupDLG" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="Plant3D" GUIType="UIA">
+  
+	<CheckBox Name="PlaceFieldWeldsAtCK" Tag="[Pane]$m_splitHorz|#1/[Pane]$1971426|#1/[Pane]$m_splitVert|#1/[Pane]$14486074|#2/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]Field Welds and Makeup|$groupBox_FieldWelds|#3/[CheckBox]Place field welds at maximum pipe lengths|$checkBox_PlaceFieldWelds" />
+  <TextField Name="MaximumPipeLengthTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$32638408|#1/[Pane]$m_splitVert|#1/[Pane]$2757140|#2/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]Field Welds and Makeup|$groupBox_FieldWelds|#3/[TextField]Maximum pipe length:|$textBox_MaxPipeLength|#2" />
+  <PushButton Name="DropDownButton5PB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]$7540474|#2/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[PopupList]$comboBox_IsoType|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#2/[PushButton]Cancel|$m_btnCancel|#3" />
+	<PopupList Name="SizingMethodPL" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]$groupBox_Spools|#5/[PopupList]$comboBox_SpoolSizing|#2" />
+	<RadioButton Name="RadioButton1RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$18221148|#1/[Pane]$m_splitVert|#1/[Pane]*/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]Drawing Type|$groupBox_DrawingType|#1/[RadioButton]$radioButton_Spool|#2" />
+	<RadioButton Name="RadioButton2RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$18221148|#1/[Pane]$m_splitVert|#1/[Pane]*/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]Drawing Type|$groupBox_DrawingType|#1/[RadioButton]$radioButton_Isometric|#1" />
+	<PushButton Name="PushButton4PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$2233834|#1/[Pane]$m_splitVert|#1/[Pane]$529804|#2/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]Filename format|$groupBox_FileName|#4/[Pane]$token_panel|#1/[Pane]elementHost1|$token_host|#1/[Pane]elementHost1|#1/[CustomWin]#1/[CustomWin]$UserControl_1|#1/[PushButton]$AddTokenBtn|#1" />-->
+	<PushButton Name="PushButton3PB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]*/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[PushButton]$button_NewType" />
+	<PushButton Name="PushButton2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]$7540474|#2/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]Content paths|$groupBox_Path|#5/[PushButton]**[2]|$button_QuickDir|#2" />
+	<PushButton Name="PushButton1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]$7540474|#2/[Pane]$m_isometricPathsUserCtrl|#1/[Pane]$panel_IsoStyleSetup|#1/[GroupBox]Content paths|$groupBox_Path|#5/[PushButton]**[1]|$button_ProdDir|#1" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]*/[Pane]$m_splitVert|#1/[Pane]$7540474|#2" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

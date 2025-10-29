@@ -1,0 +1,9 @@
+﻿<ProductTestSuite.CommonFiles.AdDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_UserAndGroupManagementDLG" Tag="[Pane]$AccessManagementDialog" ParentType="VM_GlobalSettingsDLG">
+
+  <PushButton Name="NewPB" Tag="[GroupBox]#1/[ToolBar]#1/[PushButton]New*" />
+  <PushButton Name="ClosePB" Tag="[Pane]$tableLayoutPanel1/[Pane]$panel1/[PushButton]$m_closeButton" />
+	
+	<!--<CustomWin Name="UserRow1WIN" Tag="[Pane]$tableLayoutPanel1/[PageList]$m_accesManagementTabControl/[Pane]$m_usersTabPage/[Pane]$m_usersTableLayoutPanel/[Pane]$m_userManagementGridControl/[Table]$m_gridControl/[CustomWin]#2/[CustomWin]Row 1|#1" />-->
+	<ListBoxItem Name="UserRow1WIN" Tag="[Pane]$tableLayoutPanel1/[PageList]$m_accesManagementTabControl/[Pane]Users|$m_usersTabPage/[Pane]$m_usersTableLayoutPanel/[Pane]$m_userManagementGridControl/[Table]$m_gridControl/[CustomWin]#2/[ListBoxItem]Row 1|#1" />
+  
+</ProductTestSuite.CommonFiles.AdDialogBox>

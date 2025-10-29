@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectCompareProgramDLG" Tag="[Window]$Window_1" ParentType="Window" GUIType="UIA">
+
+  <TitleBar Name="ProjectCompareCTL" Tag="[TitleBar]Project Compare|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Compare|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Compare|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Compare|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <StaticText Name="CompareFileDifferencesUsingST" Tag="[StaticText]Compare file differences using an external program|$TextBlock_1|#1" />
+  <StaticText Name="SelectProgramToUseST" Tag="[StaticText]Select program to use for comparison|$TextBlock_2|#2" />
+  <PushButton Name="BrowsePB" Tag="[PushButton]$Button_1" />
+  <StaticText Name="BrowseST" Tag="[PushButton]Browse|$Button_1|#1/[StaticText]Browse|#1" />
+  <StaticText Name="ChooseAnApplicationThatST" Tag="[StaticText]Choose an application that supports text file comparison*|$TextBlock_3|#3" />
+  <PushButton Name="CompareFilesPB" Tag="[PushButton]Compare Files|$Button_2|#2" />
+  <StaticText Name="CompareFilesST" Tag="[PushButton]Compare Files|$Button_2|#2/[StaticText]Compare Files|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_3|#3" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$Button_3|#3/[StaticText]Cancel|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

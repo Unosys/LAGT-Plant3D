@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DTagFormatSetupDLG" Tag="[Pane]$TagformatSetupDlg" >
+
+ 	<PushButton Name="M_btnClass" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnClass|#1" />
+	<PushButton Name="M_btnProject" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnProject|#3" />
+	<PushButton Name="M_btnDraw" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnDraw|#2" />
+	<Pane Name="Pane1PANE" Tag="[Pane]$panel2" />
+
+	<PushButton Name="M_btnMoreless" Tag="[PushButton]$m_btnMoreless" />
+	<PushButton Name="M_btnCancel" Tag="[PushButton]Cancel|$m_btnCancel|#3" />
+	<PushButton Name="M_btnExpression" Tag="[Pane]$panel1|#1/[Pane]Unique|$fieldsUserControl|#1/[PushButton]$m_btnExpression|#4" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

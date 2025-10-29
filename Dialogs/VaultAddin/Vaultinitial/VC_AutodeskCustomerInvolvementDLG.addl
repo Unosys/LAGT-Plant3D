@@ -1,0 +1,6 @@
+<ProductTestSuite.CommonFiles.AdDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_AutodeskCustomerInvolvementDLG" Tag="[DialogBox]Data collection and use" ParentType="VaultProServer">
+
+  <PushButton Name="OK" Tag="[PushButton]$1" />
+  
+
+</ProductTestSuite.CommonFiles.AdDialogBox>

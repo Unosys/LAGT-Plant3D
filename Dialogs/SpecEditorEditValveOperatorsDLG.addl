@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecEditorEditValveOperatorsDLG" Tag="[Window]Override Valve Operators|$ModifyValveOperatorMappingWindow" ParentType="MainWin" GUIType="UIA">
+
+
+	<CheckBox Name="OverrideCatalogValveOperatorCK" Tag="[GroupBox]$GroupBox_1|#1/[CheckBox]$OverrideCheckBox|#1" />
+	<PushButton Name="ValveOperatorShapeBrowserPB" Tag="[GroupBox]$GroupBox_1|#1/[PushButton]$ValveOperatorShapeBrowser|#1" />
+	<TreeViewItem Name="BallValveTVI" Tag="[GroupBox]Valve Operator Assignments|$GroupBox_1|#1/[TreeView]$ValveTypeTreeView|#1/[TreeViewItem]Ball Valve|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#2" />
+	<ListView Name="DefaultValveOperatorsLV" Tag="[GroupBox]$GroupBox_1|#1/[ListView]$SizeRecordGridView|#1" />
+
+	<ListViewItem Name="SystemDataDataRowView1LVI" Tag="[GroupBox]$GroupBox_1|#1/[ListView]$SizeRecordGridView|#1/[ListViewItem]|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

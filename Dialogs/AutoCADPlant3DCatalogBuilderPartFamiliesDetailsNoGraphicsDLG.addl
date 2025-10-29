@@ -1,0 +1,197 @@
+<Autodesk.GUIHarness.MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlant3DCatalogBuilderPartFamiliesDetailsNoGraphicsDLG" Tag="[MainWin]Autodesk Catalog Builder for AutoCAD Plant 3D 20*|$Window" ParentType="Desktop" GUIType="UIA">
+
+	<TitleBar Name="AutodeskAutoCADPlant3DCTL" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder (C:*|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder (C:*|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder (C:*|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder (C:*|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="RestorePB" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder (C:*|$TitleBar|#1/[PushButton]Restore|$Restore|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Autodesk AutoCAD Plant 3D Catalog Builder (C:*|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+  <CustomWin Name="IDTabHomeWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1" />
+  <CustomWin Name="CatalogTemplateWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1" />
+  <CustomWin Name="New1WIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]New|$ID_New_RibbonItemControl|#1" />
+  <PushButton Name="New1PB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]New|$ID_New_RibbonItemControl|#1/[PushButton]New|$ID_New|#1" />
+  <Image Name="Image1IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]New|$ID_New_RibbonItemControl|#1/[PushButton]New|$ID_New|#1/[Image]$mImage|#1" />
+  <StaticText Name="New1ST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]New|$ID_New_RibbonItemControl|#1/[PushButton]New|$ID_New|#1/[StaticText]New|$mText|#1" />
+  <CustomWin Name="OpenWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Open|$ID_Open_RibbonItemControl|#2" />
+  <PushButton Name="OpenPB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Open|$ID_Open_RibbonItemControl|#2/[PushButton]Open|$ID_Open|#1" />
+  <Image Name="Image2IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Open|$ID_Open_RibbonItemControl|#2/[PushButton]Open|$ID_Open|#1/[Image]$mImage|#1" />
+  <StaticText Name="OpenST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Open|$ID_Open_RibbonItemControl|#2/[PushButton]Open|$ID_Open|#1/[StaticText]Open|$mText|#1" />
+  <CustomWin Name="SaveWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Save|$ID_Save_RibbonItemControl|#3" />
+  <PushButton Name="SavePB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Save|$ID_Save_RibbonItemControl|#3/[PushButton]Save|$ID_Save|#1" />
+  <Image Name="Image3IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Save|$ID_Save_RibbonItemControl|#3/[PushButton]Save|$ID_Save|#1/[Image]$mImage|#1" />
+  <StaticText Name="SaveST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Save|$ID_Save_RibbonItemControl|#3/[PushButton]Save|$ID_Save|#1/[StaticText]Save|$mText|#1" />
+  <CustomWin Name="SaveAsWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Save As|$ID_SaveAs_RibbonItemControl|#4" />
+  <PushButton Name="SaveAsPB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Save As|$ID_SaveAs_RibbonItemControl|#4/[PushButton]Save As|$ID_SaveAs|#1" />
+  <Image Name="Image4IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Save As|$ID_SaveAs_RibbonItemControl|#4/[PushButton]Save As|$ID_SaveAs|#1/[Image]$mImage|#1" />
+  <StaticText Name="SaveAsST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]Save As|$ID_SaveAs_RibbonItemControl|#4/[PushButton]Save As|$ID_SaveAs|#1/[StaticText]Save As|$mText|#1" />
+  <CustomWin Name="IDCatalogTemplatePanelWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]ID_CatalogTemplatePanel|$ID_CatalogTemplatePanel_PanelTitleBar|#5" />
+  <StaticText Name="CatalogTemplateST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog Template|$ID_CatalogTemplatePanel|#1/[CustomWin]ID_CatalogTemplatePanel|$ID_CatalogTemplatePanel_PanelTitleBar|#5/[StaticText]Catalog Template|$PART_PanelTitleBarText|#1" />
+  <CustomWin Name="PartFamiliesWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2" />
+  <CustomWin Name="New2WIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]New|$ID_NewFamily_RibbonItemControl|#1" />
+  <PushButton Name="New2PB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]New|$ID_NewFamily_RibbonItemControl|#1/[PushButton]New|$ID_NewFamily|#1" />
+  <Image Name="Image5IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]New|$ID_NewFamily_RibbonItemControl|#1/[PushButton]New|$ID_NewFamily|#1/[Image]$mImage|#1" />
+  <StaticText Name="New2ST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]New|$ID_NewFamily_RibbonItemControl|#1/[PushButton]New|$ID_NewFamily|#1/[StaticText]New|$mText|#1" />
+  <CustomWin Name="DuplicateWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]Duplicate|$ID_DuplicateFamily_RibbonItemControl|#2" />
+  <PushButton Name="DuplicatePB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]Duplicate|$ID_DuplicateFamily_RibbonItemControl|#2/[PushButton]Duplicate|$ID_DuplicateFamily|#1" />
+  <Image Name="Image6IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]Duplicate|$ID_DuplicateFamily_RibbonItemControl|#2/[PushButton]Duplicate|$ID_DuplicateFamily|#1/[Image]$mImage|#1" />
+  <StaticText Name="DuplicateST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]Duplicate|$ID_DuplicateFamily_RibbonItemControl|#2/[PushButton]Duplicate|$ID_DuplicateFamily|#1/[StaticText]Duplicate|$mText|#1" />
+  <CustomWin Name="DeleteWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]Delete|$ID_DeleteFamily_RibbonItemControl|#3" />
+  <PushButton Name="DeletePB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]Delete|$ID_DeleteFamily_RibbonItemControl|#3/[PushButton]Delete|$ID_DeleteFamily|#1" />
+  <Image Name="Image7IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]Delete|$ID_DeleteFamily_RibbonItemControl|#3/[PushButton]Delete|$ID_DeleteFamily|#1/[Image]$mImage|#1" />
+  <StaticText Name="DeleteST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]Delete|$ID_DeleteFamily_RibbonItemControl|#3/[PushButton]Delete|$ID_DeleteFamily|#1/[StaticText]Delete|$mText|#1" />
+  <CustomWin Name="IDPartFamilyPanelWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]ID_PartFamilyPanel|$ID_PartFamilyPanel_PanelTitleBar|#4" />
+  <StaticText Name="PartFamiliesST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Part Families|$ID_PartFamilyPanel|#2/[CustomWin]ID_PartFamilyPanel|$ID_PartFamilyPanel_PanelTitleBar|#4/[StaticText]Part Families|$PART_PanelTitleBarText|#1" />
+  <CustomWin Name="PropertiesWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Properties|$ID_PropertyPanel|#3" />
+  <CustomWin Name="PropertyEditorWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Properties|$ID_PropertyPanel|#3/[CustomWin]Property*|$ID_PropertyEditor_RibbonItemControl|#1" />
+  <PushButton Name="PropertyEditorPB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Properties|$ID_PropertyPanel|#3/[CustomWin]Property*|$ID_PropertyEditor_RibbonItemControl|#1/[PushButton]Property*|$ID_PropertyEditor|#1" />
+  <Image Name="Image8IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Properties|$ID_PropertyPanel|#3/[CustomWin]Property*|$ID_PropertyEditor_RibbonItemControl|#1/[PushButton]Property*|$ID_PropertyEditor|#1/[Image]$mImage|#1" />
+  <StaticText Name="PropertyEditorST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Properties|$ID_PropertyPanel|#3/[CustomWin]Property*|$ID_PropertyEditor_RibbonItemControl|#1/[PushButton]Property*|$ID_PropertyEditor|#1/[StaticText]Property*|$mText|#1" />
+  <CustomWin Name="IDPropertyPanelWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Properties|$ID_PropertyPanel|#3/[CustomWin]ID_PropertyPanel|$ID_PropertyPanel_PanelTitleBar|#2" />
+  <StaticText Name="PropertiesST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Properties|$ID_PropertyPanel|#3/[CustomWin]ID_PropertyPanel|$ID_PropertyPanel_PanelTitleBar|#2/[StaticText]Properties|$PART_PanelTitleBarText|#1" />
+  <CustomWin Name="CatalogWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4" />
+  <CustomWin Name="ExportToExcelWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]Export*|$ID_ExportToExcel_RibbonItemControl|#1" />
+  <PushButton Name="ExportToExcelPB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]Export*|$ID_ExportToExcel_RibbonItemControl|#1/[PushButton]Export*|$ID_ExportToExcel|#1" />
+  <Image Name="Image9IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]Export*|$ID_ExportToExcel_RibbonItemControl|#1/[PushButton]Export*|$ID_ExportToExcel|#1/[Image]$mImage|#1" />
+  <StaticText Name="ExportToExcelST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]Export*|$ID_ExportToExcel_RibbonItemControl|#1/[PushButton]Export*|$ID_ExportToExcel|#1/[StaticText]Export*|$mText|#1" />
+  <CustomWin Name="BuildCatalogWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]Build*|$ID_BuildCatalog_RibbonItemControl|#2" />
+  <PushButton Name="BuildCatalogPB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]Build*|$ID_BuildCatalog_RibbonItemControl|#2/[PushButton]Build*|$ID_BuildCatalog|#1" />
+  <Image Name="Image10IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]Build*|$ID_BuildCatalog_RibbonItemControl|#2/[PushButton]Build*|$ID_BuildCatalog|#1/[Image]$mImage|#1" />
+  <StaticText Name="BuildCatalogST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]Build*|$ID_BuildCatalog_RibbonItemControl|#2/[PushButton]Build*|$ID_BuildCatalog|#1/[StaticText]Build*|$mText|#1" />
+  <CustomWin Name="IDCatalogPanelWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]ID_CatalogPanel|$ID_CatalogPanel_PanelTitleBar|#3" />
+  <StaticText Name="CatalogST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Catalog|$ID_CatalogPanel|#4/[CustomWin]ID_CatalogPanel|$ID_CatalogPanel_PanelTitleBar|#3/[StaticText]Catalog|$PART_PanelTitleBarText|#1" />
+  <CustomWin Name="AdvancedWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Advanced|$ID_AdvancedPanel|#5" />
+  <CustomWin Name="SettingsWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Advanced|$ID_AdvancedPanel|#5/[CustomWin]Settings|$ID_Settings_RibbonItemControl|#1" />
+  <PushButton Name="SettingsPB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Advanced|$ID_AdvancedPanel|#5/[CustomWin]Settings|$ID_Settings_RibbonItemControl|#1/[PushButton]Settings|$ID_Settings|#1" />
+  <Image Name="Image11IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Advanced|$ID_AdvancedPanel|#5/[CustomWin]Settings|$ID_Settings_RibbonItemControl|#1/[PushButton]Settings|$ID_Settings|#1/[Image]$mImage|#1" />
+  <StaticText Name="SettingsST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Advanced|$ID_AdvancedPanel|#5/[CustomWin]Settings|$ID_Settings_RibbonItemControl|#1/[PushButton]Settings|$ID_Settings|#1/[StaticText]Settings|$mText|#1" />
+  <CustomWin Name="IDAdvancedPanelWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Advanced|$ID_AdvancedPanel|#5/[CustomWin]ID_AdvancedPanel|$ID_AdvancedPanel_PanelTitleBar|#2" />
+  <StaticText Name="AdvancedST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Advanced|$ID_AdvancedPanel|#5/[CustomWin]ID_AdvancedPanel|$ID_AdvancedPanel_PanelTitleBar|#2/[StaticText]Advanced|$PART_PanelTitleBarText|#1" />
+  <CustomWin Name="Help1WIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Help|$ID_HelpPanel|#6" />
+  <CustomWin Name="Help2WIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Help|$ID_HelpPanel|#6/[CustomWin]  Help  |$ID_Help_RibbonItemControl|#1" />
+  <PushButton Name="HelpPB" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Help|$ID_HelpPanel|#6/[CustomWin]  Help  |$ID_Help_RibbonItemControl|#1/[PushButton]  Help  |$ID_Help|#1" />
+  <Image Name="Image12IMG" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Help|$ID_HelpPanel|#6/[CustomWin]  Help  |$ID_Help_RibbonItemControl|#1/[PushButton]  Help  |$ID_Help|#1/[Image]$mImage|#1" />
+  <StaticText Name="Help1ST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Help|$ID_HelpPanel|#6/[CustomWin]  Help  |$ID_Help_RibbonItemControl|#1/[PushButton]  Help  |$ID_Help|#1/[StaticText]  Help  |$mText|#1" />
+  <CustomWin Name="IDHelpPanelWIN" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Help|$ID_HelpPanel|#6/[CustomWin]ID_HelpPanel|$ID_HelpPanel_PanelTitleBar|#2" />
+  <StaticText Name="Help2ST" Tag="[CustomWin]ID_TabHome|$ID_TabHome_PanelBarScrollViewer|#1/[CustomWin]Help|$ID_HelpPanel|#6/[CustomWin]ID_HelpPanel|$ID_HelpPanel_PanelTitleBar|#2/[StaticText]Help|$PART_PanelTitleBarText|#1" />
+  <PushButton Name="IDMinimizeButtonPB" Tag="[PushButton]ID_MinimizeButton|$ID_MinimizeButton|#2" />
+  <Image Name="Image13IMG" Tag="[PushButton]ID_MinimizeButton|$ID_MinimizeButton|#2/[Image]$mImage|#1" />
+  <PushButton Name="MMinimizeButtonFlyoutPB" Tag="[PushButton]mMinimizeButtonFlyout|$mMinimizeButtonFlyout|#3" />
+  <PushButton Name="HomePB" Tag="[PushButton]Home|$ID_TabHome|#1" />
+  <StaticText Name="HomeST" Tag="[PushButton]Home|$ID_TabHome|#1/[StaticText]Home|$mContent|#1" />
+  <StatusBar Name="StatusBarSB" Tag="[StatusBar]$StatusBar_1|#1" />
+  <StaticText Name="TotalPartFamilies1ST" Tag="[StatusBar]$StatusBar_1|#1/[StaticText]Total Part Families: |$StatusBarItem_1|#2" />
+  <StaticText Name="TotalPartFamilies2ST" Tag="[StatusBar]$StatusBar_1|#1/[StaticText]Total Part Families: |$StatusBarItem_1|#2/[StaticText]Total Part Families: |#1" />
+  <StaticText Name="twoST" Tag="[StatusBar]$StatusBar_1|#1/[StaticText]2|#1" />
+  <RadioButton Name="PartFamilies1RB" Tag="[RadioButton]Part Families[1]|$FastenersBtn|#1" />
+  <RadioButton Name="PartFamilies2RB" Tag="[RadioButton]Part Families[2]|$FittingsBtn|#2" />
+  <RadioButton Name="PartFamilies3RB" Tag="[RadioButton]Part Families[3]|$FlangesBtn|#3" />
+  <RadioButton Name="PartFamilies4RB" Tag="[RadioButton]Part Families[4]|$MiscellaneousBtn|#4" />
+  <RadioButton Name="PartFamilies5RB" Tag="[RadioButton]Part Families[5]|$OletsBtn|#5" />
+  <RadioButton Name="PartFamilies6RB" Tag="[RadioButton]Part Families[6]|$PipesBtn|#6" />
+  <RadioButton Name="PartFamilies7RB" Tag="[RadioButton]Part Families[7]|$VOBtn|#7" />
+  <TreeView Name="TreeViewTV" Tag="[TreeView]$CategoryTreeView|#1" />
+  <TreeViewItem Name="AllTVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1" />
+  <PushButton Name="PushButton1PB" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[PushButton]$Expander|#1" />
+  <StaticText Name="AllST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[StaticText]All|#1" />
+  <TreeViewItem Name="BackingRingTVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BackingRing|#1" />
+  <PushButton Name="PushButton2PB" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BackingRing|#1/[PushButton]$Expander|#1" />
+  <StaticText Name="BackingRingST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BackingRing|#1/[StaticText]BackingRing|#1" />
+  <TreeViewItem Name="BoltSet1TVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BoltSet|#2" />
+  <PushButton Name="PushButton3PB" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BoltSet|#2/[PushButton]$Expander|#1" />
+  <StaticText Name="BoltSet1ST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BoltSet|#2/[StaticText]BoltSet|#1" />
+  <TreeViewItem Name="BoltSet2TVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BoltSet|#2/[TreeViewItem]BoltSet|#1" />
+  <StaticText Name="BoltSet2ST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]BoltSet|#2/[TreeViewItem]BoltSet|#1/[StaticText]BoltSet|#1" />
+  <TreeViewItem Name="ClampTVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Clamp|#3" />
+  <StaticText Name="ClampST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Clamp|#3/[StaticText]Clamp|#1" />
+  <TreeViewItem Name="CollarTVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Collar|#4" />
+  <StaticText Name="CollarST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Collar|#4/[StaticText]Collar|#1" />
+  <TreeViewItem Name="GasketTVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Gasket|#5" />
+  <StaticText Name="GasketST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Gasket|#5/[StaticText]Gasket|#1" />
+  <TreeViewItem Name="GlandTVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Gland|#6" />
+  <StaticText Name="GlandST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]Gland|#6/[StaticText]Gland|#1" />
+  <TreeViewItem Name="ReinforcementRingTVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]ReinforcementRing|#7" />
+  <StaticText Name="ReinforcementRingST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]ReinforcementRing|#7/[StaticText]ReinforcementRing|#1" />
+  <TreeViewItem Name="StubEndTVI" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]StubEnd|#8" />
+  <StaticText Name="StubEndST" Tag="[TreeView]$CategoryTreeView|#1/[TreeViewItem]All|$CategoryTreeRoot|#1/[TreeViewItem]StubEnd|#8/[StaticText]StubEnd|#1" />
+  <!--<PageList Name="PageListPG" Tag="[PageList]$MainAreaTabControl|#1" />-->
+  <StaticText Name="PartFamilyDetails1ST" Tag="[StaticText]Part Family Details:|$Label_48|#1" />
+  <StaticText Name="PartFamilyDetails2ST" Tag="[StaticText]Part Family Details:|$Label_48|#1/[StaticText]Part Family Details:|#1" />
+  <StaticText Name="BoltSet3ST" Tag="[StaticText]BoltSet|$FamilyNameTile|#2" />
+  <StaticText Name="BoltSet4ST" Tag="[StaticText]BoltSet|$FamilyNameTile|#2/[StaticText]BoltSet|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]$ScrollViewer_2|#1" />
+  <GroupBox Name="PartFamilyPropertiesGB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1" />
+  <StaticText Name="PartFamilyPropertiesST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Part Family Properties|#1" />
+  <StaticText Name="ComponentCategory1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Component Category:|$Label_2|#2" />
+  <StaticText Name="ComponentCategory2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Component Category:|$Label_2|#2/[StaticText]Component Category:|#1" />
+  <TextField Name="ComponentCategoryTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[TextField]Component Category:|$Category_TB|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[TextField]Component Category:|$Category_TB|#1/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="PipingComponent1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Piping Component:|$Label_1|#4" />
+  <StaticText Name="PipingComponent2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Piping Component:|$Label_1|#4/[StaticText]Piping Component:|#1" />
+  <PopupList Name="PipingComponentPL" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[PopupList]Piping Component:|$ComponetComboBox|#2" />
+  <StaticText Name="ShortDescription1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Short Description:|$Label_3|#7" />
+  <StaticText Name="ShortDescription2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Short Description:|$Label_3|#7/[StaticText]Short Description:|#1" />
+  <TextField Name="ShortDescriptionTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[TextField]Short Description:|$ShortDescription_TB|#2" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[TextField]Short Description:|$ShortDescription_TB|#2/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="PrimaryEndtype1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Primary Endtype:|$Label_4|#3" />
+  <StaticText Name="PrimaryEndtype2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Primary Endtype:|$Label_4|#3/[StaticText]Primary Endtype:|#1" />
+  <PopupList Name="PrimaryEndtypePL" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[PopupList]Primary Endtype:|$PrimaryEndTypeComboBoxGhost|#1" />
+  <StaticText Name="SizeFrom1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Size From:|$Label_5|#5" />
+  <StaticText Name="SizeFrom2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Size From:|$Label_5|#5/[StaticText]Size From:|#1" />
+  <PopupList Name="SizeFromPL" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[PopupList]Size From:|$SizeRangeFromComboBox|#3" />
+  <StaticText Name="SizeTo1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Size To:|$Label_6|#6" />
+  <StaticText Name="SizeTo2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[StaticText]Size To:|$Label_6|#6/[StaticText]Size To:|#1" />
+  <PopupList Name="SizeToPL" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[PopupList]Size To:|$SizeRangeToComboBox|#4" />
+  <CheckBox Name="UseCustomSizeListCK" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Part Family Properties|$GroupBox_2|#1/[CheckBox]Use custom size list|$CheckBox_1|#1" />
+  <GroupBox Name="GraphicsGB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2" />
+  <StaticText Name="GraphicsST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[StaticText]Graphics|#1" />
+  <RadioButton Name="Graphics1RB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[RadioButton]Graphics[1]|$MuteP3DGeometryRadioButton|#1" />
+  <RadioButton Name="Graphics2RB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[RadioButton]Graphics[2]|$MuteCustomerGeometryRadioButton|#2" />
+  <RadioButton Name="Graphics3RB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[RadioButton]Graphics[3]|$MuteCustomerPythonRadioButton|#3" />
+  <StaticText Name="GraphicsAreNotRequiredST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Graphics|$GroupBox_1|#2/[StaticText]Graphics are not required for this component*|$TextBlock_19|#2" />
+  <PushButton Name="PushButton4PB" Tag="[Pane]$ScrollViewer_2|#1/[PushButton]$Chevron|#1" />
+  <Image Name="Image14IMG" Tag="[Pane]$ScrollViewer_2|#1/[PushButton]$Chevron|#1/[Image]$Image_12|#1" />
+  <StaticText Name="OptionalDetailedProperties1ST" Tag="[Pane]$ScrollViewer_2|#1/[StaticText]Optional detailed properties|$Label_16|#1" />
+  <StaticText Name="OptionalDetailedProperties2ST" Tag="[Pane]$ScrollViewer_2|#1/[StaticText]Optional detailed properties|$Label_16|#1/[StaticText]Optional detailed properties|#1" />
+  <GroupBox Name="DetailedPartFamilyPropertiesGB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3" />
+  <StaticText Name="DetailedPartFamilyPropertiesST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[StaticText]Detailed Part Family Properties|#1" />
+  <StaticText Name="Material1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[StaticText]Material:|$Label_42|#2" />
+  <StaticText Name="Material2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[StaticText]Material:|$Label_42|#2/[StaticText]Material:|#1" />
+  <TextField Name="MaterialTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[TextField]Material:|$TextBox_13|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[TextField]Material:|$TextBox_13|#1/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="MaterialCode1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[StaticText]Material Code:|$Label_43|#3" />
+  <StaticText Name="MaterialCode2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[StaticText]Material Code:|$Label_43|#3/[StaticText]Material Code:|#1" />
+  <TextField Name="MaterialCodeTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[TextField]Material Code:|$TextBox_14|#2" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[TextField]Material Code:|$TextBox_14|#2/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="LongDescriptionFamily1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[StaticText]Long Description (Family):|$Label_44|#4" />
+  <StaticText Name="LongDescriptionFamily2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[StaticText]Long Description (Family):|$Label_44|#4/[StaticText]Long Description (Family):|#1" />
+  <TextField Name="LongDescriptionFamilyTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[TextField]Long Description (Family):|$TextBox_15|#3" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[TextField]Long Description (Family):|$TextBox_15|#3/[Pane]$PART_ContentHost|#1" />
+  <GroupBox Name="PortPropertiesGB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1" />
+  <StaticText Name="PortPropertiesST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Port Properties|#1" />
+  <CheckBox Name="AllPortsHaveTheCK" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[CheckBox]All ports have the same properties|$CheckBox_2|#1" />
+  <StaticText Name="Port1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Port:|$Label_35|#2" />
+  <StaticText Name="Port2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Port:|$Label_35|#2/[StaticText]Port:|#1" />
+  <PopupList Name="PortPL" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[PopupList]Port:|$PortKeyComboBox|#1" />
+  <StaticText Name="EndType1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]End type:|$Label_36|#3" />
+  <StaticText Name="EndType2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]End type:|$Label_36|#3/[StaticText]End type:|#1" />
+  <PopupList Name="EndTypePL" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[PopupList]End type:|$PortEndTypeComboBoxGhost|#2" />
+  <StaticText Name="Facing1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Facing:|$Label_37|#4" />
+  <StaticText Name="Facing2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Facing:|$Label_37|#4/[StaticText]Facing:|#1" />
+  <ComboBox Name="FacingCB" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[ComboBox]Facing:|$PortFacingComboBox|#1" />
+  <StaticText Name="PressureClass1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Pressure Class:|$Label_38|#5" />
+  <StaticText Name="PressureClass2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Pressure Class:|$Label_38|#5/[StaticText]Pressure Class:|#1" />
+  <TextField Name="PressureClassTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[TextField]Pressure Class:|$PortPressureTB|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[TextField]Pressure Class:|$PortPressureTB|#1/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="FlangeStd1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Flange Std:|$Label_39|#6" />
+  <StaticText Name="FlangeStd2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Flange Std:|$Label_39|#6/[StaticText]Flange Std:|#1" />
+  <TextField Name="FlangeStdTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[TextField]Flange Std:|$PortFlangeStdTB|#2" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[TextField]Flange Std:|$PortFlangeStdTB|#2/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="Schedule1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Schedule:|$Label_40|#7" />
+  <StaticText Name="Schedule2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Schedule:|$Label_40|#7/[StaticText]Schedule:|#1" />
+  <TextField Name="ScheduleTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[TextField]Schedule:|$PortScheduleTB|#3" />
+  <Pane Name="Pane9PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[TextField]Schedule:|$PortScheduleTB|#3/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="GasketStd1ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Gasket Std:|$Label_41|#8" />
+  <StaticText Name="GasketStd2ST" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[StaticText]Gasket Std:|$Label_41|#8/[StaticText]Gasket Std:|#1" />
+  <TextField Name="GasketStdTF" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[TextField]Gasket Std:|$PortGasketStdTB|#4" />
+  <Pane Name="Pane10PANE" Tag="[Pane]$ScrollViewer_2|#1/[GroupBox]Detailed Part Family Properties|$DetailInformationGroup|#3/[GroupBox]Port Properties|$PortPropertyGroup|#1/[TextField]Gasket Std:|$PortGasketStdTB|#4/[Pane]$PART_ContentHost|#1" />
+</Autodesk.GUIHarness.MainWin>

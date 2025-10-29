@@ -1,0 +1,15 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectDrawingsToCopyToProDLG" Tag="[DialogBox]Select Drawings to Copy to Project" ParentType="ProjManUndocked" GUIType="WIN32">
+  <ListView Name="ListView1" Tag="[CustomWin]#1/[ListView]$1" />
+  <ComboBox Name="FileName" Tag="[ComboBox]File name:|$13006" />
+  <PopupList Name="FilesOfType" Tag="[PopupList]Files of type:|$13002" />
+  <PushButton Name="PreviousFolderAlt1" Tag="[PushButton]Previous folder(Alt+1)|$13011" />
+  <PushButton Name="UpOneLevelAlt2" Tag="[PushButton]Up one level (Alt+2)|$13003" />
+  <PushButton Name="SearchTheWebAlt3" Tag="[PushButton]Search the Web (Alt+3)|$13004" />
+  <PushButton Name="DeleteDel" Tag="[PushButton]Delete (Del)|$13014" />
+  <PushButton Name="CreateNewFolderAlt5" Tag="[PushButton]Create New Folder (Alt+5)|$13013" />
+  <PushButton Name="Views" Tag="[PushButton]Views|$13012" />
+  <PushButton Name="Tools" Tag="[PushButton]Tools|$13005" />
+  <PushButton Name="Open" Tag="[PushButton]Open|$1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+  <PushButton Name="Preview" Tag="[PushButton]$13101" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

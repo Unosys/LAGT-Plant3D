@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CatalogBuilderSaveAsExcelFileDLG" Tag="[DialogBox]Save As" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="Save" Tag="[PushButton]$1" />
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

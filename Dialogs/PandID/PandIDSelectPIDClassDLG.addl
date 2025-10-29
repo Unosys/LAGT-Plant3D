@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDSelectPIDClassDLG" Tag="[DialogBox]SelectPIDClassDLG" >
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnOK" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]$panel2|#2/[PushButton]OK|$btnOK|#1" />
+<TreeView Name="ClassTreeView" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]$panel1|#1/[TreeView]$classTreeView|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

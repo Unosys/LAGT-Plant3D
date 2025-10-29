@@ -1,0 +1,11 @@
+C:\LAGT\Plant3D\obj\Debug\net8.0-windows\Plant3D.csproj.AssemblyReference.cache
+C:\LAGT\Plant3D\obj\Debug\net8.0-windows\Plant3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAGT\Plant3D\obj\Debug\net8.0-windows\Plant3D.csproj.CoreCompileInputs.cache
+C:\LAGT\bin\net8.0-windows\Plant3D.deps.json
+C:\LAGT\bin\net8.0-windows\Plant3D.dll
+C:\LAGT\bin\net8.0-windows\Plant3D.pdb
+C:\LAGT\Plant3D\obj\Debug\net8.0-windows\Plant3D.csproj.CopyComplete
+C:\LAGT\Plant3D\obj\Debug\net8.0-windows\Plant3D.dll
+C:\LAGT\Plant3D\obj\Debug\net8.0-windows\refint\Plant3D.dll
+C:\LAGT\Plant3D\obj\Debug\net8.0-windows\Plant3D.pdb
+C:\LAGT\Plant3D\obj\Debug\net8.0-windows\ref\Plant3D.dll

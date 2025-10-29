@@ -1,0 +1,3 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OptimizeProjectDatabaseDLG" Tag="[DialogBox]Optimize Project Database" ParentType="MainWin" GUIType="WIN32">
+  <PushButton Name="CancelPB" Tag="[Pane]Optimize Project Database|$Window/[PushButton]Cancel|$CommandButton_2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,117 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecEditorDLG" Tag="[MainWin]$SpecAndCatalogV2Window">
+  <TitleBar Name="AutodeskAutoCADPlant3DCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="RestorePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Restore|$Restore|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#3" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <ListViewItem Name="Item1" Tag="[CustomWin]$UserControl_1|#1/[CustomWin]$UserControl_CatalogPartGroupSelection|#2/[CustomWin]$UserControl_1|#3/[ListView]$CatalogPartListView|#1/[ListViewItem]Autodesk*[5]|#5" />
+  <Menu Name="MenuMNU" Tag="[Menu]$MainMenu|#1" />
+  <!--File Menu-->
+  <MenuItem Name="FileMI" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1" />
+  <StaticText Name="FileST" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[StaticText]_File|#1" />
+  <MenuItem Name="New" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$New" />
+  <MenuItem Name="NewSpec" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$New/[MenuItem]$NewSpec" />
+  <MenuItem Name="NewSpecFromExisting" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$New/[MenuItem]$NewSpecFromExisting" />
+  <MenuItem Name="NewCatalogFromExisting" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$New/[MenuItem]$NewCatalogFromExisting" />
+  <MenuItem Name="OpenSpecmenu" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$OpenSpec" />
+  <MenuItem Name="OpenCatalog" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$OpenCatalog" />
+  <MenuItem Name="OpenRecent" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$OpenRecent" />
+  <MenuItem Name="ClearList" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$OpenRecent/[MenuItem]$ClearList" />
+  <MenuItem Name="Convert" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Convert" />
+  <MenuItem Name="MigrateSpecsCatalogs" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Convert/[MenuItem]$MigrateSpecsCatalogs" />
+  <MenuItem Name="MigrateCW" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Convert/[MenuItem]$MigrateCW" />
+  <MenuItem Name="MigrateSpecsCatalogsFromCSV" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Convert/[MenuItem]$MigrateSpecsCatalogsFromCSV" />
+  <MenuItem Name="MigrateSettings" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Convert/[MenuItem]$MigrateSettings" />
+  <MenuItem Name="AutoPlantSetting" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Convert/[MenuItem]$MigrateSettings/[MenuItem]$AutoPlantSetting" />
+  <MenuItem Name="CADWorxSetting" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Convert/[MenuItem]$MigrateSettings/[MenuItem]$CADWorxSetting" />
+  <MenuItem Name="CSVSetting" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Convert/[MenuItem]$MigrateSettings/[MenuItem]$CSVSetting" />
+  <MenuItem Name="Save" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Save" />
+  <MenuItem Name="SaveAs" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$SaveAs" />
+  <MenuItem Name="SaveAll" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$SaveAll" />
+  <MenuItem Name="ExportToCatalogBuilder" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$ExportToCatalogBuilder" />
+  <MenuItem Name="Export" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Export" />
+  <MenuItem Name="CloseMenu" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$CloseMenu" />
+  <MenuItem Name="CloseAll" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$CloseAll" />
+  <MenuItem Name="PrintPreview" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$PrintPreview" />
+  <MenuItem Name="Print" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Print" />
+  <MenuItem Name="Exit" Tag="[Menu]$MainMenu|#1/[MenuItem]File|$FileMenu|#1/[MenuItem]$Exit" />  
+  <!--Edit Menu-->
+  <MenuItem Name="EditMI" Tag="[Menu]$MainMenu|#1/[MenuItem]Edit|$EditMenu|#2" />
+  <StaticText Name="EditST" Tag="[Menu]$MainMenu|#1/[MenuItem]Edit|$EditMenu|#2/[StaticText]Edit|#1" />
+  <MenuItem Name="Undo" Tag="[Menu]$MainMenu|#1/[MenuItem]Edit|$EditMenu|#2/[MenuItem]$Undo" />
+  <MenuItem Name="Redo" Tag="[Menu]$MainMenu|#1/[MenuItem]Edit|$EditMenu|#2/[MenuItem]$Redo" />
+  <MenuItem Name="Cut" Tag="[Menu]$MainMenu|#1/[MenuItem]Edit|$EditMenu|#2/[MenuItem]$Cut" />
+  <MenuItem Name="Copy" Tag="[Menu]$MainMenu|#1/[MenuItem]Edit|$EditMenu|#2/[MenuItem]$Copy" />
+  <MenuItem Name="Paste" Tag="[Menu]$MainMenu|#1/[MenuItem]Edit|$EditMenu|#2/[MenuItem]$Paste" />
+  <!--Spec Menu-->
+  <MenuItem Name="SpecsMI" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3" />
+  <StaticText Name="SpecsST" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[StaticText]Specs|#1" />
+  <MenuItem Name="EditValveOperators" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[MenuItem]$EditValveOperators" />
+  <MenuItem Name="LayoutAndSettings" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[MenuItem]$LayoutAndSettings" />
+  <MenuItem Name="UseAsBranch" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[MenuItem]$UseAsBranch" />
+  <MenuItem Name="CheckForCatalogUpdates" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[MenuItem]$CheckForCatalogUpdates" />
+  <MenuItem Name="AssignWallThickness" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[MenuItem]$AssignWallThickness" />
+  <MenuItem Name="BatchAssignLDStyles" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[MenuItem]$BatchAssignLDStyles" />
+  <MenuItem Name="SynchronizeSpecWithCat" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[MenuItem]$SynchronizeSpecsWithCatalogs" />
+  <MenuItem Name="SpecUpdateSettings" Tag="[Menu]$MainMenu|#1/[MenuItem]Specs|$Specs|#3/[MenuItem]$SpecUpdateSettings" />
+  <!--Catalogs Menu-->
+  <MenuItem Name="CatalogsMI" Tag="[Menu]$MainMenu|#1/[MenuItem]Catalogs|$Catalogs|#4" />
+  <StaticText Name="CatalogsST" Tag="[Menu]$MainMenu|#1/[MenuItem]Catalogs|$Catalogs|#4/[StaticText]Catalogs|#1" />
+  <MenuItem Name="ModifyCatalogProperties" Tag="[Menu]$MainMenu|#1/[MenuItem]Catalogs|$Catalogs|#4/[MenuItem]$ModifyCatalogProperties" />
+  <MenuItem Name="DuplicateComponent" Tag="[Menu]$MainMenu|#1/[MenuItem]Catalogs|$Catalogs|#4/[MenuItem]$DuplicateComponent" />
+  <MenuItem Name="EditBoltLengthMapping" Tag="[Menu]$MainMenu|#1/[MenuItem]Catalogs|$Catalogs|#4/[MenuItem]$EditBoltLengthMapping" />
+  <MenuItem Name="ImperialUnitsEdit" Tag="[Menu]$MainMenu|#1/[MenuItem]Catalogs|$Catalogs|#4/[MenuItem]$ImperialUnitsEdit" />
+  <MenuItem Name="MetricUnitsEdit" Tag="[Menu]$MainMenu|#1/[MenuItem]Catalogs|$Catalogs|#4/[MenuItem]$MetricUnitsEdit" />
+  <!--Tools Menu-->
+  <MenuItem Name="ToolsMI" Tag="[Menu]$MainMenu|#1/[MenuItem]Tools|$Tools|#5" />
+  <MenuItem Name="LaunchCatalogBuilder" Tag="[Menu]$MainMenu|#1/[MenuItem]Tools|$Tools|#5/[MenuItem]$LaunchCatalogBuilder" />
+  <MenuItem Name="MigrateSpecsAndCatalogs" Tag="[Menu]$MainMenu|#1/[MenuItem]Tools|$Tools|#5/[MenuItem]$MigrateSpecsAndCatalogs" />
+  <MenuItem Name="ModifySharedContentFolder" Tag="[Menu]$MainMenu|#1/[MenuItem]Tools|$Tools|#5/[MenuItem]$ModifySharedContentFolder" />  
+  <!--Help Menu-->
+  <MenuItem Name="HelpMI" Tag="[Menu]$MainMenu|#1/[MenuItem]Help|$HelpMenuItem|#6" />
+  <MenuItem Name="Help" Tag="[Menu]$MainMenu|#1/[MenuItem]Help|$HelpMenuItem|#6/[MenuItem]$Help" />
+  <MenuItem Name="ShowWelcomeScreen" Tag="[Menu]$MainMenu|#1/[MenuItem]Help|$HelpMenuItem|#6/[MenuItem]$ShowWelcomeScreen" />
+
+	<!-- Toolbar-->
+	<PushButton Name="PushButton2PB" Tag="[ToolBar]$ToolBar|#1/[PushButton]$NewFileButton|#1" />
+	<PushButton Name="PushButton3PB" Tag="[ToolBar]$ToolBar|#1/[PushButton]$OpenButton|#2" />
+	<PushButton Name="SavePB" Tag="[ToolBar]$ToolBar|#1/[PushButton]$SaveButton|#3" />
+	<PushButton Name="PushButton5PB" Tag="[ToolBar]$ToolBar|#1/[PushButton]$SaveAllButton|#4" />
+	<PushButton Name="PushButton6PB" Tag="[ToolBar]$ToolBar|#1/[PushButton]$PrintButton|#5" />
+	<PushButton Name="PushButton7PB" Tag="[ToolBar]$ToolBar|#1/[PushButton]$ExportToExcel|#6" />
+	<PushButton Name="PushButton8PB" Tag="[ToolBar]$ToolBar|#1/[PushButton]$ImportFromExcel|#7" />
+	<PushButton Name="CutPB" Tag="[ToolBar]$ToolBar|#1/[PushButton]Cut|$CutButton|#8" />
+	<PushButton Name="CopyPB" Tag="[ToolBar]$ToolBar|#1/[PushButton]Copy|$CopyButton|#9" />
+	<PushButton Name="PastePB" Tag="[ToolBar]$ToolBar|#1/[PushButton]Paste|$PasteButton|#10" />
+	
+	
+	<PushButton Name="AddNotesToGroupButton" Tag="[CustomWin]$UserControl_1|#1/[CustomWin]$UserControl_1|#1/[PushButton]$AddNotesToGroupButton|#3" />
+
+	<PushButton Name="ExportToExcel" Tag="[ToolBar]$ToolBar|#1/[PushButton]$ExportToExcel|#6" />
+	<PushButton Name="ImportFromExcel" Tag="[ToolBar]$ToolBar|#1/[PushButton]$ImportFromExcel|#7" />
+	<PushButton Name="SpecPB" Tag="[PushButton]$SpecTab|#1" />
+	<PushButton Name="BranchTablePB" Tag="[PushButton]$BranchTableTab|#2" />
+	<PushButton Name="CatalogEditor" Tag="[PushButton]$CatalogTab|#3" />
+	
+	<ListView Name="SpecSheetListView" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[CustomWin]$UserControl_SpecListView|#1/[ListView]$SpecSheetListView|#1" />
+	<ListViewItem Name="SpecSheetEditorRow1LVI" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[CustomWin]$UserControl_SpecListView|#1/[ListView]$SpecSheetListView|#1/[ListViewItem]#1" />
+	<ListViewItem Name="SpecSheetEditorRow2LVI" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[CustomWin]$UserControl_SpecListView|#1/[ListView]$SpecSheetListView|#1/[ListViewItem]#2" />
+	<ListViewItem Name="BoltSetRow3LVI" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[CustomWin]$UserControl_SpecListView|#1/[ListView]$SpecSheetListView|#1/[ListViewItem]#3" />
+	
+
+	<PushButton Name="PropertyEditorPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[PushButton]$PropertyEditorButton" />
+	<PushButton Name="EditInCatalogPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[PushButton]$EditInCatalogBtn" />
+	<PushButton Name="PushButton14PB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[PushButton]$SaveSpecBtn" />
+<!-- Part Family Properties-->
+	<TextField Name="ManufacturerTF" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_SpecSheetV2|#1/[Pane]$PartFamilyScrollViewer|#1/[CustomWin]$local:PartFamilyProps_1|#1/[ListView]$dataGrid|#1/[ListViewItem]#3/[CustomWin]#2/[TextField]$dataGrid_cellTextBox|#1" />
+
+	<PushButton Name="BlockNamePB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_PartSizeProps|#1/[ListView]$dataGrid|#1/[ListViewItem]#7/[CustomWin]#2/[CustomWin]$UserControl_1|#1/[PushButton]$EmbeddedButton|#1" />
+	<PushButton Name="ValveOperatorPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogPropsV2|#1/[CustomWin]$UserControl_PartSizeList|#1/[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_PartSizeProps|#1/[ListView]$dataGrid|#1/[ListViewItem]#8/[CustomWin]#2/[CustomWin]$UserControl_1|#1/[PushButton]$EmbeddedButton|#1" />
+
+	<ListView Name="CatalogBrowserLV" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_CatalogComponents|#2/[CustomWin]$UserControl_CatalogListView|#1/[ListView]$CatalogPartListView|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+
+

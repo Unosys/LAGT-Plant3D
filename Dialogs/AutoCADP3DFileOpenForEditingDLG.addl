@@ -1,0 +1,3 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADP3DFileOpenForEditingDLG" Tag="[DialogBox]$frmNewDWG_Revised" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]$2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

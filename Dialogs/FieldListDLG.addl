@@ -1,0 +1,11 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.FieldListDLG" Tag="[Pane]$fieldListDockPanel1" ParentType="Pane" GUIType="UIA">
+
+
+
+	<Pane Name="PanePANE" Tag="[Pane]$fieldListDockPanel1_Container|#1" />
+	<TreeView Name="TreeViewTV" Tag="[Pane]$fieldListDockPanel1_Container|#1/[TreeView]$39848112|#1" />
+	<TitleBar Name="FieldListCTL" Tag="[TitleBar]Field List|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Field List|#1/[PushButton]Close|#4" />
+
+
+</Pane>

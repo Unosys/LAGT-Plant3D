@@ -1,0 +1,123 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddPropertyPiping" Tag="[Window]Add Property|$IsometricAddProperty|#1" ParentType="MainWin" GUIType="UIA">
+
+
+	<TitleBar Name="AddPropertyCTL" Tag="[TitleBar]Add Property|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Add Property|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Add Property|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Add Property|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<!--<PageList Name="PageListPG" Tag="[PageList]$AddPropertyTabControl|#1" />-->
+	<Window Name="Plant3DWIN" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1" />
+	<StaticText Name="Plant3DST" Tag="[PageList]$AddPropertyTabControl/[Window]$TabItem_1|#1/[StaticText]#1" />
+	<StaticText Name="ClassST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[StaticText]Class:|$TextBlock_1|#2" />
+	<TreeView Name="TreeViewTV" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1" />
+	<TreeViewItem Name="PipingAndEquipmentTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1" />
+	<PushButton Name="PushButton1PB" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[PushButton]$Expander|#1" />
+	<StaticText Name="PipingAndEquipmentST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[StaticText]Piping and Equipment|#1" />
+	<TreeViewItem Name="PipeRunComponentTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1" />
+	<PushButton Name="PushButton2PB" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[PushButton]$Expander|#1" />
+	<StaticText Name="PipeRunComponentST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[StaticText]Pipe Run Component|#1" />
+	<TreeViewItem Name="AdapterTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Adapter|#1" />
+	<StaticText Name="AdapterST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Adapter|#1/[StaticText]Adapter|#1" />
+	<TreeViewItem Name="BleedRingTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Bleed Ring|#2" />
+	<StaticText Name="BleedRingST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Bleed Ring|#2/[StaticText]Bleed Ring|#1" />
+	<TreeViewItem Name="BlindDiskTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Blind Disk|#3" />
+	<StaticText Name="BlindDiskST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Blind Disk|#3/[StaticText]Blind Disk|#1" />
+	<TreeViewItem Name="CapTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Cap|#4" />
+	<StaticText Name="CapST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Cap|#4/[StaticText]Cap|#1" />
+	<TreeViewItem Name="CouplingTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Coupling|#5" />
+	<StaticText Name="CouplingST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Coupling|#5/[StaticText]Coupling|#1" />
+	<TreeViewItem Name="CrossTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Cross|#6" />
+	<StaticText Name="CrossST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Cross|#6/[StaticText]Cross|#1" />
+	<TreeViewItem Name="CrossoverTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Crossover|#7" />
+	<StaticText Name="CrossoverST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Crossover|#7/[StaticText]Crossover|#1" />
+	<TreeViewItem Name="ElbowTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Elbow|#8" />
+	<PushButton Name="PushButton3PB" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Elbow|#8/[PushButton]$Expander|#1" />
+	<StaticText Name="ElbowST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Elbow|#8/[StaticText]Elbow|#1" />
+	<TreeViewItem Name="PipeBendTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Elbow|#8/[TreeViewItem]Pipe Bend|#1" />
+	<StaticText Name="PipeBendST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Elbow|#8/[TreeViewItem]Pipe Bend|#1/[StaticText]Pipe Bend|#1" />
+	<TreeViewItem Name="ElbowSideOutletTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Elbow Side Outlet|#9" />
+	<StaticText Name="ElbowSideOutletST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Elbow Side Outlet|#9/[StaticText]Elbow Side Outlet|#1" />
+	<TreeViewItem Name="FlangeTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Flange|#10" />
+	<StaticText Name="FlangeST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Flange|#10/[StaticText]Flange|#1" />
+	<TreeViewItem Name="BlindFlangeTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Blind Flange|#11" />
+	<StaticText Name="BlindFlangeST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Blind Flange|#11/[StaticText]Blind Flange|#1" />
+	<TreeViewItem Name="InstrumentTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Instrument|#12" />
+	<PushButton Name="PushButton4PB" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Instrument|#12/[PushButton]$Expander|#1" />
+	<StaticText Name="InstrumentST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Instrument|#12/[StaticText]Instrument|#1" />
+	<TreeViewItem Name="InlineInstrumentTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Instrument|#12/[TreeViewItem]Inline Instrument|#1" />
+	<StaticText Name="InlineInstrumentST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Instrument|#12/[TreeViewItem]Inline Instrument|#1/[StaticText]Inline Instrument|#1" />
+	<TreeViewItem Name="NippleTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Nipple|#13" />
+	<StaticText Name="NippleST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Nipple|#13/[StaticText]Nipple|#1" />
+	<TreeViewItem Name="NozzleTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Nozzle|#14" />
+	<StaticText Name="NozzleST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Nozzle|#14/[StaticText]Nozzle|#1" />
+	<TreeViewItem Name="OletTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Olet|#15" />
+	<StaticText Name="OletST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Olet|#15/[StaticText]Olet|#1" />
+	<TreeViewItem Name="OrificePlateTVI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Orifice Plate|#16" />
+	<StaticText Name="OrificePlateST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[TreeView]$ClassTreeView|#1/[TreeViewItem]Piping and Equipment|#1/[TreeViewItem]Pipe Run Component|#1/[TreeViewItem]Orifice Plate|#16/[StaticText]Orifice Plate|#1" />
+	<StaticText Name="PropertyST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[StaticText]Property:|$TextBlock_2|#3" />
+	<ListBox Name="PropertyLB" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1" />
+	<ListBoxItem Name="AcquisitionPropertiesLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Acquisition Properties|#1" />
+	<CheckBox Name="CheckBox1CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Acquisition Properties|#1/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="AcquisitionPropertiesST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Acquisition Properties|#1/[StaticText]Acquisition Properties|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="CenterOfGravityXLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity X|#2" />
+	<CheckBox Name="CheckBox2CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity X|#2/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CenterOfGravityXST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity X|#2/[StaticText]Center of Gravity X|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="CenterOfGravityYLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Y|#3" />
+	<CheckBox Name="CheckBox3CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Y|#3/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CenterOfGravityYST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Y|#3/[StaticText]Center of Gravity Y|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="CenterOfGravityZLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Z|#4" />
+	<CheckBox Name="CheckBox4CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Z|#4/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CenterOfGravityZST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Center of Gravity Z|#4/[StaticText]Center of Gravity Z|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="CompatibleStandardLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Compatible Standard|#5" />
+	<CheckBox Name="CheckBox5CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Compatible Standard|#5/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="CompatibleStandardST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Compatible Standard|#5/[StaticText]Compatible Standard|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="ComponentDesignationLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Component Designation|#6" />
+	<CheckBox Name="CheckBox6CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Component Designation|#6/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="ComponentDesignationST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Component Designation|#6/[StaticText]Component Designation|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="ConnectionPortCountLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Connection Port Count|#7" />
+	<CheckBox Name="CheckBox7CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Connection Port Count|#7/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="ConnectionPortCountST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Connection Port Count|#7/[StaticText]Connection Port Count|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="ContentIsoSymbolDefinitionLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Content Iso Symbol Definition|#8" />
+	<CheckBox Name="CheckBox8CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Content Iso Symbol Definition|#8/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="ContentIsoSymbolDefinitionST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Content Iso Symbol Definition|#8/[StaticText]Content Iso Symbol Definition|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="COPElevationPort1LBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]COP Elevation (Port 1)|#9" />
+	<CheckBox Name="CheckBox9CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]COP Elevation (Port 1)|#9/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="COPElevationPort1ST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]COP Elevation (Port 1)|#9/[StaticText]COP Elevation (Port 1)|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="DesignPressureFactorLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Design Pressure Factor|#10" />
+	<CheckBox Name="CheckBox10CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Design Pressure Factor|#10/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="DesignPressureFactorST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Design Pressure Factor|#10/[StaticText]Design Pressure Factor|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="DesignStdLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Design Std|#11" />
+	<CheckBox Name="CheckBox11CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Design Std|#11/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="DesignStdST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Design Std|#11/[StaticText]Design Std|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="EndTypeLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]End Type|#12" />
+	<CheckBox Name="CheckBox12CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]End Type|#12/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="EndTypeST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]End Type|#12/[StaticText]End Type|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="EngagementLengthLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Engagement Length|#13" />
+	<CheckBox Name="CheckBox13CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Engagement Length|#13/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="EngagementLengthST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Engagement Length|#13/[StaticText]Engagement Length|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="FacingLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Facing|#14" />
+	<CheckBox Name="CheckBox14CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Facing|#14/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="FacingST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Facing|#14/[StaticText]Facing|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="FlangeStdLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Flange Std|#15" />
+	<CheckBox Name="CheckBox15CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Flange Std|#15/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="FlangeStdST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Flange Std|#15/[StaticText]Flange Std|$PropertyNameTextBlock|#1" />
+	<ListBoxItem Name="FlangeThicknessLBI" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Flange Thickness|#16" />
+	<CheckBox Name="CheckBox16CK" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Flange Thickness|#16/[CheckBox]$PropertyCheckBox|#1" />
+	<StaticText Name="FlangeThicknessST" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Plant 3D|$TabItem_1|#1/[ListBox]Property:|$PlantPropertyListBox|#1/[ListBoxItem]Flange Thickness|#16/[StaticText]Flange Thickness|$PropertyNameTextBlock|#1" />
+	<Window Name="PCFWIN" Tag="[PageList]$AddPropertyTabControl|#1/[Window]PCF|$TabItem_2|#2" />
+	<StaticText Name="PCFST" Tag="[PageList]$AddPropertyTabControl/[Window]$TabItem_2|#2/[StaticText]#1" />
+	<Window Name="SymbolsWIN" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Symbols|$SymbolsTabItem|#3" />
+	<StaticText Name="SymbolsST" Tag="[PageList]$AddPropertyTabControl/[Window]$SymbolsTabItem|#3/[StaticText]#1" />
+	<Window Name="SpecialPropertiesWIN" Tag="[PageList]$AddPropertyTabControl|#1/[Window]Special Properties|$SpecialProperties|#4" />
+	<StaticText Name="SpecialPropertiesST" Tag="[PageList]$AddPropertyTabControl/[Window]$SpecialProperties|#4/[StaticText]#1" />
+	<PushButton Name="AddPropertyPB" Tag="[PushButton]Add Property|$AddPropertyBtn|#1" />
+	<StaticText Name="AddPropertyST" Tag="[PushButton]Add Property|$AddPropertyBtn|#1/[StaticText]Add Property|$strContent|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+	<StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelBtn|#2/[StaticText]Cancel|$strContent|#1" />
+
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

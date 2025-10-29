@@ -1,0 +1,26 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoGenerationDLG" Tag="[Window]Ortho Generation|$Window_1" ParentType="Desktop" GUIType="UIA">
+
+
+	<TitleBar Name="OrthoGenerationCTL" Tag="[TitleBar]Ortho Generation|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Ortho Generation|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Ortho Generation|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Ortho Generation|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+	<StaticText Name="OrthoGenerationInProgressST" Tag="[StaticText]Ortho generation in progress; this may take several minutes*|$Introduction1|#1" />
+	<StaticText Name="QueryingDrawings1ST" Tag="[StaticText]Querying drawings|$FirstLabel|#2" />
+	<StaticText Name="QueryingDrawings2ST" Tag="[StaticText]Querying drawings|$FirstLabel|#2/[StaticText]Querying drawings|#1" />
+	<Image Name="Image1IMG" Tag="[Image]$FirstImage|#2" />
+	<StaticText Name="CollectingGeometry1ST" Tag="[StaticText]Collecting geometry|$SecondLabel|#3" />
+	<StaticText Name="CollectingGeometry2ST" Tag="[StaticText]Collecting geometry|$SecondLabel|#3/[StaticText]Collecting geometry|#1" />
+	<Image Name="Image2IMG" Tag="[Image]$SecondImage|#3" />
+	<StaticText Name="ClippingGeometry1ST" Tag="[StaticText]Clipping Geometry|$ThirdLabel|#4" />
+	<StaticText Name="ClippingGeometry2ST" Tag="[StaticText]Clipping Geometry|$ThirdLabel|#4/[StaticText]Clipping Geometry|#1" />
+	<Image Name="Image3IMG" Tag="[Image]$ThirdImage|#4" />
+	<StaticText Name="ProjectionHiddenLine1ST" Tag="[StaticText]Projection *|$FourthLabel|#5" />
+	<StaticText Name="ProjectionHiddenLine2ST" Tag="[StaticText]Projection *|$FourthLabel|#5/[StaticText]Projection *|#1" />
+	<Image Name="Image4IMG" Tag="[Image]$FourthImage|#5" />
+	<StaticText Name="PreparingOrthographicOutput1ST" Tag="[StaticText]Preparing orthographic output|$FifthLabel|#6" />
+	<StaticText Name="PreparingOrthographicOutput2ST" Tag="[StaticText]Preparing orthographic output|$FifthLabel|#6/[StaticText]Preparing orthographic output|#1" />
+	<Image Name="Image5IMG" Tag="[Image]$FifthImage|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

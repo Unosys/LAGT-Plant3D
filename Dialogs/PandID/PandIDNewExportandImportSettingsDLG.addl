@@ -1,0 +1,27 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDNewExportandImportSettingsDLG" Tag="[Pane]$PnPNewExportImportSettingDlg" ParentType="Pane">
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label2" Tag="[StaticText]$label2" />
+<StaticText Name="Label3" Tag="[StaticText]$label3" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+<StaticText Name="Label5" Tag="[StaticText]$label5" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnOK" Tag="[PushButton]$m_btnOK" />
+<Table Name="M_dataGridView" Tag="[Table]$m_dataGridView" />
+<TextField Name="M_tbDesc" Tag="[TextField]$m_tbDesc" />
+<TextField Name="M_tbExternalObjName" Tag="[TextField]$m_tbExternalObjName" />
+<TextField Name="M_tbName" Tag="[TextField]$m_tbName" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$m_tbDesc" />
+<PushButton Name="PushButton" Tag="[PushButton]$m_dataGridView(4:0)" />
+<Header Name="HeaderCTL" Tag="[GroupBox] External data mapping|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]#1" />
+<Header Name="PIDPropertyCTL" Tag="[GroupBox] External data mapping|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]P*|#2" />
+<Header Name="ExternalPropertyCTL" Tag="[GroupBox] External data mapping|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]External Property|#3" />
+<Header Name="UIDCTL" Tag="[GroupBox] External data mapping|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Top Row|#1/[Header]UID|#4" />
+  <Header Name="ValueMappingCTL" Tag="[GroupBox]$groupBox1|#1/[Table]$m_dataGridView|#1/[CustomWin]#1/[Header]#5" />
+  <PushButton Name="PushButtonPB" Tag="[GroupBox] External data mapping|$groupBox1|#1/[Table]DataGridView|$m_dataGridView|#1/[PushButton]#1" />
+
+	<TreeView Name="PIDClassesTV" Tag="[TreeView]P*|$m_treeView|#1" />
+	<TreeViewItem Name="EngineeringItemsTVI" Tag="[TreeView]P*|$m_treeView|#1/[TreeViewItem]Engineering Items|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

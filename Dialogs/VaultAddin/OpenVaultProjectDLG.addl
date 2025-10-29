@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenVaultProjectDLG" Tag="[DialogBox]Open Vault Project" ParentType="MainWin">
+ <Pane Name="OpenVaultProjectPANE" GUIType="UIA" Tag="[Pane]Open Vault Project|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]Open Vault Project|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]Open Vault Project|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Open Vault Project|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="OpenAVaultProjectST" Tag="[Pane]Open Vault Project|$Window|#1/[StaticText]Open a Vault project for the first time|$MainInstruction|#1" />
+  <StaticText Name="InitializingThisProjectMayST" Tag="[Pane]Open Vault Project|$Window|#1/[StaticText]Initializing this project may take some time*|$ContentText|#2" />
+  <PushButton Name="ShowProjectDetailsPB" Tag="[Pane]Open Vault Project|$Window|#1/[PushButton]Show project details|$ExpandoButton|#1" />
+  <CheckBox Name="AlwaysOpenVaultProjectCK" Tag="[Pane]Open Vault Project|$Window|#1/[CheckBox]Always open vault project*|$VerificationCheckBox|#1" />
+  <PushButton Name="YesPB" Tag="[Pane]Open Vault Project|$Window|#1/[PushButton]Yes|$CommandButton_6|#2" />
+  <PushButton Name="NoPB" Tag="[Pane]Open Vault Project|$Window|#1/[PushButton]No|$CommandButton_7|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

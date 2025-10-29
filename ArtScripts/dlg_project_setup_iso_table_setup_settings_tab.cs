@@ -1,0 +1,64 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.IO;
+using Autodesk.GUIHarness;
+using Autodesk.GUIHarness.AutoCAD.Dialogs;
+using Autodesk.GUIHarness.Plant3D.Dialogs;
+using OptionSet;
+using LAGT.CommonFiles;
+using LAGT.CommonFiles.Constants;
+using LAGT.CommonFiles.Entities;
+using LAGT.CommonFiles.Extensions.CaptureBitmaps;
+using LAGT.CommonFiles.Extensions.Rectangle;
+using Autodesk.GUIHarness.AutoCAD;
+
+namespace Autodesk.GUIHarness.Plant3D.ArtScripts
+{
+    public partial class dlg_project_setup_iso_table_setup_settings_tab : TableSetupDLG
+    {
+
+
+        public dlg_project_setup_iso_table_setup_settings_tab() // add the constructor name as filename for each dialog
+        {
+            this.Information = new TestCaseInformation(
+                "Art",//Type of automaiton (replace with a type list (Art / Dialog / Command line)
+                false, // Define if this feature is part of new/changed feature (do we need to define this for each GUID?).
+                true,
+                "dlg_project_setup_iso_table_setup_settings_tab",
+                //Name define by persons who edit scripts , excel?
+                new List<string> {
+                "GUID-6919B15F-1A0F-41A2-BACB-01398BF23661"
+				//Add the GUID here
+				},
+                FYRelease.FY15
+            );
+        }
+        public override void Invoke()
+        {
+            base.Invoke();
+            base.SetActive();
+            //base.PageListPG.Select(1);
+            TableSetupDLG TableSetupDLG = new TableSetupDLG();
+            RECT r12 = TableSetupDLG.TableLayoutPANE.GetRect(true);
+            Desktop.Current.Click(MouseButton.Left, r12.xPos + 5, r12.yPos - 5);
+            Desktop.Current.TypeKeys("<Right>");
+            base.CreateSeparateFabricationAndCK.Click();
+            //base.TypeKeys("<Right>");
+        }
+
+        public override void Capture(string SaveLocation)
+        {
+            TableSetupDLG TableSetupDLG = new TableSetupDLG();
+            TableSetupDLG.CaptureBitmap(SaveLocation + this.Information.Items[0].ToString() + ArtEngineConstants.BitmapExtension);
+        }
+
+        public override void Dismiss()
+        {
+            base.Dismiss();
+        }
+
+    }
+}

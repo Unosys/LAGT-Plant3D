@@ -1,0 +1,14 @@
+<ProductTestSuite.CommonFiles.AdDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_AddRolesDLG" Tag="[Pane]$UserRolesDialog" ParentType="VC_NewUserDLG">
+
+  <PushButton Name="CancelPB" Tag="[PushButton]$m_cancelButton" />
+  <PushButton Name="OKPB" Tag="[PushButton]$m_okButton" />
+  <ListBox Name="TheseAreTheRolesLB" Tag="[ListBox]$m_userRolesCheckedListBox" />
+  
+  <CheckBox Name="AdministratorCK" Tag="[ListBox]$m_userRolesCheckedListBox/[CheckBox]Administrator" />
+  <CheckBox Name="ProjectAdministratorCK" Tag="[ListBox]$m_userRolesCheckedListBox/[CheckBox]Project Administrator" />
+  <CheckBox Name="SecurityAdministratorCK" Tag="[ListBox]$m_userRolesCheckedListBox/[CheckBox]Security Administrator" />
+  <CheckBox Name="ItemReviewerCK" Tag="[ListBox]$m_userRolesCheckedListBox/[CheckBox]Item Reviewer" />
+
+
+
+</ProductTestSuite.CommonFiles.AdDialogBox>

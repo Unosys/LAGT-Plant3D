@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupWizardSpecifyUnitSettingsDLG" Tag="[DialogBox]$CreateProjectWizard" ParentType="Plant3D">
+<PushButton Name="M_buttonBack" Tag="[PushButton]$m_buttonBack" />
+<PushButton Name="M_buttonCancel" Tag="[PushButton]$m_buttonCancel" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup|#1/[PushButton]$m_buttonNext|#2" />
+<StaticText Name="M_imperailLbl" Tag="[StaticText]$m_imperailLbl" />
+<RadioButton Name="M_imperialRadioBtn" Tag="[RadioButton]$m_imperialRadioBtn" />
+<RadioButton Name="M_inchRadioBtn" Tag="[RadioButton]$m_inchRadioBtn" />
+<StaticText Name="M_metricLbl" Tag="[StaticText]$m_metricLbl" />
+<RadioButton Name="M_metricRadioBtn" Tag="[Pane]$m_wizardSetup|#1/[Pane]Specify the directory where supporting files (such as spreadsheets or Word documents) are stored:|$pageUnitSettings|#1/[RadioButton]Specify the base unit for project drawings:[1]|$m_metricRadioBtn|#2" />
+<GroupBox Name="M_mixedUnitsPnl" Tag="[GroupBox]$m_mixedUnitsPnl" />
+<RadioButton Name="M_mmRadioBtn" Tag="[RadioButton]$m_mmRadioBtn" />
+<StaticText Name="M_nomialDiaUnitslbl" Tag="[StaticText]$m_nomialDiaUnitslbl" />
+<StaticText Name="M_unitsTitleLbl" Tag="[StaticText]$m_unitsTitleLbl" />
+<CustomWin Name="M_wizardSetup" Tag="[CustomWin]$m_wizardSetup" />
+<GroupBox Name="PageUnitSettings" Tag="[GroupBox]$pageUnitSettings" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

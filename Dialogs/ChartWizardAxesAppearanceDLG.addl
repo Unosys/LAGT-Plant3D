@@ -1,0 +1,34 @@
+<Autodesk.GUIHarness.Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ChartWizardAxesAppearanceDLG" Tag="[Pane]$WizardFormBase" ParentType="ReportDesignerApplicationDLG">
+  <GroupBox Name="AxisAppearanceControl" Tag="[GroupBox]$axisAppearanceControl" />
+  <GroupBox Name="ChartAxesControl" Tag="[GroupBox]$ChartAxesControl" />
+  <GroupBox Name="ChartAxisControl" Tag="[GroupBox]$ChartAxisControl" />
+  <GroupBox Name="ChartPanel" Tag="[GroupBox]$chartPanel" />
+  <GroupBox Name="ChartPanel1" Tag="[GroupBox]$chartPanel1" />
+  <GroupBox Name="ChartPanel2" Tag="[GroupBox]$chartPanel2" />
+  <GroupBox Name="ChartPanelControl1" Tag="[GroupBox]$interlaceFillStyle" />
+  <GroupBox Name="ChartPanelControl12" Tag="[GroupBox]$pnlAxes" />
+  <GroupBox Name="ChartPanelControl13" Tag="[GroupBox]$grWizardParentControl" />
+  <GroupBox Name="ChartPanelControl2" Tag="[GroupBox]$chartPanelControl2" />
+  <GroupBox Name="ChartPanelControl3" Tag="[GroupBox]$chartPanelControl3" />
+  <GroupBox Name="ChartPanelControl4" Tag="[GroupBox]$interlaceFillStyle" />
+  <GroupBox Name="ChartPanelControl42" Tag="[GroupBox]$groupControl1" />
+  <GroupBox Name="ChartPanelControl5" Tag="[GroupBox]$chartPanelControl5" />
+  <GroupBox Name="ChartPanelControl6" Tag="[GroupBox]$chartPanelControl6" />
+  <GroupBox Name="ChartPanelControl8" Tag="[GroupBox]$chartPanelControl8" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox" Tag="[TextField]$txtThickness" />
+  <TextField Name="DevExpressXtraEditorsTextBoxMaskBox2" Tag="[TextField]$ceColor" />
+  <GroupBox Name="GrWizardPanel" Tag="[GroupBox]$grWizardPanel" />
+  <GroupBox Name="InterlaceFillStyle" Tag="[GroupBox]$interlaceFillStyle" />
+  <GroupBox Name="PanelControl1" Tag="[GroupBox]$panelControl1" />
+  <GroupBox Name="PanelControl3" Tag="[GroupBox]$panelControl3" />
+  <GroupBox Name="PanelControl5" Tag="[GroupBox]$panelControl5" />
+  <GroupBox Name="PanelControl8" Tag="[GroupBox]$panelControl8" />
+  <GroupBox Name="PanelNavigation" Tag="[GroupBox]$panelNavigation" />
+  <GroupBox Name="Pnl" Tag="[GroupBox]$pnl" />
+  <GroupBox Name="PnlAxes" Tag="[GroupBox]$pnlAxes" />
+  <GroupBox Name="PnlControls" Tag="[GroupBox]$pnlControls" />
+  <GroupBox Name="PnlHintOffset" Tag="[GroupBox]$pnlHintOffset" />
+  <GroupBox Name="PnlParent" Tag="[GroupBox]$pnlParent" />
+  <GroupBox Name="TabPanel" Tag="[GroupBox]$tabPanel" />
+  <GroupBox Name="WorkPanel" Tag="[GroupBox]$workPanel" />
+</Autodesk.GUIHarness.Pane>

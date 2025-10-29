@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDPandIDValidationSettingsDLG" Tag="[DialogBox]PandIDValidationSettingsDLG" >
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnOK" Tag="[PushButton]$btnOK" />
+<TreeView Name="ReportTheFollowingConditionsTV" Tag="[GroupBox]$gbErrorReporting|#1/[TreeView]$treeView2|#1" />
+<TreeViewItem Name="PIDObjectsTVI" Tag="[GroupBox]$gbErrorReporting|#1/[TreeView]$treeView2|#1/[TreeViewItem]#1" />
+<TreeViewItem Name="threeDPipingTVI" Tag="[GroupBox]$gbErrorReporting|#1/[TreeView]$treeView2|#1/[TreeViewItem]#2" />
+<TreeViewItem Name="BaseAutoCADObjectsTVI" Tag="[GroupBox]$gbErrorReporting|#1/[TreeView]$treeView2|#1/[TreeViewItem]#3" />
+<TreeViewItem Name="threeDModelToPIDTVI" Tag="[GroupBox]$gbErrorReporting|#1/[TreeView]$treeView2|#1/[TreeViewItem]#4" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

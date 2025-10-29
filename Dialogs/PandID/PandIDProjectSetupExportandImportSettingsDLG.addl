@@ -1,0 +1,16 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupExportandImportSettingsDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnDelete" Tag="[PushButton]$m_btnDelete" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnModify" Tag="[PushButton]$m_btnModify" />
+<PushButton Name="M_btnNew" Tag="[Pane]$m_splitHorz|#1/[Pane]$28708114|#1/[Pane]$m_splitVert|#1/[Pane]$3147056|#2/[Pane]$m_exportImportSettingsUserControl|#1/[GroupBox]Export and import settings|$groupBox1|#1/[PushButton]$m_btnNew|#1" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<ListBox Name="M_listBox" Tag="[ListBox]$m_listBox" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

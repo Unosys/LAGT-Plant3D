@@ -1,0 +1,31 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateGridDLG" Tag="[DialogBox]Create Grid" ParentType="Plant3D" GUIType="WIN32">
+  <StaticText Name="GridNameST" Tag="[StaticText]Grid name:|$1557|#1" />
+  <TextField Name="GridNameTF" Tag="[TextField]Grid name:|$1000|#1" />
+  <StaticText Name="AxisValueST" Tag="[StaticText]Axis value:|$1561|#2" />
+  <TextField Name="AxisValueTF" Tag="[TextField]Axis value:|$1005|#2" />
+  <PushButton Name="G1PB" Tag="[PushButton]g[1]|$1369|#2" />
+  <PushButton Name="PushButton1PB" Tag="[PushButton]-&gt;[1]|$1354|#1" />
+  <StaticText Name="AxisNamelocalXST" Tag="[StaticText]Axis name (local X):|$1558|#3" />
+  <TextField Name="AxisNamelocalXTF" Tag="[TextField]Axis name (local X):|$1002|#3" />
+  <StaticText Name="RowValueST" Tag="[StaticText]Row value:|$1562|#4" />
+  <TextField Name="RowValueTF" Tag="[TextField]Row value:|$1006|#4" />
+  <PushButton Name="G2PB" Tag="[PushButton]g[2]|$1370|#4" />
+  <PushButton Name="PushButton2PB" Tag="[PushButton]-&gt;[2]|$1353|#3" />
+  <StaticText Name="RowNamelocalYST" Tag="[StaticText]Row name (local Y):|$1559|#5" />
+  <TextField Name="RowNamelocalYTF" Tag="[TextField]Row name (local Y):|$1004|#5" />
+  <StaticText Name="PlatformValueST" Tag="[StaticText]Platform value:|$1563|#6" />
+  <TextField Name="PlatformValueTF" Tag="[TextField]Platform value:|$1008|#6" />
+  <PushButton Name="G3PB" Tag="[PushButton]g[3]|$1371|#6" />
+  <PushButton Name="PushButton3PB" Tag="[PushButton]-&gt;[3]|$1352|#5" />
+  <StaticText Name="PlatformNamelocalZST" Tag="[StaticText]Platform name (local Z):|$1560|#7" />
+  <TextField Name="PlatformNamelocalZTF" Tag="[TextField]Platform name (local Z):|$1007|#7" />
+  <GroupBox Name="CoordinateSystemGB" Tag="[GroupBox]Coordinate system|$1564|#1" />
+  <RadioButton Name="GridName1RB" Tag="[RadioButton]Grid name:[1]|$1045|#1" />
+  <RadioButton Name="GridName2RB" Tag="[RadioButton]Grid name:[2]|$1046|#2" />
+  <RadioButton Name="AxisNamelocalXRB" Tag="[RadioButton]Axis name (local X):|$1047|#3" />
+  <GroupBox Name="FontSizeGB" Tag="[GroupBox]Font size:|$1565|#2" />
+  <TextField Name="FontSizeTF" Tag="[TextField]Font size:|$1001|#8" />
+  <PushButton Name="Create" Tag="[PushButton]Create|$1|#9" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$1003|#7" />
+  <PushButton Name="Help" Tag="[PushButton]Help|$1052|#8" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

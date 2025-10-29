@@ -1,0 +1,19 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupWizardSpecifyDatabaseSettingsDLG" Tag="[Pane]Project Setup Wizard (Page 5 of 6)|$CreateProjectWizard" ParentType="Plant3D" GUIType="UIA">
+  <Link Name="M_linkHelpLbl" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[Link]Learn More|$m_linkHelpLbl" />
+  <TextField Name="M_tbPwd" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[TextField]Password:|$m_tbPwd" />
+  <TextField Name="M_tbUsrName" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[TextField]User name:|$m_tbUsrName" />
+  <PopupList Name="M_comboAuthent" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[PopupList]Authentication:|$m_comboAuthent" />
+  <PushButton Name="DropDownButtonPB" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[PopupList]Authentication:|$m_comboAuthent/[PushButton]Drop Down Button|$DropDown" />
+  <PushButton Name="M_btnDbGenName" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[PushButton]Test Name|$m_btnDbGenName" />
+  <TextField Name="M_tbDbName" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[TextField]Database name prefix:|$m_tbDbName" />
+  <PushButton Name="M_btnTestConnection" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[PushButton]Test Connection|$m_btnTestConnection" />
+  <ComboBox Name="M_comboServer" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[ComboBox]SQL Server name:|$m_comboServer" />
+  <RadioButton Name="M_radioSQLServer" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[RadioButton]AutoCAD Plant 3D and AutoCAD PID both include a file-based local database (SQLite) that requires no configuration*[1]|$m_radioSQLServer" />
+  <RadioButton Name="M_radioSQLite" Tag="[Pane]$m_wizardSetup/[Pane]Report nominal diameters of imperial content in:|$pageDBSettings/[RadioButton]AutoCAD Plant 3D and AutoCAD PID both include a file-based local database (SQLite) that requires no configuration*[2]|$m_radioSQLite" />
+  <PushButton Name="M_buttonCancel" Tag="[Pane]$m_wizardSetup/[PushButton]Cancel|$m_buttonCancel" />
+  <PushButton Name="M_buttonNext" Tag="[Pane]$m_wizardSetup/[PushButton]Next &gt;&gt;|$m_buttonNext" />
+  <PushButton Name="M_buttonBack" Tag="[Pane]$m_wizardSetup/[PushButton]&lt;&lt; Back|$m_buttonBack" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup Wizard (Page 5 of 6)|$TitleBar/[PushButton]Close|$Close" />
+ 
+  <TextField Name="M_comboServerTextField" Tag="[TextField]$m_comboServer" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

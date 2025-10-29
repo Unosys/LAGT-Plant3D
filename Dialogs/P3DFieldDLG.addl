@@ -1,0 +1,33 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DFieldDLG" Tag="[DialogBox]Field" ParentType="Plant3D">
+<!--<DialogBox Name="FieldCategory1" Tag="[AcDialogBox]Field category:|$501" />
+<DialogBox Name="DialogBox1" Tag="$1028" />
+<StaticText Name="AuthorText" Tag="[StaticText]#1|$1018" />
+<TextField Name="Author" Tag="[TextField]#1|$1021" />
+<StaticText Name="FormatText" Tag="[StaticText]#2|$1005" />
+<ListBox Name="Format" Tag="[ListBox]#1|$1019" />
+<StaticText Name="FieldCategoryText" Tag="[StaticText]#1|$1010" />
+<PopupList Name="FieldCategory2" Tag="[PopupList]#1|$1002" />
+<StaticText Name="FieldNamesText" Tag="[StaticText]#2|$1011" />
+<ListBox Name="FieldNames" Tag="[ListBox]#1|$1004" />
+<StaticText Name="FieldExpressionText" Tag="[StaticText]#3|$1014" />
+<TextField Name="FieldExpression" Tag="[TextField]#1|$1006" />
+<PushButton Name="OK" Tag="[PushButton]#1|$1" />
+<PushButton Name="Cancel" Tag="[PushButton]#2|$2" />
+<PushButton Name="Help" Tag="[PushButton]#3|$9" />-->
+  <DialogBox Name="DialogBox1DLG" Tag="[DialogBox]$501|#1" />
+  <DialogBox Name="DialogBox2DLG" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1" />
+  <StaticText Name="AuthorST" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1/[StaticText]Author:|$1018|#1" />
+  <TextField Name="AuthorTF" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1/[TextField]Author:|$1021|#1" />
+  <StaticText Name="FormatST" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1/[StaticText]Format:|$1005|#2" />
+  <ListBox Name="FormatLB" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1/[ListBox]Format:|$1019|#1" />
+  <StaticText Name="FieldCategoryST" Tag="[StaticText]Field category:|$1010|#1" />
+  <PopupList Name="FieldCategoryPL" Tag="[PopupList]Field category:|$1002|#1" />
+  <StaticText Name="FieldNamesST" Tag="[StaticText]Field names:|$1011|#2" />
+  <ListBox Name="FieldNamesLB" Tag="[ListBox]Field names:|$1004|#1" />
+  <StaticText Name="FieldExpressionST" Tag="[StaticText]Field expression:|$1014|#3" />
+  <TextField Name="FieldExpressionTF" Tag="[TextField]Field expression:|$1006|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$1|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$9|#3" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingChecker" Tag="[Pane]Drawing Checker|$DWGCheckerProgressDlg" ParentType="MainWin" GUIType="UIA">
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$btnHelp|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]$panel1|#1" />
+  <CustomWin Name="CheckingAnnotationsWIN" Tag="[Pane]$panel1|#1/[CustomWin]&lt;Checking Annotations*|$m_checkerProgress|#1" />
+  <StaticText Name="CheckingAnnotationsST" Tag="[Pane]$panel1|#1/[StaticText]&lt;Checking Annotations*|$m_checkerStauts|#2" />
+  <StaticText Name="DrawingValidationProgressST" Tag="[Pane]$panel1|#1/[StaticText]Drawing Validation Progress|$label1|#1" />
+  <TitleBar Name="DrawingCheckerCTL" Tag="[TitleBar]Drawing Checker|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Drawing Checker|$TitleBar|#1/[CustomWin]System Menu Bar|$DWGCheckerProgressDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Drawing Checker|$TitleBar|#1/[CustomWin]System Menu Bar|$DWGCheckerProgressDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Drawing Checker|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

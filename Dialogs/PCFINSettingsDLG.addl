@@ -1,0 +1,23 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PCFINSettingsDLG" Tag="[Window]PCF to Pipe Settings|$Window|#1" ParentType="PCFINListDLG" GUIType="UIA">
+  <TitleBar Name="PCFToPipeSettingsCTL" Tag="[TitleBar]PCF to Pipe Settings|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]PCF to Pipe Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]PCF to Pipe Settings|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]PCF to Pipe Settings|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <GroupBox Name="SpecFileSubstitutionsGB" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1" />
+  <StaticText Name="SpecFileSubstitutionsST" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[StaticText]Spec File Substitutions|#1" />
+  <StaticText Name="PCFSpec1ST" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[StaticText]PCF Spec|$Label_1|#2" />
+  <StaticText Name="PCFSpec2ST" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[StaticText]PCF Spec|$Label_1|#2/[StaticText]PCF Spec|#1" />
+  <StaticText Name="Plant3DSpec1ST" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[StaticText]Plant 3D Spec|$Label_2|#3" />
+  <StaticText Name="Plant3DSpec2ST" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[StaticText]Plant 3D Spec|$Label_2|#3/[StaticText]Plant 3D Spec|#1" />
+  <StaticText Name="ThePlaceholderSpecWillST" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[StaticText]The Placeholder spec will be used for any unmatched specs that do not have a substitution specified*|$TextBlock_1|#4" />
+  <Pane Name="PanePANE" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[Pane]$ScrollViewerContainer|#1" />
+  <StaticText Name="NothingToSeeHereST" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[Pane]$ScrollViewerContainer|#1/[StaticText]Nothing to see here*|$TextBlock_2|#1" />
+  <StaticText Name="WeHaveFoundMatchesST" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1|#1/[Pane]$ScrollViewerContainer|#1/[StaticText]We have found matches for all of the specs used in the selected PCF files*|$TextBlock_3|#2" />
+  <PopupList Name="PCFINPL" Tag="[GroupBox]Spec File Substitutions|$GroupBox_1/[Pane]$ScrollViewerContainer/[PopupList]PCFIN" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$OKBtn|#1" />
+  <StaticText Name="OKST" Tag="[PushButton]OK|$OKBtn|#1/[StaticText]OK|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelBtn|#2" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$CancelBtn|#2/[StaticText]Cancel|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$HelpBtn|#3" />
+  <StaticText Name="HelpST" Tag="[PushButton]Help|$HelpBtn|#3/[StaticText]Help|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

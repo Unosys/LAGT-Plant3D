@@ -1,0 +1,12 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectStatusManagerDLG" Tag="[DialogBox]ProjectStatusManagerDLG" ParentType="Pane">
+<PushButton Name="BtnCancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="BtnClose" Tag="[PushButton]$btnClose" />
+<PushButton Name="BtnDelete" Tag="[PushButton]$btnDelete" />
+<PushButton Name="BtnHelp" Tag="[PushButton]$btnHelp" />
+<PushButton Name="BtnNew" Tag="[GroupBox]Defined statuses|$groupBox1|#1/[PushButton]New*|$btnNew|#1" />
+<PushButton Name="BtnRename" Tag="[PushButton]$btnRename" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<StaticText Name="LblCurrentProject" Tag="[StaticText]$lblCurrentProject" />
+<ListView Name="LstStatus" Tag="[ListView]$lstStatus" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$lstStatus" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

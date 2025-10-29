@@ -1,0 +1,131 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectsetupPipeconnectionsettingDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#2" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#3" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#4" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#5" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="ExportAndImportSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Export and Import Settings|#1" />
+  <TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Paths|#2" />
+  <TreeViewItem Name="DataManagerConfigurationTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Data Manager Configuration|#3" />
+  <TreeViewItem Name="LayerAndColorSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Layer and Color Settings|#4" />
+  <TreeViewItem Name="PipingConnectionSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Piping Connection Settings|#5" />
+  <TreeViewItem Name="PIDObjectMappingTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]P*|#6" />
+  <TreeViewItem Name="Plant3DClassDefinitionsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Plant 3D Class Definitions|#7" />
+  <TreeViewItem Name="SpecUpdateSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3/[TreeViewItem]Spec Update Settings|#8" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$3281504|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1" />
+  <GroupBox Name="JointSetupGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1" />
+  <GroupBox Name="WaferBoltsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Wafer bolts|$groupBox7|#6" />
+  <TextField Name="RoundUpToNearestTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Wafer bolts|$groupBox7|#6/[TextField]Round up to nearest:|$m_tbWaferBoltRounding|#1" />
+  <StaticText Name="RoundUpToNearestST" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Wafer bolts|$groupBox7|#6/[StaticText]Round up to nearest:|$label2|#1" />
+  <GroupBox Name="WeldDotsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Weld dots|$groupBox6|#5" />
+  <TextField Name="DiameterTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Weld dots|$groupBox6|#5/[TextField]Diameter:|$m_tbWeldDiameter|#1" />
+  <StaticText Name="DiameterST" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Weld dots|$groupBox6|#5/[StaticText]Diameter:|$label4|#1" />
+  <GroupBox Name="WeldGapsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Weld gaps|$groupBox5|#4" />
+  <TextField Name="GapSizeTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Weld gaps|$groupBox5|#4/[TextField]Gap size:|$m_tbWeldgapSize|#1" />
+  <StaticText Name="GapSizeST" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Weld gaps|$groupBox5|#4/[StaticText]Gap size:|$label3|#1" />
+  <CheckBox Name="UseWeldGapsCK" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Weld gaps|$groupBox5|#4/[CheckBox]Use weld gaps|$m_cbUseWeldgaps|#1" />
+  <GroupBox Name="PipeSegmentsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Pipe segments|$groupBox4|#3" />
+  <TextField Name="MinimumLengthTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Pipe segments|$groupBox4|#3/[TextField]Minimum length:|$txtboxMinLength|#1" />
+  <StaticText Name="MinimumLengthST" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Pipe segments|$groupBox4|#3/[StaticText]Minimum length:|$label1|#1" />
+  <GroupBox Name="CompoundJointsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2" />
+  <PushButton Name="Delete1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[PushButton]Delete|$btnDeleteCompound|#3" />
+  <PushButton Name="Modify1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[PushButton]Modify*|$btnModifyCompound|#2" />
+  <PushButton Name="Add1PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[PushButton]Add*|$btnAddCompound|#1" />
+  <Table Name="DataGridView1TBL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1" />
+  <CustomWin Name="TopRow1WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Top Row|#1" />
+  <Header Name="Name1CTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Top Row|#1/[Header]Name|#1" />
+  <Header Name="End11CTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Top Row|#1/[Header]End 1|#2" />
+  <Header Name="End21CTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Top Row|#1/[Header]End 2|#3" />
+  <Header Name="ConnectionPartCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Top Row|#1/[Header]Connection Part|#4" />
+  <Header Name="ImperialToMetricConnection1CTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Top Row|#1/[Header]Imperial to Metric Connection|#5" />
+  <CustomWin Name="Row01WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Row 0|#2" />
+  <CustomWin Name="NameRow01WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Row 0|#2/[CustomWin]Name Row 0|#1" />
+  <CustomWin Name="End1Row01WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Row 0|#2/[CustomWin]End 1 Row 0|#2" />
+  <CustomWin Name="End2Row01WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Row 0|#2/[CustomWin]End 2 Row 0|#3" />
+  <CustomWin Name="ConnectionPartRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Row 0|#2/[CustomWin]Connection Part Row 0|#4" />
+  <CustomWin Name="ImperialToMetricConnection1WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Compound joints|$groupBox3|#2/[Table]DataGridView|$m_dataGridView2|#1/[CustomWin]Row 0|#2/[CustomWin]Imperial to Metric Connection Row 0|#5" />
+ 
+  <GroupBox Name="SimpleJointsGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1" />
+  <PushButton Name="Delete2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[PushButton]Delete|$m_btnDeleteSimple|#3" />
+  <Table Name="DataGridView2TBL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1" />
+  <Pane Name="VerticalScrollBarPANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[Pane]Vertical Scroll Bar|$9376062|#1" />
+  <CustomWin Name="TopRow2WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Top Row|#1" />
+  <Header Name="Name2CTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Top Row|#1/[Header]Name|#1" />
+  <Header Name="End12CTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Top Row|#1/[Header]End 1|#2" />
+  <Header Name="End22CTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Top Row|#1/[Header]End 2|#3" />
+  <Header Name="FastenersCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Top Row|#1/[Header]Fasteners|#4" />
+  <Header Name="RequiredMatchesCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Top Row|#1/[Header]Required Matches|#5" />
+  <Header Name="OptionalMatchesCTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Top Row|#1/[Header]Optional Matches|#6" />
+  <Header Name="ImperialToMetricConnection2CTL" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Top Row|#1/[Header]Imperial to Metric Connection|#7" />
+  <CustomWin Name="Row02WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Row 0|#2" />
+  <CustomWin Name="NameRow02WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Row 0|#2/[CustomWin]Name Row 0|#1" />
+  <CustomWin Name="End1Row02WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Row 0|#2/[CustomWin]End 1 Row 0|#2" />
+  <CustomWin Name="End2Row02WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Row 0|#2/[CustomWin]End 2 Row 0|#3" />
+  <CustomWin Name="FastenersRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Row 0|#2/[CustomWin]Fasteners Row 0|#4" />
+  <CustomWin Name="RequiredMatchesRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Row 0|#2/[CustomWin]Required Matches Row 0|#5" />
+  <CustomWin Name="OptionalMatchesRow0WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Row 0|#2/[CustomWin]Optional Matches Row 0|#6" />
+  <CustomWin Name="ImperialToMetricConnection2WIN" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[Table]DataGridView|$m_dataGridView1|#1/[CustomWin]Row 0|#2/[CustomWin]Imperial to Metric Connection Row 0|#7" />
+  
+  <PushButton Name="Modify2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[PushButton]Modify*|$m_btnModifySimple|#2" />
+  <PushButton Name="Add2PB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4002300|#1/[Pane]$m_splitVert|#1/[Pane]$4395384|#2/[Pane]$m_jointsUserCtrl|#1/[GroupBox]Joint setup|$groupBox1|#1/[GroupBox]Simple joints|$groupBox2|#1/[PushButton]Add*|$m_btnAddSimple|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$4854018|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4854018|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4854018|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4854018|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$4854018|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+  <!--<PushButton Name="BtnAddCompound" Tag="[PushButton]$btnAddCompound" />
+<PushButton Name="BtnDeleteCompound" Tag="[PushButton]$btnDeleteCompound" />
+<PushButton Name="BtnModifyCompound" Tag="[PushButton]$btnModifyCompound" />
+<GroupBox Name="GroupBox1" Tag="[GroupBox]$groupBox1" />
+<GroupBox Name="GroupBox2" Tag="[GroupBox]$groupBox2" />
+<GroupBox Name="GroupBox3" Tag="[GroupBox]$groupBox3" />
+<GroupBox Name="GroupBox4" Tag="[GroupBox]$groupBox4" />
+<GroupBox Name="GroupBox5" Tag="[GroupBox]$groupBox5" />
+<GroupBox Name="GroupBox6" Tag="[GroupBox]$groupBox6" />
+<GroupBox Name="GroupBox7" Tag="[GroupBox]$groupBox7" />
+<ScrollBar Name="JointSetup" Tag="[ScrollBar]$m_dataGridView1" />
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<StaticText Name="Label2" Tag="[StaticText]$label2" />
+<StaticText Name="Label3" Tag="[StaticText]$label3" />
+<StaticText Name="Label4" Tag="[StaticText]$label4" />
+<PushButton Name="M_btnAddSimple" Tag="[PushButton]$m_btnAddSimple" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnDeleteSimple" Tag="[PushButton]$m_btnDeleteSimple" />
+<PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+<PushButton Name="M_btnModifySimple" Tag="[PushButton]$m_btnModifySimple" />
+<PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+<PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+<CheckBox Name="M_cbUseWeldgaps" Tag="[CheckBox]$m_cbUseWeldgaps" />
+<Table Name="M_dataGridView1" Tag="[Table]$m_dataGridView1" />
+<Table Name="M_dataGridView2" Tag="[Table]$m_dataGridView2" />
+<CustomWin Name="M_jointsUserCtrl" Tag="[CustomWin]$m_jointsUserCtrl" />
+<CustomWin Name="M_splitHorz" Tag="[CustomWin]$m_splitHorz" />
+<CustomWin Name="M_splitVert" Tag="[CustomWin]$m_splitVert" />
+<TextField Name="M_tbWaferBoltRounding" Tag="[TextField]$m_tbWaferBoltRounding" />
+<TextField Name="M_tbWeldDiameter" Tag="[TextField]$m_tbWeldDiameter" />
+<TextField Name="M_tbWeldgapSize" Tag="[TextField]$m_tbWeldgapSize" />
+<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />
+<TextField Name="TxtboxMinLength" Tag="[TextField]$txtboxMinLength" />-->
+</Pane>

@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateNewComponentDLG1"  Tag="[Window]Create New Component" ParentType="MainWin" >
+
+	<RadioButton Name="GraphicsSelection1RB" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[GroupBox]Graphics Selection|$P3DGeometryGroup|#2/[RadioButton]Graphics Selection|$GenParametricRadioBtn|#1" />
+	<RadioButton Name="GraphicsSelection2RB" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[GroupBox]Graphics Selection|$P3DGeometryGroup|#2/[RadioButton]Graphics Selection|$GenCustomRadioBtn|#2" />
+	<PushButton Name="CreatePB" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[PushButton]Create|$CreateNewComponentCreateBtn|#2" />
+	<PushButton Name="CancelPB" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[PushButton]Cancel|$CreateNewComponnetCancelBtn|#3" />
+	<PushButton Name="PushButton5PB" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[GroupBox]Graphics Selection|$P3DGeometryGroup|#2/[PushButton]$Chevron|#1" />
+
+	<ListBox Name="ListBoxLB" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[GroupBox]Graphics Selection|$P3DGeometryGroup|#2/[CustomWin]$P3dGraphicsThumbnailListBox|#1/[ListBox]$ListBox_1|#1" />
+
+	<ComboBox Name="NumberOfConnectionPortsCB" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[GroupBox]Graphics Selection|$P3DGeometryGroup2|#2/[ComboBox]Number of Connection Ports:|$PortNumberText|#1" />
+	<PopupList Name="SizeFromPL" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[GroupBox]Basic Part Family Information|$PropertiesFilterGroup|#1/[PopupList]Size From:|$SizeRangeFromComboBox|#3" />
+	<PopupList Name="ToPL" Tag="[CustomWin]$UserControl_ComponentEditor|#1/[GroupBox]Basic Part Family Information|$PropertiesFilterGroup|#1/[PopupList]To:|$SizeRangeToComboBox|#4" />
+
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

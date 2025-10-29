@@ -1,0 +1,31 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.SignatureOptionsDLG" Tag="[Pane]Signature Options|$PdfSignatureEditorForm" ParentType="Pane" GUIType="UIA">
+
+	<Pane Name="TheXtraLayoutControlPANE" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1" />
+	<TextField Name="ContactInformationTF" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]Contact Information:|$tbContactInfo|#3" />
+	<Pane Name="Pane1PANE" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]Contact Information:|$tbContactInfo|#3/[Pane]$5640126|#1" />
+	<TextField Name="TextFieldTF" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]Contact Information:|$tbContactInfo|#3/[TextField]#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[Pane]$certificateSelector|#1" />
+	<ListBox Name="ListBoxLB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[Pane]$certificateSelector|#1/[ListBox]$list|#1" />
+	<Pane Name="Pane3PANE" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[Pane]$certificateSelector|#1/[ListBox]$list|#1/[Pane]$6493398|#1" />
+	<ScrollBar Name="VerticalSB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[Pane]$certificateSelector|#1/[ListBox]$list|#1/[ScrollBar]Vertical|$3412996|#1" />
+	<ToolBar Name="ToolBarTB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[Pane]$certificateSelector|#1/[ListBox]$list|#1/[ToolBar]#1" />
+	<CustomWin Name="Group1WIN" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[Pane]$certificateSelector|#1/[ListBox]$list|#1/[CustomWin]Group1|#1" />
+	<ListBoxItem Name="NoneLBI" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[Pane]$certificateSelector|#1/[ListBox]$list|#1/[CustomWin]Group1|#1/[ListBoxItem]None|#1" />
+	<StaticText Name="ContactInformationST" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[StaticText]Contact Information:|$lbContactInfo|#5" />
+	<TextField Name="LocationTF" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]Location:|$tbLocation|#2" />
+	<StaticText Name="StaticText1ST" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]Location:|$tbLocation|#2/[StaticText]#1" />
+	<PushButton Name="OKPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]OK|$btnOK|#3" />
+	<PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Cancel|$btnCancel|#4" />
+	<PushButton Name="LoadImagePB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Load Image|$btnLoadImage|#1" />
+	<PushButton Name="ClearImagePB" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Clear Image|$btnClearImage|#2" />
+	<TextField Name="ReasonTF" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]Reason:|$tbReason|#1" />
+	<StaticText Name="StaticText2ST" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]Reason:|$tbReason|#1/[StaticText]#1" />
+	<StaticText Name="LocationST" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[StaticText]Location:|$lbLocation|#4" />
+	<StaticText Name="ReasonST" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[StaticText]Reason:|$lbReason|#3" />
+	<StaticText Name="CertificateST" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[StaticText]Certificate:|$lbCertificate|#2" />
+	<StaticText Name="ImageST" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[StaticText]Image:|$lbImage|#1" />
+	<Pane Name="Pane4PANE" Tag="[Pane]The XtraLayoutControl|$layoutControl1|#1/[Pane]$peImage|#2" />
+	<TitleBar Name="SignatureOptionsCTL" Tag="[TitleBar]Signature Options|$TitleBar|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Signature Options|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

@@ -1,0 +1,179 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDP3DSelectTemplateFileDLG" Tag="[DialogBox]Select Template File|#1" ParentType="Pane" GUIType="UIA">
+  <!--<ListBox Name="LookIn1" Tag="[ListBox]Look in:|$13000" />
+  <StaticText Name="LookInText" Tag="[StaticText]Look in:|$13007" />
+  <PopupList Name="LookIn2" Tag="[PopupList]Look in:|$13001" />
+  <ListView Name="ListView1" Tag="$1" />
+  <Header Name="Header1" Tag="$0" />
+  <PushButton Name="Name" Tag="Name" />
+  <PushButton Name="Size" Tag="Size" />
+  <PushButton Name="Type" Tag="Type" />
+  <PushButton Name="DateModified" Tag="Date Modified" />
+  <StaticText Name="FileNameText" Tag="[StaticText]File name:|$13008" />
+  <ComboBox Name="FileName" Tag="[ComboBox]File name:|$13006" />
+  <StaticText Name="FilesOfTypeText" Tag="[StaticText]Files of type:|$13009" />
+  <PopupList Name="FilesOfType" Tag="[PopupList]Files of type:|$13002" />
+  <PushButton Name="PreviousFolderAlt1" Tag="[PushButton]Previous folder(Alt+1)|$13011" />
+  <PushButton Name="UpOneLevelAlt2" Tag="[PushButton]Up one level (Alt+2)|$13003" />
+  <PushButton Name="SearchTheWebAlt3" Tag="[PushButton]Search the Web (Alt+3)|$13004" />
+  <PushButton Name="DeleteDel" Tag="[PushButton]Delete (Del)|$13014" />
+  <PushButton Name="CreateNewFolderAlt5" Tag="[PushButton]Create New Folder (Alt+5)|$13013" />
+  <PushButton Name="Views" Tag="[PushButton]Views|$13012" />
+  <PushButton Name="Tools" Tag="[PushButton]Tools|$13005" />
+  <PushButton Name="Open" Tag="[PushButton]Open|$1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+  <StaticText Name="PreviewText" Tag="[StaticText]Preview|$13100" />
+  <PushButton Name="Preview" Tag="[PushButton]Preview|$13101" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]#1" />
+  <ListView Name="ListViewLV" Tag="[CustomWin]#1/[ListView]$1|#1" />
+  <Header Name="HeaderCTL" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1">
+    <Header Exception="Handle is same for both elements which will corrupt the cache" />
+  </Header>
+  <ScrollBar Name="HorizontalScrollBarSB" Tag="[CustomWin]#1/[ListView]$1|#1/[ScrollBar]Horizontal Scroll Bar|$Horizontal ScrollBar|#2" />
+  <ScrollBar Name="VerticalScrollBarSB" Tag="[CustomWin]#1/[ListView]$1|#1/[ScrollBar]Vertical Scroll Bar|$Vertical ScrollBar|#1" />
+  <ListViewItem Name="PTWTemplatesLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PTWTemplates|#1" />
+  <TextField Name="TextField1TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PTWTemplates|#1/[TextField]#1" />
+  <TextField Name="TextField2TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PTWTemplates|#1/[TextField]#2" />
+  <ListViewItem Name="SheetSetsLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]SheetSets|#2" />
+  <TextField Name="TextField3TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]SheetSets|#2/[TextField]#1" />
+  <TextField Name="TextField4TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]SheetSets|#2/[TextField]#2" />
+  <ListViewItem Name="AcadNamedPlotStylesdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad -Named Plot Styles*|#3">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="AcadNamedPlotStyles3DdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad -Named Plot Styles3D*|#4">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="AcaddwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad*|#5">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="Acad3DdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad3D*|#6">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="AcadISONamedPlotStylesdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadISO -Named Plot Styles*|#7">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="AcadISONamedPlotStyles3DdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadISO -Named Plot Styles3D*|#8">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="AcadisodwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso*|#9" />
+  <TextField Name="TextField5TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso*|#9/[TextField]#1" />
+  <TextField Name="TextField6TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso*|#9/[TextField]#2" />
+  <ListViewItem Name="Acadiso3DdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso3D*|#10" />
+  <TextField Name="TextField7TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso3D*|#10/[TextField]#1" />
+  <TextField Name="TextField8TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso3D*|#10/[TextField]#2" />
+  <ListViewItem Name="PIDANSIDColorLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI D -Color Dependent Plot Styles*|#11">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="PIDANSIDNamedLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI D -Named Plot Styles*|#12">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="PIDANSIELVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI E - Named Plot Styles*|#13">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="PIDANSIEColorLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI E -Color Dependent Plot Styles*|#14">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="PIDISOA0ColorLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ISO A0 -Color Dependent Plot Styles*|#15">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <ListViewItem Name="PIDISOA0NamedLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ISO A0 -Named Plot Styles*|#16">
+    <ListViewItem Exception="Handle is same for both elements which will corrupt the cache" />
+  </ListViewItem>
+  <StaticText Name="FileNameST" Tag="[StaticText]File name:|$13008|#2" />
+  <ComboBox Name="FileNameCB" Tag="[ComboBox]File name:|$13006|#1" />
+  <StaticText Name="FilesOfTypeST" Tag="[StaticText]Files of type:|$13009|#3" />
+  <PopupList Name="FilesOfTypePL" Tag="[PopupList]Files of type:|$13002|#2" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]Files of type:|$13002|#2/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="PreviousFolderAlt1PB" Tag="[PushButton]Previous folder(Alt+1)|$13011|#1" />
+  <PushButton Name="UpOneLevelAlt2PB" Tag="[PushButton]Up one level (Alt+2)|$13003|#2" />
+  <PushButton Name="SearchTheWebAlt3PB" Tag="[PushButton]Search the Web (Alt+3)|$13004|#3" />
+  <PushButton Name="DeleteDelPB" Tag="[PushButton]Delete (Del)|$13014|#4" />
+  <PushButton Name="CreateNewFolderAlt5PB" Tag="[PushButton]Create New Folder (Alt+5)|$13013|#5" />
+  <PushButton Name="ViewsPB" Tag="[PushButton]Views|$13012|#6" />
+  <PushButton Name="ToolsPB" Tag="[PushButton]Tools|$13005|#7" />
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$1|#9" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#10" />
+  <ListBox Name="LookInLB" Tag="[ListBox]Look in:|$13000|#1" />
+  <ListBoxItem Name="A360LBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]A360|#1" />
+  <ListBoxItem Name="HistoryLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]History|#2" />
+  <ListBoxItem Name="DocumentsLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Documents|#3" />
+  <ListBoxItem Name="FavoritesLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Favorites|#4" />
+  <ListBoxItem Name="DesktopLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Desktop|#5" />
+  <StaticText Name="LookInST" Tag="[StaticText]Look in:|$13007|#1" />
+  <PopupList Name="LookInPL" Tag="[PopupList]Look in:|$13001|#1">
+    <PopupList Exception="Handle is same for both elements which will corrupt the cache" />
+  </PopupList>
+  <GroupBox Name="PreviewGB" Tag="[GroupBox]Preview|$13100|#1" />
+  <PushButton Name="PreviewPB" Tag="[PushButton]Preview|$13101|#8" />
+  <TitleBar Name="SelectTemplateFileCTL" Tag="[TitleBar]Select Template File|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Select Template File|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Select Template File|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Template File|$TitleBar|#1/[PushButton]Close|$Close|#1" />-->
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]#1" />
+  <ListView Name="ListViewLV" Tag="[CustomWin]#1/[ListView]$1|#1" />
+  <Header Name="HeaderCTL" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="NameWIN" Tag="[CustomWin]#1/[ListView]$1|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 0|#1" />
+  <ScrollBar Name="HorizontalScrollBarSB" Tag="[CustomWin]#1/[ListView]$1|#1/[ScrollBar]Horizontal Scroll Bar|$Horizontal ScrollBar|#2" />
+  <ScrollBar Name="VerticalScrollBarSB" Tag="[CustomWin]#1/[ListView]$1|#1/[ScrollBar]Vertical Scroll Bar|$Vertical ScrollBar|#1" />
+  <ListViewItem Name="PTWTemplatesLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PTWTemplates|#1" />
+  <TextField Name="TextField1TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PTWTemplates|#1/[TextField]#1" />
+  <ListViewItem Name="SheetSetsLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]SheetSets|#2" />
+  <TextField Name="TextField2TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]SheetSets|#2/[TextField]#1" />
+  <ListViewItem Name="AcadNamedPlotStylesdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad -Named Plot Styles*|#3" />
+  <TextField Name="TextField3TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad -Named Plot Styles*|#3/[TextField]#1" />
+  <ListViewItem Name="AcadNamedPlotStyles3DdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad -Named Plot Styles3D*|#4" />
+  <TextField Name="TextField4TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad -Named Plot Styles3D*|#4/[TextField]#1" />
+  <ListViewItem Name="AcaddwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad*|#5" />
+  <TextField Name="TextField5TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad*|#5/[TextField]#1" />
+  <ListViewItem Name="Acad3DdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad3D*|#6" />
+  <TextField Name="TextField6TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acad3D*|#6/[TextField]#1" />
+  <ListViewItem Name="AcadISONamedPlotStylesdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadISO -Named Plot Styles*|#7" />
+  <TextField Name="TextField7TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadISO -Named Plot Styles*|#7/[TextField]#1" />
+  <ListViewItem Name="AcadISONamedPlotStyles3DdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadISO -Named Plot Styles3D*|#8" />
+  <TextField Name="TextField8TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadISO -Named Plot Styles3D*|#8/[TextField]#1" />
+  <ListViewItem Name="AcadisodwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso*|#9" />
+  <TextField Name="TextField9TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso*|#9/[TextField]#1" />
+  <ListViewItem Name="Acadiso3DdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso3D*|#10" />
+  <TextField Name="TextField10TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]acadiso3D*|#10/[TextField]#1" />
+  <ListViewItem Name="OrthoTempdwtLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]OrthoTemp*|#11" />
+  <TextField Name="TextField11TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]OrthoTemp*|#11/[TextField]#1" />
+  <ListViewItem Name="PIDANSIDColorLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI D -Color Dependent Plot Styles*|#12" />
+  <TextField Name="TextField12TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI D -Color Dependent Plot Styles*|#12/[TextField]#1" />
+  <ListViewItem Name="PIDANSIDNamedLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI D -Named Plot Styles*|#13" />
+  <TextField Name="TextField13TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI D -Named Plot Styles*|#13/[TextField]#1" />
+  <ListViewItem Name="PIDANSIELVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI E - Named Plot Styles*|#14" />
+  <TextField Name="TextField14TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI E - Named Plot Styles*|#14/[TextField]#1" />
+  <ListViewItem Name="PIDANSIEColorLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI E -Color Dependent Plot Styles*|#15" />
+  <TextField Name="TextField15TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ANSI E -Color Dependent Plot Styles*|#15/[TextField]#1" />
+  <ListViewItem Name="PIDISOA0ColorLVI" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ISO A0 -Color Dependent Plot Styles*|#16" />
+  <TextField Name="TextField16TF" Tag="[CustomWin]#1/[ListView]$1|#1/[ListViewItem]PID ISO A0 -Color Dependent Plot Styles*|#16/[TextField]#1" />
+  <StaticText Name="FileNameST" Tag="[StaticText]File name:|$13008|#2" />
+  <ComboBox Name="FileNameCB" Tag="[ComboBox]File name:|$13006|#1" />
+  <StaticText Name="FilesOfTypeST" Tag="[StaticText]Files of type:|$13009|#3" />
+  <PopupList Name="FilesOfTypePL" Tag="[PopupList]Files of type:|$13002|#2" />
+  <PushButton Name="DropDownButton1PB" Tag="[PopupList]Files of type:|$13002|#2/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="PreviousFolderAlt1PB" Tag="[PushButton]Previous folder(Alt+1)|$13011|#1" />
+  <PushButton Name="UpOneLevelAlt2PB" Tag="[PushButton]Up one level (Alt+2)|$13003|#2" />
+  <PushButton Name="SearchTheWebAlt3PB" Tag="[PushButton]Search the Web (Alt+3)|$13004|#3" />
+  <PushButton Name="DeleteDelPB" Tag="[PushButton]Delete (Del)|$13014|#4" />
+  <PushButton Name="CreateNewFolderAlt5PB" Tag="[PushButton]Create New Folder (Alt+5)|$13013|#5" />
+  <PushButton Name="ViewsPB" Tag="[PushButton]Views|$13012|#6" />
+  <PushButton Name="ToolsPB" Tag="[PushButton]Tools|$13005|#7" />
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$1|#9" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#10" />
+  <ListBox Name="LookInLB" Tag="[ListBox]Look in:|$13000|#1" />
+  <ListBoxItem Name="HistoryLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]History|#1" />
+  <ListBoxItem Name="DocumentsLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Documents|#2" />
+  <ListBoxItem Name="FavoritesLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Favorites|#3" />
+  <ListBoxItem Name="DesktopLBI" Tag="[ListBox]Look in:|$13000|#1/[ListBoxItem]Desktop|#4" />
+  <StaticText Name="LookInST" Tag="[StaticText]Look in:|$13007|#1" />
+  <PopupList Name="LookInPL" Tag="[PopupList]Look in:|$13001|#1" />
+  <PushButton Name="DropDownButton2PB" Tag="[PopupList]Look in:|$13001|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <GroupBox Name="PreviewGB" Tag="[GroupBox]Preview|$13100|#1" />
+  <PushButton Name="PreviewPB" Tag="[PushButton]Preview|$13101|#8" />
+  <TitleBar Name="SelectTemplateFileCTL" Tag="[TitleBar]Select Template File|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Select Template File|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Select Template File|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Template File|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

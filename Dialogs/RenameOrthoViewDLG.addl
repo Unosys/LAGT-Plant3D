@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.RenameOrthoViewDLG" Tag="[Pane]Rename Ortho View|$frmRenameOrthoView" ParentType="MainWin" GUIType="UIA">
+
+  <PushButton Name="CancelPB" Tag="[PushButton]$m_btn_Cancel|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]$m_btn_OK|#1" />
+  
+
+</Pane>

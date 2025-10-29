@@ -1,0 +1,57 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddComponentGroupDLG" Tag="[Window]Add Component Group|$Window_1" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<TitleBar Name="AddComponentGroupCTL" Tag="[TitleBar]Add Component Group|$TitleBar|#1" />
+	<CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Add Component Group|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+	<MenuItem Name="SystemMI" Tag="[TitleBar]Add Component Group|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Add Component Group|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Add Component Group|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Add Component Group|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+	<StaticText Name="GroupNameST" Tag="[StaticText]Group Name:|$TextBlock_1|#1" />
+	<TextField Name="GroupNameTF" Tag="[TextField]Group Name:|$GroupNameTextBox|#1" />
+	<Pane Name="PanePANE" Tag="[TextField]Group Name:|$GroupNameTextBox|#1/[Pane]$PART_ContentHost|#1" />
+	<CustomWin Name="CustomWinWIN" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1" />
+	<StaticText Name="ChooseBOMComponentsToST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[StaticText]Choose BOM Components to annotate together:|$TextBlock_2|#1" />
+	<ListBox Name="ChooseBOMComponentsToLB" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem1LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#1" />
+	<CheckBox Name="CheckBox1CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#1/[CheckBox]#1" />
+	<StaticText Name="BoltST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#1/[StaticText]Bolt|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem2LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#2" />
+	<CheckBox Name="CheckBox2CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#2/[CheckBox]#1" />
+	<StaticText Name="BendST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#2/[StaticText]Bend|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem3LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#3" />
+	<CheckBox Name="CheckBox3CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#3/[CheckBox]#1" />
+	<StaticText Name="CapST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#3/[StaticText]Cap|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem4LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#4" />
+	<CheckBox Name="CheckBox4CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#4/[CheckBox]#1" />
+	<StaticText Name="ClampST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#4/[StaticText]Clamp|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem5LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#5" />
+	<CheckBox Name="CheckBox5CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#5/[CheckBox]#1" />
+	<StaticText Name="CouplingST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#5/[StaticText]Coupling|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem6LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#6" />
+	<CheckBox Name="CheckBox6CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#6/[CheckBox]#1" />
+	<StaticText Name="CrossST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#6/[StaticText]Cross|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem7LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#7" />
+	<CheckBox Name="CheckBox7CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#7/[CheckBox]#1" />
+	<StaticText Name="ElbowST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#7/[StaticText]Elbow|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem8LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#8" />
+	<CheckBox Name="CheckBox8CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#8/[CheckBox]#1" />
+	<StaticText Name="FlangeST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#8/[StaticText]Flange|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem9LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#9" />
+	<CheckBox Name="CheckBox9CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#9/[CheckBox]#1" />
+	<StaticText Name="BlindFlangeST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#9/[StaticText]Blind Flange|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem10LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#10" />
+	<CheckBox Name="CheckBox10CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#10/[CheckBox]#1" />
+	<StaticText Name="FilterST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#10/[StaticText]Filter|#1" />
+	<ListBoxItem Name="AutodeskProcessPowerProjectManagerUIProjectSetupComponentItem11LBI" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#11" />
+	<CheckBox Name="CheckBox11CK" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#11/[CheckBox]#1" />
+	<StaticText Name="InstrumentInlineST" Tag="[CustomWin]$local:IsometricAddDialogTree_1|#1/[ListBox]Choose BOM Components to annotate together:|$AllComponentsListBox|#1/[ListBoxItem]Autodesk*|#11/[StaticText]Instrument (Inline)|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel|#2" />
+	<StaticText Name="CancelST" Tag="[PushButton]Cancel|$Cancel|#2/[StaticText]Cancel|$strContent|#1" />
+	<PushButton Name="AddComponentGroupPB" Tag="[PushButton]Add Component Group|$Add|#1" />
+	<StaticText Name="AddComponentGroupST" Tag="[PushButton]Add Component Group|$Add|#1/[StaticText]Add Component Group|$strContent|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoCreationinProcessDLG" Tag="[DialogBox]Ortho Creation in Process|#1" ParentType="MainWin">
+  <Pane Name="OrthoCreationInProcessPANE" GUIType="UIA" Tag="[Pane]Ortho Creation in Process|$Window|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]Ortho Creation in Process|$Window|#1/[Pane]#1" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]Ortho Creation in Process|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="YouHaveAnOrthocubeST" Tag="[Pane]Ortho Creation in Process|$Window|#1/[StaticText]You Have an Orthocube Drawing Open|$MainInstruction|#1" />
+  <StaticText Name="YouMustCompleteOrST" Tag="[Pane]Ortho Creation in Process|$Window|#1/[StaticText]You must complete or cancel the Ortho creation process before switching to another drawing*|$ContentText|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]Ortho Creation in Process|$Window|#1/[PushButton]OK|$CommandButton_1|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecEditorBatchAssignlongDescriptionStylesCompletedDLG1" Tag="[Window]Spec Editor - Batch Assign Long Description Styles Completed|$Window_TaskDialog" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="SpecEditorBatchCTL" Tag="[TitleBar]Spec Editor - Batch Assign Long Description Styles Completed|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Spec Editor - Batch Assign Long Description Styles Completed|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Spec Editor - Batch Assign Long Description Styles Completed|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="Close1PB" Tag="[TitleBar]Spec Editor - Batch Assign Long Description Styles Completed|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <PushButton Name="Close2PB" Tag="[PushButton]Close|$CloseButton|#1" />
+  <StaticText Name="CloseST" Tag="[PushButton]Close|$CloseButton|#1/[StaticText]Close|#1" />
+  <StaticText Name="BatchAssignmentOfLongST" Tag="[StaticText]Batch assignment of Long Description Styles has successfully completed*|$HeaderTextBlock|#1" />
+  <StaticText Name="StaticTextST" Tag="[StaticText]$MessageTexBlockt|#2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingsUpdatedDLG" Tag="[DialogBox]Drawings Updated" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]OK|$2" />
+<CustomWin Name="Icon1" Tag="[Icon]$20" />
+<StaticText Name="TheFollowingDrawingsHaveUp" Tag="[StaticText]The following drawings have updated records:??C:\Documents and Settings\nsarch\Application Data\Autodesk\AutoCAD Plant 3D 201*|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

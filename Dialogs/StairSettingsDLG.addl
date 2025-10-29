@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.StairSettingsDLG" Tag="[DialogBox]Stair Settings" ParentType="Plant3D">
+<PushButton Name="Cancel" Tag="[PushButton]$2" />
+<PushButton Name="OK" Tag="[PushButton]$1" />
+<PushButton Name="Help" Tag="[PushButton]$3" />
+<PushButton Name="StepData" Tag="[PushButton]$1162" />
+<PushButton Name="StairShape" Tag="[PushButton]$1033" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

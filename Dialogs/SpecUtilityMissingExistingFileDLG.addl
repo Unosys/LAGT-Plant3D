@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecUtilityMissingExistingFileDLG" Tag="[DialogBox]Missing Existing File" ParentType="CreateSpecFromExistingSpecDLG1">
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7|#2" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="MissingExistingFileDoST" Tag="[StaticText]Missing existing file*|$65535|#1" />
+  <TitleBar Name="MissingExistingFileCTL" Tag="[TitleBar]Missing Existing File|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Missing Existing File|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

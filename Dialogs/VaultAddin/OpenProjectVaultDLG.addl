@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenProjectVaultDLG" Tag="[DialogBox]$frmOpenFromVault" ParentType="Plant3D">
+<ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$m_listViewProjects" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="M_btnChange" Tag="[PushButton]$m_btnChange" />
+<PushButton Name="M_btnOpen" Tag="[PushButton]$m_btnOpen" />
+<StaticText Name="M_labelLocalWS" Tag="[StaticText]$m_labelLocalWS" />
+<StaticText Name="M_labelServer" Tag="[StaticText]$m_labelServer" />
+<ListView Name="M_listViewProjects" Tag="[ListViewEx]$m_listViewProjects" />
+<Header Name="M_listViewProjectsHeader" Tag="[HeaderEx]$m_listViewProjects" />
+<TextField Name="M_textBoxLocalWS" Tag="[TextField]$m_textBoxLocalWS" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

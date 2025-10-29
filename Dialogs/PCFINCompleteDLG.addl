@@ -1,0 +1,46 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PCFINCompleteDLG" Tag="[Window]PCF To Pipe|$Window_1|#1" ParentType="Plant3D" GUIType="UIA">
+  <TitleBar Name="PCFToPipeCTL" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="Close1PB" Tag="[TitleBar]PCF To Pipe|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <StaticText Name="PCFFiles1ST" Tag="[StaticText]PCF Files|$Label_1|#1" />
+  <StaticText Name="PCFFiles2ST" Tag="[StaticText]PCF Files|$Label_1|#1/[StaticText]PCF Files|#1" />
+  <StaticText Name="Status1ST" Tag="[StaticText]Status|$Label_2|#2" />
+  <StaticText Name="Status2ST" Tag="[StaticText]Status|$Label_2|#2/[StaticText]Status|#1" />
+  <StaticText Name="OverallProgress1ST" Tag="[StaticText]Overall Progress:|$Label_3|#3" />
+  <StaticText Name="OverallProgress2ST" Tag="[StaticText]Overall Progress:|$Label_3|#3/[StaticText]Overall Progress:|#1" />
+  <StaticText Name="one00Complete1ST" Tag="[StaticText]100% complete|$FileProgressLabel|#4" />
+  <StaticText Name="one00Complete2ST" Tag="[StaticText]100% complete|$FileProgressLabel|#4/[StaticText]100% complete|#1" />
+  <CustomWin Name="CustomWin1WIN" Tag="[CustomWin]$OverallProgressBar|#1" />
+  <StaticText Name="Open1ST" Tag="[StaticText]Open |$Label_4|#5" />
+  <StaticText Name="Open2ST" Tag="[StaticText]Open |$Label_4|#5/[StaticText]Open |#1" />
+  <StaticText Name="SystemWindowsDocumentsHyperlinkST" Tag="[StaticText]System*|$LogLabel|#6" />
+  <StaticText Name="StaticText1ST" Tag="[StaticText]System*|$LogLabel|#6/[StaticText] |#1" />
+  <Link Name="LinkLINK" Tag="[StaticText]System*|$LogLabel|#6/[StaticText] |#1/[Link] |$LogHyperlink|#1" />
+  <StaticText Name="LogFileST" Tag="[StaticText]System*|$LogLabel|#6/[StaticText] |#1/[Link] |$LogHyperlink|#1/[StaticText]Log file|$TextBlock_1|#1" />
+  <StaticText Name="ToReviewImportingResult1ST" Tag="[StaticText] to review importing result*|$Label_5|#7" />
+  <StaticText Name="ToReviewImportingResult2ST" Tag="[StaticText] to review importing result*|$Label_5|#7/[StaticText] to review importing result*|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]$ScrollViewer_1|#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1" />
+  <StaticText Name="one001ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[StaticText]1001|$FileNameTB|#1" />
+  <StaticText Name="StaticText2ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[StaticText] [1]|$Label_1|#2" />
+  <StaticText Name="StaticText3ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[StaticText] [1]|$Label_1|#2/[StaticText] |#1" />
+  <Image Name="Image1IMG" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[Image]$ProcessImage|#1" />
+  <StaticText Name="StaticText4ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[StaticText] [2]|$Label_2|#3" />
+  <StaticText Name="StaticText5ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#1/[StaticText] [2]|$Label_2|#3/[StaticText] |#1" />
+  <CustomWin Name="CustomWin3WIN" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2" />
+  <StaticText Name="one002ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[StaticText]1002|$FileNameTB|#1" />
+  <StaticText Name="StaticText6ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[StaticText] [1]|$Label_1|#2" />
+  <StaticText Name="StaticText7ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[StaticText] [1]|$Label_1|#2/[StaticText] |#1" />
+  <Image Name="Image2IMG" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[Image]$ProcessImage|#1" />
+  <StaticText Name="StaticText8ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[StaticText] [2]|$Label_2|#3" />
+  <StaticText Name="StaticText9ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#2/[StaticText] [2]|$Label_2|#3/[StaticText] |#1" />
+  <CustomWin Name="CustomWin4WIN" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3" />
+  <StaticText Name="one003ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[StaticText]1003|$FileNameTB|#1" />
+  <StaticText Name="StaticText10ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[StaticText] [1]|$Label_1|#2" />
+  <StaticText Name="StaticText11ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[StaticText] [1]|$Label_1|#2/[StaticText] |#1" />
+  <Image Name="Image3IMG" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[Image]$ProcessImage|#1" />
+  <StaticText Name="StaticText12ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[StaticText] [2]|$Label_2|#3" />
+  <StaticText Name="StaticText13ST" Tag="[Pane]$ScrollViewer_1|#1/[CustomWin]$UserControl_1|#3/[StaticText] [2]|$Label_2|#3/[StaticText] |#1" />
+  <PushButton Name="Close2PB" Tag="[PushButton]Close|$ProgressCancelBtn|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,53 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CheckInDLG" Tag="[Pane]$frmVaultCheckin" >
+  <!--<StaticText Name="oneFiles7615ST" Tag="[StaticText]1 files *|$m_lbIfo|#1" />
+  <CheckBox Name="DeleteWorkingCopiesCK" Tag="[CheckBox]Delete working copies|$m_cbDeleteFiles|#2" />
+  <ListView Name="ListViewLV" Tag="[ListView]$m_checkinLlistView|#1" />
+  <Header Name="HeaderCTL" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]$HeaderItem 0|#1" />
+  <CustomWin Name="NameWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 1|#2" />
+  <CustomWin Name="VaultPathWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]Vault Path|$HeaderItem 2|#3" />
+  <CustomWin Name="FileSizeWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]File Size|$HeaderItem 3|#4" />
+  <ListViewItem Name="ListViewItemLVI" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1" />
+  <StaticText Name="StaticTextST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]#1" />
+  <StaticText Name="Draw5dwgST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]Draw5*|#2" />
+  <StaticText Name="TempPlant3DModelsDraw5dwgST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]**|#3" />
+  <StaticText Name="seven615KBST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]76*|#4" />
+  <PushButton Name="Help" Tag="[PushButton]Help|$btnHelp|#3" />
+  <CheckBox Name="KeepFilesCheckedOutCK" Tag="[CheckBox]Keep files checked out|$chkBoxKeepCheckOut|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OK" Tag="[PushButton]OK|$btnOk|#1" />
+  <StaticText Name="CommentsToIncludeWithST" Tag="[StaticText]Comments to include with this version:|$label1|#2" />
+  <TextField Name="CommentsToIncludeWithTF" Tag="[TextField]Comments to include with this version:|$txtBoxNotes|#1" />
+  <ScrollBar Name="CommentsToIncludeWithSB" Tag="[TextField]Comments to include with this version:|$txtBoxNotes|#1/[ScrollBar]Comments to include with this version:|$Vertical ScrollBar|#1" />
+  <Pane Name="CreateVisualChecked" Tag="[Pane]Comments to include with this version:|$CreateVisualChecked|#1" />
+  <TitleBar Name="CheckInDraw5dwgCTL" Tag="[TitleBar]Check In - Draw5*|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Check In - Draw5*|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultCheckin|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Check In - Draw5*|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultCheckin|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Check In - Draw5*|$TitleBar|#1/[PushButton]Close|$Close|#1" />-->
+  <StaticText Name="OpenDrawingsWillBeST" Tag="[StaticText]Open drawings will be closed after check in|$m_lbCloseOpenDrawings|#3" />
+  <StaticText Name="oneFiles7013ST" Tag="[StaticText]1 files *|$m_lbIfo|#1" />
+  <CheckBox Name="CleanupCachedFilesCK" Tag="[CheckBox]Cleanup cached files|$m_cbDeleteFiles|#2" />
+  <ListView Name="ListViewLV" Tag="[ListView]$m_checkinLlistView|#1" />
+  <Header Name="HeaderCTL" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]$HeaderItem 0|#1" />
+  <CustomWin Name="NameWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 1|#2" />
+  <CustomWin Name="VaultPathWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]Vault Path|$HeaderItem 2|#3" />
+  <CustomWin Name="FileSizeWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]File Size|$HeaderItem 3|#4" />
+  <ListViewItem Name="ListViewItemLVI" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1" />
+  <StaticText Name="StaticTextST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]#1" />
+  <StaticText Name="Draw6dwgST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]Draw6*|#2" />
+  <StaticText Name="Proj2Plant3DModelsDraw6dwgST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]**|#3" />
+  <StaticText Name="seven013KBST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]70*|#4" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$btnHelp|#3" />
+  <CheckBox Name="KeepFilesOpenForCK" Tag="[CheckBox]Keep files open for editing after check in|$chkBoxKeepCheckOut|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OK" Tag="[PushButton]OK|$btnOk|#1" />
+  <StaticText Name="CommentsToIncludeWithST" Tag="[StaticText]Comments to include with this version:|$label1|#2" />
+  <TextField Name="CommentsToIncludeWithTF" Tag="[TextField]Comments to include with this version:|$txtBoxNotes|#1" />
+  <Pane Name="CreateVisualChecked" Tag="[Pane]Comments to include with this version:|$CreateVisualChecked|#1" />
+  <TitleBar Name="CheckInDraw6dwgCTL" Tag="[TitleBar]Check In - Draw6*|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Check In - Draw6*|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultCheckin|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Check In - Draw6*|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultCheckin|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Check In - Draw6*|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

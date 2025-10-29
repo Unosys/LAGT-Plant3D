@@ -1,0 +1,11 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.OrthoGenerationSettingsDLG" Tag="[Pane]Ortho Generation Settings|$OrthoGenerationSettingsDlg" ParentType="Plant3D" GUIType="UIA">
+	<PushButton Name="BtnCancel" Tag="[PushButton]Cancel|$btnCancel|#2" />
+	<PushButton Name="OkPB" Tag="[PushButton]Ok|$btnOk|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Ortho Generation Settings|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<CheckBox Name="Use3DModelLayersCK" Tag="[Pane]$panel1|#1/[GroupBox]Layer Setup|$groupBoxLayerSetup|#1/[CheckBox]$cbUseLayerAsModel|#1" />
+	<PopupList Name="PopupList1PL" Tag="[Pane]$panel1|#1/[GroupBox]Layer Setup|$groupBoxLayerSetup|#1/[PopupList]$cmbModelProperties|#1" />
+
+	<PushButton Name="Open4PB" Tag="[Pane]$panel1|#1/[GroupBox]Layer Setup|$groupBoxLayerSetup|#1/[PopupList]$cmbModelProperties|#1/[PushButton]#1" />
+
+</Pane>

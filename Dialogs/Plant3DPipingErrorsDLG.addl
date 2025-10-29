@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DPipingErrorsDLG" Tag="[DialogBox]$AcPp3dErrorDlg" ParentType="PropertiesPallete">
+<CustomWin Name="OneOrMoreItemsHaveCaused1" Tag="[System.Windows.Forms.Panel]$panel1" />
+<Table Name="GridView" Tag="$GridView" />
+<PushButton Name="ClosePB" Tag="$BtnClose" />
+<StaticText Name="OneOrMoreItemsHaveCaused2" Tag="$LabelText" />
+<CustomWin Name="IconPicBox" Tag="[System.Windows.Forms.PictureBox]$IconPicBox" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

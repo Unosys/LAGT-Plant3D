@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RefreshLocalProjectDLG" Tag="[DialogBox]RefreshLocalProjectDLG" ParentType="Plant3D">
+<!-- //<CustomWin Name ="CtrlNotifySink" Tag="$CtrlNotifySink" />
+ //<CustomWin Name ="CtrlNotifySink2" Tag="$CtrlNotifySink" />
+ //<CustomWin Name ="DirectUIHWND" Tag="$DirectUIHWND" />-->
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

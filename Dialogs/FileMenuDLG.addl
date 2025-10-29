@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.FileMenuDLG" Tag="[DialogBox]FileMenuDLG" ParentType="Plant3D">
+<CustomWin Name="DevExpressXtraBarsControlsS" Tag="[DevExpress.XtraBars.Controls.SubMenuBarControl]#1" />
+<PushButton Name="PageSetup" Tag="[PushButton]Page Setup|#1" />
+<PushButton Name="Print1" Tag="[PushButton]Print[1]|#2" />
+<PushButton Name="Print2" Tag="[PushButton]Print[2]|#3" />
+<PushButton Name="ExportDocument" Tag="[PushButton]Export Document|#4" />
+<PushButton Name="PDFFile" Tag="[PushButton]PDF File|#7" />
+<PushButton Name="HTMLFile" Tag="[PushButton]HTML File|#6" />
+<PushButton Name="MHTFile" Tag="[PushButton]MHT File|#9" />
+<PushButton Name="RTFFile" Tag="[PushButton]RTF File|#8" />
+<PushButton Name="XLSFile" Tag="[PushButton]XLS File|#5" />
+<PushButton Name="XLSXFile" Tag="[PushButton]XLSX File|#2" />
+<PushButton Name="CSVFile" Tag="[PushButton]CSV File|#1" />
+<PushButton Name="TextFile" Tag="[PushButton]Text File|#4" />
+<PushButton Name="ImageFile" Tag="[PushButton]Image File|#3" />
+<PushButton Name="SendViaEMail" Tag="[PushButton]Send via E-Mail|#5" />
+<PushButton Name="Exit" Tag="[PushButton]Exit|#6" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

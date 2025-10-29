@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DuplicatePartfamilyDLG" Tag="[Window]Duplicate Part family|$DuplicatePartFamilyWindow" >
+
+
+
+	<PushButton Name="CreatePB" Tag="[PushButton]Create|$CreateButton|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

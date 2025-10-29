@@ -1,0 +1,66 @@
+﻿<RibbonDialogClassP3D Class="Autodesk.GUIHarness.Plant3D.Dialogs.CollaborationRibbon" Tag="[CustomWin]Ribbon|$59419/[CustomWin]Ribbon|$16719/[CustomWin]Ribbon|$7/[Pane]#1" ParentType="Plant3D" GUIType="UIA">
+  <!--<CustomWin Name="ProjectPanel" Tag="[CustomWin]PNP*|$PNP.ID_TabPnPP360_PanelBarScrollViewer/" />
+  <CustomWin Name="ShareProjectWIN" Tag="[CustomWin]Project|$ID_PanelPnPP360Collaboration|#1/[CustomWin]Share*|$ID_PP_P360_ShareProject_RibbonItemControl|#1" />
+  <PushButton Name="ShareProjectPB" Tag="[CustomWin]Project|$ID_PanelPnPP360Collaboration|#1/[CustomWin]Share*|$ID_PP_P360_ShareProject_RibbonItemControl|#1/[PushButton]Share*|$ID_PP_P360_ShareProject|#1" />
+  <Image Name="Image1IMG" Tag="[CustomWin]Project|$ID_PanelPnPP360Collaboration|#1/[CustomWin]Share*|$ID_PP_P360_ShareProject_RibbonItemControl|#1/[PushButton]Share*|$ID_PP_P360_ShareProject|#1/[Image]$mImage|#1" />
+  <StaticText Name="ShareProjectST" Tag="[CustomWin]Project|$ID_PanelPnPP360Collaboration|#1/[CustomWin]Share*|$ID_PP_P360_ShareProject_RibbonItemControl|#1/[PushButton]Share*|$ID_PP_P360_ShareProject|#1/[StaticText]Share*|$mText|#1" />
+  <CustomWin Name="IDPanelPnPP360CollaborationWIN" Tag="[CustomWin]Project|$ID_PanelPnPP360Collaboration|#1/[CustomWin]ID_PanelPnPP360Collaboration|$ID_PanelPnPP360Collaboration_PanelTitleBar|#2" />
+  <StaticText Name="ProjectST" Tag="[CustomWin]Project|$ID_PanelPnPP360Collaboration|#1/[CustomWin]ID_PanelPnPP360Collaboration|$ID_PanelPnPP360Collaboration_PanelTitleBar|#2/[StaticText]Project|$PART_PanelTitleBarText|#1" />
+  <CustomWin Name="FileWIN" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2" />
+  <CustomWin Name="CheckInWIN" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Check*|$ID_PP_P360_Check_In_RibbonItemControl|#4" />
+  <PushButton Name="CheckInPB" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Check*|$ID_PP_P360_Check_In_RibbonItemControl|#4/[PushButton]Check*|$ID_PP_P360_Check_In|#1" />
+  <Image Name="Image2IMG" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Check*|$ID_PP_P360_Check_In_RibbonItemControl|#4/[PushButton]Check*|$ID_PP_P360_Check_In|#1/[Image]$mImage|#1" />
+  <StaticText Name="CheckInST" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Check*|$ID_PP_P360_Check_In_RibbonItemControl|#4/[PushButton]Check*|$ID_PP_P360_Check_In|#1/[StaticText]Check*|$mText|#1" />
+  <CustomWin Name="CheckOutWIN" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Check*|$ID_PP_P360_Check_Out_RibbonItemControl|#5" />
+  <PushButton Name="CheckOutPB" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Check*|$ID_PP_P360_Check_Out_RibbonItemControl|#5/[PushButton]Check*|$ID_PP_P360_Check_Out|#1" />
+  <Image Name="Image3IMG" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Check*|$ID_PP_P360_Check_Out_RibbonItemControl|#5/[PushButton]Check*|$ID_PP_P360_Check_Out|#1/[Image]$mImage|#1" />
+  <StaticText Name="CheckOutST" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Check*|$ID_PP_P360_Check_Out_RibbonItemControl|#5/[PushButton]Check*|$ID_PP_P360_Check_Out|#1/[StaticText]Check*|$mText|#1" />
+  <CustomWin Name="UndoCheckOutWIN" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Undo Check Out|$ID_PP_P360_Undo_Check_Out_RibbonItemControl|#1" />
+  <PushButton Name="UndoCheckOutPB" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Undo Check Out|$ID_PP_P360_Undo_Check_Out_RibbonItemControl|#1/[PushButton]Undo Check Out|$ID_PP_P360_Undo_Check_Out|#1" />
+  <Image Name="Image4IMG" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Undo Check Out|$ID_PP_P360_Undo_Check_Out_RibbonItemControl|#1/[PushButton]Undo Check Out|$ID_PP_P360_Undo_Check_Out|#1/[Image]$mImage|#1" />
+  <StaticText Name="UndoCheckOutST" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Undo Check Out|$ID_PP_P360_Undo_Check_Out_RibbonItemControl|#1/[PushButton]Undo Check Out|$ID_PP_P360_Undo_Check_Out|#1/[StaticText]Undo Check Out|$mText|#1" />
+  <CustomWin Name="OptionsWIN" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Options|$ID_PP_P360_Options_RibbonItemControl|#2" />
+  <PushButton Name="OptionsPB" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Options|$ID_PP_P360_Options_RibbonItemControl|#2/[PushButton]Options|$ID_PP_P360_Options|#1" />
+  <Image Name="Image5IMG" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Options|$ID_PP_P360_Options_RibbonItemControl|#2/[PushButton]Options|$ID_PP_P360_Options|#1/[Image]$mImage|#1" />
+  <StaticText Name="OptionsST" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Options|$ID_PP_P360_Options_RibbonItemControl|#2/[PushButton]Options|$ID_PP_P360_Options|#1/[StaticText]Options|$mText|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]$_RibbonItemControl|#3" />
+  <CustomWin Name="AttachWIN" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Attach|$ID_PP_P360_Attach_RibbonItemControl|#6" />
+  <PushButton Name="AttachPB" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Attach|$ID_PP_P360_Attach_RibbonItemControl|#6/[PushButton]Attach|$ID_PP_P360_Attach|#1" />
+  <Image Name="Image6IMG" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Attach|$ID_PP_P360_Attach_RibbonItemControl|#6/[PushButton]Attach|$ID_PP_P360_Attach|#1/[Image]$mImage|#1" />
+  <StaticText Name="AttachST" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]Attach|$ID_PP_P360_Attach_RibbonItemControl|#6/[PushButton]Attach|$ID_PP_P360_Attach|#1/[StaticText]Attach|$mText|#1" />
+  <CustomWin Name="FilePanel" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]ID_PanelPnPP360File|$ID_PanelPnPP360File_PanelTitleBar|#7" />
+  <StaticText Name="FileST" Tag="[CustomWin]File|$ID_PanelPnPP360File|#2/[CustomWin]ID_PanelPnPP360File|$ID_PanelPnPP360File_PanelTitleBar|#7/[StaticText]File|$PART_PanelTitleBarText|#1" />-->
+
+ 
+    <CustomWin Name="ProjectPanel" Tag="[CustomWin]PNP*|$PNP.ID_TabPnPP360_PanelBarScrollViewer/[CustomWin]Project|$ID_PanelPnPP360Collaboration" IsNestedClass="True">
+      <PushButton Name="ShareProjectPB" Tag="[CustomWin]Share*|$ID_PP_P360_ShareProject_RibbonItemControl/[PushButton]Share*|$ID_PP_P360_ShareProject" />
+    </CustomWin>
+
+  <CustomWin Name="FilePanel" Tag="[CustomWin]PNP*|$PNP.ID_TabPnPP360_PanelBarScrollViewer/[CustomWin]File|$ID_PanelPnPP360File" IsNestedClass="True">
+    <CustomWin Name="CheckInWIN" Tag="[CustomWin]Check*|$ID_PP_P360_Check_In_RibbonItemControl|#4" />
+    <PushButton Name="CheckInPB" Tag="[CustomWin]Check*|$ID_PP_P360_Check_In_RibbonItemControl|#4/[PushButton]Check*|$ID_PP_P360_Check_In|#1" />
+    <Image Name="Image1IMG" Tag="[CustomWin]Check*|$ID_PP_P360_Check_In_RibbonItemControl|#4/[PushButton]Check*|$ID_PP_P360_Check_In|#1/[Image]$mImage|#1" />
+    <StaticText Name="CheckInST" Tag="[CustomWin]Check*|$ID_PP_P360_Check_In_RibbonItemControl|#4/[PushButton]Check*|$ID_PP_P360_Check_In|#1/[StaticText]Check*|$mText|#1" />
+    <CustomWin Name="CheckOutWIN" Tag="[CustomWin]Check*|$ID_PP_P360_Check_Out_RibbonItemControl|#5" />
+    <PushButton Name="CheckOutPB" Tag="[CustomWin]Check*|$ID_PP_P360_Check_Out_RibbonItemControl|#5/[PushButton]Check*|$ID_PP_P360_Check_Out|#1" />
+    <Image Name="Image2IMG" Tag="[CustomWin]Check*|$ID_PP_P360_Check_Out_RibbonItemControl|#5/[PushButton]Check*|$ID_PP_P360_Check_Out|#1/[Image]$mImage|#1" />
+    <StaticText Name="CheckOutST" Tag="[CustomWin]Check*|$ID_PP_P360_Check_Out_RibbonItemControl|#5/[PushButton]Check*|$ID_PP_P360_Check_Out|#1/[StaticText]Check*|$mText|#1" />
+    <CustomWin Name="UndoCheckOutWIN" Tag="[CustomWin]Undo Check Out|$ID_PP_P360_Undo_Check_Out_RibbonItemControl|#1" />
+    <PushButton Name="UndoCheckOutPB" Tag="[CustomWin]Undo Check Out|$ID_PP_P360_Undo_Check_Out_RibbonItemControl|#1/[PushButton]Undo Check Out|$ID_PP_P360_Undo_Check_Out|#1" />
+    <Image Name="Image3IMG" Tag="[CustomWin]Undo Check Out|$ID_PP_P360_Undo_Check_Out_RibbonItemControl|#1/[PushButton]Undo Check Out|$ID_PP_P360_Undo_Check_Out|#1/[Image]$mImage|#1" />
+    <StaticText Name="UndoCheckOutST" Tag="[CustomWin]Undo Check Out|$ID_PP_P360_Undo_Check_Out_RibbonItemControl|#1/[PushButton]Undo Check Out|$ID_PP_P360_Undo_Check_Out|#1/[StaticText]Undo Check Out|$mText|#1" />
+    <CustomWin Name="OptionsWIN" Tag="[CustomWin]Options|$ID_PP_P360_Options_RibbonItemControl|#2" />
+    <PushButton Name="OptionsPB" Tag="[CustomWin]Options|$ID_PP_P360_Options_RibbonItemControl|#2/[PushButton]Options|$ID_PP_P360_Options|#1" />
+    <Image Name="Image4IMG" Tag="[CustomWin]Options|$ID_PP_P360_Options_RibbonItemControl|#2/[PushButton]Options|$ID_PP_P360_Options|#1/[Image]$mImage|#1" />
+    <StaticText Name="OptionsST" Tag="[CustomWin]Options|$ID_PP_P360_Options_RibbonItemControl|#2/[PushButton]Options|$ID_PP_P360_Options|#1/[StaticText]Options|$mText|#1" />
+    <CustomWin Name="CustomWinWIN" Tag="[CustomWin]$_RibbonItemControl|#3" />
+    <CustomWin Name="AttachWIN" Tag="[CustomWin]Attach|$ID_PP_P360_Attach_RibbonItemControl|#6" />
+    <PushButton Name="AttachPB" Tag="[CustomWin]Attach|$ID_PP_P360_Attach_RibbonItemControl|#6/[PushButton]Attach|$ID_PP_P360_Attach|#1" />
+    <Image Name="Image5IMG" Tag="[CustomWin]Attach|$ID_PP_P360_Attach_RibbonItemControl|#6/[PushButton]Attach|$ID_PP_P360_Attach|#1/[Image]$mImage|#1" />
+    <StaticText Name="AttachST" Tag="[CustomWin]Attach|$ID_PP_P360_Attach_RibbonItemControl|#6/[PushButton]Attach|$ID_PP_P360_Attach|#1/[StaticText]Attach|$mText|#1" />
+    <CustomWin Name="IDPanelPnPP360FileWIN" Tag="[CustomWin]ID_PanelPnPP360File|$ID_PanelPnPP360File_PanelTitleBar|#7" />
+    <StaticText Name="FileST" Tag="[CustomWin]ID_PanelPnPP360File|$ID_PanelPnPP360File_PanelTitleBar|#7/[StaticText]File|$PART_PanelTitleBarText|#1" />
+  </CustomWin>
+  
+
+</RibbonDialogClassP3D>

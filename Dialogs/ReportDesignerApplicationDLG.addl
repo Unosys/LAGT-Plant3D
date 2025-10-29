@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportDesignerApplicationDLG" Tag="[Pane]$XRDesignFormExBase" ParentType="Pane" >
+
+ 
+	  <Pane Name="DevExpressXtraReportsUserDesignerXRDesignToolBox" Tag="[Pane]$toolBoxDockPanel1|#2/[Pane]$toolBoxDockPanel1_Container|#1" />
+	  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#3" />
+	<Pane Name="ToolBoxDockPanel1" Tag="[Pane]$toolBoxDockPanel1|#2" />
+	<MenuItem Name="WindowsMI" Tag="[Pane]#1/[Pane]#1/[Pane]#1/[ToolBar]#5/[MenuItem]#1" />
+	<CustomizedPagelist Name="RibbonTabsPG" Tag="[Pane]$83560316|#1/[PageList]#1" />
+	<Pane Name="CornerPanel" Tag="[Pane]$xrDesignPanel|#3/[Pane]#1/[Pane]$ReportFrame|#1/[Pane]$topPanel/[Pane]$cornerPanel" />
+	<PushButton Name="GroupAndSortPB" Tag="[Pane]#1/[Pane]#1/[Pane]#1/[ToolBar]#5/[MenuItem]#1/[PushButton]#6" />
+	<PushButton Name="FieldListPB" Tag="[Pane]#1/[Pane]Lower Ribbon|#1/[Pane]View|#1/[ToolBar]View|#5/[MenuItem]#1/[PushButton]#2" />
+
+	<!--Report Tasks-->
+	<Pane Name="FilterStringPANE" Tag="[Pane]#4/[Pane]#1/[Pane]#1/[Pane]#8" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

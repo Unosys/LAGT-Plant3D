@@ -1,0 +1,16 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ConvertSplitPointsDLG" Tag="[Pane]Convert Split Points|$IsoImportSplitPoints|#1" ParentType="Pane" GUIType="UIA">
+  <PopupList Name="PopupListPL" Tag="[PopupList]$comboBox_IsoStyle|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]$comboBox_IsoStyle|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <Table Name="DataGridViewTBL" Tag="[Table]DataGridView|$dataGridView_Lines|#1" />
+  <CustomWin Name="TopRowWIN" Tag="[Table]DataGridView|$dataGridView_Lines|#1/[CustomWin]Top Row|#1" />
+  <Header Name="LinesAvailableCTL" Tag="[Table]DataGridView|$dataGridView_Lines|#1/[CustomWin]Top Row|#1/[Header]Lines available|#1" />
+  <Header Name="PlaceStartPointCTL" Tag="[Table]DataGridView|$dataGridView_Lines|#1/[CustomWin]Top Row|#1/[Header]Place start point|#2" />
+  <Header Name="ReplaceBreakPointsCTL" Tag="[Table]DataGridView|$dataGridView_Lines|#1/[CustomWin]Top Row|#1/[Header]Replace break points|#3" />
+  <PushButton Name="ConvertPB" Tag="[PushButton]Convert|$m_btn_Convert|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btn_Cancel|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$m_bt_Help|#3" />
+  <TitleBar Name="ConvertSplitPointsCTL" Tag="[TitleBar]Convert Split Points|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Convert Split Points|$TitleBar|#1/[CustomWin]System Menu Bar|$IsoImportSplitPoints|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Convert Split Points|$TitleBar|#1/[CustomWin]System Menu Bar|$IsoImportSplitPoints|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Convert Split Points|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

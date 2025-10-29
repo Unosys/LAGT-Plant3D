@@ -1,0 +1,12 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PivotGridFieldListDLG" Tag="[Pane]PivotGrid Field List|#2"  ParentType="PropertyEditorFieldsDLG">
+<CustomWin Name="AddTo" Tag="[CustomWin]$" />
+<CustomWin Name="DevExpressXtraEditorsComboBoxEdit" Tag="[CustomWin]$DevExpress.XtraEditors.ComboBoxEdit" />
+<CustomWin Name="DevExpressXtraEditorsPanelControl" Tag="[CustomWin]$DevExpress.XtraEditors.PanelControl" />
+<CustomWin Name="DevExpressXtraPivotGridCustomi" Tag="[CustomWin]$DevExpress.XtraPivotGrid.Customization.CustomizationFormSplitContainerControl" />
+<CustomWin Name="DevExpressXtraPivotGridCustomi2" Tag="[CustomWin]$DevExpress.XtraPivotGrid.Customization.FieldCustomizationTreeBox" />
+<GroupBox Name="DevExpressXtraPivotGridCustomiGroup" Tag="[GroupBox]$DevExpress.XtraPivotGrid.Customization.SimpleCustomizationFormBottomPanel" />
+<CustomWin Name="DragItemsToThePivotGrid" Tag="[CustomWin]$Drag Items to the PivotGrid" />
+<CustomWin Name="DragItemsToThePivotGrid5" Tag="[CustomWin]$Drag Items to the PivotGrid" />
+<StaticText Name="DragItemsToThePivotGridLabel" Tag="[StaticText]$" />
+<GroupBox Name="Group" Tag="[GroupBox]$" />
+</Pane>

@@ -1,0 +1,13 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DSelectClassPropertyDLG" Tag="[Pane]$Select3dObjectDefinitionPropertyDlg" ParentType="AddJointDLG">
+<PushButton Name="M_button_cancel" Tag="[PushButton]$m_button_cancel" />
+<PushButton Name="M_button_help" Tag="[PushButton]$m_button_help" />
+<PushButton Name="M_button_ok" Tag="[PushButton]$m_button_ok" />
+<StaticText Name="M_objectCategoryLabel" Tag="[StaticText]$m_objectCategoryLabel" />
+<TreeView Name="M_objectDefinitionTreeView" Tag="[TreeView]$m_objectDefinitionTreeView" />
+<StaticText Name="M_objectPropertyLabel" Tag="[StaticText]$m_objectPropertyLabel" />
+<ListBox Name="M_objectPropertyListBox" Tag="[ListBox]$m_objectPropertyListBox" />
+<CustomWin Name="SplitContainer1" Tag="[CustomWin]$splitContainer1" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$splitContainer1" />
+<GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$splitContainer1" />
+<ScrollBar Name="VerticalScrollBar" Tag="[ScrollBar]$m_objectPropertyListBox" />
+</Pane>

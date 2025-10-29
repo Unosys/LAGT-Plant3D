@@ -1,0 +1,40 @@
+<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.AddBoltStandardDLG" Tag="[Window]Add Bolt Standard|$StandardBoltLengthAddMappingDialog|#1" ParentType="BoltLengthMappingDLG" GUIType="UIA">
+  <TitleBar Name="AddBoltStandardCTL" Tag="[TitleBar]Add Bolt Standard|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Add Bolt Standard|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Add Bolt Standard|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]Add Bolt Standard|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]Add Bolt Standard|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Add Bolt Standard|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+  <PushButton Name="OK" Tag="[PushButton]OK|$btApply|#1" />
+  <StaticText Name="OKST" Tag="[PushButton]OK|$btApply|#1/[StaticText]_OK|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btCancel|#2" />
+  <StaticText Name="CancelST" Tag="[PushButton]Cancel|$btCancel|#2/[StaticText]_Cancel|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$btHelp|#3" />
+  <StaticText Name="HelpST" Tag="[PushButton]Help|$btHelp|#3/[StaticText]_Help|#1" />
+  <StaticText Name="BoltCompatibleStandard1ST" Tag="[StaticText]Bolt Compatible Standard:|$lbBoltCompatibleStandard|#1" />
+  <StaticText Name="BoltCompatibleStandard2ST" Tag="[StaticText]Bolt Compatible Standard:|$lbBoltCompatibleStandard|#1/[StaticText]Bolt Compatible Standard:|#1" />
+  <TextField Name="TbBoltCompatibleStd" Tag="[TextField]Bolt Compatible Standard:|$tbBoltCompatibleStd|#1" />
+  <Pane Name="PanePANE" Tag="[TextField]Bolt Compatible Standard:|$tbBoltCompatibleStd|#1/[Pane]$PART_ContentHost|#1" />
+  <StaticText Name="Units1ST" Tag="[StaticText]Units:|$lbUnit|#2" />
+  <StaticText Name="Units2ST" Tag="[StaticText]Units:|$lbUnit|#2/[StaticText]Units:|#1" />
+  <PopupList Name="CbUnit" Tag="[PopupList]Units:|$cbUnit|#1" />
+  <StaticText Name="BoltLengthsToInclude1ST" Tag="[StaticText]Bolt lengths to include:|$lbBoltCompatibleStandard|#3" />
+  <StaticText Name="BoltLengthsToInclude2ST" Tag="[StaticText]Bolt lengths to include:|$lbBoltCompatibleStandard|#3/[StaticText]Bolt lengths to include:|#1" />
+  <ListView Name="BoltLengthsToIncludeLV" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1" />
+  <Header Name="HeaderCTL" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1" />
+  <CustomWin Name="BoltSizeWIN" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Bolt Size|#1" />
+  <StaticText Name="BoltSizeST" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Bolt Size|#1/[StaticText]Bolt Size|#1" />
+  <Thumb Name="Thumb1CTL" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Bolt Size|#1/[Thumb]$PART_RightHeaderGripper|#1" />
+  <CustomWin Name="LengthFromWIN" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Length From|#2" />
+  <StaticText Name="LengthFromST" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Length From|#2/[StaticText]Length From|#1" />
+  <Thumb Name="Thumb2CTL" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Length From|#2/[Thumb]$PART_LeftHeaderGripper|#1" />
+  <Thumb Name="Thumb3CTL" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Length From|#2/[Thumb]$PART_RightHeaderGripper|#2" />
+  <CustomWin Name="ToWIN" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]To|#3" />
+  <StaticText Name="ToST" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]To|#3/[StaticText]To|#1" />
+  <Thumb Name="Thumb4CTL" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]To|#3/[Thumb]$PART_LeftHeaderGripper|#1" />
+  <Thumb Name="Thumb5CTL" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]To|#3/[Thumb]$PART_RightHeaderGripper|#2" />
+  <CustomWin Name="IncrementWIN" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Increment|#4" />
+  <StaticText Name="IncrementST" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Increment|#4/[StaticText]Increment|#1" />
+  <Thumb Name="Thumb6CTL" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Increment|#4/[Thumb]$PART_LeftHeaderGripper|#1" />
+  <Thumb Name="Thumb7CTL" Tag="[ListView]Bolt lengths to include:|$dgBoltLengthIncl|#1/[Header]$PART_ColumnHeadersPresenter|#1/[CustomWin]Increment|#4/[Thumb]$PART_RightHeaderGripper|#2" />
+</Window>

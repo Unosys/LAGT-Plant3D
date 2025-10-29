@@ -1,0 +1,7 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SignInToAUTODESK" Tag="[Window]Sign in|#1" ParentType="Plant3D" GUIType="UIA">
+  <TitleBar Name="SignInCTL" Tag="[TitleBar]Sign in|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Sign in|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Sign in|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Sign in|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

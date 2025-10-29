@@ -1,0 +1,5 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecAleadyExistsWarningDLG" Tag="[DialogBox]Warning|#1" ParentType="ProjManUndocked" GUIType="WIN32">
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7|#2" />
+  <StaticText Name="TheSpecFileAlreayST" Tag="[StaticText]The spec file alreay exists in the project specifications folder*|$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

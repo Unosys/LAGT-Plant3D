@@ -1,0 +1,14 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenProjectFromA360DLG" Tag="[Pane]Open Project from A360|$frmOpenFromVault|#1" ParentType="ProjManUndocked" GUIType="UIA">
+  <Link Name="WhatIsAnA360LINK" Tag="[Link]What is an A360 project?|$m_A360ProjLink|#1" />
+  <PushButton Name="OpenPB" Tag="[PushButton]Open|$m_btnOpen|#1" />
+  <ListView Name="A360PlantProjectsLV" Tag="[ListView]A360 Plant Projects|$m_listViewProjects|#1" />
+  <Header Name="HeaderCTL" Tag="[ListView]A360 Plant Projects|$m_listViewProjects|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="ProjectNameWIN" Tag="[ListView]A360 Plant Projects|$m_listViewProjects|#1/[Header]Header|$Header|#1/[CustomWin]Project Name|$HeaderItem 0|#1" />
+  <ScrollBar Name="A360PlantProjectsSB" Tag="[ListView]A360 Plant Projects|$m_listViewProjects|#1/[ScrollBar]A360 Plant Projects|$Horizontal ScrollBar|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <StaticText Name="A360PlantProjectsST" Tag="[StaticText]A360 Plant Projects|$m_labelServer|#1" />
+  <TitleBar Name="OpenProjectFromA360CTL" Tag="[TitleBar]Open Project from A360|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Open Project from A360|$TitleBar|#1/[CustomWin]System Menu Bar|$frmOpenFromVault|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Open Project from A360|$TitleBar|#1/[CustomWin]System Menu Bar|$frmOpenFromVault|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Open Project from A360|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

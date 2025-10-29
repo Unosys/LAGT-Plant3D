@@ -1,0 +1,3 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PropertyMismatchDLG" Tag="[DialogBox]$PropertyMismatchDlg" ParentType="Plant3D">
+<PushButton Name="Continue" Tag="[PushButton]$btnContinue" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

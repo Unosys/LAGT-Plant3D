@@ -1,0 +1,24 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.DataFilterCollectionEditorDLG" Tag="[Pane]$DataFilterCollectionForm" ParentType="ChartWizardChartDLG">
+  <Table Name="TableTBL" Tag="[Table]$propertyGridControl|#1" />
+  <CustomWin Name="DataPanelWIN" Tag="[Table]$propertyGridControl|#1/[CustomWin]Data Panel|#1" />
+  <CustomWin Name="Record0WIN" Tag="[Table]$propertyGridControl|#1/[CustomWin]Data Panel|#1/[CustomWin]Record 0|#1" />
+  <StaticText Name="StaticTextST" Tag="[StaticText]$lblSplitter|#1" />
+  <PushButton Name="ClosePB" Tag="[PushButton]Close|$btnClose|#3" />
+  <PushButton Name="RemovePB" Tag="[PushButton]Remove|$btnRemove|#2" />
+  <PushButton Name="AddPB" Tag="[PushButton]*Add*|$btnAdd|#1" />
+  <ListBox Name="ListBox1LB" Tag="[ListBox]$lbFilters|#2" />
+  <ListBox Name="ListBox2LB" Tag="[ListBox]$rgConjunction|#1" />
+  <RadioButton Name="RadioButton1RB" Tag="[ListBox]$rgConjunction|#1/[RadioButton]#1" />
+  <RadioButton Name="RadioButton2RB" Tag="[ListBox]$rgConjunction|#1/[RadioButton]#2" />
+  <TitleBar Name="DataFilterCollectionEditorCTL" Tag="[TitleBar]Data Filter Collection Editor|$TitleBar|#1" />
+
+
+  <!--<CustomWin Name="BtnAdd" Tag="[CustomWin]$btnAdd" />
+<CustomWin Name="BtnClose" Tag="[CustomWin]$btnClose" />
+<CustomWin Name="BtnRemove" Tag="[CustomWin]$btnRemove" />
+<CustomWin Name="LbFilters" Tag="[CustomWin]$lbFilters" />
+<CustomWin Name="LblSplitter" Tag="[CustomWin]$lblSplitter" />
+<CustomWin Name="PropertyGrid" Tag="[CustomWin]$propertyGrid" />
+<CustomWin Name="PropertyGridView" Tag="[CustomWin]$propertyGrid" />
+<CustomWin Name="RgConjunction" Tag="[CustomWin]$rgConjunction" />-->
+</Pane>

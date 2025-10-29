@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox  Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectLongDescriptionStyle_Steel" Tag="[DialogBox]Select Long Description Style File" ParentType="Window" GUIType="UIA">
+
+
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#8" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

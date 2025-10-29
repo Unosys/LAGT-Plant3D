@@ -1,0 +1,7 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.RenameFolderWarningDLG" Tag="[Pane]Rename Folder|$frmRenameDrawing" ParentType="CustomWin" GUIType="UIA">
+
+	
+	<PushButton Name="CancelPB" Tag="[Pane]$m_panel_buttons|#1/[PushButton]Cancel|$btnCancel|#2" />
+	
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

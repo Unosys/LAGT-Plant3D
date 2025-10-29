@@ -1,0 +1,9 @@
+<SpecEditorDLG Class="Autodesk.GUIHarness.Plant3D.Dialogs.AutoCADPlantDSpecEditorxBranchEditortabDLG" Tag="[MainWin]$SpecAndCatalogV2Window" >
+	<TextField Name="TextField1TF" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_BranchTableEditorV2|#1/[CustomWin]$UserControl_BranchTable|#1/[Pane]$CenterScrollViewer|#2/[TextField]#9" />
+
+	<Pane Name="Pane3PANE" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_BranchTableEditorV2|#1/[CustomWin]$UserControl_BranchTable|#1/[Pane]$BranchTableScrollBar|#1/[TextField]#1/[Pane]$PART_ContentHost|#1" />
+	<PushButton Name="EditLegendPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_BranchTableEditorV2|#1/[CustomWin]$UserControl_BranchTable|#1/[PushButton]$EditLegend|#1" />
+	<PushButton Name="ApplyToSelectedCellsPB" Tag="[CustomWin]$UserControl_TabContainer|#2/[CustomWin]$UserControl_BranchTableEditorV2|#1/[CustomWin]$UserControl_BranchTable|#1/[PushButton]$ApplyToTableButton|#2" />
+
+</SpecEditorDLG>
+

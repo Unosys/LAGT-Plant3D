@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SpecFromExistingInvalidName" Tag="[DialogBox]Invalid Name" ParentType="CreateSpecFromExistingSpecDLG1" >
+  <PushButton Name="YES" Tag="[PushButton]$6" />
+  <PushButton Name="NO" Tag="[PushButton]$7" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

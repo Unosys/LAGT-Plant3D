@@ -1,0 +1,13 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_LogInDLG" Tag="[Pane]Log In|$LoginDialog" ParentType="VaultPro" GUIType="UIA">
+
+	<PopupList Name="LoginTypePL" Tag="[Pane]$tableLayoutPanel/[PopupList]$loginTypeComboBox" />
+	<TextField Name="UserNameTF" Tag="[Pane]$tableLayoutPanel/[TextField]$userNameTextBox" />
+	<TextField Name="PasswordTF" Tag="[Pane]$tableLayoutPanel/[TextField]$passwordTextBox" />
+	<ComboBox Name="ServerCB" Tag="[Pane]$tableLayoutPanel/[ComboBox]$serverComboBox" />
+	
+	<PushButton Name="OKPB" Tag="[Pane]$tableLayoutPanel/[Pane]$panel1/[Pane]$tableLayoutPanel2/[PushButton]$okButton" />
+	<PushButton Name="CancelPB" Tag="[Pane]$tableLayoutPanel/[Pane]$panel1/[Pane]$tableLayoutPanel2/[PushButton]$cancelButton" />
+	<PushButton Name="DatabasePB" Tag="[Pane]$tableLayoutPanel/[Pane]$databasePanel/[Pane]$tableLayoutPanel1/[PushButton]$selectDatabaseButton" />
+	<ComboBox Name="DatabaseCB" Tag="[Pane]$tableLayoutPanel/[Pane]$databasePanel/[Pane]$tableLayoutPanel1/[ComboBox]$databaseCombobox" />
+
+</Pane>

@@ -1,0 +1,8 @@
+<Pane  Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectClassProperty_Steel_Sort_Add" Tag="[Pane]$SelectClassPropertyDlg" ParentType="Window" GUIType="UIA">
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOK|#1" />
+	<PopupList Name="SortingDirectionInTablePL" Tag="[Pane]elementHost1|$m_ElementHost|#2/[Pane]elementHost1|#1/[CustomWin]#1/[CustomWin]$UserControl_BOMSetupSortDirection|#1/[PopupList]$ComboBox_SortDirection|#1" />
+
+
+</Pane>

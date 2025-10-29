@@ -1,0 +1,26 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDExportToAutoCADDLG" Tag="[DialogBox]Export To AutoCAD">
+<ListBox Name="LookIn1" Tag="[ListBox]#1|$13000" />
+<StaticText Name="LookInText" Tag="[StaticText]#1|$13007" />
+<PopupList Name="LookIn2" Tag="[PopupList]#1|$13001" />
+<ListView Name="ListView1" Tag="[ListView]#1|$1" />
+<Header Name="Header1" Tag="[Header]#1|$0" />
+<PushButton Name="Name" Tag="#1" />
+<PushButton Name="Size" Tag="#2" />
+<PushButton Name="Type" Tag="#3" />
+<PushButton Name="DateModified" Tag="#4" />
+<StaticText Name="FileNameText" Tag="[StaticText]#3|$13008" />
+<ComboBox Name="FileName" Tag="[ComboBox]#1|$13006" />
+<StaticText Name="FilesOfTypeText" Tag="[StaticText]#4|$13009" />
+<PopupList Name="FilesOfType" Tag="[PopupList]#2|$13002" />
+<PushButton Name="PreviousFolderAlt1" Tag="[PushButton]#1|$13011" />
+<PushButton Name="UpOneLevelAlt2" Tag="[PushButton]#2|$13003" />
+<PushButton Name="SearchTheWebAlt3" Tag="[PushButton]#3|$13004" />
+<PushButton Name="DeleteDel" Tag="[PushButton]#4|$13014" />
+<PushButton Name="CreateNewFolderAlt5" Tag="[PushButton]#5|$13013" />
+<PushButton Name="Views" Tag="[PushButton]#6|$13012" />
+<PushButton Name="Tools" Tag="[PushButton]#7|$13005" />
+<PushButton Name="Save" Tag="[PushButton]#9|$1" />
+<PushButton Name="Cancel" Tag="[PushButton]#10|$2" />
+<StaticText Name="PreviewText" Tag="[StaticText]#2|$13100" />
+<PushButton Name="Preview" Tag="[PushButton]#8|$13101" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

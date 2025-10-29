@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenPreviewDocumentDLG" Tag="[DialogBox]Open" ParentType="PreviewDLG" GUIType="UIA">
+  <ComboBox Name="FileNameTextField" Tag="[ComboBox]File name:|$1148" />
+  <PopupList Name="FileNamePL" Tag="[PopupList]File name:|$1136" />
+  <PushButton Name="Open" Tag="[PushButton]Open|$1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Open|$TitleBar/[PushButton]Close|$Close" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

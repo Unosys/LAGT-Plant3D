@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DMapPropertyValuesDLG" Tag="[Pane]$PnPMapPropertyValuesDlg" >
+<StaticText Name="Label1" Tag="[StaticText]$label1" />
+<PushButton Name="M_btCancel" Tag="[PushButton]$m_btCancel" />
+<PushButton Name="M_btHelp" Tag="[PushButton]$m_btHelp" />
+<PushButton Name="M_btOK" Tag="[PushButton]$m_btOK" />
+<Table Name="M_dataGridView" Tag="[Table]$m_dataGridView" />
+</Pane>

@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.RenameClassDLG" Tag="[Pane]Rename Class|$RenameObjectDefinitionDlg" ParentType="ProjectSetupPandIDClassDefinitionDLG" GUIType="UIA">
+
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$m_btnOk|#1" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$btnHelp|#3" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+  <TextField Name="DisplayNameOfTheTF" Tag="[TextField]Display Name of the Class:|$m_textBoxDisplayName|#2" />
+  <StaticText Name="DisplayNameOfTheST" Tag="[StaticText]Display Name of the Class:|$m_labelDisplayName|#2" />
+  <TextField Name="ClassNameTF" Tag="[TextField]Class Name:|$m_textBoxName|#1" />
+  <StaticText Name="ClassNameST" Tag="[StaticText]Class Name:|$m_labelName|#1" />
+  <TitleBar Name="RenameClassCTL" Tag="[TitleBar]Rename Class|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Rename Class|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.Pane>

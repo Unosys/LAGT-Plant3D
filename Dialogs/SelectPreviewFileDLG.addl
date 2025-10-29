@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectPreviewFileDLG" Tag="[DialogBox]Select Preview File|#1" ParentType="AutoCADPlant3DCatalogBuilderApplicationDLG" GUIType="UIA">
+  <StaticText Name="FileNameST" Tag="[StaticText]File name:|$1090|#1" />
+  <ComboBox Name="FileName1" Tag="[ComboBox]File name:|$1148|#1" />
+  <PopupList Name="FileNamePL" Tag="[PopupList]File name:|$1136|#1" />
+  <PushButton Name="DropDownButtonPB" Tag="[PopupList]File name:|$1136|#1/[PushButton]Drop Down Button|$DropDown|#1" />
+  <PushButton Name="Open" Tag="[PushButton]Open|$1|#1" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#2" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Select Preview File|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

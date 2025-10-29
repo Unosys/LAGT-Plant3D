@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OpenProjectFromVaultDLG" Tag="[Pane]Open Project From Vault|$frmOpenFromVault" ParentType="MainWin" GUIType="UIA">
+	<PushButton Name="ChangePB" Tag="[PushButton]Change*|$m_btnChange|#1" />
+	<PushButton Name="OpenPB" Tag="[PushButton]Open|$m_btnOpen|#2" />
+	<ListView Name="VaultLocationLV" Tag="[ListView]$m_listViewProjects|#1" />
+	<ListBoxItem Name="TestVaultLBI" Tag="[ListBox]$m_listViewProjects|#1/[ListBoxItem]$ListViewItem-0|#1" />
+
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$m_btnCancel|#3" />
+  <TitleBar Name="OpenProjectFromVaultCTL" Tag="[TitleBar]Open Project From Vault|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Open Project From Vault|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

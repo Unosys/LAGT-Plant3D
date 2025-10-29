@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDAutoCADPIDFileOpenForEditingDLG" Tag="[DialogBox]AutoCAD Plant 3D" ParentType="Pane" GUIType="UIA">
+
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$2|#1" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="CUsersAdministratorAppDataRoamingAutodeskAutodeskAutoCADPlant3DST" Tag="[StaticText]'C:*|$65535|#1" />
+  <TitleBar Name="AutoCADPlant3DCTL" Tag="[TitleBar]AutoCAD Plant 3D|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]AutoCAD Plant 3D|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

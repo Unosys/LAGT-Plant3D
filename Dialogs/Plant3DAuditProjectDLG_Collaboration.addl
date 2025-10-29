@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DAuditProjectDLG_Collaboration" Tag="[Window]Plant 3D - Audit Project|$AuditDlg" >
+
+	<CheckBox Name="CheckBox1CK" Tag="[CustomWin]$StartPage|#1/[CheckBox]$OptionCheckBox|#1" />
+	<CheckBox Name="CheckBox2CK" Tag="[CustomWin]$StartPage|#1/[CheckBox]$OptionCheckBox|#2" />
+	<PushButton Name="CancelPB" Tag="[CustomWin]$StartPage|#1/[PushButton]Cancel|$CancelButton|#2" />
+	<PushButton Name="AuditPB" Tag="[CustomWin]$StartPage|#1/[PushButton]Audit|$AuditButton|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]$Close|#1" />
+<PushButton Name="Close2PB" Tag="[CustomWin]$SuccessPage|#1/[PushButton]Close|$CloseButton|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

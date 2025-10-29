@@ -1,0 +1,28 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CollaborationCheckInDLG"  Tag = "[Pane]$frmVaultCheckin" ParentType="MainWin" GUIType="UIA">
+   <StaticText Name="OpenDrawingsWillBeST" Tag="[StaticText]Open drawings will be closed after check in|$m_lbCloseOpenDrawings|#3" />
+  <StaticText Name="oneFiles7791ST" Tag="[StaticText]1 files *|$m_lbIfo|#1" />
+  <CheckBox Name="CleanupCachedFilesCK" Tag="[CheckBox]Cleanup cached files|$m_cbDeleteFiles|#2" />
+  <ListView Name="ListViewLV" Tag="[ListView]$m_checkinLlistView|#1" />
+  <Header Name="HeaderCTL" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]$HeaderItem 0|#1" />
+  <CustomWin Name="NameWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]Name|$HeaderItem 1|#2" />
+  <CustomWin Name="PathWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]Path|$HeaderItem 2|#3" />
+  <CustomWin Name="FileSizeWIN" Tag="[ListView]$m_checkinLlistView|#1/[Header]Header|$Header|#1/[CustomWin]File Size|$HeaderItem 3|#4" />
+  <ListViewItem Name="ListViewItemLVI" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1" />
+  <StaticText Name="StaticTextST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]#1" />
+  <StaticText Name="Draw2dwgST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]Draw2*|#2" />
+  <StaticText Name="Plant3DModelsDraw2dwgST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]Plant 3D Models*|#3" />
+  <StaticText Name="seven91KBST" Tag="[ListView]$m_checkinLlistView|#1/[ListViewItem]#1/[StaticText]77*|#4" />
+  <PushButton Name="HelpPB" Tag="[PushButton]Help|$btnHelp|#3" />
+  <CheckBox Name="KeepFilesOpenForCK" Tag="[CheckBox]Keep files open for editing after check in|$chkBoxKeepCheckOut|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btnCancel|#2" />
+  <PushButton Name="OKPB" Tag="[PushButton]OK|$btnOk|#1" />
+  <StaticText Name="CommentsToIncludeWithST" Tag="[StaticText]Comments to include with this version:|$label1|#2" />
+  <TextField Name="CommentsToIncludeWithTF" Tag="[TextField]Comments to include with this version:|$txtBoxNotes|#1" />
+  <TitleBar Name="CheckInDraw2dwgCTL" Tag="[TitleBar]Check In - Draw2*|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Check In - Draw2*|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultCheckin|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Check In - Draw2*|$TitleBar|#1/[CustomWin]System Menu Bar|$frmVaultCheckin|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Check In - Draw2*|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

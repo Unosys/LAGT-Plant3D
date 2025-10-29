@@ -1,0 +1,4 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.FormattingRulesSheetEditorAddDLG" Tag="[Pane]$FormattingRuleSheetEditorForm" ParentType="Pane">
+	<PushButton Name="Close2PB" Tag="[TitleBar]Formatting Rule Sheet Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

@@ -1,0 +1,16 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DNewExportImportSettingDLG" Tag="[Pane]$PnPNewExportImportSettingDlg" >
+
+	<PushButton Name="M_ValueMappingPB" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_dataGridView|#1/[PushButton]#1" />
+ 
+	<TextField Name="M_tbName" Tag="[TextField]Name:|$m_tbName|#1" />
+	<PushButton Name="M_btnCancel" Tag="[PushButton]Cancel|$m_btnCancel|#2" />
+	<PushButton Name="M_btnOK" Tag="[PushButton]OK|$m_btnOK|#1" />
+	<TreeView Name="M_treeView" Tag="[TreeView]$m_treeView|#1" />
+	<ListView Name="M_dataGridView" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_dataGridView|#1" />
+
+	<ListViewItem Name="ValueMappingLVI" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_dataGridView|#1/[CustomWin]*/[ListViewItem]#3" />
+
+	<ScrollBar Name="VerSB" Tag="[GroupBox]$groupBox1|#1/[ListView]$m_dataGridView|#1/[ScrollBar]#1" />
+
+
+</Pane>

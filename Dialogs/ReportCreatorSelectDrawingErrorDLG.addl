@@ -1,0 +1,10 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportCreatorSelectDrawingErrorDLG" Tag="[Pane]Autodesk AutoCAD Plant Report Creator|$ExceptionMessageForm|#2" ParentType="ReportCreatorDLG" GUIType="UIA">
+  <Pane Name="PanePANE" Tag="[Pane]$m_mainTableLayoutPanel|#1" />
+  <Pane Name="PleaseSelectAtLeast1PANE" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Please select at least one drawing*[1]|$m_iconPicBox|#1" />
+  <StaticText Name="PleaseSelectAtLeastST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]Please select at least one drawing*|$m_mainExceptionText|#1" />
+  <Pane Name="PleaseSelectAtLeast2PANE" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Please select at least one drawing*[2]|$m_buttonsPanel|#2" />
+  <PushButton Name="M_detailsBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Please select at least one drawing*[2]|$m_buttonsPanel|#2/[PushButton]Details|$m_detailsBtn|#1" />
+  <PushButton Name="M_okBtn" Tag="[Pane]$m_mainTableLayoutPanel|#1/[Pane]Please select at least one drawing*[2]|$m_buttonsPanel|#2/[PushButton]OK|$m_okBtn|#2" />
+  <TitleBar Name="AutodeskAutoCADPlantReportCTL" Tag="[TitleBar]Autodesk AutoCAD Plant Report Creator|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Autodesk AutoCAD Plant Report Creator|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

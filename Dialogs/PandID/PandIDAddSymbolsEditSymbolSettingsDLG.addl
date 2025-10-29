@@ -1,0 +1,10 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDAddSymbolsEditSymbolSettingsDLG" Tag="[DialogBox]#1|Add Symbols * Edit Symbol Settings" ParentType="Pane" GUIType="UIA">
+<PushButton Name="Finish" Tag="[PushButton]$1" />
+<ScrollBar Name="HorizontalScrollBar" Tag="[ScrollBar]$" />
+<TextField Name="PIDClassDefinitions" Tag="[TextField]$" />
+<StaticText Name="PIDClassDefinitionsLabel" Tag="[StaticText]$" />
+<ListBox Name="PIDClassDefinitionsListBox" Tag="[ListBox]$239" />
+<PushButton Name="BrowsePB" Tag="[PushButton]$4795" />
+<ListBox Name="SelectedBlocks" Tag="[Pane]$6|#1/[ListBox]$239|#1" />
+<StaticText Name="SelectedBlocksLabel" Tag="[StaticText]$" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

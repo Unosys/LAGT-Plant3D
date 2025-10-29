@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VMSRV_NeedVaultDLG" Tag="[Pane]$CommonMessageBox" ParentType="VaultProServer">
+
+  <PushButton Name="YesPB" Tag="[Pane]$tableLayoutPanel1/[Pane]$tableLayoutPanel2/[PushButton]$button2" />
+
+
+  <GroupBox Name="TableLayoutPanel1" Tag="[GroupBox]$tableLayoutPanel1" />
+  <StaticText Name="M_errorText" Tag="[StaticText]$m_errorText" />
+  <GroupBox Name="TableLayoutPanel2" Tag="[GroupBox]$tableLayoutPanel2" />
+  <PushButton Name="M_yesButton" Tag="[PushButton]$button2" />
+  <PushButton Name="M_noButton" Tag="[PushButton]$button1" />
+</Autodesk.GUIHarness.Pane>

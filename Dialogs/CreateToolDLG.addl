@@ -1,0 +1,3 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateToolDLG" Tag="[DialogBox]Create Tool" ParentType="ProjectSetupPandIDClassDefinitionDLG">
+<PushButton Name="OK" Tag="[PushButton]$2" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

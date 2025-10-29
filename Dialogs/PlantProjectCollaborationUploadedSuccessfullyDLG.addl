@@ -1,0 +1,9 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectCollaborationUploadedSuccessfullyDLG" Tag="[Window]$Window_1" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="Close1PB" Tag="[TitleBar]Collaboration for Plant 3D|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+  <PushButton Name="Close2PB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Close|$Button_GetStarted|#1" />
+
+	<PushButton Name="InviteMyTeamPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Invite my Team|$Button_InviteMyTeam|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

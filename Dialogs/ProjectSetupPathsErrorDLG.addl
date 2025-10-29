@@ -1,0 +1,5 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupPathsErrorDLG" Tag="[DialogBox]Error" ParentType="Plant3D">
+<PushButton Name="OK" Tag="[PushButton]OK|$2|@(144,71)" />
+<CustomWin Name="Icon1" Tag="[CustomWin][Icon]$20|[Icon]@(27,27)" />
+<StaticText Name="SpecifiedProjectDWGDirector" Tag="[StaticText]Specified Project DWG Directory doesn't exist|$65535|@(171,27)" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

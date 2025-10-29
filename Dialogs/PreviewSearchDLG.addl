@@ -1,0 +1,61 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PreviewSearchDLG" Tag="[Pane]Preview|$PrintPreviewFormExBase" ParentType="MainWin" GUIType="UIA">
+	<Pane Name="Pane1PANE" Tag="[Pane]#1" />
+	<Pane Name="Pane2PANE" Tag="[Pane]$fPrintControl|#2" />
+	<Pane Name="Pane3PANE" Tag="[Pane]$fPrintControl|#2/[Pane]$DocumentViewer|#2" />
+	<ScrollBar Name="HorizontalSB" Tag="[Pane]$fPrintControl|#2/[ScrollBar]Horizontal|$hScrollBar|#1" />
+	<Pane Name="Pane4PANE" Tag="[Pane]$fPrintControl|#2/[Pane]$sidePanel|#3" />
+	<ScrollBar Name="VerticalSB" Tag="[Pane]$fPrintControl|#2/[Pane]$sidePanel|#3/[ScrollBar]Vertical|$vScrollBar|#1" />
+	<Pane Name="Pane5PANE" Tag="[Pane]$fPrintControl|#2/[Pane]$sidePanel|#3/[Pane]$cornerPanel|#1" />
+	<Pane Name="Pane6PANE" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1" />
+	<Pane Name="Pane7PANE" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1" />
+	<Pane Name="TheXtraLayoutControlPANE" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1" />
+	<PushButton Name="Close1PB" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Close|$btnClose|#4" />
+	<PushButton Name="NextPB" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Next|$btnFindNext|#3" />
+	<PushButton Name="PreviousPB" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton]Previous|$btnFindPrev|#2" />
+	<PushButton Name="PushButtonPB" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1/[PushButton] |$ddBtnParameters|#1" />
+	<TextField Name="TextField1TF" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]$textEdit|#1" />
+	<TextField Name="TextField2TF" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]$textEdit|#1/[TextField]$3217440|#2" />
+	<TextField Name="TextField3TF" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1/[TextField]$textEdit|#1/[TextField]#1" />
+	<StaticText Name="SearchST" Tag="[Pane]$fPrintControl|#2/[Pane]$530384|#1/[Pane]$FindControl|#1/[Pane]The XtraLayoutControl|$layoutControl1|#1/[StaticText]Search|$lbSearch|#1" />
+	<GroupBox Name="DockBottomGB" Tag="[GroupBox]Dock Bottom|$857158|#2" />
+	<StatusBar Name="StatusBarSB" Tag="[GroupBox]Dock Bottom|$857158|#2/[StatusBar]Status Bar|$2496542|#1" />
+	<TextField Name="TextField4TF" Tag="[GroupBox]Dock Bottom|$857158|#2/[StatusBar]Status Bar|$2496542|#1/[TextField]$StatusBar.Pane0|#1" />
+	<TextField Name="TextField5TF" Tag="[GroupBox]Dock Bottom|$857158|#2/[StatusBar]Status Bar|$2496542|#1/[TextField]$StatusBar.Pane1|#2" />
+	<TextField Name="TextField6TF" Tag="[GroupBox]Dock Bottom|$857158|#2/[StatusBar]Status Bar|$2496542|#1/[TextField]$StatusBar.Pane2|#3" />
+	<GroupBox Name="DockTopGB" Tag="[GroupBox]Dock Top|$2298784|#1" />
+	<CustomWin Name="MainMenuWIN" Tag="[GroupBox]Dock Top|$2298784|#1/[CustomWin]Main Menu|$1775704|#1" />
+	<MenuItem Name="FileMI" Tag="[GroupBox]Dock Top|$2298784|#1/[CustomWin]Main Menu|$1775704|#1/[MenuItem]File|#1" />
+	<MenuItem Name="ViewMI" Tag="[GroupBox]Dock Top|$2298784|#1/[CustomWin]Main Menu|$1775704|#1/[MenuItem]View|#2" />
+	<MenuItem Name="BackgroundMI" Tag="[GroupBox]Dock Top|$2298784|#1/[CustomWin]Main Menu|$1775704|#1/[MenuItem]Background|#3" />
+	<MenuItem Name="Item1MI" Tag="[GroupBox]Dock Top|$2298784|#1/[CustomWin]Main Menu|$1775704|#1/[MenuItem]Item|#4" />
+	<ToolBar Name="ToolbarTB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1" />
+	<PushButton Name="ParametersPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Parameters|#1" />
+	<PushButton Name="ThumbnailsPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Thumbnails|#2" />
+	<PushButton Name="SearchPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Search|#3" />
+	<PushButton Name="Open1PB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Open|#4" />
+	<PushButton Name="SavePB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Save|#5" />
+	<PushButton Name="Print1PB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Print*|#6" />
+	<PushButton Name="Print2PB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Print|#7" />
+	<PushButton Name="PageSetupPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Page Setup*|#8" />
+	<PushButton Name="ScalePB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Scale|#9" />
+	<PushButton Name="HandToolPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Hand Tool|#10" />
+	<PushButton Name="MagnifierPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Magnifier|#11" />
+	<PushButton Name="ZoomOutPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Zoom Out|#12" />
+	<PushButton Name="ZoomPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Zoom|#13" />
+	<PushButton Name="ZoomInPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Zoom In|#14" />
+	<PushButton Name="FirstPagePB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]First Page|#15" />
+	<PushButton Name="PreviousPagePB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Previous Page|#16" />
+	<PushButton Name="NextPagePB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Next Page|#17" />
+	<PushButton Name="LastPagePB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Last Page|#18" />
+	<PushButton Name="MultiplePagesPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Multiple Pages|#19" />
+	<PushButton Name="ColorPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Color*|#20" />
+	<PushButton Name="WatermarkPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Watermark*|#21" />
+	<PushButton Name="ExportDocumentPB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Export Document*|#22" />
+	<PushButton Name="Open2PB" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[PushButton]Export Document*|#22/[PushButton]Open|#1" />
+	<MenuItem Name="Item2MI" Tag="[GroupBox]Dock Top|$2298784|#1/[ToolBar]Toolbar|$202966|#1/[MenuItem]Item|#1" />
+	<TitleBar Name="PreviewCTL" Tag="[TitleBar]Preview|$TitleBar|#1" />
+	<PushButton Name="MinimizePB" Tag="[TitleBar]Preview|$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+	<PushButton Name="MaximizePB" Tag="[TitleBar]Preview|$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+	<PushButton Name="Close2PB" Tag="[TitleBar]Preview|$TitleBar|#1/[PushButton]Close|$Close|#3" />
+
+</Pane>

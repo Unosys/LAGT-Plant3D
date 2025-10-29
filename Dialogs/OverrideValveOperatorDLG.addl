@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.OverrideValveOperatorDLG" Tag="[Window]Override Valve Operator|$CustomizeValveOperatorWindow" >
+
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OKButton|#4" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$CancelButton|#5" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

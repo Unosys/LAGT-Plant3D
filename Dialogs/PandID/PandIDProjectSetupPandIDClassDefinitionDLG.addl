@@ -1,0 +1,48 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectSetupPandIDClassDefinitionDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+  <ScrollBar Name="ClassSettingsEngineeringItems" Tag="[ScrollBar]$m_dataGridView" />
+  <PushButton Name="M_btnAdd2TP" Tag="[Pane]$m_splitHorz|#1/[Pane]$12783222|#1/[Pane]$m_splitVert|#1/[Pane]$4458802|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Centrifugal Blower|$m_groupBox|#1/[GroupBox]Symbol|$m_GroupBoxGraphical|#1/[PushButton]Add to Tool Palette *|$m_btnAdd2TP|#5" />
+  <PushButton Name="M_btnAddAnn" Tag="[PushButton]$m_btnAddAnn" />
+  <PushButton Name="M_btnAddProperty"  Tag="[Pane]$m_splitHorz|#1/[Pane]$1313584|#1/[Pane]$m_splitVert|#1/[Pane]$1444510|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Engineering Items|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[PushButton]$m_btnAddProperty" />
+  <PushButton Name="M_btnAddStyle" Tag="[Pane]$m_splitHorz|#1/[Pane]$1902372|#1/[Pane]$m_splitVert|#1/[Pane]$4458354|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Engineering Items|$m_groupBox|#1/[GroupBox]Symbol|$m_GroupBoxGraphical|#1/[PushButton]$m_btnAddStyle" />
+  <PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+  <PushButton Name="M_btnDeleteTag" Tag="[Pane]$m_splitHorz|#1/[Pane]$14289030|#1/[Pane]$m_splitVert|#1/[Pane]$7144168|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Centrifugal Blower|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3/[PushButton]Delete|$m_btnDeleteTag|#3" />
+  <PushButton Name="M_btnEditAnn" Tag="[PushButton]$m_btnEditAnn" />
+	<PushButton Name="M_btnEditProperties" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]$m_groupBox|#1/[GroupBox]$m_groupBoxProperties|#2/[PushButton]$m_btnEditProperties|#3" />
+
+	<PushButton Name="M_btnEditStyle" Tag="[PushButton]$m_btnEditStyle" />
+  <PushButton Name="M_btnHelp" Tag="[PushButton]$m_btnHelp" />
+  <PushButton Name="M_btnModifyAnn" Tag="[PushButton]$m_btnModifyAnn" />
+  <PushButton Name="M_btnModifyStyle" Tag="[Pane]$m_splitHorz|#1/[Pane]$1902372|#1/[Pane]$m_splitVert|#1/[Pane]$4458354|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Engineering Items|$m_groupBox|#1/[GroupBox]Symbol|$m_GroupBoxGraphical|#1/[PushButton]$m_btnModifyStyle" />
+  <PushButton Name="M_btnModifyTag" Tag="[PushButton]$m_btnModifyTag" />
+  <PushButton Name="M_btnNewTag" Tag="[Pane]$m_splitHorz|#1/[Pane]$20450718|#1/[Pane]$m_splitVert|#1/[Pane]$5375226|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Centrifugal Blower|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3/[PushButton]New*|$m_btnNewTag|#1" />
+  <PushButton Name="M_btnOk" Tag="[PushButton]$m_btnOk" />
+  <PushButton Name="M_btnRemoveAnn" Tag="[PushButton]$m_btnRemoveAnn" />
+  <PushButton Name="M_btnRemoveProperties" Tag="[PushButton]$m_btnRemoveProperties" />
+  <PushButton Name="M_btnRemoveStyle" Tag="[Pane]$m_splitHorz|#1/[Pane]$5375044|#1/[Pane]$m_splitVert|#1/[Pane]$65602554|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Centrifugal Blower|$m_groupBox|#1/[GroupBox]Symbol|$m_GroupBoxGraphical|#1/[PushButton]Remove Symbol*|$m_btnRemoveStyle|#3" />
+  <PushButton Name="M_btnSave" Tag="[PushButton]$m_btnSave" />
+  <ComboBox Name="M_comboBoxAnn" Tag="[ComboBox]$m_comboBoxAnn" />
+  <ComboBox Name="M_comboBoxGraphical" Tag="[ComboBox]$m_comboBoxGraphical" />
+  <Table Name="M_dataGridView" Tag="[Table]$m_dataGridView" />
+  <GroupBox Name="M_groupBox" Tag="[GroupBox]$m_groupBox" />
+  <GroupBox Name="M_groupBoxAnn" Tag="[GroupBox]$m_groupBoxAnn" />
+  <GroupBox Name="M_GroupBoxGraphical" Tag="[GroupBox]$m_GroupBoxGraphical" />
+  <GroupBox Name="M_groupBoxProperties" Tag="[GroupBox]$m_groupBoxProperties" />
+  <GroupBox Name="M_groupBoxTag" Tag="[GroupBox]$m_groupBoxTag" />
+  <ListBox Name="M_listBoxTag" Tag="[Pane]$m_splitHorz|#1/[Pane]$14289030|#1/[Pane]$m_splitVert|#1/[Pane]$7144168|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Centrifugal Blower|$m_groupBox|#1/[GroupBox]Tag format|$m_groupBoxTag|#3/[ListBox]$m_listBoxTag|#1" />
+  <StaticText Name="M_PreviewStatic" Tag="[StaticText]$m_PreviewStatic" />
+  <TreeView Name="M_treeView" Tag="[Pane]$m_splitHorz/[Pane]#1/[Pane]$m_splitVert/[Pane]#1/[TreeView]$m_treeView" />
+  <GroupBox Name="SystemWindowsFormsSplitterPanel" Tag="[GroupBox]$m_splitHorz" />
+  <GroupBox Name="SystemWindowsFormsSplitterPanel2" Tag="[GroupBox]$m_splitVert" />
+  <GroupBox Name="SystemWindowsFormsSplitterPanel3" Tag="[GroupBox]$m_splitVert" />
+  <GroupBox Name="SystemWindowsFormsSplitterPanel4" Tag="[GroupBox]$m_splitHorz" />
+<!--<CustomWin Name="M_dataGridView0" Tag="[Pane]$m_splitHorz|#2/[Pane]$5506518|#1/[Pane]$m_splitVert|#1/[Pane]$10685938|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]Class settings: Positive Displacement Blower|$m_groupBox|#1/[GroupBox]Properties|$m_groupBoxProperties|#2/[Table]DataGridView|$m_dataGridView|#1/[CustomWin]Row 8|#2/[CustomWin]Property Name Row 8|#1" />-->
+
+  <!--<CustomWin Name="M_dataGridView0" Tag="[Pane]$m_splitHorz|#1/[Pane]$1705834|#1/[Pane]$m_splitVert|#1/[Pane]$1378168|#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]$m_groupBox|#1/[GroupBox]$m_groupBoxProperties|#2/[Table]$m_dataGridView|#1/[CustomWin]#2/[CustomWin]#1" />/>-->
+
+	<ListViewItem Name="M_dataGridView0" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]$m_groupBox|#1/[GroupBox]$m_groupBoxProperties|#2/[ListView]$m_dataGridView|#1/[CustomWin]#2/[ListViewItem]#1" />
+
+
+	<StaticText Name="ISAUpdateAvailableST" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]$m_groupBox|#1/[StaticText]$m_linkLabelISAUpdate|#1" />
+	<Link Name="ISAUpdateAvailableLINK" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]#2/[Pane]$m_classPropertySettingsUserCtrl|#1/[GroupBox]$m_groupBox|#1/[StaticText]$m_linkLabelISAUpdate|#1/[Link]#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

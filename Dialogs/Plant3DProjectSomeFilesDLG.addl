@@ -1,0 +1,4 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DProjectSomeFilesDLG" Tag="[Pane]Plant 3D Project - Some Files Could Not be Added to Project|$frmMultilineMsgBox" >
+  <PushButton Name="M_btnOk" Tag="[PushButton]OK|$m_btnOk" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Plant 3D Project - Some Files Could Not be Added to Project|$TitleBar/[PushButton]Close|$Close" />
+</Pane>

@@ -1,0 +1,143 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.PropertyEditorFieldsDLG" Tag="[Pane]$DesignerForm" ParentType="ReportDesignerApplicationDLG">
+  <Pane Name="Pane1PANE" Tag="[Pane]$pnlMainForm|#1" />
+  <Pane Name="PnlFramePANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1" />
+  <Pane Name="PropertiesPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4" />
+  <Pane Name="PropertyGridPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1" />
+  <Pane Name="ToolBarButtonPanelPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]toolBarButtonPanel|$toolBarButtonPanel|#1" />
+  <TextField Name="TextField1TF" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]toolBarButtonPanel|$toolBarButtonPanel|#1/[TextField]$searchControl|#1" />
+  <TextField Name="TextField2TF" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]toolBarButtonPanel|$toolBarButtonPanel|#1/[TextField]$searchControl|#1/[TextField]$16386526|#1" />
+  <TextField Name="TextField3TF" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]toolBarButtonPanel|$toolBarButtonPanel|#1/[TextField]$searchControl|#1/[TextField]#2" />
+  <PushButton Name="OpenPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]toolBarButtonPanel|$toolBarButtonPanel|#1/[TextField]$searchControl|#1/[PushButton]Open|#1" />
+  <PushButton Name="PushButton1PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]toolBarButtonPanel|$toolBarButtonPanel|#1/[TextField]$searchControl|#1/[PushButton]#2" />
+  <Pane Name="DescriptionPanePANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]Description Pane|$26544374|#2" />
+  <StaticText Name="AllowedAreasST" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]Description Pane|$26544374|#2/[StaticText]Allowed Areas|$721584|#1" />
+  <StaticText Name="GetsOrSetsTheST" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Pane]Description Pane|$26544374|#2/[StaticText]Gets or sets the areas within which the field can be positioned*|$4394700|#2" />
+  <Table Name="PropertiesWindowTBL" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1" />
+  <ScrollBar Name="ScrollBarSB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[ScrollBar]scroll bar|$20055220|#1" />
+  <CustomWin Name="Appearance1WIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Appearance|#1" />
+  <CustomWin Name="Appearance2WIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Appearance|#2" />
+  <CustomWin Name="CaptionWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Caption|#3" />
+  <CustomWin Name="CellFormatWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Cell Format|#4" />
+  <CustomWin Name="ColumnValueLineCountWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Column Value Line Count|#5" />
+  <CustomWin Name="DisplayFolderWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Display Folder|#6" />
+  <CustomWin Name="EmptyCellTextWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Empty Cell Text|#7" />
+  <CustomWin Name="EmptyValueTextWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Empty Value Text|#8" />
+  <CustomWin Name="GrandTotalCellFormatWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Grand Total Cell Format|#9" />
+  <CustomWin Name="GrandTotalTextWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Grand Total Text|#10" />
+  <CustomWin Name="ImageOptionsWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]ImageOptions|#11" />
+  <CustomWin Name="RowValueLineCountWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Row Value Line Count|#12" />
+  <CustomWin Name="TotalCellFormatWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Total Cell Format|#13" />
+  <CustomWin Name="TotalValueFormatWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Total Value Format|#14" />
+  <CustomWin Name="ValueFormatWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Value Format|#15" />
+  <CustomWin Name="BehaviourWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Behaviour|#16" />
+  <CustomWin Name="AllowedAreasWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Allowed Areas|#17" />
+  <CustomWin Name="AreaWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Area|#18" />
+  <CustomWin Name="AreaIndexWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Area Index|#19" />
+  <CustomWin Name="CustomTotalsWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Custom Totals|#20" />
+  <CustomWin Name="GroupIntervalNumericRangeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Group Interval Numeric Range|#21" />
+  <CustomWin Name="GroupingIntervalWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Grouping Interval|#22" />
+  <CustomWin Name="SortBySummaryInfoWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Sort By Summary Info|#23" />
+  <CustomWin Name="TotalsVisibilityWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Totals Visibility|#24" />
+  <CustomWin Name="VisibleWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Visible|#25" />
+  <CustomWin Name="DataWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Data|#26" />
+  <CustomWin Name="AutoPopulatedPropertiesWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Auto Populated Properties|#27" />
+  <CustomWin Name="DataColumnNameWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Data Column Name|#28" />
+  <CustomWin Name="ExpandedInFieldsGroupWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Expanded In Fields Group|#29" />
+  <CustomWin Name="ExportAsNumbersToWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Export As Numbers To Excel|#30" />
+  <CustomWin Name="PrefilterColumnNameWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Prefilter Column Name|#31" />
+  <CustomWin Name="RunningTotalWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Running Total|#32" />
+  <CustomWin Name="ShowNewValuesWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Show New Values|#33" />
+  <CustomWin Name="SortByAttributeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Sort By Attribute|#34" />
+  <CustomWin Name="SortModeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Sort Mode|#35" />
+  <CustomWin Name="SortOrderWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Sort Order|#36" />
+  <CustomWin Name="SummaryDisplayTypeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Summary Display Type|#37" />
+  <CustomWin Name="SummaryTypeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Summary Type|#38" />
+  <CustomWin Name="TagWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Tag|#39" />
+  <CustomWin Name="TopValueCountWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Top Value Count|#40" />
+  <CustomWin Name="TopValueModeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Top Value Mode|#41" />
+  <CustomWin Name="TopValueShowOthersWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Top Value Show Others|#42" />
+  <CustomWin Name="TopValueTypeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Top Value Type|#43" />
+  <CustomWin Name="UnboundExpressionWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Unbound Expression|#44" />
+  <CustomWin Name="UnboundExpressionModeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Unbound Expression Mode|#45" />
+  <CustomWin Name="UnboundFieldNameWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Unbound Field Name|#46" />
+  <CustomWin Name="UnboundTypeWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Unbound Type|#47" />
+  <CustomWin Name="EditingWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Editing|#48" />
+  <CustomWin Name="CellEditorWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Cell Editor|#49" />
+  <CustomWin Name="KPIWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]KPI|#50" />
+  <CustomWin Name="KPIGraphicWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]KPI Graphic|#51" />
+  <CustomWin Name="LayoutWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Layout|#52" />
+  <CustomWin Name="MinWidthWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Min Width|#53" />
+  <CustomWin Name="WidthWIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Width|#54" />
+  <CustomWin Name="Options1WIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Options|#55" />
+  <CustomWin Name="Options2WIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[Table]Properties Window|$19597060|#1/[CustomWin]Options|#56" />
+  <ToolBar Name="ToolBarTB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[ToolBar]ToolBar|$18680024|#1" />
+  <PushButton Name="CategorizedPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[ToolBar]ToolBar|$18680024|#1/[PushButton]Categorized|#1" />
+  <PushButton Name="AlphabeticalPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[ToolBar]ToolBar|$18680024|#1/[PushButton]Alphabetical|#2" />
+  <CustomWin Name="CustomWin1WIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[ToolBar]ToolBar|$18680024|#1/[CustomWin]#1" />
+  <PushButton Name="PropertiesPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[ToolBar]ToolBar|$18680024|#1/[PushButton]Properties|#3" />
+  <PushButton Name="EventsPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[ToolBar]ToolBar|$18680024|#1/[PushButton]Events|#4" />
+  <CustomWin Name="CustomWin2WIN" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[ToolBar]ToolBar|$18680024|#1/[CustomWin]#2" />
+  <PushButton Name="PropertyPagesPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]Properties|$23790464|#4/[Pane]PropertyGrid|$23201466|#1/[ToolBar]ToolBar|$18680024|#1/[PushButton]Property Pages|#5" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]$splMain|#3" />
+  <Pane Name="PnlMainPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlMain|$pnlMain|#2" />
+  <Pane Name="GroupControlColumnsPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlMain|$pnlMain|#2/[Pane]groupControlColumns|$groupControlColumns|#1" />
+  <ListBox Name="ListBoxLB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlMain|$pnlMain|#2/[Pane]groupControlColumns|$groupControlColumns|#1/[ListBox]$ColumnList|#1" />
+  <ListBoxItem Name="PivotGridField1LBI" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlMain|$pnlMain|#2/[Pane]groupControlColumns|$groupControlColumns|#1/[ListBox]$ColumnList|#1/[ListBoxItem]pivotGridField1|#1" />
+  <Pane Name="PnlControlPANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1" />
+  <PushButton Name="PushButton2PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[PushButton]$chbFilter|#2" />
+  <PushButton Name="PushButton3PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[PushButton]$btRetrieve|#3" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[Pane]$buttonPanel|#1" />
+  <PushButton Name="PushButton4PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[Pane]$buttonPanel|#1/[PushButton]$btAdd|#1" />
+  <PushButton Name="PushButton5PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[Pane]$buttonPanel|#1/[PushButton]$btnDown|#5" />
+  <PushButton Name="PushButton6PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[Pane]$buttonPanel|#1/[PushButton]$btRemove|#3" />
+  <PushButton Name="PushButton7PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[Pane]$buttonPanel|#1/[PushButton]$btnUp|#4" />
+  <PushButton Name="PushButton8PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[Pane]$buttonPanel|#1/[PushButton]$btInsert|#2" />
+  <PushButton Name="PushButton9PB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$FieldDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[PushButton]$chbFieldList|#1" />
+  <StaticText Name="YouCanAddAndST" Tag="[Pane]$pnlMainForm|#1/[StaticText]You can add and delete Pivot Grid fields and modify their settings*|$5902138|#1" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$9768264|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$9768264|#2/[Pane]$accordionControl" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3/[Pane]$buttonsPanel|#2" />
+  <PushButton Name="Close1PB" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3/[Pane]$buttonsPanel|#2/[PushButton]Close|$24316268|#1" />
+  <Pane Name="Pane9PANE" Tag="[Pane]$pnlMainForm|#1/[Pane]$pnlFrame|#3/[Pane]$31066018|#1" />
+  <TitleBar Name="TitleBarCTL" Tag="[TitleBar]$TitleBar|#1" />
+  <PushButton Name="MinimizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Minimize|$Minimize|#1" />
+  <PushButton Name="MaximizePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Maximize|$Maximize|#2" />
+  <PushButton Name="Close2PB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#3" />
+  <PushButton Name="SaveAppearanceLayoutPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$PrintAppearancesDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[PushButton]Sa*|$btnSave|#2" />
+  <PushButton Name="LoadAppearanceLayoutPB" Tag="[Pane]$pnlMainForm|#1/[Pane]pnlFrame|$pnlFrame|#1/[Pane]$PrintAppearancesDesigner|#1/[Pane]pnlControl|$pnlControl|#1/[PushButton]*Load Appearance Layout*|$btnLoad|#1" />
+
+  <!--<PushButton Name="Alphabetical" Tag="[PushButton]$" />
+<CustomWin Name="BtAdd" Tag="[CustomWin]$btAdd" />
+<CustomWin Name="BtInsert" Tag="[CustomWin]$btInsert" />
+<CustomWin Name="BtnDown" Tag="[CustomWin]$btnDown" />
+<CustomWin Name="BtnUp" Tag="[CustomWin]$btnUp" />
+<CustomWin Name="BtRemove" Tag="[CustomWin]$btRemove" />
+<CustomWin Name="BtRetrieve" Tag="[CustomWin]$btRetrieve" />
+<PushButton Name="Categorized" Tag="[PushButton]$" />
+<CustomWin Name="ChbFieldList" Tag="[CustomWin]$chbFieldList" />
+<CustomWin Name="ColumnDesignerBase" Tag="[CustomWin]$ColumnDesignerBase" />
+<CustomWin Name="ColumnList" Tag="[CustomWin]$ColumnList" />
+<CustomWin Name="DescriptionPane" Tag="[CustomWin]$pgMain" />
+<CustomWin Name="DevExpressUtilsFramesNotePanelEx" Tag="[CustomWin]$ColumnDesignerBase" />
+<CustomWin Name="GroupControlColumns" Tag="[CustomWin]$groupControlColumns" />
+<StaticText Name="Label" Tag="[StaticText]$" />
+<StaticText Name="Label2" Tag="[StaticText]$" />
+<StaticText Name="LbCaption" Tag="[StaticText]$lbCaption" />
+<CustomWin Name="NavBarControl" Tag="[CustomWin]$navBarControl" />
+<CustomWin Name="PgMain" Tag="[CustomWin]$pgMain" />
+<CustomWin Name="PnlArrows" Tag="[CustomWin]$pnlArrows" />
+<CustomWin Name="PnlControl" Tag="[CustomWin]$pnlControl" />
+<CustomWin Name="PnlFrame" Tag="[CustomWin]$pnlFrame" />
+<CustomWin Name="PnlMain" Tag="[CustomWin]$pnlMain" />
+<GroupBox Name="PnlMainForm" Tag="[GroupBox]$pnlMainForm" />
+<CustomWin Name="PnlProperty" Tag="[CustomWin]$pnlProperty" />
+<ToolBar Name="PropertyGridToolBar" Tag="[ToolBar]$pgMain" />
+<CustomWin Name="PropertyGridView" Tag="[CustomWin]$pgMain" />
+<PushButton Name="PropertyPages" Tag="[PushButton]$" />
+<PushButton Name="PushToolItem" Tag="[PushButton]$" />
+<StatusBar Name="SbHelp" Tag="[StatusBar]$sbHelp" />
+<CustomWin Name="Splitter1" Tag="[CustomWin]$splitter1" />
+<CustomWin Name="SplMain" Tag="[CustomWin]$splMain" />-->
+</Pane>

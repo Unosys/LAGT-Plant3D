@@ -1,0 +1,18 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDFieldDLG" Tag="[DialogBox]Field" ParentType="MainWin" GUIType="WIN32">
+
+  <DialogBox Name="DialogBox1DLG" Tag="[DialogBox]$501|#1" />
+  <DialogBox Name="DialogBox2DLG" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1" />
+  <StaticText Name="AuthorST" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1/[StaticText]$1018|#1" />
+  <TextField Name="AuthorTF" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1/[TextField]$1021|#1" />
+  <StaticText Name="FormatST" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1/[StaticText]$1005|#2" />
+  <ListBox Name="FormatLB" Tag="[DialogBox]$501|#1/[DialogBox]$1028|#1/[ListBox]$1019|#1" />
+  <StaticText Name="FieldCategoryST" Tag="[StaticText]$1010|#1" />
+  <PopupList Name="FieldCategoryPL" Tag="[PopupList]$1002|#1" />
+  <StaticText Name="FieldNamesST" Tag="[StaticText]$1011|#2" />
+  <ListBox Name="FieldNamesLB" Tag="[ListBox]$1004|#1" />
+  <StaticText Name="FieldExpressionST" Tag="[StaticText]$1014|#3" />
+  <TextField Name="FieldExpressionTF" Tag="[TextField]$1006|#1" />
+  <PushButton Name="OKPB" Tag="[PushButton]$1|#1" />
+  <PushButton Name="CancelPB" Tag="[PushButton]$2|#2" />
+  <PushButton Name="HelpPB" Tag="[PushButton]$9|#3" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

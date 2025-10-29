@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDConnectionFailedDLG" Tag="[DialogBox]Connection Failed" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="YourTestConnectionToTheSp" Tag="[StaticText]Your test connection to the specified server has failed. Please try again.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

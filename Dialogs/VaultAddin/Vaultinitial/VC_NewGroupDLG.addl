@@ -1,0 +1,15 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.VC_NewGroupDLG" Tag="[Pane]$GroupProfileForm" ParentType="VC_UserAndGroupManagementDLG">
+
+	<PushButton Name="OKPB" Tag="[Pane]$m_groupProfileTableLayoutPanel/[Pane]$panel5/[PushButton]$m_okButton" />
+	<PushButton Name="CancelPB" Tag="[Pane]$m_groupProfileTableLayoutPanel/[Pane]$panel5/[PushButton]$m_cancelButton" />
+	<!--<PushButton Name="AddPB" Tag="[Pane]$m_groupProfileTableLayoutPanel/[Pane]$panel4/[GroupBox]$groupBox1/[PushButton]$m_addButton" />-->
+	<PushButton Name="AddPB" Tag="[Pane]$m_groupProfileTableLayoutPanel/[Pane]$panel4/[Pane]$groupBox1/[PushButton]$m_addButton" />
+	<TextField Name="EmailAliasTF" Tag="[Pane]$m_groupProfileTableLayoutPanel/[Pane]$panel2/[TextField]$m_emailDLTextBox" />
+	<TextField Name="GroupNameTF" Tag="[Pane]$m_groupProfileTableLayoutPanel/[Pane]$panel2/[TextField]$m_groupNameTextBox" />
+	<PushButton Name="LinkedToPB" Tag="[Pane]$m_groupProfileTableLayoutPanel/[Pane]$panel3/[PushButton]$m_authByButton" />
+	<PushButton Name="GroupManagersPB" Tag="[Pane]$m_groupProfileTableLayoutPanel/[Pane]$panel3/[PushButton]$m_groupManagerButton" />
+
+
+
+
+</Pane>

@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectPIDClassDLG" Tag="[DialogBox]Select P&amp;ID Class" ParentType="Plant3D">
+<CustomWin Name="TableLayoutPanel1" Tag="[CustomWin][System.Windows.Forms.TableLayoutPanel]#1|[System.Windows.Forms.TableLayoutPanel]$tableLayoutPanel1" />
+<CustomWin Name="Panel1" Tag="[CustomWin][System.Windows.Forms.Panel]#1|[System.Windows.Forms.Panel]$panel1" />
+<TreeView Name="ClassTreeView" Tag="[TreeView]#1|$classTreeView" />
+<CustomWin Name="Panel2" Tag="[CustomWin][System.Windows.Forms.Panel]#2|[System.Windows.Forms.Panel]$panel2" />
+<PushButton Name="Cancel" Tag="[PushButton]$btnCancel" />
+<PushButton Name="OK" Tag="[PushButton]$btnOK" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

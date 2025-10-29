@@ -1,0 +1,18 @@
+Génération du catalogue impossible. Consultez les erreurs et les avertissements.
+
+C:\LAGT\Plant3D\TestFiles\CS150Flanged-German.xlsx
+Erreurs
+	BlindFlange Le chemin d'accès au fichier DWG est vide.
+		BLINDFLANGE
+Avertissements
+	BlindFlange Le champ de norme compatible est vide.
+		BLINDFLANGE
+	BlindFlange Le champ de norme de conception est vide.
+		BLINDFLANGE
+Résumé
+	21	Erreurs
+	42	Avertissements
+	1	Famille de pièces
+	21	Pièces individuelles
+	21	Dépendances de graphiques de blocs AutoCAD
+	0	Dépendance de graphique de script personnalisé

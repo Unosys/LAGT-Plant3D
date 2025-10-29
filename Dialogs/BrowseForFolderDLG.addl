@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.BrowseForFolderDLG" Tag="[DialogBox]Select Folder|[DialogBox]Browse For Folder" ParentType="ReportConfigurationDLG">
+   <PushButton Name="OKPB" Tag="[PushButton]OK|$1|#2" />
+  <PushButton Name="Cancel" Tag="[PushButton]Cancel|$2|#3" />
+	
+	<TextField Name="FolderTF" Tag="[TextField]Folder:|$1152|#1" />
+	<PushButton Name="SelectFolderPB" Tag="[PushButton]Select Folder|$1|#1" />
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]Select Folder|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>
+

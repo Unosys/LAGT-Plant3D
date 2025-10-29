@@ -1,0 +1,7 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.DrawingAlertDLG" Tag="[DialogBox]AutoCAD Alert" ParentType="MainWin" GUIType="WIN32">
+
+  <PushButton Name="YesPB" Tag="[PushButton]Yes|$6|#1" />
+  <PushButton Name="NoPB" Tag="[PushButton]No|$7|#2" />
+  <Image Name="ImageIMG" Tag="[Image]$20|#1" />
+  <StaticText Name="CUsersAdministratorAppDataRoamingAutodeskAutodeskAutoCADPlant3DST" Tag="[StaticText]C:*|$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

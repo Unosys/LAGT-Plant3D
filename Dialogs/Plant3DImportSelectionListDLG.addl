@@ -1,0 +1,11 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DImportSelectionListDLG" Tag="[DialogBox]Plant 3D - Import Selection List" >
+
+
+	<PushButton Name="UpdateTheExistingStatusPB" Tag="[Pane]Plant 3D - Import Selection List|$Window|#1/[PushButton]Update the existing 'Status' list*|$CommandLink_1001|#1" />
+	<PushButton Name="ImportAsANewPB" Tag="[Pane]Plant 3D - Import Selection List|$Window|#1/[PushButton]Import as a new 'Status_1' list*|$CommandLink_1002|#2" />
+	<CheckBox Name="PerformMyCurrentChoiceCK" Tag="[Pane]Plant 3D - Import Selection List|$Window|#1/[CheckBox]Perform my current choice for this import*|$VerificationCheckBox|#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]Plant 3D - Import Selection List|$Window|#1/[PushButton]Cancel|$CommandButton_2|#3" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Plant 3D - Import Selection List|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

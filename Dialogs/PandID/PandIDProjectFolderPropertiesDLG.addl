@@ -1,0 +1,13 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectFolderPropertiesDLG" Tag="[Pane]New Folder|$frmProjectFolderProperties" ParentType="CustomWin" GUIType="UIA">
+
+
+	<PushButton Name="PushButton1PB" Tag="[PushButton]$btnLocation|#1" />
+	<PushButton Name="PushButton2PB" Tag="[PushButton]$btnTemplate|#2" />
+	<TextField Name="DWGCreationTemplateForTF" Tag="[TextField]$txtTemplate|#3" />
+	
+	<TextField Name="FolderNameTF" Tag="[TextField]$txtFolderName|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$btnCancel|#4" />
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$btnOK|#3" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]New Folder|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

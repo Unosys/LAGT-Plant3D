@@ -1,0 +1,11 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PIDInteroperabilityDeleteRowDLG" Tag="[DialogBox]P*ID|#1" ParentType="SizeMappingDLG" GUIType="UIA">
+  <Pane Name="PIDInteroperabilityDeletePANE" Tag="[Pane]P*|$Window|#1" />
+  <Pane Name="Pane1PANE" Tag="[Pane]P*|$Window|#1/[Pane]#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]P*|$Window|#1/[Pane]#2" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]P*|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="AreYouSureYouST" Tag="[Pane]P*|$Window|#1/[StaticText]Are you sure you want to remove the size mapping of P*|$MainInstruction|#1" />
+  <PushButton Name="YesPB" Tag="[Pane]P*|$Window|#1/[PushButton]Yes|$CommandButton_6|#1" />
+  <PushButton Name="NoPB" Tag="[Pane]P*|$Window|#1/[PushButton]No|$CommandButton_7|#2" />
+  <TitleBar Name="PIDInteroperabilityDeleteCTL" Tag="[TitleBar]P*|$TitleBar|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]P*|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

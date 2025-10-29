@@ -1,0 +1,17 @@
+与Vault相关的case设置
+Precondition:  When we ceate one Vault project, we need connect to vault server & SQL server. Close Firewall and UAC in control panel.
+1. Install Plant 3D.
+2. Install VP + VP server.
+3. Launch Sql Server Configration Manager from start menu, expand SQL Server Network Configuration->Protocls for AUTODESKVAULT, RMB the Named Pipes item and Enable it, RMB TCP/IP item and select Properties item, select IP Addresses tab, select Yes for Enabled item under IP4 region, set TCP Dynamic Ports as "1433". OK the TCP/IP Properties dialog.
+4. Select "SQL Server Servies" item from SQL Server Configuration Manager dialog, RMB on SQL Server (AUTODESKVAULT) item and click on Restart item.
+5. Launch VP Server and login with default settings, new vault name with "Vault". Launch VP and login to VP server.
+6. Launch Plant 3D, In Project Manager window, click Current Project dropdown list then select "New Project..." item.
+7. Enter project name, check on "Create this project in vault" checkbox, login with default settings. Click Next to go to "Project Setup Wizard (Page 5 of 6) dialog.
+8. Enter "127.0.0.1\AUTODESKVAULT,1433" as SQL Servername, click on Test Connection button. The Connection Succeeded dialog will pop up. OK it.
+9. Click Next then click Finish button to finish the vault project creation.
+
+Vault need to new two account
+VaultAddin need creat two user:
+
+1. "Limit"without select Roles vaultsand Group 
+2."Limited User" with Role and Vaults check

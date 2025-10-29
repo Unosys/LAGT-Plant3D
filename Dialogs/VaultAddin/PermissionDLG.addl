@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PermissionDLG" Tag="[Pane]$CommonMessageBox" >
+
+  <PushButton Name="OKPB" Tag="[Pane]$tableLayoutPanel1|#1/[Pane]User Limit does not have adequate permissions to log into Vault*|$tableLayoutPanel2|#2/[PushButton]OK|$button1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Error|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

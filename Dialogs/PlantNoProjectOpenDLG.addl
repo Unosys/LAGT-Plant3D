@@ -1,0 +1,9 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantNoProjectOpenDLG" Tag="[DialogBox]No Project Open" ParentType="Plant3D">
+  <Pane Name="NoProjectOpenPANE" GUIType="UIA" Tag="[Pane]No Project Open|$Window|#1" />
+  <Pane Name="PanePANE" Tag="[Pane]No Project Open|$Window|#1/[Pane]#1" />
+  <Image Name="MainInstructionIconIMG" Tag="[Pane]No Project Open|$Window|#1/[Image]MainInstructionIcon|$MainIcon|#1" />
+  <StaticText Name="CannotCreateReportBecauseST" Tag="[Pane]No Project Open|$Window|#1/[StaticText]Cannot create report because no project is open*|$MainInstruction|#1" />
+  <StaticText Name="YouMustHaveAST" Tag="[Pane]No Project Open|$Window|#1/[StaticText]You must have a project open to create a report*|$ContentText|#2" />
+  <PushButton Name="OKPB" Tag="[Pane]No Project Open|$Window|#1/[PushButton]OK|$CommandButton_1|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

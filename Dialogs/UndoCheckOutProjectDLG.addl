@@ -1,0 +1,7 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.UndoCheckOutProjectDLG" Tag="[Window]Undo Check Out - Plant 3D Drawings|$Window_1" >
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Button_2|#2" />
+	<PushButton Name="UndoCheckOutPB" Tag="[PushButton]Undo Check Out|$Button_1|#1" />
+
+
+	
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

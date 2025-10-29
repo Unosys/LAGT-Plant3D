@@ -1,0 +1,4 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectMoveSuccessDLG" Tag="[DialogBox]Project Move Success" ParentType="MainWin">
+<PushButton Name="OK" Tag="[PushButton]OK|#1|$2" />
+<StaticText Name="YourProjectHasBeenSuccessf" Tag="[StaticText]Your project has been successfully moved.|#1|$65535" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,55 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupOrthoStyleDefaultSettingsDLG"  Tag = "[Pane]$EditProjectSettingsDlg" ParentType="MainWin" GUIType="UIA">
+
+  <Pane Name="Pane1PANE" Tag="[Pane]$m_splitHorz|#1" />
+  <Pane Name="Pane2PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1" />
+  <Pane Name="Pane3PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1" />
+  <Pane Name="Pane4PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1" />
+  <TreeView Name="TreeViewTV" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1" />
+  <TreeViewItem Name="GeneralSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1" />
+  <TreeViewItem Name="DatabaseSetupTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Database Setup|#1" />
+  <TreeViewItem Name="DrawingPropertiesTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Drawing Properties|#2" />
+  <TreeViewItem Name="FileNameFormatTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]File Name Format|#3" />
+  <TreeViewItem Name="PathsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Paths|#4" />
+  <TreeViewItem Name="ProjectDetailsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Project Details|#5" />
+  <TreeViewItem Name="ReportsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Reports|#6" />
+  <TreeViewItem Name="SharedPlantContentTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]General Settings|#1/[TreeViewItem]Shared Plant Content|#7" />
+  <TreeViewItem Name="PIDDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]P*|#2" />
+  <TreeViewItem Name="Plant3DDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Plant 3D DWG Settings|#3" />
+  <TreeViewItem Name="IsometricDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Isometric DWG Settings|#4" />
+  <TreeViewItem Name="OrthoDWGSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5" />
+  <TreeViewItem Name="OrthoStyleDefaultSettingsTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5/[TreeViewItem]Ortho Style Default Settings|#1" />
+  <TreeViewItem Name="TitleBlockAndDisplayTVI" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$15927422|#1/[TreeView]$m_treeView|#1/[TreeViewItem]Ortho DWG Settings|#5/[TreeViewItem]Title Block and Display|#2" />
+  <Pane Name="Pane5PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2" />
+  <Pane Name="Pane6PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1" />
+  <GroupBox Name="DrawingOutputGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1" />
+  <GroupBox Name="OffsetLocationGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2" />
+  <Link Name="LearnMoreAboutLocationLINK" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[Link]Learn more about location offset|$linkLabel_learnMore|#1" />
+  <TextField Name="RotationTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[TextField]Rotation:|$textBox_rotation|#1" />
+  <StaticText Name="ZST" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[StaticText]Z:|$label_Z|#6" />
+  <TextField Name="XTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[TextField]X:|$textBox_distanceX|#2" />
+  <TextField Name="ZTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[TextField]Z:|$textBox_distanceZ|#4" />
+  <StaticText Name="DistanceST" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[StaticText]Distance:|$label_distance|#3" />
+  <StaticText Name="RotationST" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[StaticText]Rotation:|$label_rotation|#2" />
+  <StaticText Name="XST" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[StaticText]X:|$label_X|#4" />
+  <StaticText Name="YST" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[StaticText]Y:|$label_Y|#5" />
+  <TextField Name="YTF" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[TextField]Y:|$textBox_distanceY|#3" />
+  <StaticText Name="DEGST" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Offset location:|$groupBox_offsetLocation|#2/[StaticText]DEG*|$label_deg|#1" />
+  <GroupBox Name="ElbowCenterlineGB" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Elbow centerline|$groupBox_elbow|#1" />
+  <Pane Name="Pane7PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Elbow centerline|$groupBox_elbow|#1/[Pane]$elbowPanel|#1" />
+  <StaticText Name="CurvedST" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Elbow centerline|$groupBox_elbow|#1/[Pane]$elbowPanel|#1/[StaticText]Curved|$radioCurvedLabel|#2" />
+  <RadioButton Name="RadioButton1RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Elbow centerline|$groupBox_elbow|#1/[Pane]$elbowPanel|#1/[RadioButton]$m_radioBtnCurved|#2" />
+  <StaticText Name="CorneredST" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Elbow centerline|$groupBox_elbow|#1/[Pane]$elbowPanel|#1/[StaticText]Cornered|$radioCorneredLabel|#1" />
+  <RadioButton Name="RadioButton2RB" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[GroupBox]Elbow centerline|$groupBox_elbow|#1/[Pane]$elbowPanel|#1/[RadioButton]$m_radioBtnCornered|#1" />
+  <CheckBox Name="ShowHiddenLinePipingCK" Tag="[Pane]$m_splitHorz|#1/[Pane]$17302990|#1/[Pane]$m_splitVert|#1/[Pane]$23791060|#2/[Pane]$m_orthoStyleDefaultSettingsUserCtrl|#1/[GroupBox]Drawing *|$groupBox_drawingOutput|#1/[CheckBox]Show Hidden Line Piping by default|$m_chkShowHiddenPiping|#1" />
+  <Pane Name="Pane8PANE" Tag="[Pane]$m_splitHorz|#1/[Pane]$28773320|#2" />
+  <PushButton Name="HelpPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$28773320|#2/[PushButton]Help|$m_btnHelp|#4" />
+  <PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$28773320|#2/[PushButton]Cancel|$m_btnCancel|#3" />
+  <PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$28773320|#2/[PushButton]OK|$m_btnOk|#2" />
+  <PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]$28773320|#2/[PushButton]Apply|$m_btnSave|#1" />
+  <TitleBar Name="ProjectSetupCTL" Tag="[TitleBar]Project Setup|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Project Setup|$TitleBar|#1/[CustomWin]System Menu Bar|$EditProjectSettingsDlg|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Project Setup|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

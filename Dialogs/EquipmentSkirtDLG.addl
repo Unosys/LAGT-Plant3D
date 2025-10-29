@@ -1,0 +1,13 @@
+﻿<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.EquipmentSkirtDLG" Tag="[Pane]Create Equipment|$EquBaseDlg|#2" ParentType="Plant3D" GUIType="UIA">
+
+  <PushButton Name="VesselVerticalVesselPB" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PushButton]Vessel - Vertical Vessel|$m_TypeSel|#1" />
+  <!--<PageList Name="PageListPG" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1" />-->
+  <Window Name="EquipmentWIN" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1" />
+  <Pane Name="EquipmentPANE" Tag="[Pane]$m_MainTableLayout|#1/[Pane]$m_WorkPanel|#1/[PageList]$m_Tabs|#1/[Window]Equipment|#1/[Pane]Equipment|$m_TabEquipment|#1" />
+  
+  <PushButton Name="TemplatesPB" Tag="[PushButton]Templates|$m_BtnSnapshot|#1" />
+  <PushButton Name="CreatePB" Tag="[PushButton]Create|$m_BtnCreCreate|#2" />
+  <PushButton Name="CancelPB" Tag="[PushButton]Cancel|$m_BtnCreCancel|#3" />
+ 
+
+</Pane>

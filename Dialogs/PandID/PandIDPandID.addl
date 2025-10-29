@@ -1,0 +1,58 @@
+﻿<Plant3DMainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDPandID" Tag="[MainWin]Autodesk AutoCAD PID *" ParentType="Desktop" GUIType="WIN32">
+  <MDIClient Name="MDIClient" Tag="[MDIClient]$59648" />
+  <ChildWin Name="StartWIN" Tag="[MDIClient]$59648/[ChildWin]Start|$65280" />
+  <CustomWin Name="CustomWin1WIN" Tag="[MDIClient]$59648/[ChildWin]Start|$65280/[CustomWin]#1" />
+  <Window Name="WindowWIN" GUIType="UIA" Tag="[MDIClient]$59648/[ChildWin]Start|$65280/[CustomWin]#1/[Window]#1" />
+  <CustomWin Name="CustomWin2WIN" Tag="[MDIClient]$59648/[ChildWin]Start|$65280/[CustomWin]#1/[Window]#1/[CustomWin]#1" />
+  <Pane Name="Pane1PANE" Tag="[MDIClient]$59648/[ChildWin]Start|$65280/[CustomWin]#1/[Window]#1/[CustomWin]#1/[Pane]#1" />
+  <CustomWin Name="AdImpApplicationFrameWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096" />
+  <CustomWin Name="CustomWin3WIN" GUIType="UIA" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter" />
+  <CustomWin Name="HideSearchWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Hide search|$ID_IC_HideSearchText_RibbonItemControl" />
+  <PushButton Name="HideSearchPB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Hide search|$ID_IC_HideSearchText_RibbonItemControl/[PushButton]Hide search|$ID_IC_HideSearchText" />
+  <CustomWin Name="CustomWin4WIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_SearchText_RibbonItemControl" />
+  <TextField Name="TextFieldTF" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_SearchText_RibbonItemControl/[TextField]$ID_IC_SearchText_AutoCompleteTextBox" />
+  <PushButton Name="PushButton1PB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_SearchText_RibbonItemControl/[TextField]$ID_IC_SearchText_AutoCompleteTextBox/[PushButton]$ID_IC_SearchText" />
+  <Image Name="Image1IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_SearchText_RibbonItemControl/[TextField]$ID_IC_SearchText_AutoCompleteTextBox/[PushButton]$ID_IC_SearchText/[Image]$mImage" />
+  <Pane Name="Pane2PANE" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_SearchText_RibbonItemControl/[TextField]$ID_IC_SearchText_AutoCompleteTextBox/[Pane]$PART_ContentHost" />
+  <CustomWin Name="SearchWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Search|$ID_IC_SearchButton_RibbonItemControl" />
+  <PushButton Name="SearchPB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Search|$ID_IC_SearchButton_RibbonItemControl/[PushButton]Search|$ID_IC_SearchButton" />
+  <Image Name="Image2IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Search|$ID_IC_SearchButton_RibbonItemControl/[PushButton]Search|$ID_IC_SearchButton/[Image]$mImage" />
+  <CustomWin Name="CustomWin5WIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_WebservicesLoginButton_RibbonItemControl" />
+  <PushButton Name="PushButton2PB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_WebservicesLoginButton_RibbonItemControl/[PushButton]$ID_IC_WebservicesLoginButton" />
+  <Image Name="Image3IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_WebservicesLoginButton_RibbonItemControl/[PushButton]$ID_IC_WebservicesLoginButton/[Image]$loggedOutImage" />
+  <Image Name="Image4IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_WebservicesLoginButton_RibbonItemControl/[PushButton]$ID_IC_WebservicesLoginButton/[Image]$loggedInImage" />
+  <StaticText Name="StaticTextST" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_WebservicesLoginButton_RibbonItemControl/[PushButton]$ID_IC_WebservicesLoginButton/[StaticText]$bottomText" />
+  <StaticText Name="SignInST" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]$ID_IC_WebservicesLoginButton_RibbonItemControl/[PushButton]$ID_IC_WebservicesLoginButton/[StaticText]Sign In|$topText" />
+  <CustomWin Name="ExchangeWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Exchange|$ID_IC_ExchangeButton_RibbonItemControl" />
+  <PushButton Name="ExchangePB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Exchange|$ID_IC_ExchangeButton_RibbonItemControl/[PushButton]Exchange|$ID_IC_ExchangeButton" />
+  <Image Name="Image5IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Exchange|$ID_IC_ExchangeButton_RibbonItemControl/[PushButton]Exchange|$ID_IC_ExchangeButton/[Image]$mImage" />
+  <CustomWin Name="HelpWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Help|$ID_Help_RibbonItemControl" />
+  <PushButton Name="Help1PB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Help|$ID_Help_RibbonItemControl/[PushButton]Help[1]|$ID_Help_FlyoutButtonShowFlyout" />
+  <PushButton Name="Help2PB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Help|$ID_Help_RibbonItemControl/[PushButton]Help[2]|$ID_Help_FlyoutButtonExecute" />
+  <Image Name="Image6IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[CustomWin]$InfoCenter/[CustomWin]Help|$ID_Help_RibbonItemControl/[PushButton]Help[2]|$ID_Help_FlyoutButtonExecute/[Image]$mImage" />
+  <Pane Name="QATHwndSourcePANE" GUIType="UIA" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource" />
+  <CustomWin Name="CustomWin6WIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1" />
+  <CustomWin Name="NewWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]New|$AcQATNew_RibbonItemControl" />
+  <PushButton Name="NewPB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]New|$AcQATNew_RibbonItemControl/[PushButton]New|$AcQATNew" />
+  <Image Name="Image7IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]New|$AcQATNew_RibbonItemControl/[PushButton]New|$AcQATNew/[Image]$mImage" />
+  <CustomWin Name="OpenWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]Open|$AcQATOpen_RibbonItemControl" />
+  <PushButton Name="OpenPB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]Open|$AcQATOpen_RibbonItemControl/[PushButton]Open|$AcQATOpen" />
+  <Image Name="Image8IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]Open|$AcQATOpen_RibbonItemControl/[PushButton]Open|$AcQATOpen/[Image]$mImage" />
+  <CustomWin Name="SheetSetManagerWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]Sheet Set Manager|$AcQATSSM_RibbonItemControl" />
+  <PushButton Name="SheetSetManagerPB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]Sheet Set Manager|$AcQATSSM_RibbonItemControl/[PushButton]Sheet Set Manager|$AcQATSSM" />
+  <Image Name="Image9IMG" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]Sheet Set Manager|$AcQATSSM_RibbonItemControl/[PushButton]Sheet Set Manager|$AcQATSSM/[Image]$mImage" />
+  <CustomWin Name="AutodeskPrivateWindowsToolBarsToolBarCustomizeButtonWIN" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]Autodesk.Private.Windows.ToolBars.ToolBarCustomizeButton|$ID_ToolBarCustomize_RibbonItemControl" />
+  <PushButton Name="AutodeskPrivateWindowsToolBarsToolBarCustomizeButtonPB" Tag="[CustomWin]AdImpApplicationFrame|$4096/[Pane]QATHwndSource/[CustomWin]#1/[CustomWin]Autodesk.Private.Windows.ToolBars.ToolBarCustomizeButton|$ID_ToolBarCustomize_RibbonItemControl/[PushButton]Autodesk.Private.Windows.ToolBars.ToolBarCustomizeButton|$ID_ToolBarCustomize_CustomizeButton" />
+  <CustomWin Name="DocumentSwitch1WIN" Tag="[CustomWin]Document Switch|$59419" />
+  <CustomWin Name="DocumentSwitch2WIN" Tag="[CustomWin]Document Switch|$59419/[CustomWin]Document Switch|$16721" />
+  <CustomWin Name="DocumentSwitch3WIN" Tag="[CustomWin]Document Switch|$59419/[CustomWin]Document Switch|$16721/[CustomWin]DocumentSwitch|$7" />
+  <Pane Name="Pane3PANE" GUIType="UIA" Tag="[CustomWin]Document Switch|$59419/[CustomWin]Document Switch|$16721/[CustomWin]DocumentSwitch|$7/[Pane]#1" />
+  <PageList Name="PageListPG" Tag="[CustomWin]Document Switch|$59419/[CustomWin]Document Switch|$16721/[CustomWin]DocumentSwitch|$7/[Pane]#1/[PageList]$TabControl_1" />
+  <Window Name="AutodeskAutoCADViewModelDocumentSwitchNonDrawingWindowDataWIN" Tag="[CustomWin]Document Switch|$59419/[CustomWin]Document Switch|$16721/[CustomWin]DocumentSwitch|$7/[Pane]#1/[PageList]$TabControl_1/[Window]Autodesk.AutoCAD.ViewModel.DocumentSwitch.NonDrawingWindowData|$ID_FileTab_Start" />
+  <StaticText Name="StartST" Tag="[CustomWin]Document Switch|$59419/[CustomWin]Document Switch|$16721/[CustomWin]DocumentSwitch|$7/[Pane]#1/[PageList]$TabControl_1/[Window]Autodesk.AutoCAD.ViewModel.DocumentSwitch.NonDrawingWindowData|$ID_FileTab_Start/[StaticText]Start|$TabItemDrawingName" />
+  <PushButton Name="PushButton3PB" Tag="[CustomWin]Document Switch|$59419/[CustomWin]Document Switch|$16721/[CustomWin]DocumentSwitch|$7/[Pane]#1/[PageList]$TabControl_1/[Window]Autodesk.AutoCAD.ViewModel.DocumentSwitch.NonDrawingWindowData|$ID_FileTab_Start/[PushButton]$ID_FileTab_Close" />
+  <PushButton Name="PushButton4PB" Tag="[CustomWin]Document Switch|$59419/[CustomWin]Document Switch|$16721/[CustomWin]DocumentSwitch|$7/[Pane]#1/[PageList]$TabControl_1/[PushButton]$ID_FileTab_New" />
+  <CustomWin Name="CustomWin7WIN" Tag="[CustomWin]$59420" />
+  <CustomWin Name="CustomWin8WIN" Tag="[CustomWin]$59421" />
+  <CustomWin Name="CLIPaletteSetWIN" Tag="[CustomWin]CLI PaletteSet|$59422" />
+</Plant3DMainWin>

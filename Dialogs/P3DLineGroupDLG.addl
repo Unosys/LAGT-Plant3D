@@ -1,0 +1,7 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.P3DLineGroupDLG" Tag="[Pane]$EditProjectSettingsDlg" ParentType="Plant3D">
+<PushButton Name="M_btnAddAnn" Tag="[PushButton]$m_btnAddAnn" />
+<PushButton Name="M_btnAddProperty" Tag="[PushButton]$m_btnAddProperty" />
+<PushButton Name="M_btnCancel" Tag="[PushButton]$m_btnCancel" />
+<PushButton Name="MapPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#1/[Pane]$m_splitVert|#1/[Pane]*/[Pane]$m_class3dPropertySettingsUserCtrl|#1/[GroupBox]$m_groupBox|#1/[GroupBox]$m_groupBoxProperties|#2/[PushButton]$m_btnMapProperties" />
+
+</Pane>

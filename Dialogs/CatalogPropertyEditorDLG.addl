@@ -1,0 +1,31 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CatalogPropertyEditorDLG" Tag="[Window]Catalog Property Editor|$PropertyEditor" ParentType="MainWin" GUIType="UIA">
+
+
+
+	<PushButton Name="ClosePB" Tag="[TitleBar]$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+	<!--<PageList Name="PageListPG" Tag="[PageList]$MainTabControl|#1" />-->
+	<PopupList Name="DisplayPL" Tag="[CustomWin]$UserControl_EditPartsList|#1/[PopupList]Display:|$PropertyTypeCombo|#1" />
+
+	<Window Name="PartListWIN" Tag="[PageList]$MainTabControl|#1/[Window]Part List|$PartListTab|#1" />
+	<StaticText Name="PartListST" Tag="[PageList]$MainTabControl|#1/[Window]Part List|$PartListTab|#1/[StaticText]Part List|#1" />
+	<Window Name="ManageSizesWIN" Tag="[PageList]$MainTabControl|#1/[Window]Manage Sizes|$ManageSizesTab|#2" />
+	<StaticText Name="ManageSizesST" Tag="[PageList]$MainTabControl|#1/[Window]Manage Sizes|$ManageSizesTab|#2/[StaticText]Manage Sizes|#1" />
+	<Window Name="ManagePropertiesWIN" Tag="[PageList]$MainTabControl|#1/[Window]Manage Properties|$ManagePropsTab|#3" />
+	<StaticText Name="ManagePropertiesST" Tag="[PageList]$MainTabControl|#1/[Window]Manage Properties|$ManagePropsTab|#3/[StaticText]Manage Properties|#1" />
+
+	<PushButton Name="PushButton1PB" Tag="[CustomWin]$UserControl_ManageSizes|#1/[PushButton]$Button_3|#1" />
+	<PushButton Name="PushButton2PB" Tag="[CustomWin]$UserControl_ManageSizes|#1/[PushButton]$Button_2|#2" />
+	<PushButton Name="PushButton3PB" Tag="[CustomWin]$UserControl_ManageSizes|#1/[PushButton]$Button_1|#3" />
+
+	<PushButton Name="OKPB" Tag="[PushButton]OK|$OK_Button|#1" />
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$Cancel_Button|#2" />
+	<TextField Name="DisplayNameTF" Tag="[CustomWin]$m_EditProperties|#1/[TextField]$DisplayName_TB|#2" />
+	<TextField Name="DefaultValueTF" Tag="[CustomWin]$m_EditProperties|#1/[TextField]$DefaultValue_TB|#4" />
+	<TextField Name="FieldNameTF" Tag="[CustomWin]$m_EditProperties|#1/[TextField]$FieldName_TB|#6" />
+
+	<ListBox Name="AddedPropertiesLB" Tag="[CustomWin]$m_EditProperties|#1/[ListBox]Added Properties|$AddedProperties_LB|#1" />
+	<PushButton Name="AddPB" Tag="[CustomWin]$m_EditProperties|#1/[PushButton]Add|$AddBtn|#1" />
+	<PushButton Name="RemovePB" Tag="[CustomWin]$m_EditProperties|#1/[PushButton]Remove|$Remove_Button|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

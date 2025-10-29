@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectStatusManagerDLG" Tag="[DialogBox]Project Status Manager" ParentType="Plant3D">
+<PushButton Name="Cancel" Tag="[PushButton]#1|$btnCancel" />
+<CustomWin Name="PictureBox1" Tag="[CustomWin][System.Windows.Forms.PictureBox]#1|[System.Windows.Forms.PictureBox]$pictureBox1" />
+<PushButton Name="Help" Tag="[PushButton]#3|$btnHelp" />
+<PushButton Name="Close" Tag="[PushButton]$btnClose" />
+<PushButton Name="NewPB" Tag="[PushButton]$btnNew" />
+<StaticText Name="CurrentProjectDefaultProjec" Tag="[StaticText]#1|$lblCurrentProject" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

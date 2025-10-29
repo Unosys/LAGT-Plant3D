@@ -1,0 +1,17 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.CreateIsometricStyleDLG" Tag="[DialogBox]$Window_1" ParentType="Plant3D">
+<StaticText Name="TextBlock_StyleName" Tag="[StaticText]$textBlock_StyleName" />
+<StaticText Name="TextBlock_ContextName" Tag="[StaticText]$textBlock_ContextName" />
+<PushButton Name="Btn_Previous" Tag="[PushButton]$btn_Previous" />
+<PushButton Name="Btn_Next" Tag="[PushButton]$btn_Next" />
+<CustomWin Name="ContentControl_Configurator" Tag="[CustomWin]$contentControl_Configurator" />
+<Image Name="Image" Tag="[Image]$" />
+<Image Name="Tooltip_Overlay_Image" Tag="[Image]$Tooltip_Overlay_Image" />
+<StaticText Name="TextBlock_HiddenLayer" Tag="[StaticText]$textBlock_HiddenLayer" />
+<PushButton Name="Btn_PreviousOption" Tag="[PushButton]$btn_PreviousOption" />
+<StaticText Name="TextBlock_OptionPosition" Tag="[StaticText]$textBlock_OptionPosition" />
+<PushButton Name="Btn_NextOption" Tag="[PushButton]$btn_NextOption" />
+<StaticText Name="TextBlock_contextDescription" Tag="[StaticText]$textBlock_contextDescription" />
+<PushButton Name="Btn_Confirm" Tag="[PushButton]$btn_Confirm" />
+<PushButton Name="Btn_Help" Tag="[PushButton]$btn_Help" />
+<PushButton Name="Btn_Cancel" Tag="[PushButton]$btn_Cancel" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

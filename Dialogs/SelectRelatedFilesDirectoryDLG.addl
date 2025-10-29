@@ -1,0 +1,6 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.SelectRelatedFilesDirectoryDLG" Tag="[DialogBox]Select Related Files Directory" ParentType="Pane">
+
+	<PushButton Name="CancelPB" Tag="[PushButton]Cancel|$2|#8" />
+
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

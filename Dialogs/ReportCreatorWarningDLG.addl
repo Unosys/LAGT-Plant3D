@@ -1,0 +1,7 @@
+﻿
+<Autodesk.GUIHarness.MainWin Class="Autodesk.GUIHarness.Plant3D.Dialogs.ReportCreatorWarningDLG" Tag="[MainWin]$MainForm" ParentType="Desktop" GUIType="UIA">
+
+	<StaticText Name="ClickToConvertSelectedST" Tag="[Pane]$m_mainTableLayoutPanel|#1/[StaticText]$Migrator_Description" />
+
+
+</Autodesk.GUIHarness.MainWin>

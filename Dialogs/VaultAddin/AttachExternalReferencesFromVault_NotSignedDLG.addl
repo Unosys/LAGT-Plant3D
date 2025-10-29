@@ -1,0 +1,4 @@
+﻿<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.AttachExternalReferencesFromVault_NotSignedDLG" Tag="[DialogBox]Attach External References from Vault" ParentType="MainWin" GUIType="WIN32">
+  <PushButton Name="OK" Tag="[PushButton]OK|$2|#1" />
+  <StaticText Name="NotSignedInVaultST" Tag="[StaticText]Not signed in vault document service*|$65535|#1" />
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

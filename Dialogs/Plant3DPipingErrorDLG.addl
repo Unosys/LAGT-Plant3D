@@ -1,0 +1,13 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.Plant3DPipingErrorDLG" Tag="[Pane]Plant 3D Piping Errors|$AcPp3dErrorDlg|#1" ParentType="Plant3D" GUIType="UIA">
+  <Pane Name="OneOrMoreItems1PANE" Tag="[Pane]One or more items have caused an error*[1]|$panel1|#2" />
+  <Table Name="DataGridViewTBL" Tag="[Pane]One or more items have caused an error*[1]|$panel1|#2/[Table]DataGridView|$GridView|#1" />
+  <CustomWin Name="TopRowWIN" Tag="[Pane]One or more items have caused an error*[1]|$panel1|#2/[Table]DataGridView|$GridView|#1/[CustomWin]Top Row|#1" />
+  <Header Name="ErrorCTL" Tag="[Pane]One or more items have caused an error*[1]|$panel1|#2/[Table]DataGridView|$GridView|#1/[CustomWin]Top Row|#1/[Header]Error|#1" />
+  <CustomWin Name="Row0WIN" Tag="[Pane]One or more items have caused an error*[1]|$panel1|#2/[Table]DataGridView|$GridView|#1/[CustomWin]Row 0|#2" />
+  <CustomWin Name="ErrorRow0WIN" Tag="[Pane]One or more items have caused an error*[1]|$panel1|#2/[Table]DataGridView|$GridView|#1/[CustomWin]Row 0|#2/[CustomWin]Error Row 0|#1" />
+  <PushButton Name="Close1PB" Tag="[Pane]One or more items have caused an error*[1]|$panel1|#2/[PushButton]Close|$BtnClose|#1" />
+  <StaticText Name="OneOrMoreItemsST" Tag="[StaticText]One or more items have caused an error*|$LabelText|#1" />
+  <Pane Name="OneOrMoreItems2PANE" Tag="[Pane]One or more items have caused an error*[2]|$IconPicBox|#1" />
+  <TitleBar Name="Plant3DPipingErrorsCTL" Tag="[TitleBar]Plant 3D Piping Errors|$TitleBar|#1" />
+  <PushButton Name="BtnClose" Tag="[TitleBar]Plant 3D Piping Errors|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+</Pane>

@@ -1,0 +1,7 @@
+ATTRIBUTES
+Attribute1 General.Project_Name
+Attribute2 P3dLineGroup.Tag
+Attribute3 P3dLineGroup.NominalSpec
+Attribute4 P3dLineGroup.Service
+
+BOM-ATTRIBUTES

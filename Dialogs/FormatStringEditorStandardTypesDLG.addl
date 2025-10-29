@@ -1,0 +1,24 @@
+<Pane Class="Autodesk.GUIHarness.Plant3D.Dialogs.FormatStringEditorStandardTypesDLG" Tag="[Pane]$FormatStringEditorForm" ParentType="ReportDesignerApplicationDLG">
+
+	<ListBox Name="CategoryLB" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[ListBox]Category|$lbxCategory|#1" />
+	<ListBoxItem Name="DateTimeLBI" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[ListBox]Category|$lbxCategory|#1/[ListBoxItem]DateTime|#1" />
+	<ListBoxItem Name="NumberLBI" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[ListBox]Category|$lbxCategory|#1/[ListBoxItem]Number|#2" />
+	<ListBoxItem Name="PercentLBI" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[ListBox]Category|$lbxCategory|#1/[ListBoxItem]Percent|#3" />
+	<ListBoxItem Name="CurrencyLBI" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[ListBox]Category|$lbxCategory|#1/[ListBoxItem]Currency|#4" />
+	<ListBoxItem Name="SpecialLBI" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[ListBox]Category|$lbxCategory|#1/[ListBoxItem]Special|#5" />
+	<ListBoxItem Name="GeneralLBI" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[ListBox]Category|$lbxCategory|#1/[ListBoxItem]General|#6" />
+	<PushButton Name="CancelPB" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[PushButton]Cancel|$btnCancel|#2" />
+	<PushButton Name="OKPB" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[PushButton]OK|$btnOK|#1" />
+	<Pane Name="RootPANE" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1" />
+	<Pane Name="CategoryPANE" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1/[Pane]*Category*|#1" />
+	<!--<PageList Name="TabbedControlGroup1PG" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1/[PageList]tabbedControlGroup1|#1" />
+	<PageList Name="TabbedControlGroup1TabsPG" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1/[PageList]tabbedControlGroup1|#1/[PageList]tabbedControlGroup1 Tabs|#1" />-->
+	<Window Name="StandardTypesWIN" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1/[PageList]tabbedControlGroup1|#1/[PageList]tabbedControlGroup1 Tabs|#1/[Window]Standard Types|#2" />
+	<Window Name="CustomWIN" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1/[PageList]tabbedControlGroup1|#1/[PageList]tabbedControlGroup1 Tabs|#1/[Window]Custom|#1" />
+	<Pane Name="StandardTypesPANE" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1/[PageList]tabbedControlGroup1|#1/[Pane]Standard Types|#1" />
+	<Pane Name="GeneralStandardGroupPANE" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1/[PageList]tabbedControlGroup1|#1/[Pane]Standard Types|#1/[Pane]generalStandardGroup|#1" />
+	<Pane Name="GrpButtonsPANE" Tag="[Pane]The XtraLayoutControl|$layoutControl|#1/[Pane]Root|#1/[Pane]grpButtons|#2" />
+	<TitleBar Name="FormatStringEditorCTL" Tag="[TitleBar]Format String Editor|$TitleBar|#1" />
+	<PushButton Name="ClosePB" Tag="[TitleBar]Format String Editor|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Pane>

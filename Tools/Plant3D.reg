@@ -1,0 +1,306 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}]
+"DisableHWOffDialogs"=dword:00000001
+"LaunchNFW"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\3DGS Configuration\GSHEIDI10]
+"CurveTessellationTol"=dword:00000057
+"FramesPerSecond"=dword:00000005
+"SurfaceTessellationTol"=dword:0000005c
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\FixedProfile\Application Window]
+"Position"="2 2 654 638"
+"Show"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\FixedProfile\Command Line Windows]
+"CmdLine.Rows"=dword:00000003
+"DockWindow.Style"=dword:00000002
+"TextWindow.Position"="10 70 640 525"
+"TextWindow.Show"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\FixedProfile\Drawing Window]
+"Show"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\FixedProfile\Editor Configuration]
+"AutoSnapControl"=dword:00000007
+"AutoSnapPolarAddAng"=""
+"AutoSnapPolarAng"="1.5707963267948966"
+"AutoSnapPolarMode"=dword:00000001
+"AutoSnapShowAperture"=dword:00000001
+"LayoutRegenControl"=dword:00000002
+"MaxOctTreeNodesToAllocate"=dword:00007530
+"SDF_AttributeExtractTemplateFile"=""
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\FixedProfile\General]
+"ANSIHatch"="acad.pat"
+"ANSILinetype"="acad.lin"
+"InsertUnitsDefSource"=dword:00000000
+"InsertUnitsDefTarget"=dword:00000000
+"ISOHatch"="acadiso.pat"
+"ISOLinetype"="acadiso.lin"
+"Measureinit"=dword:00000000
+"StartUpType"="Scratch"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\FixedProfile\General Configuration]
+"CommandDialogs"=dword:00000000
+"DYNMODE"=dword:00000000
+"FileDialog"=dword:00000000
+"QAFlags"=dword:00000016
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\InfoCenter\Balloon]
+"DisplaySecond"=dword:00000001
+"IsBallloonForDidYouKnowMessage"=dword:00000000
+"IsBalloonForCADManChannel"=dword:00000000
+"IsBalloonForNewSoftwareUpdates"=dword:00000000
+"IsBalloonForProductSupport"=dword:00000000
+"IsBalloonForRSSFeeds"=dword:00000000
+"IsDidYouKnowMessageUseBalloonTime"=dword:00000000
+"IsEnableBalloon"=dword:00000000
+"IsEnabledDidYouKnowBalloons"=dword:00000000
+"Transparency"=dword:00000014
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\MTEXT]
+"AutoStack"=dword:00000001"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles]
+
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\Command Line Windows]
+"CmdLine.Rows"=dword:00000003
+"DockWindow.Style"=dword:00000002
+"TextWindow.Position"="10 70 640 525"
+"TextWindow.Show"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\Dialogs\AcDim:DimstyleFormat]
+"ActiveTab"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\Dialogs\AecProject60-ProjectPropertyWorksheet]
+"Height"=dword:000001f4
+"Width"=dword:000001f4
+"X"=dword:00000064
+"xml"="<?xml version=\"1.0\"?><project_property>	<pi><STYLE FLAGS=\"1375797303\" COLUMNWIDTH=\"0.613095238095238\"/><OBJECT NAME=\"{E7BCF82E-BF69-431B-9153-1FF0DEF8F613}\"><CATEGORY NAME=\"Drawing Settings12002\" STATE=\"-1\"/><CATEGORY NAME=\"Templates12003\" STATE=\"-1\"/><CATEGORY NAME=\"ADVANCED12010\" STATE=\"-1\"/><CATEGORY NAME=\"BASIC12000\" STATE=\"-1\"/><CATEGORY NAME=\"General12001\" STATE=\"-1\"/><CATEGORY NAME=\"Project Standards12011\" STATE=\"-1\"/><CATEGORY NAME=\"Project Browser12012\" STATE=\"-1\"/><CATEGORY NAME=\"Folders12013\" STATE=\"-1\"/><CATEGORY NAME=\"Keynotes12014\" STATE=\"-1\"/><CATEGORY NAME=\"Detail Components12015\" STATE=\"-1\"/><CATEGORY NAME=\"Tool Palettes12016\" STATE=\"-1\"/></OBJECT></pi></project_property>"
+"Y"=dword:000000c8
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\Drawing Window]
+"Autotracking vector"=dword:00ffffff
+"BackColor"=dword:00ffffff
+"Background"=dword:00000000
+"FontFace"="MS Sans Serif"
+"FontHeight"=dword:00000008
+"FontItalic"=dword:00000000
+"FontPitchAndFamily"=dword:00000000
+"FontWeight"=dword:00000190
+"ForeColor"=dword:00000000
+"Layout background"=dword:00ffffff
+"LayoutXhairPickboxEtc"=dword:00000000
+"MonoVectors"=dword:00000000
+"SDIMode"=dword:00000000
+"XhairPickboxEtc"=dword:00ffffff
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\Editor Configuration]
+"ACADLspAsDoc"=dword:00000000
+"AutomaticSaveMinutes"=dword:00000000
+"LogFilePath"="C:\\temp"
+"MainDictionary"="enu"
+"MENUBAR"=dword:00000001
+"MTextEditor"="{sInternal}"
+"PSOUT_PrologFileName"=""
+"TraySettingsShowIcons"=dword:00000000
+"TraySettingsShowNotifications"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\General]
+"UseStartUpDialog"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\General]
+"Attdia"=dword:00000000
+"Attreq"=dword:00000001
+"Blipmode"=dword:00000000
+"CmdHistLines"=dword:000001f4
+"CmdVisLines"=dword:00000006
+"Coords"=dword:00000001
+"Delobj"=dword:00000001
+"Dragmode"=dword:00000002
+"LineWeightUnits"=dword:00000001
+"LogFileOpen"=dword:00000001
+"LWDEFAULT"=dword:00000019
+"MaxDwg"=dword:00000000
+"NewStyleSheet"=""
+"NoStartUpDialog"=dword:00000001
+"Osmode"=dword:00000000
+"PAPERUPDATE"=dword:00000001
+"Pickstyle"=dword:00000001
+"PLQUIET"=dword:00000000
+"RecoveryMode"=dword:00000000
+"Scrollbars"=dword:00000000
+"ShowProxyDialog"=dword:00000000
+"ToolTips"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\General Configuration]
+"PROXYWEBSEARCH"=dword:00000000
+"QPMODE"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\Toolbars]
+"ACA.TB_DIMENSION"="hide float 20 135 1"
+"ACA.TB_DRAWORDER"="show top 2 1"
+"ACA.TB_INQUIRY"="hide float 20 520 1"
+"ACA.TB_LAYER2"="hide float 400 300 1"
+"ACA.TB_LAYERPROPERTIES"="show top 1 1"
+"ACA.TB_LIGHTS"="hide float 500 575 1"
+"ACA.TB_MATMAPPING"="hide float 590 630 1"
+"ACA.TB_MODIFY"="show top 3 1"
+"ACA.TB_NAVIGATION"="show top 1 0"
+"ACA.TB_OBJECT_PROPERTIES"="hide top 1 1"
+"ACA.TB_OBJECT_SNAP"="hide float 20 190 1"
+"ACA.TB_ORBIT"="hide float 20 575 1"
+"ACA.TB_QUICK_ACCESS_TOOLBAR"="hide float 200 200 1"
+"ACA.TB_REFEDIT"="hide float 20 245 1"
+"ACA.TB_RENDER"="hide float 480 685 1"
+"ACA.TB_SHAPES"="show top 2 0"
+"ACA.TB_STANDARD"="show top 0 0"
+"ACA.TB_UCS"="hide float 20 355 1"
+"ACA.TB_UCSII"="hide float 400 355 1"
+"ACA.TB_VIEWS"="hide float 20 410 1"
+"ACA.TB_VISUALSTYLES"="hide float 20 300 1"
+"ACA.TB_WORKSPACES"="show top 0 1"
+"ACA.TB_ZOOM"="hide float 20 465 1"
+"ACA_3DSOLIDS.TB_SOLIDS2"="hide float 20 685 1"
+"ACA_3DSOLIDS.TB_SOLIDS"="hide float 20 630 1"
+"ACA_CAD_MANAGER.TB_AECPROJECTSTANDARDS"="hide float 400 465 1"
+"ACA_CAD_MANAGER.TB_CADMANAGER"="hide float 400 410 1"
+"ACAD.TB_LAYER"="hide top 0 1"
+"ACAD.TB_OBJECT_PROPERTIES"="hide top 1 1"
+"ACAD.TB_WORKSPACES"="hide top 1 0"
+"ELECTRICAL.ATTSTUFF"="hide float 100 100 2"
+"ELECTRICAL.CABLE_MARKER"="hide float 100 100 2"
+"ELECTRICAL.CONDREPORT"="hide float 450 236 1"
+"ELECTRICAL.COPYLMG"="hide float 843 236 8"
+"ELECTRICAL.CPY_CIRC"="hide float 659 236 5"
+"ELECTRICAL.EDITSYM"="hide float 100 100 2"
+"ELECTRICAL.EDPNL"="hide float 843 236 8"
+"ELECTRICAL.EXTRAWNUMS"="hide float 770 190 2"
+"ELECTRICAL.FENCE_IN"="hide float 819 157 2"
+"ELECTRICAL.FIXWN"="hide float 774 190 2"
+"ELECTRICAL.INSCMP"="hide float 659 236 5"
+"ELECTRICAL.INSCMPLIST"="hide float 819 157 2"
+"ELECTRICAL.INSWIRE"="hide float 100 100 2"
+"ELECTRICAL.LADDERS"="hide float 100 100 2"
+"ELECTRICAL.LEADERS"="hide float 705 213 4"
+"ELECTRICAL.LINK_EM"="hide float 843 213 2"
+"ELECTRICAL.LOC_EM"="hide float 843 213 2"
+"ELECTRICAL.MISC"="hide float 636 213 12"
+"ELECTRICAL.NU_ATTSTUFF"="hide float 100 100 2"
+"ELECTRICAL.NU_CPY_CIRC"="hide float 659 236 5"
+"ELECTRICAL.NU_EDITSYM"="hide float 100 100 2"
+"ELECTRICAL.NU_FIX"="hide float 773 190 2"
+"ELECTRICAL.NU_INSCMP"="hide float 659 236 5"
+"ELECTRICAL.NU_INSPIPE"="hide float 100 100 2"
+"ELECTRICAL.NU_LEADERS"="hide float 188 213 3"
+"ELECTRICAL.NU_PROJECT"="hide float 843 236 1"
+"ELECTRICAL.NU_RETAG"="hide float 728 236 4"
+"ELECTRICAL.NU_SCOOT"="hide float 100 100 2"
+"ELECTRICAL.NU_SRC_DES"="hide float 659 236 5"
+"ELECTRICAL.PLC_INSERT"="hide float 659 236 5"
+"ELECTRICAL.PMISC"="hide float 843 236 8"
+"ELECTRICAL.PNL_FP_INS"="hide float 843 236 8"
+"ELECTRICAL.PNL_FP_INSLST"="hide float 843 236 8"
+"ELECTRICAL.PNLREPORTS"="hide float 843 236 8"
+"ELECTRICAL.POWCHECK"="hide float 100 100 2"
+"ELECTRICAL.REPORTS"="hide float 843 236 8"
+"ELECTRICAL.RETAG"="hide float 728 236 4"
+"ELECTRICAL.SCOOT"="hide float 100 100 2"
+"ELECTRICAL.SRC_DES"="hide float 659 236 5"
+"ELECTRICAL.SURFER"="hide float 843 213 2"
+"ELECTRICAL.TB_DIMENSION"="hide float 100 130 1"
+"ELECTRICAL.TB_DRAW"="hide left 0 0"
+"ELECTRICAL.TB_DRAWORDER"="hide float 251 286 1"
+"ELECTRICAL.TB_INQUIRY"="hide float 100 170 1"
+"ELECTRICAL.TB_INSERT"="hide float 100 190 1"
+"ELECTRICAL.TB_LAYER"="hide top 0 1"
+"ELECTRICAL.TB_LAYOUTS"="hide float 100 350 1"
+"ELECTRICAL.TB_MODIFY"="hide right 0 0"
+"ELECTRICAL.TB_MODIFY_II"="hide float 100 270 1"
+"ELECTRICAL.TB_OBJECT_PROPERTIES"="hide top 1 1"
+"ELECTRICAL.TB_OBJECT_SNAP"="hide float 100 210 1"
+"ELECTRICAL.TB_ORBIT"="hide float 100 350 1"
+"ELECTRICAL.TB_REFEDIT"="hide float 100 170 1"
+"ELECTRICAL.TB_REFERENCE"="hide float 100 370 1"
+"ELECTRICAL.TB_RENDER"="hide float 100 230 1"
+"ELECTRICAL.TB_SHADING"="hide float 100 390 1"
+"ELECTRICAL.TB_SOLIDS2"="hide float 100 250 1"
+"ELECTRICAL.TB_SOLIDS"="hide float 100 250 1"
+"ELECTRICAL.TB_STANDARD"="show top 0 0"
+"ELECTRICAL.TB_STANDARDS"="hide float 100 380 1"
+"ELECTRICAL.TB_STYLES"="hide float 200 200 1"
+"ELECTRICAL.TB_SURFACES"="hide float 100 290 1"
+"ELECTRICAL.TB_TEXT"="hide float 100 320 1"
+"ELECTRICAL.TB_UCS"="hide float 100 310 1"
+"ELECTRICAL.TB_UCSII"="hide float 100 300 1"
+"ELECTRICAL.TB_VIEWPOINT"="hide float 100 330 1"
+"ELECTRICAL.TB_VIEWPORTS"="hide float 100 350 1"
+"ELECTRICAL.TB_WEB"="hide float 100 380 1"
+"ELECTRICAL.TB_WORKSPACES"="hide float 100 330 1"
+"ELECTRICAL.TB_ZOOM"="hide float 100 350 1"
+"ELECTRICAL.TERM_DIR"="hide float 100 100 2"
+"ELECTRICAL.Toolbar1"="hide float 200 200 1"
+"ELECTRICAL.WD_COMP"="hide float 100 320 2"
+"ELECTRICAL.WD_CONDUIT"="hide float 659 236 1"
+"ELECTRICAL.WD_DUMBCONV"="hide float 450 236 1"
+"ELECTRICAL.WD_ERGO_STD2"="hide float 134 176 1"
+"ELECTRICAL.WD_ERGO_STD"="hide top 0 2"
+"ELECTRICAL.WD_NU_MAIN"="hide float 340 205 1"
+"ELECTRICAL.WD_PNL"="hide top 1 0"
+"ELECTRICAL.WDCONFIG"="hide float 659 236 5"
+"ELECTRICAL.WDLEV2"="hide float 843 236 8"
+"ELECTRICAL.WDLEV"="hide float 843 236 8"
+"ELECTRICAL.WDLINKP"="hide float 450 236 1"
+"ELECTRICAL.WDLINKS"="hide float 450 236 1"
+"ELECTRICAL.WDPROJECT"="hide float 843 236 8"
+"ELECTRICAL.WDTAGP"="hide float 450 236 1"
+"ELECTRICAL.WDTAGS"="hide float 450 236 1"
+"ELECTRICAL.WIRE_TEE"="hide float 100 100 2"
+"ELECTRICAL.WIRENUMS"="hide float 100 100 2"
+"ELECTRICAL.XREF"="hide float 636 236 3"
+"EXPRESS.TB_EXPRESS_TOOLS_BLOCK_TOOLBAR"="hide float 310 205 1"
+"EXPRESS.TB_EXPRESS_TOOLS_LAYER_TOOLBAR"="hide float 310 325 1"
+"EXPRESS.TB_EXPRESS_TOOLS_STANDARD_TOOLBAR"="hide float 310 265 1"
+"EXPRESS.TB_EXPRESS_TOOLS_TEXT_TOOLBAR"="hide float 310 145 1"
+"LargeButtons"="no"
+"ShowShortcuts"="yes"
+"ToolTips"="no"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Profiles\{sUnnamedProfile}\Variables]
+"*CMDSYSVARSEPARATE"="0"
+"*INPUTSEARCHOPTIONFLAGS"="0"
+"*REMEMBERMISTYPE"="0"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Settings\Launchpad]
+"DISPLAY"="0"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\Variables]
+"FILETABSTATE"="0"
+
+[HKEY_CURRENT_USER\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\WebServices\CommunicationCenter]
+"DataState"=dword:00000000
+"EnableBubbleNotification"=dword:00000000
+"LastUpdateTimeHiWord"=dword:00000000
+"LastUpdateTimeLoWord"=dword:00000000
+"OutOfBoxWizardCompletedStep"=dword:00000000
+"PollingFrequency"=dword:00000018
+@=""
+
+[HKEY_CURRENT_USER\SOFTWARE\Autodesk\MC3]
+"MC3OptIn"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}]
+"EnableNewTabPage"=dword:00000000
+"InitialSetup"=dword:00000000
+"UseWelcomeScreen"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\Software\Autodesk\AutoCAD\{sAcadRegVerKey}\{sAcadNumber}\DockedTools]
+"{52449534-3311-4864-9D22-A4BACC9DD08C}"="2 -2 28 207 500 1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Autodesk\MC3]
+"MC3Enabled"=dword:00000000
+
+

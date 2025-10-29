@@ -1,0 +1,20 @@
+﻿<Window Class="Autodesk.GUIHarness.Plant3D.Dialogs.PlantProjectCollaborationChooseTeamDLG" Tag="[Window]Plant Project Collaboration|$Window_1" ParentType="MainWin" GUIType="UIA">
+  <TitleBar Name="PlantProjectCollaborationCTL" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[CustomWin]System Menu Bar|$SystemMenuBar|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]Plant Project Collaboration|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+  <CustomWin Name="CustomWinWIN" Tag="[CustomWin]$UserControl_1|#1" />
+  <Image Name="ImageIMG" Tag="[CustomWin]$UserControl_1|#1/[Image]$Image_1|#1" />
+  <StaticText Name="StaticTextST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]&gt;|$TextBlock_4|#1" />
+  <PopupList Name="PopupListPL" Tag="[CustomWin]$UserControl_1|#1/[PopupList]$ComboBox_1|#1" />
+  <StaticText Name="ChooseABIM360ST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]Choose a BIM 360 Team project folder:|$TextBlock_1|#2" />
+  <PushButton Name="UploadProjectPB" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Upload Project|$Button_Next|#1" />
+  <StaticText Name="UploadProjectST" Tag="[CustomWin]$UserControl_1|#1/[PushButton]Upload Project|$Button_Next|#1/[StaticText]Upload Project|#1" />
+  <StaticText Name="WellSendACopyST" Tag="[CustomWin]$UserControl_1|#1/[StaticText]We'll send a copy of your current project to the cloud, but your original project will remain untouched*|$Button_LearnMore|#3" />
+  <ListBox Name="ChooseABIM360LB" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a BIM 360 Team project folder:|$ComboBox_PA360Projects|#1" />
+  <ListBoxItem Name="AutodeskProcessPowerCloudServiceCloudDocA360ProjectLBI" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a BIM 360 Team project folder:|$ComboBox_PA360Projects|#1/[ListBoxItem]Autodesk*|#1" />
+	<TreeView Name="TreeViewTV" Tag="[CustomWin]$UserControl_1|#1/[TreeView]$TreeView_ACCProjectFolders|#1" />
+	<TreeViewItem Name="LocTVI" Tag="[CustomWin]$UserControl_1|#1/[TreeView]$TreeView_ACCProjectFolders|#1/[TreeViewItem]#1" />
+
+	<StaticText Name="P3DST" Tag="[CustomWin]$UserControl_1|#1/[ListBox]Choose a BIM 360 Team project folder:|$ComboBox_PA360Projects|#1/[ListBoxItem]Autodesk*|#1/[StaticText]P3D|#1" />
+</Window>

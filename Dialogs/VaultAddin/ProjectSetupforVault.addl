@@ -1,0 +1,8 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.ProjectSetupforVault" Tag="[Pane]Project Setup|$EditProjectSettingsDlg" ParentType="MainWin" GUIType="UIA">
+
+	<PushButton Name="CheckOutPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#2/[PushButton]Check Out|$m_btnCheckOut|#1" />
+	<PushButton Name="CancelPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#2/[PushButton]Cancel|$m_btnCancel|#4" />
+	<PushButton Name="OKPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#2/[PushButton]OK|$m_btnOk|#3" />
+	<PushButton Name="ApplyPB" Tag="[Pane]$m_splitHorz|#1/[Pane]#2/[PushButton]Apply|$m_btnSave|#2" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

@@ -1,0 +1,25 @@
+<Autodesk.GUIHarness.AutoCAD.AcDialogBox Class="Autodesk.GUIHarness.Plant3D.Dialogs.PandIDProjectDataMergedDLG" Tag="[Pane]$DwgOffLineEditsNotification" ParentType="CustomWin">
+<StaticText Name="PleaseNoteThatBackwardST" Tag="[StaticText]Please note that backward migration is not supported*|$lblMsg03|#3" />
+  <PushButton Name="BrowsePB" Tag="[PushButton]Browse *|$btnBrowse|#1" />
+  <TextField Name="BackupTheDrawingToTF" Tag="[TextField]Backup the drawing to:|$txtboxDwgPath|#1" />
+  <StaticText Name="BackupTheDrawingToST" Tag="[StaticText]Backup the drawing to:|$lblMsg02|#2" />
+  <CheckBox Name="BackupTheDrawingBeforeCK" Tag="[CheckBox]Backup the drawing before migration (recommended)|$chkboxBackup|#1" />
+  <StaticText Name="PleaseVerifyThatThisST" Tag="[StaticText]Please verify that this drawing is not in use before proceeding with migration process|$lblMsg01|#1" />
+  <Pane Name="PleaseVerifyThatThis1PANE" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlInfos|#2" />
+  <Pane Name="PleaseVerifyThatThis2PANE" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlInfos|#2/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo|#1" />
+  <Link Name="HowDoIVerifyLINK" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlInfos|#2/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo|#1/[Link]How do I verify that my drawing is not in use?|$linkLabel0|#1" />
+  <StaticText Name="InformationST" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlInfos|#2/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo|#1/[StaticText]Information|$lblHeader|#1" />
+  <Link Name="WhatOccursDuringDrawingLINK" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlInfos|#2/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo|#1/[Link]What occurs during drawing migration?|$linkLabel1|#2" />
+  <Link Name="WhatIsUpdatedDuringLINK" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlInfos|#2/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo|#1/[Link]What is updated during migration?|$linkLabel1|#3" />
+  <Link Name="WhyDidTheMigrationLINK" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlInfos|#2/[Pane]Please verify that this drawing is not in use before proceeding with migration process|$frmMigrationInfo|#1/[Link]Why did the migration fail?|$linkLabel1|#4" />
+  <Pane Name="PleaseVerifyThatThis3PANE" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlButtons|#3" />
+  <PushButton Name="MigratePB" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlButtons|#3/[PushButton]Migrate|$btnMigrate|#1" />
+  <PushButton Name="CancelPB" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlButtons|#3/[PushButton]Cancel|$btnCancel|#2" />
+  <Pane Name="PleaseVerifyThatThis4PANE" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlHeader|#1" />
+  <StaticText Name="ThisDrawingWasCreatedST" Tag="[Pane]Please verify that this drawing is not in use before proceeding with migration process|$pnlHeader|#1/[StaticText]This drawing was created in AutoCAD P*|$lblHeader|#1" />
+  <TitleBar Name="AutoCADPlant3DMigrationCTL" Tag="[TitleBar]AutoCAD Plant 3D Migration|$TitleBar|#1" />
+  <CustomWin Name="SystemMenuBarWIN" Tag="[TitleBar]AutoCAD Plant 3D Migration|$TitleBar|#1/[CustomWin]System Menu Bar|$frmDrawingMigration1|#1" />
+  <MenuItem Name="SystemMI" Tag="[TitleBar]AutoCAD Plant 3D Migration|$TitleBar|#1/[CustomWin]System Menu Bar|$frmDrawingMigration1|#1/[MenuItem]System|$Item 1|#1" />
+  <PushButton Name="ClosePB" Tag="[TitleBar]AutoCAD Plant 3D Migration|$TitleBar|#1/[PushButton]Close|$Close|#1" />
+
+</Autodesk.GUIHarness.AutoCAD.AcDialogBox>

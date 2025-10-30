@@ -38,23 +38,10 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            //////CreateDrawing("P3D") CreateDrawing("P3D") = Window.Current<CreateDrawing("P3D")>();
-            //Plant3DFunctions.CreateDrawing("P3D");
             Plant3DFunctions.CopyDrawing("AUTODESKCONNECTIONPOINT.dwg");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50, 50, 0);
-            //CmdOpt_Engine.EnterPoint(140, 50, 0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            ////CmdOpt_Engine.EnterPoint(140, 50, 0);
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50, 50, 0);
-            //CmdOpt_Engine.SendCmd("_Zoom");
-            //CmdOpt_Engine.SendOpt("_All");
-			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
-			//System.Threading.Thread.Sleep(5000);
+            CmdOpt_Engine.SendCmd("_Zoom");
+            CmdOpt_Engine.SendOpt("_All");
+            CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			CmdOpt_Engine.EnterPoint(50,50);
 		}
 
@@ -63,11 +50,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
             Drawing.Current.TypeKeys("<Enter>");
             Drawing.Current.TypeKeys("<Esc 2>");
             CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-            //Plant3DFunctions.DeleteAllDrawings();
-            //Drawing.Current.Close();
 		}
 
 		public override void Verify()
@@ -79,20 +61,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            ////Plant3DFunctions.CreateDrawing("P3D");
-            ////Plant3DFunctions.CopyDrawing("AUTODESKCONNECTIONPOINT.dwg");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50, 50, 0);
-            //CmdOpt_Engine.EnterPoint(140, 50, 0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            ////CmdOpt_Engine.EnterPoint(140, 50, 0);
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50, 50, 0);
-            //CmdOpt_Engine.SendCmd("_Zoom");
-            //CmdOpt_Engine.SendOpt("_All");
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			//CmdOpt_Engine.EnterPoint(48.4835,50.0880,0.0000);
@@ -192,16 +160,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            //Plant3DFunctions.CreateDrawing("P3D");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
@@ -213,11 +171,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 			CmdOpt_Engine.EnterCR();
             Drawing.Current.TypeKeys("<Esc 2>");
             CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-            //Plant3DFunctions.DeleteAllDrawings();
 		}
 
 		public override void Verify()
@@ -230,18 +183,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            ////Plant3DFunctions.CreateDrawing("P3D");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            ////CopyDrawing("P3D", "AUTODESKCONNECTIONPOINT CopyDrawing("P3D", "AUTODESKCONNECTIONPOINT = Window.Current<CopyDrawing("P3D", "AUTODESKCONNECTIONPOINT>();
-            ////Plant3DFunctions.CopyDrawing("AUTODESKCONNECTIONPOINT.dwg");
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
@@ -254,12 +195,8 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 			CmdOpt_Engine.EnterPoint(50,50);
 			CmdOpt_Engine.EnterCR();
             //Drawing.Current.TypeKeys("<Esc>");
-            CmdOpt_Engine.SendCmd("_Undo 2");
             Drawing.Current.TypeKeys("<Esc 2>");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-            //Plant3DFunctions.DeleteAllDrawings();
+            CmdOpt_Engine.SendCmd("_Undo 2");
         }
 
 		public override void Verify()
@@ -270,37 +207,25 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	public class PLANTROUTEFROMAUTODESKCONNECTIONPOINT_Rollelbow : PLANTROUTEFROMAUTODESKCONNECTIONPOINT
 	{
 		public override void Launch()
-		{
-            //Plant3DFunctions.CreateDrawing("P3D");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
+        {
+            //Plant3DFunctions.DeleteAllDrawings();
+            //Plant3DFunctions.CopyDrawing("AUTODESKCONNECTIONPOINT.dwg");
+            CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
-			CmdOpt_Engine.SendOption("Rollelbow",6,11);
+            System.Threading.Thread.Sleep(2000);
+            CmdOpt_Engine.SendOption("Rollelbow",6,11);
 		}
 
 		public override void Dismiss()
 		{
-			CmdOpt_Engine.EnterPoint(100,65);
-			CmdOpt_Engine.EnterPoint(68,0);
+			CmdOpt_Engine.EnterPoint(100, 65);
+			CmdOpt_Engine.EnterPoint(68, 0);
 			CmdOpt_Engine.EnterCR();
-            CmdOpt_Engine.EnterCR();
-            Drawing.Current.TypeKeys("<Esc 2>");
-            CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-            //Plant3DFunctions.DeleteAllDrawings();
+			//CmdOpt_Engine.EnterCR();
+			Drawing.Current.TypeKeys("<Esc 2>");
+			CmdOpt_Engine.SendCmd("_Undo 2");
 		}
-
 		public override void Verify()
 		{
 		}
@@ -310,16 +235,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            //Plant3DFunctions.CreateDrawing("P3D");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
@@ -332,10 +247,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 			CmdOpt_Engine.EnterCR();
             Drawing.Current.TypeKeys("<Esc 2>");
             CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-            //Plant3DFunctions.DeleteAllDrawings();
 		}
 
 		public override void Verify()
@@ -347,16 +258,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            //Plant3DFunctions.CreateDrawing("P3D");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
@@ -368,10 +269,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 			CmdOpt_Engine.EnterCR();
             Drawing.Current.TypeKeys("<Esc 2>");
             CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-            //Plant3DFunctions.DeleteAllDrawings();
 		}
 
 		public override void Verify()
@@ -384,16 +281,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            //Plant3DFunctions.CreateDrawing("P3D");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
@@ -406,10 +293,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 			CmdOpt_Engine.EnterCR();
             Drawing.Current.TypeKeys("<Esc 2>");
             CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-            //Plant3DFunctions.DeleteAllDrawings();
 		}
 
 		public override void Verify()
@@ -421,16 +304,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            //Plant3DFunctions.CreateDrawing("P3D");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
@@ -444,10 +317,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 			CmdOpt_Engine.EnterCR();
             Drawing.Current.TypeKeys("<Esc 2>");
             CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-            //Plant3DFunctions.DeleteAllDrawings();
 		}
 
 		public override void Verify()
@@ -459,17 +328,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            //Plant3DFunctions.CreateDrawing("P3D");
-            //Plant3DFunctions.CopyDrawing("AUTODESKCONNECTIONPOINT.dwg");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
@@ -482,11 +340,7 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 			CmdOpt_Engine.EnterCR();
             Drawing.Current.TypeKeys("<Esc 2>");
             CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
-			//Drawing.Current.SetSysVar("SDI", 0);
-            //Plant3DFunctions.DeleteAllDrawings();
+ 
 		}
 
 		public override void Verify()
@@ -497,16 +351,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 	{
 		public override void Launch()
 		{
-            //Plant3DFunctions.CreateDrawing("P3D");
-            //CmdOpt_Engine.SendCmd("_DYNMODE");
-            //CmdOpt_Engine.EnterInt(-3);
-            //CmdOpt_Engine.SendCmd("_PLANTPIPEADD");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
-            //CmdOpt_Engine.EnterPoint(140,50,0);
-            //CmdOpt_Engine.EnterCR();
-            //CmdOpt_Engine.SendCmd("_PLANTINSERTAUTODESKCONNECTIONPOINT");
-            //CmdOpt_Engine.EnterText("_last");
-            //CmdOpt_Engine.EnterPoint(50,50,0);
 			CmdOpt_Engine.SendCmd("PLANTROUTEFROMAUTODESKCONNECTIONPOINT");
 			//System.Threading.Thread.Sleep(5000);
 			CmdOpt_Engine.EnterPoint(50,50);
@@ -519,9 +363,6 @@ namespace Autodesk.GUIHarness.Plant3D.CmdOptScripts
 			CmdOpt_Engine.EnterCR();
             Drawing.Current.TypeKeys("<Esc 2>");
             CmdOpt_Engine.SendCmd("_Undo 2");
-            //CmdOpt_Engine.SendCmd("_Erase");
-            //CmdOpt_Engine.SendOpt("_all");
-            //CmdOpt_Engine.EnterCR();
             Plant3DFunctions.DeleteAllDrawings();
 		}
 

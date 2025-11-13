@@ -9,6 +9,7 @@
 // other than authorized employees of Autodesk, Inc. is granted only under a
 // written non-disclosure agreement, expressly prescribing the scope and
 // manner of such use.
+using System;
 using Autodesk.GUIHarness;
 using Autodesk.GUIHarness.AutoCAD;
 using Autodesk.GUIHarness.AutoCAD.Dialogs;
@@ -29,7 +30,9 @@ namespace Autodesk.GUIHarness.Plant3D.Dialogs
 
 		public override void Invoke()
 		{
-			Agent.SetOption(AgentOptions.OPT_VERIFY_ACTIVE, false);
+			Boolean _b = CoreSettings.VerifyActive;
+			_b = false;
+			//Agent.SetOption(AgentOptions.OPT_VERIFY_ACTIVE, false);
 			Drawing.Current.TypeE("SDI");
 			Drawing.Current.TypeE("0");
 			Drawing.Current.TypeE("_projectsetup");
@@ -37,7 +40,8 @@ namespace Autodesk.GUIHarness.Plant3D.Dialogs
 			ProjectSetupProjectDetailsDLG ProjectSetupProjectDetailsDLG = new ProjectSetupProjectDetailsDLG();
 			ProjectSetupProjectDetailsDLG.SetActive();
 			ProjectSetupProjectDetailsDLG.M_treeView.Select("*//" + AcMainWin.cBabel(23043, 1, "Database Setup"));
-			Agent.SetOption(AgentOptions.OPT_VERIFY_ACTIVE, true);
+			//Agent.SetOption(AgentOptions.OPT_VERIFY_ACTIVE, true);
+			_b = true;
 		}
 
 		public override void Dismiss()

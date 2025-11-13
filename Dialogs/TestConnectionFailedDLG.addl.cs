@@ -10,6 +10,7 @@
 // written non-disclosure agreement, expressly prescribing the scope and
 // manner of such use.
 using Autodesk.GUIHarness;
+using System;
 using Autodesk.GUIHarness.AutoCAD;
 namespace Autodesk.GUIHarness.Plant3D.Dialogs
 {
@@ -30,7 +31,9 @@ namespace Autodesk.GUIHarness.Plant3D.Dialogs
 		{
 			ProjectSetupWizardSpecifyDatabaseSettingsDLG ProjectSetupWizardSpecifyDatabaseSettingsDLG = new ProjectSetupWizardSpecifyDatabaseSettingsDLG();
 			ProjectSetupWizardSpecifyDatabaseSettingsDLG.Invoke();
-			Agent.SetOption(AgentOptions.OPT_VERIFY_ACTIVE, false);
+			//Agent.SetOption(AgentOptions.OPT_VERIFY_ACTIVE, false);
+			Boolean _b = CoreSettings.VerifyActive;
+			_b = false;
 			ProjectSetupWizardSpecifyDatabaseSettingsDLG.M_radioSQLServer.Click();
 			System.Threading.Thread.Sleep(5000);
 			ProjectSetupWizardSpecifyDatabaseSettingsDLG.M_comboServer.SetText("test");
@@ -50,7 +53,8 @@ namespace Autodesk.GUIHarness.Plant3D.Dialogs
                 ProjectSetupWizardSpecifyDatabaseSettingsDLG.M_btnTestConnection.Click();
                 i++;
             }
-			Agent.SetOption(AgentOptions.OPT_VERIFY_ACTIVE, true);
+			//Agent.SetOption(AgentOptions.OPT_VERIFY_ACTIVE, true);
+			_b = true;
 		}
 
 		public override void Dismiss()

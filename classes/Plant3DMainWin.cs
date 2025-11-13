@@ -373,10 +373,20 @@ namespace Autodesk.GUIHarness.Plant3D
         {
             // Enable CLIPROMPTFORMAT for the command line support - this Required for GetCmdLine() to work
             Environment.SetEnvironmentVariable("CLIPROMPTFORMAT", "PLAIN"); // MEP17-184 - cannot be removed as AGT is not (yet) able to retrieve options if they are clickable objects
-            using (Agent.SetOption(AgentOptions.OPT_WINDOW_TIMEOUT, STARTUP_WAIT))
+            //using (Agent.SetOption(AgentOptions.OPT_WINDOW_TIMEOUT, STARTUP_WAIT))
+            //{
+            //    //base.Start(sStartCmd, "", sArgs);
+            //    base.Start(sStartCmd, "", Args + " /nologo");
+            //}
+            int originalTimeout = CoreSettings.WindowTimeout;
+            CoreSettings.WindowTimeout = STARTUP_WAIT;
+            try
             {
-                //base.Start(sStartCmd, "", sArgs);
-                base.Start(sStartCmd, "", Args + " /nologo");
+                base.Start(sStartCmd, "", sArgs);
+            }
+            finally
+            {
+                CoreSettings.WindowTimeout = originalTimeout;
             }
             System.Threading.Thread.Sleep(5000);
             ///////////////FY25////////////////////
@@ -395,8 +405,9 @@ namespace Autodesk.GUIHarness.Plant3D
             var configurationFileHasAuthCodeInvalidMSG = new ConfigurationFileHasAuthCodeInvalidMSG();
             var startupDLG = new StartupDLG();
             var appWnd = Harness.Current.AppWnd;
+            int appReadyTimeout = CoreSettings.AppReadyTimeout;
 
-            if (!appWnd.WaitExists((int)Agent.GetOption(AgentOptions.OPT_APPREADY_TIMEOUT)))
+            if (!appWnd.WaitExists(appReadyTimeout))
             {
                 throw new UIException(ExceptionType.CantStartApp, "AutoCAD Start Failure");
             }
@@ -667,11 +678,17 @@ namespace Autodesk.GUIHarness.Plant3D
                 while (!Exists && (i++ < timeout)) // give at least 30 seconds to come up
                     Thread.Sleep(1000);
 
-                if (!Harness.Current.AppWnd.WaitExists((int)Agent.GetOption(AgentOptions.OPT_APPREADY_TIMEOUT)))
-                {
-                    throw new UIException(ExceptionType.CantStartApp, "Vault product Start Failure");
-                }
-            }
+				//if (!Harness.Current.AppWnd.WaitExists((int)Agent.GetOption(AgentOptions.OPT_APPREADY_TIMEOUT)))
+				//{
+				//    throw new UIException(ExceptionType.CantStartApp, "Vault product Start Failure");
+				//}
+				int appReadyTimeout = CoreSettings.AppReadyTimeout;
+
+				if (!Harness.Current.AppWnd.WaitExists(appReadyTimeout))
+				{
+					throw new UIException(ExceptionType.CantStartApp, "Vault product Start Failure");
+				}
+			}
 
             try
             {
